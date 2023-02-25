@@ -1,0 +1,38 @@
+name: "Scrape"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3,6,9,12,15,18,21 * * *"
+    - cron: "0 0 * * *"
+
+jobs:
+  scrape:
+    name: Scrape
+    runs-on: ubuntu-latest
+    env:
+      FETCH_NUM_MONTHS: "{{ github.event.schedule == '0 0 * * *' && '12' || '3' }}"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch
+        run: python scripts/00-fetch.py --overwrite --num-months $FETCH_NUM_MONTHS
+
+      - name: Config git
+        run: git config --global user.email "actions@users.noreply.github.com" && git config --global user.name "Automated"
+
+      - name: Commit changes
+        run: git add data/fetched && (git diff --cached --quiet || git commit -m "Refresh last $FETCH_NUM_MONTHS months of data")
+
+      - name: Push changes
+        run: git push

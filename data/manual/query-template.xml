@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<sawx:expr xmlns:sawx="com.siebel.analytics.web/expression/v1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="sawx:logical" op="and">
+	<sawx:expr setVariable="dashboard.variables['V1']" xsi:type="sawx:setVariable" promptPrimarySubjectArea="&quot;Hazmat Incidents&quot;" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression"/>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:comparison" op="between" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">cast(&quot;Incident Report Details&quot;.&quot;Date Of Incident&quot; as date)</sawx:expr>
+		<sawx:expr xsi:type="xsd:date">{date_from}</sawx:expr>
+		<sawx:expr xsi:type="xsd:date">{date_to}</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['V5']" xsi:type="sawx:setVariable" promptPrimarySubjectArea="&quot;Hazmat Incidents&quot;" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression"/>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_CITY']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Incident City&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">case when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='AL' then 'ALABAMA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='AK' then 'ALASKA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='AS' then 'AMERICAN SAMOA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='AZ' then 'ARIZONA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='AR' then 'ARKANSAS'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='CA' then 'CALIFORNIA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='CO' then 'COLORADO'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='CT' then 'CONNECTICUT'
+when &quot;Incident Report Details&quot;.&quot;Incident Country&quot; &lt;&gt;' US' and &quot;Incident Report Details&quot;.&quot;Incident State&quot;='ZZ' or &quot;Incident Report Details&quot;.&quot;Incident State&quot;='N/A' then 'FOREIGN' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='DE' then 'DELAWARE'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='DC' then 'DISTRICT OF COLUMBIA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='FL' then 'FLORIDA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='GA' then 'GEORGIA' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='GU' then 'GUAM'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='HI' then 'HAWAII' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='ID' then 'IDAHO'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='IL' then 'ILLINOIS'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='IN' then 'INDIANA' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='IA' then 'IOWA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='KS' then 'KANSAS'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='KY' then 'KENTUCKY'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='LA' then 'LOUISIANA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='ME' then 'MAINE' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='MD' then 'MARYLAND'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='MA' then 'MASSACHUSETTS'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='MI' then 'MICHIGAN'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='MN' then 'MINNESOTA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='MS' then 'MISSISSIPPI'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='MO' then 'MISSOURI'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='MT' then 'MONTANA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='NE' then 'NEBRASKA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='NV' then 'NEVADA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='NH' then 'NEW HAMPSHIRE' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='NJ' then 'NEW JERSEY'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='NM' then 'NEW MEXICO' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='NY' then 'NEW YORK'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='NC' then 'NORTH CAROLINA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='ND' then 'NORTH DAKOTA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='MP' then 'N. MARIANA ISLANDS'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='OH' then 'OHIO'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='OK' then 'OKLAHOMA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='OR' then 'OREGON' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='PA' then 'PENNSYLVANIA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='PR' then 'PUERTO RICO'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='RI' then 'RHODE ISLAND' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='SC' then 'SOUTH CAROLINA' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='SD' then 'SOUTH DAKOTA' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='TN' then 'TENNESSEE'
+when &quot;Incident Report Details&quot;.&quot;Incident Country&quot; IN('US','N/A')
+and &quot;Incident Report Details&quot;.&quot;Incident State&quot; IN('XX','N/A')
+then 'UNKNOWN'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='TX' then 'TEXAS' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='UT' then 'UTAH' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='VT' then 'VERMONT'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='VI' then 'VIRGIN ISLANDS' when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='VA' then 'VIRGINIA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='WA' then 'WASHINGTON'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='WV' then 'WEST VIRGINIA'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='WI' then 'WISCONSIN'
+when &quot;Incident Report Details&quot;.&quot;Incident State&quot;='WY' then 'WYOMING' end</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['IRD_IC']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Incident County&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Incident Postal Code&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_ROUTE']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Incident Route&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Mode Of Transportation&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Transportation Phase&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_CARRIER_NM']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Carrier Reporter Name&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_CARRIER_CT']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Carrier Reporter City&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">case when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='AL' then 'ALABAMA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='AK' then 'ALASKA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='AS' then 'AMERICAN SAMOA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='AZ' then 'ARIZONA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='AR' then 'ARKANSAS' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='CA' then 'CALIFORNIA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='CO' then 'COLORADO' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='CT' then 'CONNECTICUT' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter Country&quot; &lt;&gt;'UNITED STATES' and &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;IN('ZZ','N/A') then 'FOREIGN' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='DE' then 'DELAWARE' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='DC' then 'DISTRICT OF COLUMBIA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='FL' then 'FLORIDA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='GA' then 'GEORGIA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='GU' then 'GUAM' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='HI' then 'HAWAII' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='ID' then 'IDAHO' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='IL' then 'ILLINOIS' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='IN' then 'INDIANA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='IA' then 'IOWA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='KS' then 'KANSAS' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='KY' then 'KENTUCKY' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='LA' then 'LOUISIANA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='ME' then 'MAINE' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='MD' then 'MARYLAND' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='MA' then 'MASSACHUSETTS' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='MI' then 'MICHIGAN' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='MN' then 'MINNESOTA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='MS' then 'MISSISSIPPI' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='MO' then 'MISSOURI' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='MT' then 'MONTANA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='NE' then 'NEBRASKA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='NV' then 'NEVADA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='NH' then 'NEW HAMPSHIRE' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='NJ' then 'NEW JERSEY' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='NM' then 'NEW MEXICO' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='NY' then 'NEW YORK' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='NC' then 'NORTH CAROLINA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='ND' then 'NORTH DAKOTA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='MP' then 'N. MARIANA ISLANDS' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='OH' then 'OHIO' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='OK' then 'OKLAHOMA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='OR' then 'OREGON' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='PA' then 'PENNSYLVANIA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='PR' then 'PUERTO RICO' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='RI' then 'RHODE ISLAND' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='SC' then 'SOUTH CAROLINA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='SD' then 'SOUTH DAKOTA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='TN' then 'TENNESSEE'
+when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;IN('XX','N/A') and &quot;Incident Report Details&quot;.&quot;Carrier Reporter Country&quot; IN ('UNITED STATES','N/A')
+then 'UNKNOWN'
+when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='TX' then 'TEXAS' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='UT' then 'UTAH' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='VT' then 'VERMONT' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='VI' then 'VIRGIN ISLANDS' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='VA' then 'VIRGINIA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='WA' then 'WASHINGTON' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='WV' then 'WEST VIRGINIA' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='WI' then 'WISCONSIN' when &quot;Incident Report Details&quot;.&quot;Carrier Reporter State&quot;='WY' then 'WYOMING' end</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Carrier Reporter Postal Code&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_SHIPPER_NM']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Shipper Name&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_ORIGIN_CITY']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Origin City&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">case when &quot;Incident Report Details&quot;.&quot;Origin Country&quot; not in('USA','US') or &quot;Incident Report Details&quot;.&quot;Origin State&quot; IN('N/A','ZZ') then 'FOREIGN' when &quot;Incident Report Details&quot;.&quot;Origin Country&quot; IN('US','USA','N/A') and &quot;Incident Report Details&quot;.&quot;Origin State&quot; IN('N/A','XX') then 'UNKNOWN' else &quot;Incident Report Details&quot;.&quot;Origin State&quot; end</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Origin Postal Code&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_PSN']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Commodity Long Name&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Hazardous Class Code&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['V2']" xsi:type="sawx:setVariable" promptPrimarySubjectArea="&quot;Hazmat Incidents&quot;" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression"/>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_UN_NUMBER']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Identification Number&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Packaging Type Name&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_WHAT_FAILED']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_What Failed Description&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_HOW_FIELD']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_How Failed Description&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_CAUSE_FAIL']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_Failure Cause Description&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['V3']" xsi:type="sawx:setVariable" promptPrimarySubjectArea="&quot;Hazmat Incidents&quot;" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression"/>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['pv_result']" xsi:type="sawx:setVariable" promptPrimarySubjectArea="&quot;Hazmat Incidents&quot;" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression"/>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Hazmat Fatality Indicator&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Major Artery Closed&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Hazmat Injury Indicator&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Vehicle Left Roadway Track&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Evacuation Indicator&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['V4']" xsi:type="sawx:setVariable" promptPrimarySubjectArea="&quot;Hazmat Incidents&quot;" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression"/>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_INC_NUMBER']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Report Number&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Hmis Serious Incident Ind&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr setVariable="dashboard.variables['P_CONTAINER_CODE']" xsi:type="sawx:list" op="containsAny" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;P_HMIS Container Code&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Undeclared Hazmat Shipment Ind&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+	<sawx:expr xsi:type="sawx:list" op="in" emptyAsAllChoices="false">
+		<sawx:expr xsi:type="sawx:sqlExpression">&quot;Incident Report Details&quot;.&quot;Hmis General Package Type&quot;</sawx:expr>
+		<sawx:expr xsi:type="sawx:untypedLiteral">*)nqgtu(*</sawx:expr>
+	</sawx:expr>
+</sawx:expr>
