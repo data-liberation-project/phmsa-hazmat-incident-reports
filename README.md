@@ -16,7 +16,7 @@ This repository, developed by the [Data Liberation Project](https://www.data-lib
     - Status: 🟠 Not yet started
 - Provide RSS feeds with the latest available incidents, nationally and by state
     - Status: 🟠 Not yet started
-- Provide an RSS listing incident updates (see [here](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.16#p-171.16\(c\)))
+- Provide RSS feeds listing incident [updates](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.16#p-171.16\(c\))
     - Status: 🟠 Not yet started
 - Standardize/normalize the data
     - Status: 🟠 Not yet started
