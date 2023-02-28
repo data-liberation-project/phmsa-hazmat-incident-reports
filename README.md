@@ -35,6 +35,7 @@ In the [`data/fetched`](data/fetched/) directory, you can find CSVs containing t
 ### Notes
 
 - Some reports are represented by *more than one row*. This happens when the report includes multiple values for a field that the data exports only represent as a single column, such as the name and quantity of the material released. You can identify these multiple-row reports via the `Multiple Rows Per Incident` column.
+- Although the vast majority of entries represent hazardous materials incident, some do not. The `Report Type` column provides that detail, and includes values such as "Undeclared Shipment with no Release" and "A specification cargo tank 1,000 gallons or greater containing any hazardous materials that [...]".
 
 ## Methodology
 
