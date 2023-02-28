@@ -26,9 +26,13 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.5",
     "Content-Type": "application/x-www-form-urlencoded",
     "Upgrade-Insecure-Requests": "1",
-    "Referer": "https://portal.phmsa.dot.gov/phmsapub/PHMSALoginForm.html",
     "Connection": "keep-alive",
     "Keep-Alive": "timeout=5, max=100",
+    "DNT": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Upgrade-Insecure-Requests": "1",
 }
 
 
@@ -114,12 +118,12 @@ class Session:
 
         init_url = f"https://portal.phmsa.dot.gov/PDMPublicReport/?url={portal_url}"
 
-        HEADERS["Original-Request"] = init_url
-
         auth_url = "https://portal.phmsa.dot.gov/PDMPublicReport/auth2/oam/server/auth_cred_submit"  # noqa: E501
 
-        self.get("init", init_url)
-        self.get("portal", portal_url, headers=HEADERS, allow_redirects=True)
+        custom_headers = {**HEADERS, **{"Original-Request": init_url}}
+
+        self.get("init", init_url, headers=HEADERS)
+        self.get("portal", portal_url, headers=custom_headers, allow_redirects=True)
         self.post(
             "auth",
             auth_url,
@@ -237,6 +241,7 @@ class Session:
             "download-guard",
             BASE_URL + "?DownloadGuard",
             data=f"DownloadId={download_id}&_scid=&icharset=utf-8",
+            headers=HEADERS,
         )
 
     def download_start(self, download_id: int, download_params: dict[str, str]) -> None:
@@ -249,6 +254,7 @@ class Session:
             "download-start",
             BASE_URL + "?Go",
             data=data_str,
+            headers=HEADERS,
         )
 
     def download_check_is_ready(self, download_id: int) -> bool:
@@ -256,6 +262,7 @@ class Session:
             "download-status",
             BASE_URL + "?DownloadStatus",
             data=f"DownloadId={download_id}&Action=GetStatus&_scid=&icharset=utf-8",
+            headers=HEADERS,
         )
 
         content = res.content.decode("utf-8")
@@ -280,7 +287,9 @@ class Session:
             time.sleep(0.5)
 
         res = self.get(
-            "download_file", f"{BASE_URL}?downloadExportedFile&DownloadId={download_id}"
+            "download_file",
+            f"{BASE_URL}?downloadExportedFile&DownloadId={download_id}",
+            headers=HEADERS,
         )
 
         return res.content
