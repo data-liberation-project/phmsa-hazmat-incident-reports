@@ -78,6 +78,6 @@ options:
 
 The [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml) file defines a [GitHub Action](https://docs.github.com/en/actions) that does the following:
 
-- Every three hours, refreshes the *past three months* of data, using the following call `python scripts/00-fetch.py --overwrite --num-months 3`. Once a day, refreshes the *past year* of data, using the following call `python scripts/00-fetch.py --overwrite --num-months 12`. 
+- Every three hours, refreshes the *past three months* of data, using the following call `python scripts/00-fetch.py --overwrite --expand --num-months 3`. Once a day, refreshes the *past year* of data, using the following call `python scripts/00-fetch.py --overwrite --expand --num-months 12`. 
 
 - Commits the new and updated files to `git`, and pushes that commit back to this repository.

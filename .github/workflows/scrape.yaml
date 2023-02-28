@@ -26,7 +26,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch
-        run: python scripts/00-fetch.py --overwrite --num-months $FETCH_NUM_MONTHS
+        run: python scripts/00-fetch.py --overwrite --expand --num-months $FETCH_NUM_MONTHS
 
       - name: Config git
         run: git config --global user.email "actions@users.noreply.github.com" && git config --global user.name "Automated"
