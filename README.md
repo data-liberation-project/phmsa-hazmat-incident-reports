@@ -27,7 +27,10 @@ This repository, developed by the [Data Liberation Project](https://www.data-lib
 
 In the [`data/fetched`](data/fetched/) directory, you can find CSVs containing the report information, with one month of data per CSV. Note that recent months' data may be incomplete (due to yet-unsubmitted reports), and will be regularly updated.
 
-(The files are split into months to stay within GitHub's file size limits. You can combine them with your preferred toolset. For example, using [`xsv`](https://github.com/BurntSushi/xsv#installation), you could run `xsv cat rows data/fetched/*.csv > combined.csv`.)
+You can clone or [download](https://sites.northwestern.edu/researchcomputing/resources/downloading-from-github/) the repository to get the full set of files. Alternatively, you can access them individually via URL: `https://raw.githubusercontent.com/data-liberation-project/phmsa-hazmat-incident-reports/main/data/fetched/YYYY-MM.csv`, swapping out `YYYY` for the year and `MM` for the two-digit month.
+
+The files are split into months to stay within GitHub's file size limits. You can combine them with your preferred toolset. For example, using [`xsv`](https://github.com/BurntSushi/xsv#installation), you could run `xsv cat rows data/fetched/*.csv > combined.csv`.
+
 
 ### Resources
 
