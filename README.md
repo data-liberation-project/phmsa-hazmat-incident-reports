@@ -9,7 +9,7 @@ PHSMA publishes those "5800.1" reports [through an online portal](https://www.ph
 This repository, developed by the [Data Liberation Project](https://www.data-liberation-project.org/), aims to do the following:
 
 - Automate the downloading of all data available through the portal
-    - Status: 🔵 Data available for the past 20 years, the rest to be added soon
+    - Status: 🔵 Data available for the past 20 years (back to January 2003), the rest to be added soon
 - Develop documentation to aid in the interpretation of the reports
     - Status: 🔵 In progress
 - Generate one file that contains a subset of fields (to keep size within GitHub's limits) for *all* reports
