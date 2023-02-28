@@ -11,7 +11,7 @@ PHSMA publishes the submitted reports [through an online portal](https://www.phm
 This repository, developed by the [Data Liberation Project](https://www.data-liberation-project.org/), aims to do the following:
 
 - Automate the downloading of all data available through the portal
-    - Status: 🔵 Data available for the past 30 years (back to January 1993), the rest (going back to 1971) to be added soon
+    - Status: 🔵 Data available for the past 40 years (back to January 1983), the rest (going back to 1971) to be added soon
 - Develop documentation to aid in the interpretation of the reports
     - Status: 🔵 In progress
 - Generate one file that contains a subset of fields (to keep size within GitHub's limits) for *all* reports
