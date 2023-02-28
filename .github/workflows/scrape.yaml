@@ -11,7 +11,7 @@ jobs:
     name: Scrape
     runs-on: ubuntu-latest
     env:
-      FETCH_NUM_MONTHS: "{{ github.event.schedule == '0 0 * * *' && '12' || '3' }}"
+      FETCH_NUM_MONTHS: "${{ github.event.schedule == '0 0 * * *' && '12' || '3' }}"
     steps:
       - name: Checkout
         uses: actions/checkout@v3
