@@ -1,0 +1,42 @@
+name: Test VPN connection
+
+on:
+  workflow_dispatch:
+
+jobs:
+  vpn:
+    name: Test VPN connection
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install
+        run: wget --quiet --content-disposition https://mullvad.net/download/app/deb/latest && sudo apt install -y ./MullvadVPN-*.deb
+
+      - name: Log in
+        run: mullvad account login ${{ secrets.MULLVAD_ACCOUNT_NUMBER }}
+
+      - name: Show IP before
+        run: curl -s https://api.ipify.org
+
+      - name: Set location
+        run: mullvad relay set location us
+
+      - name: Connect
+        run: mullvad connect --wait
+
+      - name: Show status
+        run: mullvad status -v
+
+      - name: Show IP after
+        run: curl -s https://api.ipify.org
+
+      - name: Try connecting to example.com
+        run: curl -vI "https://example.com/" --max-time 10
+
+      - name: Try connecting to portal.phmsa.dot.gov
+        run: curl -vI "https://portal.phmsa.dot.gov/" --max-time 10
+
+      - name: Log out of VPN
+        if: always()
+        run: |-
+          mullvad disconnect
+          mullvad account logout
