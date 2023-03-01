@@ -99,8 +99,11 @@ def download_months(
                 logger=logger,
             )
 
-            with open(dest, "wb") as f:
-                f.write(file_bytes)
+            if file_bytes == b"\xef\xbb\xbfThe query resulted in no rows":
+                logger.debug("The query resulted in no rows")
+            else:
+                with open(dest, "wb") as f:
+                    f.write(file_bytes)
 
             if month_i < num:
                 time.sleep(10)
