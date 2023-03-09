@@ -35,7 +35,7 @@ The files are split into months to stay within GitHub's file size limits. You ca
 ### Resources
 
 - [PHMSA's data dictionary for the report data](https://portal.phmsa.dot.gov/HIP_Help/DataDictionary.pdf)
-- [PHMSA's *Serious Incident Definition*](https://portal.phmsa.dot.gov/HIP_Help/DataDictionary.pdf)
+- [PHMSA's *Serious Incident Definition*](https://portal.phmsa.dot.gov/HIP_Help/serious_incident_new_def.pdf)
 
 ### Notes
 
