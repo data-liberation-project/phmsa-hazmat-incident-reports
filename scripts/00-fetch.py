@@ -72,6 +72,14 @@ def get_dates_for_month(year: int, month: int) -> tuple[str, str]:
     end_str = end_date.strftime("%Y-%m-%d")
     return start_str, end_str
 
+def validate_month(year: int, month: int) -> None:
+    if year < 1971:
+        raise ValueError("Reports are only availble from January 1971 to present.")
+    
+    today = datetime.today()
+    if year > today.year or (month > today.month and year==today.year):
+        raise ValueError("Your request includes a period in the future for which there is no data. Only data up to the present can be fetched.")
+
 
 def download_months(
     start_year: int,
@@ -85,6 +93,7 @@ def download_months(
     year, month = start_year, start_month
     while month_i < num:
         month_i += 1
+        validate_month(year, month)
         date_from, date_to = get_dates_for_month(year, month)
         dest = Path(f"data/fetched/{date_from[:7]}.csv")
 
