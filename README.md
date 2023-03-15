@@ -47,6 +47,12 @@ The files are split into months to stay within GitHub's file size limits. You ca
 
 Please see the [METHODOLOGY.md](METHODOLOGY.md) document for a description of how this repository fetches and processes the data.
 
+## Contributors
+
+Many thanks to the volunteers who have contributed to this repository:
+
+- [@gcappaert](https://github.com/gcappaert)
+
 ## Licensing
 
 This repository's code is available under the [MIT License terms](https://opensource.org/license/mit/). The raw data files (those in `data/fetched`) are public domain. All other data files are available under the Creative Commons [CC BY-SA 4.0 license terms](https://creativecommons.org/licenses/by-sa/4.0/).
