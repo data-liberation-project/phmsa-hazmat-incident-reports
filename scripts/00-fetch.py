@@ -74,13 +74,12 @@ def get_dates_for_month(year: int, month: int) -> tuple[str, str]:
 
 def validate_month(year: int, month: int) -> None:
     if year < 1971:
-        raise ValueError("Reports are only availble from January 1971 to present.")
+        raise ValueError(f"Reports are only availble from January 1971 to present. You requested data from {year}")
     
     today = datetime.today()
     if year > today.year or (month > today.month and year==today.year):
-        raise ValueError("Your request includes a period in the future for which there is no data. Only data up to the present can be fetched.")
-
-
+        raise ValueError(f"Fetching failed at {month}-{year} because your request includes a period in the future. Only data up {today.month}-{today.year} can be fetched.")
+    
 def download_months(
     start_year: int,
     start_month: int,
