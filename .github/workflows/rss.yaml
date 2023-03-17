@@ -1,0 +1,20 @@
+name: publish rss feed
+
+on:
+  # not sure what is supposed to go here
+  # can I make this trigger after scrape?
+  # or is it watching the csv files?
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check records
+
+    - name: Set up Python 3.10
+
+    - name: Something else...
+
+    - name: Push changes
+      run: git push

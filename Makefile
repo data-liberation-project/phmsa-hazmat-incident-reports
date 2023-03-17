@@ -1,4 +1,4 @@
-.PHONY: README.md tests venv
+.PHONY: README.md tests venv output/feed.rss
 
 PYTHON_DIRS=scripts tests
 
@@ -23,3 +23,13 @@ mypy:
 
 tests:
 	python -m pytest -sv --cov tests
+
+output/feed.rss:
+	venv/bin/python scripts/rss.py $(FEED_URL) > output/feed.rss
+
+ensure-unstaged:
+	@git diff --cached --quiet || (echo "Cannot run while files staged" && false)
+
+run-feed: ensure-unstaged output/feed.rss
+	git add output/feed.rss
+	git diff --cached --quiet || git commit -m "Update feed"
