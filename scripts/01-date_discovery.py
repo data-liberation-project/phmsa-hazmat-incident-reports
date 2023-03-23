@@ -27,7 +27,7 @@ def get_paths(root_dir,data_path,out_path):
     os.makedirs(out_data_path,exist_ok=True)
     return fetched_data_path, out_data_path
 
-def parse_report_number(report_number_str,pattern=RE_PATTERN,backup_pattern=BACKUP_RE_PATTERN):
+def parse_report_number(report_number_str,pattern,backup_pattern=BACKUP_RE_PATTERN):
     if re.match(pattern, report_number_str):
         return re.search(pattern, report_number_str)[1]
     elif re.match(backup_pattern, report_number_str):
