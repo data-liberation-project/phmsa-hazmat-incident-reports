@@ -1,6 +1,4 @@
 import argparse
-import hashlib
-import re
 import sys
 
 import feedparser
@@ -29,20 +27,18 @@ def convert_entry(e):
 
 def convert_feed(original):
     feed_attrs = {
-        'title': None,
-        'id': BASE_ID,
-        'subtitle': (None, None),
-        'author': {
-            'name': None
-        },
-        'language': 'en',
-        'link': {
-            'href': (
+        "title": None,
+        "id": BASE_ID,
+        "subtitle": (None, None),
+        "author": {"name": None},
+        "language": "en",
+        "link": {
+            "href": (
                 "https://github.com/data-liberation-project/",
-                "fema-daily-ops-email-to-rss"
+                "fema-daily-ops-email-to-rss",
             )
         },
-        'updated': original.feed.updated,
+        "updated": original.feed.updated,
     }
 
     fg = FeedGenerator()
@@ -57,7 +53,7 @@ def convert_feed(original):
                 method(**v)
             else:
                 method(v)
-    
+
     return fg
 
 
