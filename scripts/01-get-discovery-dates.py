@@ -53,22 +53,21 @@ def next_month(year: int, month: int) -> tuple[int, int]:
         return year, month + 1
 
 
-def parse_report_number(report_number_str):
+def parse_report_number(report_number_str: str) -> str:
     match = re.match(RE_PATTERN, report_number_str)
     if match:
         return match.group(1)
     else:
-        print(f"could not parse from {report_number_str}")
-        return None
+        raise ValueError(f"could not parse from {report_number_str}")
 
 
-def discover_dates(repo, path):
+def discover_dates(repo: git.Repo, path: str) -> dict[str, dict[str, str]]:
     discovered_dates = {}
 
     commits = repo.iter_commits("main", paths=[path], reverse=True)
 
     for commit in commits:
-        dt = commit.committed_datetime.astimezone(timezone.utc)
+        dt = commit.committed_datetime.astimezone(timezone.utc).isoformat()
         try:
             blob = commit.tree[path]
         except KeyError:
@@ -95,7 +94,7 @@ def discover_dates(repo, path):
     return discovered_dates
 
 
-def generate_discovery_file(repo, year, month):
+def generate_discovery_file(repo: git.Repo, year: int, month: int) -> None:
     src_path = f"data/fetched/{year}-{month:02d}.csv"
     dest_path = f"data/processed/discovered-dates/{year}-{month:02d}.csv"
     discovered_dates = discover_dates(repo, src_path)
@@ -123,7 +122,7 @@ def run_for_months(
         year, month = shift_month(year, month)
 
 
-def main():
+def main() -> None:
     args = parse_args(sys.argv[1:])
     repo = git.Repo(os.getcwd())
     run_for_months(repo, args.year, args.month, args.num_months, args.forward)
