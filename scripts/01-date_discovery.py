@@ -1,108 +1,132 @@
+import argparse
 import csv
 import io
 import os
 import re
-from argparse import ArgumentParser
-from datetime import timezone
-from glob import glob
+import sys
+from datetime import datetime, timezone
 
 import git
 
-DATA_PATH = "data/fetched"
-OUT_PATH = "data/processed"
-RE_PATTERN = "<a href = .*>(.*)</A>$"
-BACKUP_RE_PATTERN = "[A-Z]+-[0-9]+"
+RE_PATTERN = r"^(?:<a href = .*?>)?([A-Z]+-[0-9]+)(?:</A>)?$"
 
 
-def parse_args():
-    parser = ArgumentParser()
-    parser.add_argument("--data_path", default=DATA_PATH)
-    parser.add_argument("--out_path", default=OUT_PATH)
-    parser.add_argument("--re_pattern", default=RE_PATTERN)
-    return parser.parse_args()
+def parse_args(args: list[str]) -> argparse.Namespace:
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--year",
+        type=int,
+        default=datetime.now().year,
+        help="The year of the month to start processing. Defaults to today's year.",
+    )
+    parser.add_argument(
+        "--month",
+        type=int,
+        default=datetime.now().month,
+        help="The month to start processing. Defaults to today's month.",
+    )
+    parser.add_argument(
+        "--num-months",
+        type=int,
+        default=3,
+        help="The number of months to process. Defaults to 3.",
+    )
+    parser.add_argument(
+        "--forward",
+        action="store_true",
+        help="Go [num-months] forward, rather than backward.",
+    )
+    return parser.parse_args(args)
 
 
-def get_paths(root_dir, data_path, out_path):
-    fetched_data_path = os.path.join(root_dir, data_path)
-    out_data_path = os.path.join(root_dir, out_path)
-    os.makedirs(fetched_data_path, exist_ok=True)
-    os.makedirs(out_data_path, exist_ok=True)
-    return fetched_data_path, out_data_path
+def prev_month(year: int, month: int) -> tuple[int, int]:
+    if month == 1:
+        return year - 1, 12
+    else:
+        return year, month - 1
 
 
-def parse_report_number(report_number_str, pattern, backup_pattern=BACKUP_RE_PATTERN):
-    if re.match(pattern, report_number_str):
-        return re.search(pattern, report_number_str)[1]
-    elif re.match(backup_pattern, report_number_str):
-        return re.search(backup_pattern, report_number_str)[0]
+def next_month(year: int, month: int) -> tuple[int, int]:
+    if month == 12:
+        return year + 1, 1
+    else:
+        return year, month + 1
+
+
+def parse_report_number(report_number_str):
+    match = re.match(RE_PATTERN, report_number_str)
+    if match:
+        return match.group(1)
     else:
         print(f"could not parse from {report_number_str}")
         return None
 
 
-def write_dd_csv(csv_filename, date_dict):
-    with open(csv_filename, "w", newline="") as csv_file:
-        writer = csv.writer(csv_file)
-        writer.writerow(["report number", "file", "commit", "date"])
-        for k, v in date_dict.items():
-            writer.writerow([k, v["file"], v["commit"], v["dt"]])
-
-
-def discover_dates(repo, fetched_data_path, re_pattern):
+def discover_dates(repo, path):
     discovered_dates = {}
-    for file_name in glob(os.path.join(fetched_data_path, "*.csv")):
-        file_basename = os.path.basename(file_name)
-        commits = list(
-            reversed(
-                list(
-                    repo.iter_commits(
-                        "main", paths=[os.path.join(fetched_data_path, file_basename)]
-                    )
-                )
-            )
+
+    commits = repo.iter_commits("main", paths=[path], reverse=True)
+
+    for commit in commits:
+        dt = commit.committed_datetime.astimezone(timezone.utc)
+        try:
+            blob = commit.tree[path]
+        except KeyError:
+            # This happens only when a file has been deleted in a commit,
+            # something that was done manually once early in the history.
+            continue
+
+        data = csv.DictReader(
+            io.StringIO(blob.data_stream.read().decode("utf-8-sig")),
+            delimiter=",",
+            quotechar='"',
+            quoting=csv.QUOTE_ALL,
+            skipinitialspace=True,
         )
-        for commit in commits:
-            dt = commit.committed_datetime.astimezone(timezone.utc)
-            blob = [
-                leaf
-                for leaf in commit.tree.traverse()
-                if isinstance(leaf, git.Blob) and leaf.name == file_basename
-            ]
-            if len(blob) < 1:
-                print(f"could not find {file_basename} blob in commit {commit.hexsha}")
-            else:
-                data_stream = io.StringIO(
-                    blob[0].data_stream.read().decode("utf-8-sig")
-                )
-                data = csv.DictReader(
-                    data_stream,
-                    delimiter=",",
-                    quotechar='"',
-                    quoting=csv.QUOTE_ALL,
-                    skipinitialspace=True,
-                )
-                for row in data:
-                    report_number = parse_report_number(
-                        row["Report Number"], pattern=re_pattern
-                    )
-                    if report_number not in discovered_dates:
-                        discovered_dates[report_number] = {
-                            "file": file_basename,
-                            "commit": commit.hexsha,
-                            "dt": dt,
-                        }
+        for row in data:
+            report_number = parse_report_number(row["Report Number"])
+            if report_number not in discovered_dates:
+                discovered_dates[report_number] = {
+                    "report_number": report_number,
+                    "file": path.split("/")[-1],
+                    "commit": commit.hexsha,
+                    "timestamp": dt,
+                }
     return discovered_dates
 
 
+def generate_discovery_file(repo, year, month):
+    src_path = f"data/fetched/{year}-{month:02d}.csv"
+    dest_path = f"data/processed/discovered-dates/{year}-{month:02d}.csv"
+    discovered_dates = discover_dates(repo, src_path)
+    with open(dest_path, "w") as f:
+        writer = csv.DictWriter(
+            f, fieldnames=["report_number", "file", "commit", "timestamp"]
+        )
+        writer.writeheader()
+        writer.writerows(discovered_dates.values())
+
+
+def run_for_months(
+    repo: git.Repo,
+    start_year: int,
+    start_month: int,
+    num: int = 3,
+    forward: bool = False,
+) -> None:
+    month_i = 0
+    year, month = start_year, start_month
+    while month_i < num:
+        generate_discovery_file(repo, year, month)
+        month_i += 1
+        shift_month = next_month if forward else prev_month
+        year, month = shift_month(year, month)
+
+
 def main():
-    args = parse_args()
-    repo = git.Repo(os.getcwd(), search_parent_directories=True)
-    root_dir = repo.git.rev_parse("--show-toplevel")
-    fetched_data_path, out_data_path = get_paths(
-        root_dir, args.data_path, args.out_path
-    )
-    discovered_dates = discover_dates(repo, fetched_data_path, args.re_pattern)
-    write_dd_csv(os.path.join(out_data_path, "discovered_dates.csv"), discovered_dates)
+    args = parse_args(sys.argv[1:])
+    repo = git.Repo(os.getcwd())
+    run_for_months(repo, args.year, args.month, args.num_months, args.forward)
 
 
 if __name__ == "__main__":
