@@ -14,7 +14,7 @@ HASH_SALT = None
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("feed")
+    parser.add_argument("data")
     return parser.parse_args()
 
 
@@ -39,7 +39,7 @@ def convert_feed(original):
         'link': {
             'href': (
                 "https://github.com/data-liberation-project/",
-                "fema-daily-ops-email-to-rss"
+                "phmsa-hazmat-incident-reports"
             )
         },
         'updated': original.feed.updated,
@@ -61,14 +61,17 @@ def convert_feed(original):
     return fg
 
 
+#TODO: Convert this to a feed that read the most recent data entries
 @retry(tries=4, delay=15)
-def fetch_feed(url):
-    return req.get(url).content.decode("utf-8")
+def fetch_feed(data_path):
+    #TODO: create object getting most recent entries into files in data_path as a "feed"
+    feed_content = None
+    return feed_content
 
 
 def main():
     args = parse_args()
-    feed_content = fetch_feed(args.feed)
+    feed_content = fetch_feed(args.data)
     original = feedparser.parse(feed_content)
     converted = convert_feed(original)
     converted.rss_file(sys.stdout.buffer, pretty=True)
