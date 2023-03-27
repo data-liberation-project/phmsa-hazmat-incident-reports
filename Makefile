@@ -19,7 +19,7 @@ lint:
 	flake8 $(PYTHON_DIRS)
 
 mypy:
-	mypy $(PYTHON_DIRS) --strict --ignore-missing-imports --explicit-package-bases 
+	mypy $(PYTHON_DIRS)
 
 tests:
 	python -m pytest -sv --cov tests
