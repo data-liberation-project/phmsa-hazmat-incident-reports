@@ -4,15 +4,15 @@ import os
 import re
 import sys
 
-import numpy as np
 import pandas as pd
 
+from datetime import datetime, timezone
 from feedgen.feed import FeedGenerator
 from glob import glob
 
 
 BASE_ID = "data-liberation-project:phma-hazmat-incident-reports"
-HASH_SALT = None
+HASH_SALT = "x#$+w3%~o;0~V+e'"
 RE_PATTERN = r"^(?:<a href = .*?>)?([A-Z]+-[0-9]+)(?:</A>)?$"
 
 
@@ -47,18 +47,15 @@ def convert_entry(entry_row):
 def convert_feed(entry_data):
     #TODO: Fill these values with something that makes sense. Not sure what "updated" is without an actual parent feed.
     feed_attrs = {
-        "title": None,
+        "title": "Lorem Ipsum",
         "id": BASE_ID,
-        "subtitle": (None, None),
-        "author": {"name": None},
+        "subtitle": "Dolor Something Something: Please Change This!",
+        "author": {"name": "Data Liberation Project"},
         "language": "en",
         "link": {
-            "href": (
-                "https://github.com/data-liberation-project/",
-                "phma-hazmat-incident-reports",
-            )
+            "href": "https://github.com/data-liberation-project/phma-hazmat-incident-reports",
         },
-        "updated": None, #?
+        "updated": datetime.now(tz=timezone.utc), #?
     }
 
     fg = FeedGenerator()
