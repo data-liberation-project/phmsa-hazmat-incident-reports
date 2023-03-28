@@ -87,7 +87,7 @@ def discover_dates(repo: git.Repo, path: str) -> dict[str, dict[str, str]]:
             if report_number not in discovered_dates:
                 discovered_dates[report_number] = {
                     "report_number": report_number,
-                    "file": path.split("/")[-1],
+                    "file": os.path.basename(path),
                     "commit": commit.hexsha,
                     "timestamp": dt,
                 }
