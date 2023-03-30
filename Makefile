@@ -24,8 +24,14 @@ mypy:
 tests:
 	python -m pytest -sv --cov tests
 
-output/feed.rss:
-	venv/bin/python scripts/rss.py $(FEED_URL) > output/feed.rss
+fetch-data:
+	venv/bin/python scripts/00-fetch.py 
+
+discover-dates:
+	venv/bin/python scripts/01-get-discovery-dates.py
+
+publish-feed:
+	venv/bin/python scripts/02-generate-rss.py
 
 ensure-unstaged:
 	@git diff --cached --quiet || (echo "Cannot run while files staged" && false)

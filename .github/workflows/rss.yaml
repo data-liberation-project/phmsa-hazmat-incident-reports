@@ -5,16 +5,35 @@ on:
   # can I make this trigger after scrape?
   # or is it watching the csv files?
   workflow_dispatch:
+  schedule:
+    - cron: "15 0,3,6,9,12,15,18,21 * * *"
 
 jobs:
   publish:
     runs-on: ubuntu-latest
+    env:
+      DISCOVERED_DAYS: "${{ github.event.schedule == '0 0 * * *' && '12' || '3' }}"
     steps:
-    - name: Check records
+    - name: Checkout
+      uses: actions/checkout@v3
 
-    - name: Set up Python 3.10
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'
 
-    - name: Something else...
+    - name: Install Python dependencies
+      run: pip install -r requirements.txt
 
+    - name: Publish
+      run: python scripts/02-generate-rss.py --discovered_days $DISCOVERED_DAYS > outputs/feed.rss
+
+    - name: Config Git
+      run: git config --global user.email "actions@users.noreply.github.com" && git config --global user.name "Automated"
+
+    - name: Commit changes
+      run: git add data/fetched && (git diff --cached --quiet || git commit -m "Refresh RSS feed to the last $DISCOVERED_DAYS days")
+    
     - name: Push changes
       run: git push
