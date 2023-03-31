@@ -125,7 +125,8 @@ def main() -> None:
         num_months=args.num_months, discovered_days=args.discovered_days
     )
     converted = convert_feed(entry_data)
-    converted.rss_file(sys.stdout.buffer, pretty=True)
+    with open("data/processed/feeds/recent-reports.rss", "wb") as f:
+        converted.rss_file(f, pretty=True)
 
 
 if __name__ == "__main__":
