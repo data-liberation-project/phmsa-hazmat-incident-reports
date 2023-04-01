@@ -45,14 +45,20 @@ jobs:
           mullvad disconnect
           mullvad account logout
 
-      - name: Get Discovery Dates
-        run: python scripts/01-get-discovery-dates.py --num-months $FETCH_NUM_MONTHS
-
       - name: Config git
         run: git config --global user.email "actions@users.noreply.github.com" && git config --global user.name "Automated"
 
       - name: Commit changes
         run: git add data/fetched && (git diff --cached --quiet || git commit -m "Refresh last $FETCH_NUM_MONTHS months of data")
+
+      - name: Get discovery dates
+        run: python scripts/01-get-discovery-dates.py --num-months $FETCH_NUM_MONTHS
+
+      - name: Write RSS
+        run: python scripts/02-generate-rss.py
+
+      - name: Commit changes
+        run: git add data/processed && (git diff --cached --quiet || git commit -m "Generate discovery dates and RSS")
 
       - name: Push changes
         run: git push
