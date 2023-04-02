@@ -3,6 +3,7 @@ feedgen==0.9.0
 flake8==6.0.0
 isort==5.11.2
 mypy==0.991
+pandas==1.5.3
 pre-commit==2.20.0
 pytest-cov==4.0.0
 pytest==7.2.1
