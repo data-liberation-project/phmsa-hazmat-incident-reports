@@ -152,7 +152,7 @@ class Session:
         data = dict(
             ViewState="7m3hnikntaqp81992oti7ajp52",
             ClientStateXml=CLIENT_STATE_XML,
-            fmapId="noDEvw",
+            fmapId="1CPXXw",
             reloadTargets="all",
             Page="Hazmat Incident Report",
             IgnoreBypassCacheOption="ignoreBypassCache",
