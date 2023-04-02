@@ -61,7 +61,7 @@ def convert_entry(row: dict[str, typing.Any]) -> dict[str, typing.Any]:
                 <li>Hazmat Fatalities: {row["Total Hazmat Fatalities"]}</li>
                 <li>Hazmat Injuries: {row["Total Hazmat Injuries"]}</li>
                 <li>Non-Hazmat Fatalities: {row["Non Hazmat Fatalities"]}</li>
-                <li>Description: {html.escape(row["Description Of Events"])}</li>
+                <li>Description: {html.escape(str(row["Description Of Events"]))}</li>
             </ul>
             """,
             type="html",
@@ -115,6 +115,7 @@ def convert_to_feed(rows: pd.DataFrame) -> FeedGenerator:
 
     state_fg_dict = {state: create_state_feed(state) for state in STATE_ID}
 
+    breakpoint()
     for _, row in rows.iterrows():
         e = convert_entry(row)
         new_entry = total_fg.add_entry()
