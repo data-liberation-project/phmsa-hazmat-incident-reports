@@ -305,10 +305,9 @@ class Session:
         return res.content
 
 
-def fetch(expand: bool = False, **params: str) -> typing.Optional[bytes]:
-    session = Session()
-    session.initialize()
-
+def fetch(
+    session: Session, expand: bool = False, **params: str
+) -> typing.Optional[bytes]:
     view_state, download_params, has_no_results = session.query(**params)
     if has_no_results:
         return None

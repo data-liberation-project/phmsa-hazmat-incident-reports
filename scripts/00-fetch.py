@@ -5,7 +5,7 @@ import time
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from lib.scraper import fetch
+from lib.scraper import Session, fetch
 from retry.api import retry_call
 
 logging.basicConfig()
@@ -94,6 +94,8 @@ def download_months(
     expand: bool = False,
     forward: bool = False,
 ) -> None:
+    session = Session()
+    session.initialize()
     month_i = 0
     year, month = start_year, start_month
     while month_i < num:
@@ -106,7 +108,9 @@ def download_months(
             logger.debug(f"Fetching {date_from} to {date_to} ...")
             file_bytes = retry_call(
                 fetch,
-                fkwargs=dict(expand=expand, date_from=date_from, date_to=date_to),
+                fkwargs=dict(
+                    session=session, expand=expand, date_from=date_from, date_to=date_to
+                ),
                 tries=5,
                 delay=60,
                 backoff=2,
