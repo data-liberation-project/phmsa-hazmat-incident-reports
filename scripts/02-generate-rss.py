@@ -115,7 +115,6 @@ def convert_to_feed(rows: pd.DataFrame) -> FeedGenerator:
 
     state_fg_dict = {state: create_state_feed(state) for state in STATE_ID}
 
-    breakpoint()
     for _, row in rows.iterrows():
         e = convert_entry(row)
         new_entry = total_fg.add_entry()
