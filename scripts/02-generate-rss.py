@@ -12,6 +12,11 @@ from feedgen.feed import FeedGenerator
 BASE_ID = "data-liberation-project:phma-hazmat-incident-reports"
 RE_PATTERN = r"^(?:<a href = .*?>)?([A-Z]+-[0-9]+)(?:</A>)?$"
 NOW = datetime.now(tz=timezone.utc)
+STATE_ID = ['AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FL'
+            , 'GA', 'GU', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME'
+            , 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ'
+            , 'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'PR', 'RI', 'SC'
+            , 'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'VI', 'WA', 'WV', 'WI', 'WY']
 
 
 def parse_args(args: list[str]) -> argparse.Namespace:
@@ -64,7 +69,34 @@ def convert_entry(row: dict[str, typing.Any]) -> dict[str, typing.Any]:
     )
 
 
-def convert_feed(rows: pd.DataFrame) -> FeedGenerator:
+def create_state_feed(state_code: str):
+    feed_attrs = {
+        "title": f"Latest PHMSA Hazardous Materials Incident Reports, {state_code}",
+        "id": BASE_ID,
+        "subtitle": f"The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation for {state_code} and posted online by the Pipeline and Hazardous Materials Safety Administration.",  # noqa: E501
+        "author": {"name": "Data Liberation Project"},
+        "language": "en",
+        "link": {
+            "href": "https://github.com/data-liberation-project/phma-hazmat-incident-reports",  # noqa: E501
+        },
+        "updated": NOW.isoformat(),
+    }
+
+    state_fg = FeedGenerator()
+    for k, v in feed_attrs.items():
+        getattr(state_fg, k)(v)
+
+    return state_fg
+
+def populate_entry(e, entry):
+    for k, v in e.items():
+        method = getattr(entry, k)
+        if isinstance(v, dict):
+            method(**v)
+        else:
+            method(v)
+
+def convert_to_feed(rows: pd.DataFrame) -> FeedGenerator:
     feed_attrs = {
         "title": "Latest PHMSA Hazardous Materials Incident Reports",
         "id": BASE_ID,
@@ -77,21 +109,22 @@ def convert_feed(rows: pd.DataFrame) -> FeedGenerator:
         "updated": NOW.isoformat(),
     }
 
-    fg = FeedGenerator()
+    total_fg = FeedGenerator()
     for k, v in feed_attrs.items():
-        getattr(fg, k)(v)
+        getattr(total_fg, k)(v)
 
+    state_fg_dict = {state: create_state_feed(state) for state in STATE_ID}
+
+    breakpoint()
     for _, row in rows.iterrows():
         e = convert_entry(row)
-        new_entry = fg.add_entry()
-        for k, v in e.items():
-            method = getattr(new_entry, k)
-            if isinstance(v, dict):
-                method(**v)
-            else:
-                method(v)
+        new_entry = total_fg.add_entry()
+        populate_entry(e, new_entry)
+        if row['Incident State'] in state_fg_dict.keys():
+            state_entry = state_fg_dict[row['Incident State']].add_entry()
+            populate_entry(e, state_entry)
 
-    return fg
+    return total_fg, state_fg_dict
 
 
 def fetch_entry_data(num_months: int, discovered_days: int) -> pd.DataFrame:
@@ -124,9 +157,12 @@ def main() -> None:
     entry_data = fetch_entry_data(
         num_months=args.num_months, discovered_days=args.discovered_days
     )
-    converted = convert_feed(entry_data)
+    total_feed, state_feed_dict = convert_to_feed(entry_data)
     with open("data/processed/feeds/recent-reports.rss", "wb") as f:
-        converted.rss_file(f, pretty=True)
+        total_feed.rss_file(f, pretty=True)
+    for state, state_feed in state_feed_dict.items():
+        with open(f"data/processed/feeds/recent-reports-{state}.rss", "wb") as f:
+            state_feed.rss_file(f, pretty=True)
 
 
 if __name__ == "__main__":
