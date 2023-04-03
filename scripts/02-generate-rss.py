@@ -113,7 +113,7 @@ def convert_entry(row: dict[str, typing.Any]) -> dict[str, typing.Any]:
                 <li>Hazmat Fatalities: {row["Total Hazmat Fatalities"]}</li>
                 <li>Hazmat Injuries: {row["Total Hazmat Injuries"]}</li>
                 <li>Non-Hazmat Fatalities: {row["Non Hazmat Fatalities"]}</li>
-                <li>Description: {html.escape(str(row["Description Of Events"]))}</li>
+                <li>Description: {html.escape(row["Description Of Events"])}</li>
             </ul>
             """,
             type="html",
@@ -140,7 +140,7 @@ def convert_to_feed(rows: pd.DataFrame, state: typing.Optional[str]) -> FeedGene
     for k, v in feed_attrs.items():
         getattr(fg, k)(v)
 
-    for _, row in rows.iterrows():
+    for _, row in rows.fillna("").iterrows():
         entry = fg.add_entry()
         e = convert_entry(row)
         for k, v in e.items():
