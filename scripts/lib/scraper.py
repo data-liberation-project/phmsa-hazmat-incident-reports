@@ -147,7 +147,7 @@ class Session:
             query_xml = query_xml.replace(f"{{{field}}}", val)
         return query_xml
 
-    def query(self, **params: str) -> tuple[str, dict[str, str]]:
+    def query(self, **params: str) -> tuple[str, dict[str, str], bool]:
         """
         `params` are the templating values available
         in data/manual/query-template.xml.
@@ -184,6 +184,8 @@ class Session:
             headers=HEADERS,
         )
 
+        has_no_results = "The specified criteria didn't result in any data." in res.text
+
         view_state, csx = extract_state(res)
 
         download_params = dict(
@@ -199,7 +201,7 @@ class Session:
             _scid="",
         )
 
-        return view_state, download_params
+        return view_state, download_params, has_no_results
 
     def expand_results(self, view_state: str) -> tuple[str, dict[str, str]]:
         logger.debug("Expanding to full set of columns ...")
@@ -303,11 +305,14 @@ class Session:
         return res.content
 
 
-def fetch(expand: bool = False, **params: str) -> bytes:
+def fetch(expand: bool = False, **params: str) -> typing.Optional[bytes]:
     session = Session()
     session.initialize()
 
-    view_state, download_params = session.query(**params)
+    view_state, download_params, has_no_results = session.query(**params)
+    if has_no_results:
+        return None
+
     if expand:
         view_state, download_params = session.expand_results(view_state)
 

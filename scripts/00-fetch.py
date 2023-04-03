@@ -113,7 +113,10 @@ def download_months(
                 logger=logger,
             )
 
-            if file_bytes == b"\xef\xbb\xbfThe query resulted in no rows":
+            if (
+                file_bytes is None
+                or file_bytes == b"\xef\xbb\xbfThe query resulted in no rows"
+            ):
                 logger.debug("The query resulted in no rows")
             else:
                 with open(dest, "wb") as f:
