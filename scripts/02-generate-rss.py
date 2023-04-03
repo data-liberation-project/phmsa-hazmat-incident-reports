@@ -12,6 +12,63 @@ from feedgen.feed import FeedGenerator
 BASE_ID = "data-liberation-project:phma-hazmat-incident-reports"
 RE_PATTERN = r"^(?:<a href = .*?>)?([A-Z]+-[0-9]+)(?:</A>)?$"
 NOW = datetime.now(tz=timezone.utc)
+STATE_ABBRS = [
+    "AL",
+    "AK",
+    "AS",
+    "AZ",
+    "AR",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "DC",
+    "FL",
+    "GA",
+    "GU",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MS",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "PR",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VT",
+    "VA",
+    "VI",
+    "WA",
+    "WV",
+    "WI",
+    "WY",
+]
 
 
 def parse_args(args: list[str]) -> argparse.Namespace:
@@ -56,7 +113,7 @@ def convert_entry(row: dict[str, typing.Any]) -> dict[str, typing.Any]:
                 <li>Hazmat Fatalities: {row["Total Hazmat Fatalities"]}</li>
                 <li>Hazmat Injuries: {row["Total Hazmat Injuries"]}</li>
                 <li>Non-Hazmat Fatalities: {row["Non Hazmat Fatalities"]}</li>
-                <li>Description: {html.escape(str(row["Description Of Events"]))}</li>
+                <li>Description: {html.escape(row["Description Of Events"])}</li>
             </ul>
             """,
             type="html",
@@ -64,11 +121,13 @@ def convert_entry(row: dict[str, typing.Any]) -> dict[str, typing.Any]:
     )
 
 
-def convert_feed(rows: pd.DataFrame) -> FeedGenerator:
+def convert_to_feed(rows: pd.DataFrame, state: typing.Optional[str]) -> FeedGenerator:
+    title_suffix = "" if state is None else f", for {state}"
+    subtitle_suffix = "." if state is None else f", for {state}"
     feed_attrs = {
-        "title": "Latest PHMSA Hazardous Materials Incident Reports",
-        "id": BASE_ID,
-        "subtitle": "The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation and posted online by the Pipeline and Hazardous Materials Safety Administration.",  # noqa: E501
+        "title": f"Latest PHMSA Hazardous Materials Incident Reports{title_suffix}",
+        "id": BASE_ID + "" if state is None else f":{state.lower()}",
+        "subtitle": f"The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation and posted online by the Pipeline and Hazardous Materials Safety Administration{subtitle_suffix}",  # noqa: E501
         "author": {"name": "Data Liberation Project"},
         "language": "en",
         "link": {
@@ -81,11 +140,11 @@ def convert_feed(rows: pd.DataFrame) -> FeedGenerator:
     for k, v in feed_attrs.items():
         getattr(fg, k)(v)
 
-    for _, row in rows.iterrows():
+    for _, row in rows.fillna("").iterrows():
+        entry = fg.add_entry()
         e = convert_entry(row)
-        new_entry = fg.add_entry()
         for k, v in e.items():
-            method = getattr(new_entry, k)
+            method = getattr(entry, k)
             if isinstance(v, dict):
                 method(**v)
             else:
@@ -121,12 +180,23 @@ def fetch_entry_data(num_months: int, discovered_days: int) -> pd.DataFrame:
 
 def main() -> None:
     args = parse_args(sys.argv[1:])
+
     entry_data = fetch_entry_data(
         num_months=args.num_months, discovered_days=args.discovered_days
     )
-    converted = convert_feed(entry_data)
+
+    main_feed = convert_to_feed(entry_data, state=None)
     with open("data/processed/feeds/recent-reports.rss", "wb") as f:
-        converted.rss_file(f, pretty=True)
+        main_feed.rss_file(f, pretty=True)
+
+    for state in STATE_ABBRS:
+        state_entry_data = entry_data.loc[lambda df: df["Incident State"] == state]
+
+        state_feed = convert_to_feed(state_entry_data, state=state)
+        with open(
+            f"data/processed/feeds/by-state/recent-reports-{state.lower()}.rss", "wb"
+        ) as f:
+            state_feed.rss_file(f, pretty=True)
 
 
 if __name__ == "__main__":

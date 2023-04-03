@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest PHMSA Hazardous Materials Incident Reports, for NE</title>
+    <link>https://github.com/data-liberation-project/phma-hazmat-incident-reports</link>
+    <description>The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation and posted online by the Pipeline and Hazardous Materials Safety Administration, for NE</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Apr 2023 15:52:45 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023030914</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177951&gt;X-2023030914&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177951&gt;X-2023030914&lt;/A"&gt;Report X-2023030914&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-16&lt;/li&gt;
+                &lt;li&gt;City: BEATRICE&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER RESPONDED TO LEAKING PACKAGE. RESPONDER DISCOVERED CAP HAD COME OFF AEROSOL CAN. RESPONDER PROCESSED SPILLED MATERIALS THROUGH DMP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030914</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030167</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2173570&gt;X-2023030167&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2173570&gt;X-2023030167&lt;/A"&gt;Report X-2023030167&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-20&lt;/li&gt;
+                &lt;li&gt;City: LINCOLN&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Admin was unloading trailer and found package already wet. Thought it was leaked on from another package, but no other packages around it were wet. Put it in a red hazmat tote and took it to QA for further inspection. DescribePack: Inner drum does have some dents and scratches on it around the top rim. It must&amp;#x27;ve leaked under the metal lid. Can&amp;#x27;t see crack. DurationRel: 1 and MitigateEffect: Placed in a red hazmat tote with orientation arrows facing up to prevent release&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030167</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023020499</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172513&gt;E-2023020499&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172513&gt;E-2023020499&lt;/A"&gt;Report E-2023020499&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-20&lt;/li&gt;
+                &lt;li&gt;City: North Las Vegas&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Gl Trucking Company DBA ESTES WEST&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Unsecured Freight&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023020499</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023020289</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171466&gt;E-2023020289&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171466&gt;E-2023020289&lt;/A"&gt;Report E-2023020289&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-06&lt;/li&gt;
+                &lt;li&gt;City: AURORA&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: XPO Logistics Terminal XGN experienced a UN3082 &amp;quot;Hero Insecticide&amp;quot; release from a 250-gallon poly tote due to improper loading. ERTS dispatched contractors to conduct cleanup. Contractors arrived onsite and confirmed approximately 40-gallons of product released to the asphalt parking lot in two areas measuring 130&amp;#x27; x 12&amp;#x27; and 200&amp;#x27; x 1&amp;#x27; and to the trailer floor in a 4&amp;#x27; x 12&amp;#x27; area. Crew confirmed the tote was punctured by the trailer wall. The material was transferred from the damaged tote into (6) 55-gallon closed top poly drums. Oil Dri was deployed to the impacted areas and worked in. Once all material was collected, all waste including the damaged cut up tote were collected and containerized into (13) 55-gallon poly drums. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023020289</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

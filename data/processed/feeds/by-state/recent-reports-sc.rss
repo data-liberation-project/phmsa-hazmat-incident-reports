@@ -1,0 +1,716 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest PHMSA Hazardous Materials Incident Reports, for SC</title>
+    <link>https://github.com/data-liberation-project/phma-hazmat-incident-reports</link>
+    <description>The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation and posted online by the Pipeline and Hazardous Materials Safety Administration, for SC</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Apr 2023 15:52:45 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023030723</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178736&gt;E-2023030723&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178736&gt;E-2023030723&lt;/A"&gt;Report E-2023030723&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T14:00:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-16&lt;/li&gt;
+                &lt;li&gt;City: NORTH CHARLESTON&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: xpo logistics&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: During off loading it was discovered that the load had shifted during transit and that one of the poly 50 pound bags of lithium hydroxide monohydrate (un2680) had been damaged by a sharp object and had released 1 pound of product.  Contractors were dispatched for the containment and cleanup of the release.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030723</guid>
+      <pubDate>Mon, 03 Apr 2023 14:00:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023031301</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178634&gt;X-2023031301&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178634&gt;X-2023031301&lt;/A"&gt;Report X-2023031301&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-28&lt;/li&gt;
+                &lt;li&gt;City: COLUMBIA&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was discovered damaged in the trailer. Package handler then placed package away from the other packages. DescribePack: One of the 4 bottles in the has a loose cap. DurationRel: 1 and MitigateEffect: Package was placed in a lined hazmat bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023031301</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023031235</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178567&gt;X-2023031235&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178567&gt;X-2023031235&lt;/A"&gt;Report X-2023031235&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-24&lt;/li&gt;
+                &lt;li&gt;City: FORT MILL&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS BEING UNLOADED AND SAT ON THE ROLLERS AND BEGAN LEAKING. THE UNLOAD MGR PLACED THE LEAKING HAZMAT INTO A DRUM AND PLACED ABSORBENT ON THE SPILLAGE ON THE GROUND. THE HAZMAT WAS THEN TAKEN TO THE HAZMAT PROCESSING AREA TO BE PROPERLY PLACED IN A DOT LINED DRUM DescribePack: THE PACKAGE FAILURE WAS IN THE CLOSURE. THERE WERE TWO JERRICANS OF PRODUCT WITH LOOSE. LEAKING CLOSURES. DurationRel: 1 and MitigateEffect: THE HAZMAT WAS TAKEN TO THE CAGE AND PLACES IN A LINED DRUM THEN SEALED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023031235</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023031116</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178322&gt;X-2023031116&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178322&gt;X-2023031116&lt;/A"&gt;Report X-2023031116&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-17&lt;/li&gt;
+                &lt;li&gt;City: WEST COLUMBIA&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: HAZMAT WAS DELIVERED TO HUB VIA DRIVER. ONE SIDE OF THE BOX WAS WET. RESPONDER OPEN PACKAGE; REVEALED A LOOSE TOP ON ONE OF THE BOTTLES. RESPONDE PROCESSED THROUGH DMP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023031116</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023031075</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178159&gt;X-2023031075&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178159&gt;X-2023031075&lt;/A"&gt;Report X-2023031075&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-22&lt;/li&gt;
+                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE UNLOADED FROM TRAILER LEAKING PAINT. HAZMAT-CERTIFIED ADMIN NOTIFIED OF POTENTIAL HAZMAT DAMAGE. DescribePack: PAINT CAN LID AJAR WITH ONLY 3 PAINT CAN CLIPS. DurationRel: 1 and MitigateEffect: HAZMAT-CERTIFIED ADMIN USING PROPER PPE PLACED THE PACKAGE INSIDE A LINED HAZMAT TOTE AND SECURED THE TOTE INSIDE THE HAZMAT CAGE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023031075</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023031054</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178138&gt;X-2023031054&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178138&gt;X-2023031054&lt;/A"&gt;Report X-2023031054&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-21&lt;/li&gt;
+                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: HAZMAT PACKAGE UNLOADED FROM TRAILER WET. HAZMAT-CERTIFIED ADMIN NOTIFIED OF DAMAGED HAZMAT PACKAGE. DescribePack: PINHOLE CRACK IN THE HANDLE UNDER THE CAP. DurationRel: 1 and MitigateEffect: HAZMAT-CERTIFIED ADMIN USING PROPER PPE PLACED THE PACKAGE INSIDE A LINED HAZMAT TOTE AND SECURED THE TOTE INSIDE THE HAZMAT CAGE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023031054</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030920</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177963&gt;X-2023030920&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177963&gt;X-2023030920&lt;/A"&gt;Report X-2023030920&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-17&lt;/li&gt;
+                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: DURING CLEAN UP RESPONDER NOTED ONE OF THE AEROSOL CANS OF INSECTICIDE EMPTIED IN THE BOX.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030920</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030578</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177956&gt;E-2023030578&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177956&gt;E-2023030578&lt;/A"&gt;Report E-2023030578&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-07&lt;/li&gt;
+                &lt;li&gt;City: DUNCAN&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030578</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030544</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177891&gt;E-2023030544&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177891&gt;E-2023030544&lt;/A"&gt;Report E-2023030544&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-16&lt;/li&gt;
+                &lt;li&gt;City: DUNCAN&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: HUB&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On March 16, 2023, at 1205 ET, Emergency Response and Training Solutions (ERTS) was contacted by Hub Group personnel in Duncan regarding the release of approximately 100 gallons of Hardener for 2K-Premium-Clear Saphir (Resin solution, n.o.s., UN1866, 3, III) from (2) 300-gallon plastic totes.  The release was reportedly due to a forklift puncture.  No drains or waterways were reported as affected by the release.  Contractors were dispatched to clean up the release using absorbents, hand tools, and the proper PPE.  The damaged totes were cut up and placed in waste drums along with all other waste debris generated.  A total of (10) 55-gallon metal drums and (1) 55-gallon plastic drum of waste were generated from this release.  The waste drums were then taken offsite by the contractor for proper disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030544</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030418</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177635&gt;E-2023030418&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177635&gt;E-2023030418&lt;/A"&gt;Report E-2023030418&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-13&lt;/li&gt;
+                &lt;li&gt;City: Piedmont&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Packaging failure&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030418</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030683</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177301&gt;X-2023030683&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177301&gt;X-2023030683&lt;/A"&gt;Report X-2023030683&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-12&lt;/li&gt;
+                &lt;li&gt;City: COLUMBIA&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Hazmat package was discovered damaged by a package handler inside of the trailer. Hazmat package was placed into a lined hazmat bin, then was taken by an admin to the hazmat cage for further processing. DescribePack: The cap is loose and the paper covering it was wet. DurationRel: 1 and MitigateEffect: Hazmat package was placed in a lined hazmat bin.  X-2023030684:   SequenceEvent: Hazmat was discovered by a package handler inside of the trailer. The hazmat package was placed into a lined hazmat bin and taken by an admin to the hazmat cage for further processing. DescribePack: The cap was loose and the paper covering it was wet, DurationRel: 1 and MitigateEffect: Hazmat package was placed in a lined hazmat bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030683</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030552</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2176802&gt;X-2023030552&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2176802&gt;X-2023030552&lt;/A"&gt;Report X-2023030552&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-08&lt;/li&gt;
+                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030552</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030507</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2176437&gt;X-2023030507&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2176437&gt;X-2023030507&lt;/A"&gt;Report X-2023030507&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-06&lt;/li&gt;
+                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030507</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030424</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2175128&gt;X-2023030424&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2175128&gt;X-2023030424&lt;/A"&gt;Report X-2023030424&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-03&lt;/li&gt;
+                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE UNLOADED FROM TRAILER LEAKING. HAZMAT CERTIFIED ADMIN NOTIFIED OF POTENTIAL HAZMAT DAMAGE DUE TO CHEMICAL ODOR. DescribePack: DENTS IN CANS CAUSED LIDS TO COME AJAR. DurationRel: 1 and MitigateEffect: HAZMAT CERTIFIED ADMIN USING PROPER PPE PLACED THE PACKAGE INSIDE A LINED HAZMAT TOTE AND SECURED THE TOTE INSIDE THE HAZMAT CAGE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030424</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030400</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2175104&gt;X-2023030400&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2175104&gt;X-2023030400&lt;/A"&gt;Report X-2023030400&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-03&lt;/li&gt;
+                &lt;li&gt;City: FORT MILL&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Trailer door was opened by a package handler in the unload area and notified QA immediately.  It appeared that the last wall built in the trailer was not complete and there was no load net put up.   Box was up against trailer door when the door was opened.  QA took the box to designated hazmat station, inspected package and placed in a lined yellow hazmat drum. DescribePack: Failure occurred due to broken seals/damaged lids on plastic containers DurationRel: 1 and MitigateEffect: Package was assessed and inspected almost immediately after trailer door was opened.  After inspection, package was taken to designated hazmat station and placed in a lined yellow drum&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030400</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030623</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178192&gt;E-2023030623&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2178192&gt;E-2023030623&lt;/A"&gt;Report E-2023030623&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-22&lt;/li&gt;
+                &lt;li&gt;City: NORTH AUGUSTA&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: xpo logistics&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: During off loading it was discovered that the load had shifted during transit and that one of the poly 5 gallon jugs of coating (un1263) had been damaged by a sharp object and had released 2 ounces of product.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030623</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030501</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177774&gt;E-2023030501&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177774&gt;E-2023030501&lt;/A"&gt;Report E-2023030501&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-21&lt;/li&gt;
+                &lt;li&gt;City: WEST COLUMBIA&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: During off loading it was discovered that one of the 4 liter poly bag if cleaning solution (un1193) had been crushed by a forklift and had released 0.5 liters of product.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030501</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030463</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177694&gt;E-2023030463&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177694&gt;E-2023030463&lt;/A"&gt;Report E-2023030463&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-28&lt;/li&gt;
+                &lt;li&gt;City: LADSON&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030463</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030179</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2174453&gt;E-2023030179&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2174453&gt;E-2023030179&lt;/A"&gt;Report E-2023030179&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-08&lt;/li&gt;
+                &lt;li&gt;City: WEST COLUMBIA&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: During off loading the warehouse crew accidentally put a forklift fork into one case of microban (un1950) damaging all 6 of the inner metal can and releasing 90 ounces of product.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030179</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030028</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2173197&gt;E-2023030028&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2173197&gt;E-2023030028&lt;/A"&gt;Report E-2023030028&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-07&lt;/li&gt;
+                &lt;li&gt;City: DUNCAN&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030028</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023030002</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172957&gt;E-2023030002&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172957&gt;E-2023030002&lt;/A"&gt;Report E-2023030002&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-23&lt;/li&gt;
+                &lt;li&gt;City: Duncanm&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: AVERITT EXPRESS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Improper Blocking &amp;amp; Bracing&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030002</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030002</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172954&gt;X-2023030002&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172954&gt;X-2023030002&lt;/A"&gt;Report X-2023030002&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-28&lt;/li&gt;
+                &lt;li&gt;City: NORTH CHARLESTON&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: spilldevgrp@fedex.com&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: An inbound flight to the CHSR facility reported an odor coming from the ADG container. The DG specialists investigated the container and discovered that a class 3 UN1263 had leaked inside of the container.  It was a steel drum strapped to a  skid and it appeared that the bottom chime was damaged causing the release. All contents were placed inot a steel salvage package.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030002</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023021013</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172805&gt;X-2023021013&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172805&gt;X-2023021013&lt;/A"&gt;Report X-2023021013&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-21&lt;/li&gt;
+                &lt;li&gt;City: CHARLESTON&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: THE PACKAGE WAS FOUND WET WHILE UNLOADIND TRAILER. EMPLOYEE DID NOT TOUCH AND NOTIFIED A SUPERVISOR. SUPERVISOR CONTACTED THE DESIGNATED RESPONDER. DESIGNATED RESPONDER FOLLOWED THE CORRECT RESPONSE SHEET AND CLEANED UP THE SPILL. ALL OF THE SPILL WAS CONTAINED INSIDE THE TRAILER.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023021013</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023020085</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172326&gt;I-2023020085&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172326&gt;I-2023020085&lt;/A"&gt;Report I-2023020085&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-21&lt;/li&gt;
+                &lt;li&gt;City: Gaffney&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: T FORCE FREIGHT&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: BOX AND CAN DAMAGED IN TRANSIT DUE TO IMPROPER BLOCKING AND BRACING&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023020085</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023020390</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171937&gt;E-2023020390&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171937&gt;E-2023020390&lt;/A"&gt;Report E-2023020390&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-14&lt;/li&gt;
+                &lt;li&gt;City: Piedmont&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift Strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023020390</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023020649</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171762&gt;X-2023020649&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171762&gt;X-2023020649&lt;/A"&gt;Report X-2023020649&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-09&lt;/li&gt;
+                &lt;li&gt;City: LADSON&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package in loading process was damaged and then when leak was noticed moved to damage area DescribePack: dents in can caused leakage DurationRel: 1 and MitigateEffect: placed in hazmat container&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023020649</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023020634</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171747&gt;X-2023020634&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171747&gt;X-2023020634&lt;/A"&gt;Report X-2023020634&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-09&lt;/li&gt;
+                &lt;li&gt;City: FORT MILL&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND IN THE UNLOAD AREA AND THE BOX APPEARED TO HAVE A WET SPOT ON THE SIDE OF THE BOX. THERE IS ONLY A BAG ON THE INSIDE AND THE BOX WAS NOT THAT THICK ON THE SIDES. I TOOK THE BOX INTO THE CAGE AND PLACED IT IN A LINED DRUM. DescribePack: THE PACKAGE FAILURE WAS IN THE BODY/ BAG ON THE INSIDE OF THE BOX. I BELIEVE IT WAS DUE TO POSSIBLE ABRASION. THERE WERE NO SIGNS OF MISHANDLING. DurationRel: 1 and MitigateEffect: THE BOX WAS TAKEN TO THE HAZ PROCESSING AREA AND PLACED IN A LINED DRUM TO PREVENT FURTHER LEAKAGE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023020634</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023020284</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171456&gt;E-2023020284&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171456&gt;E-2023020284&lt;/A"&gt;Report E-2023020284&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-09&lt;/li&gt;
+                &lt;li&gt;City: West Columbia&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Other Fell&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023020284</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023020349</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171253&gt;X-2023020349&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171253&gt;X-2023020349&lt;/A"&gt;Report X-2023020349&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-06&lt;/li&gt;
+                &lt;li&gt;City: FORT MILL&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE HAZMAT PACKEGE WAS FOUND IN UNLOAD WITH A WET/ CORRODED SIDE. IT WAS IMMEDIATELY TAKEN TO THE HAZMAT CAGE AND PLACED IN A LINED DRUM. DescribePack: THE FAILURE WAS IN THE CAP/ CLOSURE. IT WAS LOOSE WHICH CAUSED THE PRODUCT TO SPILL AND CORRODE THE BOX DUE TO THE NATURE OF THE SOLUTION. DurationRel: 1 and MitigateEffect: THE TWO GALLONS OF CONCENTRATED DISHWASH FLUID WERE PLACED IN A LINED DRUM AND SEALED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023020349</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023020318</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171222&gt;X-2023020318&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171222&gt;X-2023020318&lt;/A"&gt;Report X-2023020318&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-01&lt;/li&gt;
+                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE UNLOADED FROM TRAILER LEAKING. HAZMAT CERTIFIED ADMIN NOTIFIED OF POTENTIAL HAZMAT DAMAGE DUE TO PAINT ODOR. DescribePack: LID ON PAINT CAN LOOSENED DUE TO DENT IN CAN. DurationRel: 1 and MitigateEffect: HAZMAT CERTIFIED ADMIN USING PROPER PPE REORIENTED THE PACKAGE AND PLACED IT INSIDE A LINED HAZMAT TOTE AND SECURED THE TOTE INSIDE THE HAZMAT CAGE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023020318</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023020152</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2170955&gt;X-2023020152&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2170955&gt;X-2023020152&lt;/A"&gt;Report X-2023020152&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-01&lt;/li&gt;
+                &lt;li&gt;City: WEST COLUMBIA&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023020152</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023020093</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2170852&gt;E-2023020093&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2170852&gt;E-2023020093&lt;/A"&gt;Report E-2023020093&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-01&lt;/li&gt;
+                &lt;li&gt;City: Duncan&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: AAA COOPER TRANSPORTATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift Strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023020093</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
