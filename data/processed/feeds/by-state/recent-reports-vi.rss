@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest PHMSA Hazardous Materials Incident Reports, for VI</title>
+    <link>https://github.com/data-liberation-project/phma-hazmat-incident-reports</link>
+    <description>The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation and posted online by the Pipeline and Hazardous Materials Safety Administration, for VI</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Apr 2023 15:43:47 +0000</lastBuildDate>
+  </channel>
+</rss>

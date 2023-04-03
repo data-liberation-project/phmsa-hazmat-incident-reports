@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest PHMSA Hazardous Materials Incident Reports, for SD</title>
+    <link>https://github.com/data-liberation-project/phma-hazmat-incident-reports</link>
+    <description>The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation and posted online by the Pipeline and Hazardous Materials Safety Administration, for SD</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Apr 2023 15:43:47 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023030520</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177813&gt;E-2023030520&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177813&gt;E-2023030520&lt;/A"&gt;Report E-2023030520&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-03-06&lt;/li&gt;
+                &lt;li&gt;City: RAPID CITY&lt;/li&gt;
+                &lt;li&gt;State: SD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030520</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023030208</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2174193&gt;X-2023030208&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2174193&gt;X-2023030208&lt;/A"&gt;Report X-2023030208&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-14&lt;/li&gt;
+                &lt;li&gt;City: YANKTON&lt;/li&gt;
+                &lt;li&gt;State: SD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: spilldevgrp@fedex.com&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:Leaking Package 3.jpg&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030208</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023020473</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172365&gt;E-2023020473&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2172365&gt;E-2023020473&lt;/A"&gt;Report E-2023020473&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-08&lt;/li&gt;
+                &lt;li&gt;City: RAPID CITY&lt;/li&gt;
+                &lt;li&gt;State: SD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023020473</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023020748</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171958&gt;X-2023020748&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2171958&gt;X-2023020748&lt;/A"&gt;Report X-2023020748&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-04-03T13:57:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-02-14&lt;/li&gt;
+                &lt;li&gt;City: RAPID CITY&lt;/li&gt;
+                &lt;li&gt;State: SD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: spilldevgrp@fedex.com&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Package was found during normal sort operations at our station location in Rapid city South Dakota.  When offered to the clean up specialist, the package was found to consist of a fibreboard box there was brown paper on the bottom of the box and a plastic gallon jug inside.  the commodity was Kiwo On Press Cleaner.  When the employee viewed the label he became aware of a Flammable GHS label and obtained an SDS which states the flash point of the product is 40°c. and should be classified as UN 1263 packing group III.  There were no marks nor labels on the package which indicated there was flammable liquid inside. Package was placed in a plastic moisture barrier and contained in a steel salvage package and is being held for FAA investigation.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023020748</guid>
+      <pubDate>Mon, 03 Apr 2023 13:57:55 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
