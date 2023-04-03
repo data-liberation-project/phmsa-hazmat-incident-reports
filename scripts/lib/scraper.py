@@ -56,7 +56,7 @@ def extract_state(res: requests.Response) -> tuple[str, str]:
     match = re.search(pat, content)
 
     if match is None:
-        raise ViewStateMissing("Cannot find ViewState on page")
+        raise ViewStateMissing(f"Cannot find ViewState on page:\n\n{res.text}")
 
     view_state = match.group(1)
 
@@ -64,7 +64,7 @@ def extract_state(res: requests.Response) -> tuple[str, str]:
     match = re.search(pat, content)
 
     if match is None:
-        raise CSXMissing("Cannot find client state XML on page")
+        raise CSXMissing("Cannot find client state XML on page:\n\n{res.text}")
 
     csx: str = json.loads(f'["{match.group(0)}"]')[0]
 
