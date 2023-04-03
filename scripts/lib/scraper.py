@@ -56,7 +56,7 @@ def extract_state(res: requests.Response) -> tuple[str, str]:
     match = re.search(pat, content)
 
     if match is None:
-        raise ViewStateMissing("Cannot find ViewState on page")
+        raise ViewStateMissing(f"Cannot find ViewState on page:\n\n{res.text}")
 
     view_state = match.group(1)
 
@@ -64,7 +64,7 @@ def extract_state(res: requests.Response) -> tuple[str, str]:
     match = re.search(pat, content)
 
     if match is None:
-        raise CSXMissing("Cannot find client state XML on page")
+        raise CSXMissing("Cannot find client state XML on page:\n\n{res.text}")
 
     csx: str = json.loads(f'["{match.group(0)}"]')[0]
 
@@ -124,13 +124,21 @@ class Session:
 
         self.get("init", init_url, headers=HEADERS)
         self.get("portal", portal_url, headers=custom_headers, allow_redirects=True)
+
         self.post(
             "auth",
             auth_url,
             data="---------------------------------------------------------",
             headers=HEADERS,
         )
-        self.get("portal", portal_url, headers=HEADERS, allow_redirects=True)
+        res = self.get("portal", portal_url, headers=HEADERS, allow_redirects=True)
+
+        fmap_match = re.search('fmapId=([^"]+)"', res.text)
+
+        if fmap_match is None:
+            raise ValueError("Cannot find fmapId in initialization step")
+
+        self.fmapid = fmap_match.group(1)
 
     def compose_query(self, **params: str) -> str:
         query_xml = CLIENT_QUERY_XML
@@ -152,7 +160,7 @@ class Session:
         data = dict(
             ViewState="7m3hnikntaqp81992oti7ajp52",
             ClientStateXml=CLIENT_STATE_XML,
-            fmapId="noDEvw",
+            fmapId=self.fmapid,
             reloadTargets="all",
             Page="Hazmat Incident Report",
             IgnoreBypassCacheOption="ignoreBypassCache",

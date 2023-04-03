@@ -27,8 +27,8 @@ jobs:
 
       - name: Install VPN
         run: |-
-          wget --quiet --content-disposition https://mullvad.net/download/app/deb/latest
-          sudo apt install -y ./MullvadVPN-*.deb
+          wget --quiet --content-disposition https://mullvad.net/media/app/MullvadVPN-2023.2_amd64.deb
+          sudo apt install -y ./MullvadVPN-2023.2_amd64.deb
 
       - name: Connect to VPN
         run: |-

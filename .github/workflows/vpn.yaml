@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install
-        run: wget --quiet --content-disposition https://mullvad.net/download/app/deb/latest && sudo apt install -y ./MullvadVPN-*.deb
+        run: wget --quiet --content-disposition https://mullvad.net/media/app/MullvadVPN-2023.2_amd64.deb && sudo apt install -y ./MullvadVPN-2023.2_amd64.deb
 
       - name: Log in
         run: mullvad account login ${{ secrets.MULLVAD_ACCOUNT_NUMBER }}
