@@ -12,11 +12,63 @@ from feedgen.feed import FeedGenerator
 BASE_ID = "data-liberation-project:phma-hazmat-incident-reports"
 RE_PATTERN = r"^(?:<a href = .*?>)?([A-Z]+-[0-9]+)(?:</A>)?$"
 NOW = datetime.now(tz=timezone.utc)
-STATE_ID = ['AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FL'
-            , 'GA', 'GU', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME'
-            , 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ'
-            , 'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'PR', 'RI', 'SC'
-            , 'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'VI', 'WA', 'WV', 'WI', 'WY']
+STATE_ID = [
+    "AL",
+    "AK",
+    "AS",
+    "AZ",
+    "AR",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "DC",
+    "FL",
+    "GA",
+    "GU",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MS",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "OH",
+    "OK",
+    "OR",
+    "PA",
+    "PR",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VT",
+    "VA",
+    "VI",
+    "WA",
+    "WV",
+    "WI",
+    "WY",
+]
 
 
 def parse_args(args: list[str]) -> argparse.Namespace:
@@ -88,6 +140,7 @@ def create_state_feed(state_code: str):
 
     return state_fg
 
+
 def populate_entry(e, entry):
     for k, v in e.items():
         method = getattr(entry, k)
@@ -95,6 +148,7 @@ def populate_entry(e, entry):
             method(**v)
         else:
             method(v)
+
 
 def convert_to_feed(rows: pd.DataFrame) -> FeedGenerator:
     feed_attrs = {
@@ -119,8 +173,8 @@ def convert_to_feed(rows: pd.DataFrame) -> FeedGenerator:
         e = convert_entry(row)
         new_entry = total_fg.add_entry()
         populate_entry(e, new_entry)
-        if row['Incident State'] in state_fg_dict.keys():
-            state_entry = state_fg_dict[row['Incident State']].add_entry()
+        if row["Incident State"] in state_fg_dict.keys():
+            state_entry = state_fg_dict[row["Incident State"]].add_entry()
             populate_entry(e, state_entry)
 
     return total_fg, state_fg_dict
