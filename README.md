@@ -17,7 +17,7 @@ This repository, developed by the [Data Liberation Project](https://www.data-lib
 - Generate one file that contains a subset of fields (to keep size within GitHub's limits) for *all* reports
     - Status: 🟠 Not yet started
 - Provide RSS feeds with the latest available incidents, nationally and by state
-    - Status: 🟠 Not yet started
+    - Status: 🟢 Completed, now available [here](data/processed/feeds/)
 - Provide RSS feeds listing incident [updates](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.16#p-171.16\(c\))
     - Status: 🟠 Not yet started
 - Standardize/normalize the data
@@ -54,6 +54,7 @@ Please see the [METHODOLOGY.md](METHODOLOGY.md) document for a description of ho
 Many thanks to the volunteers who have contributed to this repository:
 
 - [@gcappaert](https://github.com/gcappaert)
+- [@m-nolan](https://github.com/m-nolan)
 
 ## Licensing
 
