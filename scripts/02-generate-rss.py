@@ -159,7 +159,13 @@ def fetch_entry_data(num_months: int, discovered_days: int) -> pd.DataFrame:
     data_paths = Path("data/fetched").glob("*.csv")
     data_paths_limited = sorted(data_paths)[-num_months:]
 
-    history = pd.concat(map(pd.read_csv, hist_paths_limited))
+    history = (
+        pd.concat(map(pd.read_csv, hist_paths_limited))
+        # Necessary for edge-case when report shifts
+        # from one month's file to another
+        .drop_duplicates(subset=["report_number"])
+    )
+
     data = (
         pd.concat(map(pd.read_csv, data_paths_limited))
         .drop_duplicates(subset=["Report Number"])
