@@ -1,6 +1,6 @@
-# PHMSA "5800.1" Hazardous Materials Incident Reports
+# PHMSA "5800.1" Hazmat Transportation Incident Reports
 
-[Federal law](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.16) requires spills, explosions, and other safety-endangering [incidents involving hazardous materials](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.15#p-171.15\(b\)) to be reported to the [Pipeline and Hazardous Materials Safety Administration](https://www.phmsa.dot.gov/) (PHMSA).
+[Federal law](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.16) requires transportation-related spills, explosions, and other safety-endangering [incidents involving hazardous materials](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.15#p-171.15\(b\)) to be reported to the [Pipeline and Hazardous Materials Safety Administration](https://www.phmsa.dot.gov/) (PHMSA).
 
 Specifically, "each person in physical possession of a hazardous material at the time that any of [certain types of incidents] occurs during transportation (including loading, unloading, and temporary storage) must submit a Hazardous Materials Incident Report on DOT Form F 5800.1 [...] within 30 days of discovery of the incident".
 
