@@ -7,13 +7,57 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 May 2023 12:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2023 15:10:16 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023050220</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181983&gt;X-2023050220&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181983&gt;X-2023050220&lt;/A"&gt;Report X-2023050220&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-05-08T15:10:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-01&lt;/li&gt;
+                &lt;li&gt;City: FARGO&lt;/li&gt;
+                &lt;li&gt;State: ND&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found by incompatible conveyance items getting ready to be placed on main conveyor belt. Exterior packaging was found to be wet and starting to fray. Package was brought to the Quality Assurance area for inspection. Upon inspection, no inner packaging materials used to buffer the 4 plastic jugs of Isopropanol. The jugs had loose caps, causing the product to leak and soil the labels on the jugs. DescribePack: The four jugs of Isopropanol leaked due to loose caps, causing the box to become wet and fray along the edges of the exterior packaging. The labels on the individual bottles of Isopropanol became soiled by leaked product. DurationRel: 36 and MitigateEffect: When package was found, gloves were used for PPE to protect from corrosive materials. Package was likely sitting in a trailer over the weekend, thus unable to be tended to sooner.  Tracking system shows package had been in St Paul station 4/29/23, then the trailer with the package was unloaded at Fargo station 5/1/23.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050220</guid>
+      <pubDate>Mon, 08 May 2023 15:10:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023050193</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181956&gt;X-2023050193&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181956&gt;X-2023050193&lt;/A"&gt;Report X-2023050193&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-05-08T15:10:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-04-28&lt;/li&gt;
+                &lt;li&gt;City: FARGO&lt;/li&gt;
+                &lt;li&gt;State: ND&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA was called to the belt to inspect a leaking hazmat package. Package was discovered to have a loose cap with a slow leakage. Jug was investigated and no cracks or holes were found. Cap was found to be loose. Cap was then retightened. Package was put in a blue hazmat bag and then put in a red tote to be brought to QA for processing. DescribePack: The smaller cap on the backside of the jug was found to be loose and was the source of the leak. DurationRel: 1 and MitigateEffect: Jug was kept upright and cap was retightened. There were no dents or cracks or other areas of damage besides the loose cap.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050193</guid>
+      <pubDate>Mon, 08 May 2023 15:10:15 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023040022</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2179012&gt;E-2023040022&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2179012&gt;E-2023040022&lt;/A"&gt;Report E-2023040022&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-05-08T09:09:49+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-05-08T12:15:37+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-03-23&lt;/li&gt;
                 &lt;li&gt;City: MINOT&lt;/li&gt;
@@ -28,14 +72,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023040022</guid>
-      <pubDate>Mon, 08 May 2023 09:09:49 +0000</pubDate>
+      <pubDate>Mon, 08 May 2023 12:15:37 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023030420</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177637&gt;E-2023030420&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2177637&gt;E-2023030420&lt;/A"&gt;Report E-2023030420&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-05-08T09:09:49+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-05-08T12:15:37+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-03-02&lt;/li&gt;
                 &lt;li&gt;City: WEST FARGO&lt;/li&gt;
@@ -50,14 +94,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023030420</guid>
-      <pubDate>Mon, 08 May 2023 09:09:49 +0000</pubDate>
+      <pubDate>Mon, 08 May 2023 12:15:37 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023030291</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2174838&gt;X-2023030291&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2174838&gt;X-2023030291&lt;/A"&gt;Report X-2023030291&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-05-08T09:09:49+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-05-08T12:15:37+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-03-01&lt;/li&gt;
                 &lt;li&gt;City: BISMARCK&lt;/li&gt;
@@ -72,7 +116,7 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023030291</guid>
-      <pubDate>Mon, 08 May 2023 09:09:49 +0000</pubDate>
+      <pubDate>Mon, 08 May 2023 12:15:37 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023040439</title>
