@@ -7,79 +7,13 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jun 2023 18:10:39 +0000</lastBuildDate>
-    <item>
-      <title>Report X-2023050564</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182655&gt;X-2023050564&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182655&gt;X-2023050564&lt;/A"&gt;Report X-2023050564&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-05-09&lt;/li&gt;
-                &lt;li&gt;City: OAK PARK&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Was notified by co-worker of the damage coming from van line 7. DescribePack: 1 plastic jerrycan of alphaSTAR 420R is punctured and leaking. DurationRel: 3 and MitigateEffect: Package was placed in a bin and sent to the hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050564</guid>
-      <pubDate>Fri, 02 Jun 2023 18:10:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023050560</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182651&gt;X-2023050560&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182651&gt;X-2023050560&lt;/A"&gt;Report X-2023050560&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-05-09&lt;/li&gt;
-                &lt;li&gt;City: OAK PARK&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Was notified by co-worker about a damaged hazmat in a van. DescribePack: 1 bucket of Mohawk Duracoat pre-catalyzed white matte is bent and broken. DurationRel: 3 and MitigateEffect: After being notified, package was placed in a tote and sent to the hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050560</guid>
-      <pubDate>Fri, 02 Jun 2023 18:10:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023050541</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182632&gt;X-2023050541&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182632&gt;X-2023050541&lt;/A"&gt;Report X-2023050541&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-05-09&lt;/li&gt;
-                &lt;li&gt;City: SALINE&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was discovered to be wet when unloading from a trailer, and brought to QA. DescribePack: One bottle has a loose cap. DurationRel: 1 and MitigateEffect: The package was placed in a bin to contain the leak until it could be processed by QA.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050541</guid>
-      <pubDate>Fri, 02 Jun 2023 18:10:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 05 Jun 2023 03:12:45 +0000</lastBuildDate>
     <item>
       <title>Report E-2023050547</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183445&gt;E-2023050547&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183445&gt;E-2023050547&lt;/A"&gt;Report E-2023050547&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-18&lt;/li&gt;
                 &lt;li&gt;City: Battle Creek&lt;/li&gt;
@@ -94,14 +28,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050547</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050896</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183413&gt;X-2023050896&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183413&gt;X-2023050896&lt;/A"&gt;Report X-2023050896&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-11&lt;/li&gt;
                 &lt;li&gt;City: PONTIAC&lt;/li&gt;
@@ -116,14 +50,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050896</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050459</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183181&gt;E-2023050459&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183181&gt;E-2023050459&lt;/A"&gt;Report E-2023050459&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-09&lt;/li&gt;
                 &lt;li&gt;City: Wyoming&lt;/li&gt;
@@ -138,14 +72,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050459</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050427</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182989&gt;E-2023050427&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182989&gt;E-2023050427&lt;/A"&gt;Report E-2023050427&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-08&lt;/li&gt;
                 &lt;li&gt;City: Warren&lt;/li&gt;
@@ -160,14 +94,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050427</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050415</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182937&gt;E-2023050415&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182937&gt;E-2023050415&lt;/A"&gt;Report E-2023050415&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-09&lt;/li&gt;
                 &lt;li&gt;City: HOLLAND&lt;/li&gt;
@@ -182,14 +116,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050415</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050651</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182818&gt;X-2023050651&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182818&gt;X-2023050651&lt;/A"&gt;Report X-2023050651&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-03&lt;/li&gt;
                 &lt;li&gt;City: LIVONIA&lt;/li&gt;
@@ -204,14 +138,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050651</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050605</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182696&gt;X-2023050605&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182696&gt;X-2023050605&lt;/A"&gt;Report X-2023050605&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-11&lt;/li&gt;
                 &lt;li&gt;City: SALINE&lt;/li&gt;
@@ -226,14 +160,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050605</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050567</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182658&gt;X-2023050567&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182658&gt;X-2023050567&lt;/A"&gt;Report X-2023050567&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-10&lt;/li&gt;
                 &lt;li&gt;City: SALINE&lt;/li&gt;
@@ -248,14 +182,80 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050567</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023050564</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182655&gt;X-2023050564&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182655&gt;X-2023050564&lt;/A"&gt;Report X-2023050564&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-09&lt;/li&gt;
+                &lt;li&gt;City: OAK PARK&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Was notified by co-worker of the damage coming from van line 7. DescribePack: 1 plastic jerrycan of alphaSTAR 420R is punctured and leaking. DurationRel: 3 and MitigateEffect: Package was placed in a bin and sent to the hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050564</guid>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023050560</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182651&gt;X-2023050560&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182651&gt;X-2023050560&lt;/A"&gt;Report X-2023050560&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-09&lt;/li&gt;
+                &lt;li&gt;City: OAK PARK&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Was notified by co-worker about a damaged hazmat in a van. DescribePack: 1 bucket of Mohawk Duracoat pre-catalyzed white matte is bent and broken. DurationRel: 3 and MitigateEffect: After being notified, package was placed in a tote and sent to the hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050560</guid>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023050541</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182632&gt;X-2023050541&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182632&gt;X-2023050541&lt;/A"&gt;Report X-2023050541&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-09&lt;/li&gt;
+                &lt;li&gt;City: SALINE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was discovered to be wet when unloading from a trailer, and brought to QA. DescribePack: One bottle has a loose cap. DurationRel: 1 and MitigateEffect: The package was placed in a bin to contain the leak until it could be processed by QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050541</guid>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050323</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182473&gt;E-2023050323&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182473&gt;E-2023050323&lt;/A"&gt;Report E-2023050323&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-03&lt;/li&gt;
                 &lt;li&gt;City: Battle Creek&lt;/li&gt;
@@ -270,14 +270,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050323</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050219</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182272&gt;E-2023050219&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182272&gt;E-2023050219&lt;/A"&gt;Report E-2023050219&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-08&lt;/li&gt;
                 &lt;li&gt;City: Warren&lt;/li&gt;
@@ -292,13 +292,13 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050219</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050046</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2023050046&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-03&lt;/li&gt;
                 &lt;li&gt;City: Ludington&lt;/li&gt;
@@ -313,14 +313,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050046</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050426</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182517&gt;X-2023050426&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2182517&gt;X-2023050426&lt;/A"&gt;Report X-2023050426&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-29&lt;/li&gt;
                 &lt;li&gt;City: CADILLAC&lt;/li&gt;
@@ -335,14 +335,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050426</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050178</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181941&gt;X-2023050178&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181941&gt;X-2023050178&lt;/A"&gt;Report X-2023050178&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-27&lt;/li&gt;
                 &lt;li&gt;City: SALINE&lt;/li&gt;
@@ -357,14 +357,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050178</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050148</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181885&gt;E-2023050148&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181885&gt;E-2023050148&lt;/A"&gt;Report E-2023050148&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-06&lt;/li&gt;
                 &lt;li&gt;City: ROMULUS&lt;/li&gt;
@@ -379,14 +379,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050148</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050079</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181809&gt;X-2023050079&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181809&gt;X-2023050079&lt;/A"&gt;Report X-2023050079&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-26&lt;/li&gt;
                 &lt;li&gt;City: LIVONIA&lt;/li&gt;
@@ -401,14 +401,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050079</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050059</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181693&gt;E-2023050059&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181693&gt;E-2023050059&lt;/A"&gt;Report E-2023050059&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-26&lt;/li&gt;
                 &lt;li&gt;City: Warren&lt;/li&gt;
@@ -423,14 +423,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050059</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050032</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181679&gt;X-2023050032&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181679&gt;X-2023050032&lt;/A"&gt;Report X-2023050032&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-25&lt;/li&gt;
                 &lt;li&gt;City: MADISON HEIGHTS&lt;/li&gt;
@@ -445,14 +445,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050032</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023050051</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181665&gt;E-2023050051&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181665&gt;E-2023050051&lt;/A"&gt;Report E-2023050051&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-24&lt;/li&gt;
                 &lt;li&gt;City: Brownstown&lt;/li&gt;
@@ -467,14 +467,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023050051</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050018</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181661&gt;X-2023050018&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181661&gt;X-2023050018&lt;/A"&gt;Report X-2023050018&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-24&lt;/li&gt;
                 &lt;li&gt;City: WYOMING&lt;/li&gt;
@@ -489,14 +489,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050018</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023040677</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181580&gt;E-2023040677&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181580&gt;E-2023040677&lt;/A"&gt;Report E-2023040677&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-27&lt;/li&gt;
                 &lt;li&gt;City: ROMULUS&lt;/li&gt;
@@ -511,14 +511,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023040677</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2023040045</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181550&gt;I-2023040045&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181550&gt;I-2023040045&lt;/A"&gt;Report I-2023040045&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-12&lt;/li&gt;
                 &lt;li&gt;City: JACKSON&lt;/li&gt;
@@ -533,14 +533,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023040045</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023041212</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181496&gt;X-2023041212&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181496&gt;X-2023041212&lt;/A"&gt;Report X-2023041212&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-26&lt;/li&gt;
                 &lt;li&gt;City: LIVONIA&lt;/li&gt;
@@ -555,14 +555,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023041212</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023041079</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181363&gt;X-2023041079&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181363&gt;X-2023041079&lt;/A"&gt;Report X-2023041079&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-20&lt;/li&gt;
                 &lt;li&gt;City: PORTAGE&lt;/li&gt;
@@ -577,14 +577,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023041079</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023041073</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181357&gt;X-2023041073&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181357&gt;X-2023041073&lt;/A"&gt;Report X-2023041073&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-18&lt;/li&gt;
                 &lt;li&gt;City: PORTAGE&lt;/li&gt;
@@ -599,14 +599,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023041073</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023041071</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181355&gt;X-2023041071&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181355&gt;X-2023041071&lt;/A"&gt;Report X-2023041071&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-18&lt;/li&gt;
                 &lt;li&gt;City: PORTAGE&lt;/li&gt;
@@ -621,14 +621,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023041071</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023041049</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181333&gt;X-2023041049&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181333&gt;X-2023041049&lt;/A"&gt;Report X-2023041049&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-19&lt;/li&gt;
                 &lt;li&gt;City: SAGINAW&lt;/li&gt;
@@ -643,14 +643,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023041049</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023041039</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181323&gt;X-2023041039&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181323&gt;X-2023041039&lt;/A"&gt;Report X-2023041039&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-19&lt;/li&gt;
                 &lt;li&gt;City: PORTAGE&lt;/li&gt;
@@ -665,14 +665,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023041039</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023041014</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181298&gt;X-2023041014&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2181298&gt;X-2023041014&lt;/A"&gt;Report X-2023041014&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-18&lt;/li&gt;
                 &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
@@ -687,14 +687,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023041014</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023040523</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180721&gt;E-2023040523&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180721&gt;E-2023040523&lt;/A"&gt;Report E-2023040523&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-07&lt;/li&gt;
                 &lt;li&gt;City: ROMULUS&lt;/li&gt;
@@ -709,14 +709,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023040523</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023040485</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180646&gt;E-2023040485&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180646&gt;E-2023040485&lt;/A"&gt;Report E-2023040485&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-13&lt;/li&gt;
                 &lt;li&gt;City: Byron Center&lt;/li&gt;
@@ -731,14 +731,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023040485</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023040480</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180641&gt;E-2023040480&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180641&gt;E-2023040480&lt;/A"&gt;Report E-2023040480&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-12&lt;/li&gt;
                 &lt;li&gt;City: Jackson&lt;/li&gt;
@@ -753,14 +753,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023040480</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023040749</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180512&gt;X-2023040749&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180512&gt;X-2023040749&lt;/A"&gt;Report X-2023040749&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-13&lt;/li&gt;
                 &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
@@ -775,14 +775,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023040749</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023040684</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180447&gt;X-2023040684&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180447&gt;X-2023040684&lt;/A"&gt;Report X-2023040684&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-12&lt;/li&gt;
                 &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
@@ -797,14 +797,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023040684</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023040623</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180385&gt;X-2023040623&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180385&gt;X-2023040623&lt;/A"&gt;Report X-2023040623&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-10&lt;/li&gt;
                 &lt;li&gt;City: OAK PARK&lt;/li&gt;
@@ -819,14 +819,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023040623</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023040493</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180253&gt;X-2023040493&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180253&gt;X-2023040493&lt;/A"&gt;Report X-2023040493&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-03&lt;/li&gt;
                 &lt;li&gt;City: OAK PARK&lt;/li&gt;
@@ -841,14 +841,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023040493</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023040375</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180043&gt;X-2023040375&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2180043&gt;X-2023040375&lt;/A"&gt;Report X-2023040375&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-10&lt;/li&gt;
                 &lt;li&gt;City: WYOMING&lt;/li&gt;
@@ -863,14 +863,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023040375</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023040290</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2179941&gt;E-2023040290&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2179941&gt;E-2023040290&lt;/A"&gt;Report E-2023040290&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-11&lt;/li&gt;
                 &lt;li&gt;City: Ypsilanti&lt;/li&gt;
@@ -885,14 +885,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023040290</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023040316</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2179738&gt;X-2023040316&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2179738&gt;X-2023040316&lt;/A"&gt;Report X-2023040316&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-07&lt;/li&gt;
                 &lt;li&gt;City: CASS CITY&lt;/li&gt;
@@ -907,14 +907,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023040316</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023040228</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2179712&gt;E-2023040228&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2179712&gt;E-2023040228&lt;/A"&gt;Report E-2023040228&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-01T21:08:12+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-06-02T18:10:54+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-04-06&lt;/li&gt;
                 &lt;li&gt;City: Saginaw&lt;/li&gt;
@@ -929,7 +929,7 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023040228</guid>
-      <pubDate>Thu, 01 Jun 2023 21:08:12 +0000</pubDate>
+      <pubDate>Fri, 02 Jun 2023 18:10:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023040502</title>
