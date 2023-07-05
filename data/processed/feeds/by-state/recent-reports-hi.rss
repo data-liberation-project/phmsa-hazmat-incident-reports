@@ -7,13 +7,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:42:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 15:10:28 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023060322</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023060322&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-05T15:10:27+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-19&lt;/li&gt;
+                &lt;li&gt;City: KAHULUI&lt;/li&gt;
+                &lt;li&gt;State: HI&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 05/19/2023 at approximately 1845, Dangerous Goods Administration received a call from Employee 350633 at the station in Kahului, reporting an undeclared dangerous goods shipment.  The shipment consisted of several vape pens and vaping liquid.  The vaping liquid is within the acceptable limit for transport, however the vape pens contains lithium batteries that were not  properly declared.  The shipment appeared suspicious to the management team due to the invalid address on the shipping label.  The entire shipment is being held, pending an FAA investigation.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060322</guid>
+      <pubDate>Wed, 05 Jul 2023 15:10:27 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023051325</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2184095&gt;X-2023051325&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2184095&gt;X-2023051325&lt;/A"&gt;Report X-2023051325&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-06-30T21:08:54+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-01T00:42:31+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-06&lt;/li&gt;
                 &lt;li&gt;City: HONOLULU&lt;/li&gt;
@@ -28,7 +49,7 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023051325</guid>
-      <pubDate>Fri, 30 Jun 2023 21:08:54 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:42:31 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050126</title>
