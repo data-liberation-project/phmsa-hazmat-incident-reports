@@ -7,13 +7,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jul 2023 21:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jul 2023 15:10:35 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023060664</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2185697&gt;X-2023060664&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2185697&gt;X-2023060664&lt;/A"&gt;Report X-2023060664&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-06T15:10:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-29&lt;/li&gt;
+                &lt;li&gt;City: SOUTH BURLINGTON&lt;/li&gt;
+                &lt;li&gt;State: VT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA was called to a trailer on door, where it was discovered that there was a leaking Hazmat on the trailer. Box was safely pulled from said trailer and safely put in a Hazmat bin. Upon further investigation, it was determined that the Hazmat was placed in a wall of packages, higher than it should be. This might have contributed to the failure of the package. DescribePack: Leaking around the body of the drum, unsure exactly where, but does not seem to be from closure or top. DurationRel: 1 and MitigateEffect: Safely placed in a Red Hazmat Bin, where it was brought to the QA Hazmat area.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060664</guid>
+      <pubDate>Thu, 06 Jul 2023 15:10:34 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023060355</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2185208&gt;X-2023060355&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2185208&gt;X-2023060355&lt;/A"&gt;Report X-2023060355&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-05T18:13:02+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-05T21:10:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-24&lt;/li&gt;
                 &lt;li&gt;City: WILLISTON&lt;/li&gt;
@@ -28,14 +50,14 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060355</guid>
-      <pubDate>Wed, 05 Jul 2023 18:13:02 +0000</pubDate>
+      <pubDate>Wed, 05 Jul 2023 21:10:08 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023050892</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183320&gt;X-2023050892&lt;/A</link>
       <description>
             &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183320&gt;X-2023050892&lt;/A"&gt;Report X-2023050892&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-05T18:13:02+00:00&lt;/h4&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-05T21:10:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2023-05-17&lt;/li&gt;
                 &lt;li&gt;City: WILLISTON&lt;/li&gt;
@@ -50,7 +72,7 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023050892</guid>
-      <pubDate>Wed, 05 Jul 2023 18:13:02 +0000</pubDate>
+      <pubDate>Wed, 05 Jul 2023 21:10:08 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023051068</title>
