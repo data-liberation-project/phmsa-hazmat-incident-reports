@@ -55,6 +55,7 @@ Many thanks to the volunteers who have contributed to this repository:
 
 - [@gcappaert](https://github.com/gcappaert)
 - [@m-nolan](https://github.com/m-nolan)
+- [@rjintu](https://github.com/rjintu)
 
 ## Licensing
 
