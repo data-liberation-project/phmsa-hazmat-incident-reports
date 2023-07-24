@@ -7,16 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jul 2023 12:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 15:13:10 +0000</lastBuildDate>
     <item>
-      <title>Report X-2023061128</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186610&gt;X-2023061128&lt;/A</link>
+      <title>Report X-2023061638</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187447&gt;X-2023061638&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186610&gt;X-2023061128&lt;/A"&gt;Report X-2023061128&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-17T15:10:20+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187447&gt;X-2023061638&lt;/A"&gt;Report X-2023061638&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-24T15:13:04+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-13&lt;/li&gt;
-                &lt;li&gt;City: POCATELLO&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
+                &lt;li&gt;City: BOISE&lt;/li&gt;
                 &lt;li&gt;State: ID&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -24,11 +24,11 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Trailer was being unloaded when package handlers noticed box was wet and informed QA of leaking pkg.   QA responded by removing pkg from trailer, transferring pkg into HazMat tote for further handling. DescribePack: Bottle lid seemed to have loosened enough to cause liquid to leak out. DurationRel: 3 and MitigateEffect: Once pkg was noticed to be leaking package handlers notified QA to come and contain leaking pkg from trailer.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: AM QA discovered package leaking in unload. Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent. DescribePack: The package was leaking from the inside and outside of the box. Upon inspection, one of the four bottles had a loose cap and some of the content spilled on the box. This was due to improper packaging. DurationRel: 1 and MitigateEffect: Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061128</guid>
-      <pubDate>Mon, 17 Jul 2023 15:10:20 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061638</guid>
+      <pubDate>Mon, 24 Jul 2023 15:13:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

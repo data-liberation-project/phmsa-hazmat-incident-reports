@@ -7,7 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jul 2023 12:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 15:13:10 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023061623</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023061623&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-24T15:13:04+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
+                &lt;li&gt;City: MIDDLEBORO&lt;/li&gt;
+                &lt;li&gt;State: MA&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061623</guid>
+      <pubDate>Mon, 24 Jul 2023 15:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023070071</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187792&gt;E-2023070071&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187792&gt;E-2023070071&lt;/A"&gt;Report E-2023070071&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-24T15:13:04+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-08&lt;/li&gt;
+                &lt;li&gt;City: NORTHBOROUGH&lt;/li&gt;
+                &lt;li&gt;State: MA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: A. DUIE PYLE INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: While loading a pallet of freight into a trailer the forklift operator did not realize the forkblades from his forklift were protruding from the pallet he was carrying and as a result when he went to put the pallet down the forkblades punctured a box on a pallet already staged in the trailer. As a result the forkblade punctured to enclosed 1 gallon containers that were in the boc consequently contributing to the unintentional release. Spilled material was cleaned with absorbent and placed into a recovery container as was the punctured containers.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070071</guid>
+      <pubDate>Mon, 24 Jul 2023 15:13:04 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023070045</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187734&gt;E-2023070045&lt;/A</link>
@@ -139,28 +182,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023060715</guid>
       <pubDate>Tue, 18 Jul 2023 15:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061141</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186623&gt;X-2023061141&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186623&gt;X-2023061141&lt;/A"&gt;Report X-2023061141&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-17T15:10:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-13&lt;/li&gt;
-                &lt;li&gt;City: BOYLSTON&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package found to be leaking. Placed in to spill bin and brought to QA cage for further processing. DescribePack: Cap loosened on one bottle allowing liquid to leak out. DurationRel: 1 and MitigateEffect: Placed into spill bin to minimize further leakage elsewhere.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061141</guid>
-      <pubDate>Mon, 17 Jul 2023 15:10:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

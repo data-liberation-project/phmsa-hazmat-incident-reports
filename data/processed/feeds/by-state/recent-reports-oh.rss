@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jul 2023 12:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 15:13:10 +0000</lastBuildDate>
     <item>
       <title>Report X-2023070374</title>
       <description>
@@ -28,6 +28,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070374</guid>
       <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023060139</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188689&gt;I-2023060139&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188689&gt;I-2023060139&lt;/A"&gt;Report I-2023060139&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-24T15:13:04+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-13&lt;/li&gt;
+                &lt;li&gt;City: Columbus&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: YRC GLOBAL&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: While unloading one tote was found punctured and Ieaking. The release was properly managed. The damaged tote was transferred to a new tote and is being held pending disposition from the shipper&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060139</guid>
+      <pubDate>Mon, 24 Jul 2023 15:13:04 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023061598</title>
@@ -755,72 +777,6 @@
       <pubDate>Tue, 18 Jul 2023 15:09:56 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023060666</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186946&gt;E-2023060666&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186946&gt;E-2023060666&lt;/A"&gt;Report E-2023060666&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-17T15:10:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-23&lt;/li&gt;
-                &lt;li&gt;City: Wilmington&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023060666</guid>
-      <pubDate>Mon, 17 Jul 2023 15:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023060656</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186934&gt;E-2023060656&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186934&gt;E-2023060656&lt;/A"&gt;Report E-2023060656&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-17T15:10:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-21&lt;/li&gt;
-                &lt;li&gt;City: Columbiana&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Freight stacked on top&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023060656</guid>
-      <pubDate>Mon, 17 Jul 2023 15:10:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061106</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186588&gt;X-2023061106&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186588&gt;X-2023061106&lt;/A"&gt;Report X-2023061106&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-17T15:10:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-11&lt;/li&gt;
-                &lt;li&gt;City: PERRYSBURG&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023061106 SequenceEvent: pkg was found during the unload process on 6-11 at 02:30 and taken to qa for inspection. DescribePack: carton was wet due to four leaking bottles inside that had loose caps. DurationRel: 1 and MitigateEffect: ppe used to place carton in a hazmat bag and then into a plastic tote.  2. X-2023061108 SequenceEvent: pkg was found during the unload process on 6-11 at 02:30 and taken to qa for inspection. DescribePack: carton was wet due to two leaking bottles inside that had loose caps. DurationRel: 1 and MitigateEffect: ppe used to place carton in a hazmat bag and then into a plastic tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061106</guid>
-      <pubDate>Mon, 17 Jul 2023 15:10:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023060684</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186974&gt;E-2023060684&lt;/A</link>
       <description>
@@ -841,28 +797,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023060684</guid>
       <pubDate>Tue, 18 Jul 2023 15:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023060648</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186925&gt;E-2023060648&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186925&gt;E-2023060648&lt;/A"&gt;Report E-2023060648&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-17T15:10:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-05-30&lt;/li&gt;
-                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading the warehouse crew accidentally put a forklift fork into one of the metal 55 gallon drum of wild sands (un3082) releasing 1 cup of product.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023060648</guid>
-      <pubDate>Mon, 17 Jul 2023 15:10:20 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070123</title>
