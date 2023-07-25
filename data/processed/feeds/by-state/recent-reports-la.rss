@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Jul 2023 12:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 15:12:23 +0000</lastBuildDate>
     <item>
       <title>Report E-2023070049</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187738&gt;E-2023070049&lt;/A</link>
@@ -29,6 +29,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070049</guid>
       <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023070126</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187874&gt;E-2023070126&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187874&gt;E-2023070126&lt;/A"&gt;Report E-2023070126&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-25T15:12:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-30&lt;/li&gt;
+                &lt;li&gt;City: SHREVEPORT&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On June 30, 2023, at 0400 EST, XPO Logistics Terminal LSL experienced a UN3264 “Sure Klean 600” release from a 5-gallon poly jug due to a pallet puncture impacting the trailer floor and concrete lot below. ERTS dispatched contractors to conduct all on site cleanup operations. On June 30, 2023, at 0723 EST, contractors arrived on site and confirmed approximately all 5-gallons of product released from the jug impacting an 8’ x 20’ area of the trailer floor and concrete lot below. Absorbents and soda ash were deployed to clean and neutralize the impacted areas. Three impacted pallets were cut up and containerized along with the empty jug and impacted absorbents. The waste was placed into (2) 55-gallon poly drums and then staged onsite for terminal personnel to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070126</guid>
+      <pubDate>Tue, 25 Jul 2023 15:12:16 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070074</title>
@@ -117,28 +139,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061262</guid>
       <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023060717</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187054&gt;E-2023060717&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187054&gt;E-2023060717&lt;/A"&gt;Report E-2023060717&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-18T15:09:56+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-27&lt;/li&gt;
-                &lt;li&gt;City: PORT ALLEN&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: VEOLIA ES TECHNICAL SOLUTIONS, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During the quality control process in the warehouse at Veolia&amp;#x27;s ten day intrasit facility in Port Allen, LA, the drum was inadvertently knocked over onto it&amp;#x27;s side by the forklift operator and began to slowly leak from the bottom of the drum. An inspection of the drum revealed a puncture near the chime of the drum, as well as two spots towards the bottom, center of the drum where the paint was flaked and appeared to be an additional source of a leak as well. The drum was promptly overpacked for continued transportation and the spill was cleaned up.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023060717</guid>
-      <pubDate>Tue, 18 Jul 2023 15:09:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Jul 2023 12:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 15:12:23 +0000</lastBuildDate>
     <item>
       <title>Report E-2023070105</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187851&gt;E-2023070105&lt;/A</link>
@@ -73,28 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061259</guid>
       <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061217</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186699&gt;X-2023061217&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186699&gt;X-2023061217&lt;/A"&gt;Report X-2023061217&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-18T15:09:56+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-15&lt;/li&gt;
-                &lt;li&gt;City: BROKEN ARROW&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: They were unloading a trailer and found the package to already to be leaking. DescribePack: leaking cap DurationRel: 1 and MitigateEffect: Placed in a hazmat tote and immediately taken to the vented hood.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061217</guid>
-      <pubDate>Tue, 18 Jul 2023 15:09:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

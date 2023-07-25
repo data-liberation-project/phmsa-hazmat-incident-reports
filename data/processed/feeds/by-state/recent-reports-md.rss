@@ -7,7 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Jul 2023 12:21:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 15:12:23 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2023060140</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188690&gt;I-2023060140&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188690&gt;I-2023060140&lt;/A"&gt;Report I-2023060140&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-25T15:12:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-12&lt;/li&gt;
+                &lt;li&gt;City: elkridge&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: NEW PENN MOTOR EXPRESS LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: While unloading 4 drums were punctured by the forklift. The release was properly managed. The damaged drum were placed into a salvage drum and are being held pending disposition from the shipper&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060140</guid>
+      <pubDate>Tue, 25 Jul 2023 15:12:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023061677</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187486&gt;X-2023061677&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187486&gt;X-2023061677&lt;/A"&gt;Report X-2023061677&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-25T15:12:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-24&lt;/li&gt;
+                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061677</guid>
+      <pubDate>Tue, 25 Jul 2023 15:12:16 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023061629</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187438&gt;X-2023061629&lt;/A</link>
@@ -205,50 +249,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061239</guid>
       <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061204</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186686&gt;X-2023061204&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186686&gt;X-2023061204&lt;/A"&gt;Report X-2023061204&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-18T15:09:56+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-14&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS DAMAGED DURING SORTATION. DescribePack: A METAL EDGE PUNCTURED THE PACKAGE AND THE PLASTIC JUG CAUSING THE CONTENTS TO LEAK OUT. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061204</guid>
-      <pubDate>Tue, 18 Jul 2023 15:09:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061177</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186659&gt;X-2023061177&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186659&gt;X-2023061177&lt;/A"&gt;Report X-2023061177&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-18T15:09:56+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-13&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS PICKED UP ON LOAD SIDE WET AND LEAKING DescribePack: UPON INSPECTION FOUND 1 OUT OF 4 BOTTLES TO HAVE A BROKEN SEAL WHICH ALLOWED THE PRODUCT TO LEAK OUT. BAISED ON THE DAMAGE TO THE PACKAGE THE ORIENTATION ARROWS WERE NOT UTILIZED PROPERLY AND WHEN PACKAGE HANDLER JORDAN BROOKS 2957958 WENT TO LOAD THE PACKAGE IT SPILLED ON HIS KNEE. DurationRel: 1 and MitigateEffect: RED TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061177</guid>
-      <pubDate>Tue, 18 Jul 2023 15:09:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
