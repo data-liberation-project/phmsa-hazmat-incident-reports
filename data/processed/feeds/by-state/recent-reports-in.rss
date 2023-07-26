@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jul 2023 18:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 21:11:15 +0000</lastBuildDate>
     <item>
       <title>Report E-2023070155</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187998&gt;E-2023070155&lt;/A</link>
@@ -271,50 +271,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061498</guid>
       <pubDate>Thu, 20 Jul 2023 21:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061267</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186749&gt;X-2023061267&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186749&gt;X-2023061267&lt;/A"&gt;Report X-2023061267&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
-                &lt;li&gt;City: GREENWOOD&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE ARRIVED IN THE QA AREA THE PACKAGE WAS NOTICABLY WET UPON INSPECTION IT WAS NOTCIED THAT BOTH 1 GAL BOTTLES OF ZEP DEGREASER HAD FAILED DUE TO POOR CLOSURES AND INNER PACKAGING DescribePack: THE PACKAGE FAILED AT THE TOP DUE TO POOR CLOSURES AND ON ITS SIDE DUE TO NO INNER PACKAGING DurationRel: 1 and MitigateEffect: ONCE DEEMED A FULLY REGULATED PACKAGE IT WAS SEGREGATED FROM OTHERS&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061267</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061243</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186725&gt;X-2023061243&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186725&gt;X-2023061243&lt;/A"&gt;Report X-2023061243&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-18&lt;/li&gt;
-                &lt;li&gt;City: GREENWOOD&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE ARRIVED IN THE QA AREA THE PACKAGE WAS NOTICABLY WET, UPON INSPECTION IT WAS DEEMED THAT ALL 4 JUGS HAD FAILED DUE TO POOR INNER PACKAGING A LOOSE CAPS. DescribePack: THE PRODUCT FAILED DUE TO LOOSE CAPS DurationRel: 1 and MitigateEffect: ONCE THE PACKAGE WAS DEEMED A FULLY REGULATED HAZMAT IT WAS SEGREGATED FROM OTHER PACKGAES&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061243</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jul 2023 18:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 21:11:15 +0000</lastBuildDate>
     <item>
       <title>Report X-2023061682</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187491&gt;X-2023061682&lt;/A</link>
@@ -95,50 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070015</guid>
       <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061277</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186759&gt;X-2023061277&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186759&gt;X-2023061277&lt;/A"&gt;Report X-2023061277&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
-                &lt;li&gt;City: BIRMINGHAM&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found damaged on trailer. Package looked to have fallen along with other packages during transport due to inadequate trailer loading/ building. Package was found on its side and had liquid stains on top and side of box. The pail inside box contains traces of the liquid on and around container. Package was isolated and put in a hazardous bin. DescribePack: The cap at the top of the container let out some of the liquid due to package not being sat up right and pressure from the liquid being put on the cap. DurationRel: 0 and MitigateEffect: package was sat up right and put into a hazardous bin.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061277</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061241</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186723&gt;X-2023061241&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186723&gt;X-2023061241&lt;/A"&gt;Report X-2023061241&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-17&lt;/li&gt;
-                &lt;li&gt;City: THEODORE&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Top of package was wet and had a gasoline type odor. Found in unload during presort DescribePack: The rim of the metal can was dented from impact during transit casuing small amounts to leak at the seam. DurationRel: 1 and MitigateEffect: The hazmat was removed from the unload and placed into a hazmat container&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061241</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jul 2023 18:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 21:11:15 +0000</lastBuildDate>
     <item>
       <title>Report E-2023070088</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187834&gt;E-2023070088&lt;/A</link>
@@ -425,72 +425,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061499</guid>
       <pubDate>Thu, 20 Jul 2023 21:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061282</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186764&gt;X-2023061282&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186764&gt;X-2023061282&lt;/A"&gt;Report X-2023061282&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
-                &lt;li&gt;City: OCALA&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND WET/DAMAGED. PLACED IN TOTE FOR QA. DescribePack: INSPECTION FOUND A LOOSE CAP ON A BOTTLE OF ZEP THAT ALLOWED LEAKAGE OF LIQUID CONTENT, CAUSING THE DAMAGE. DurationRel: 1 and MitigateEffect: CAP TIGHTENED. PACKAGE REMOVED FROM AREA OF OTHER PACKAGES.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061282</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061255</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186737&gt;X-2023061255&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186737&gt;X-2023061255&lt;/A"&gt;Report X-2023061255&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-09&lt;/li&gt;
-                &lt;li&gt;City: SANFORD&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was found to be leaking so it was brought to a QA damage table for processing DescribePack: package was mishandled and dropped causing tops of bottles to cave in and leak on one bottle. DurationRel: 2 and MitigateEffect: package was brought to QA damage table and placed on top of cardboard&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061255</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061250</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186732&gt;X-2023061250&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186732&gt;X-2023061250&lt;/A"&gt;Report X-2023061250&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
-                &lt;li&gt;City: FORT MYERS&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was unloaded out of door 10 in the unload. Package handler notice package was a hazmat and was also wet. They shut of the belt and requested for a manager to come over and remove the damaged hazmat package so they could safely continue to work. DescribePack: a loose cap caused an internal leak on this hazmat package. A piece of tape could help hold caps in place and help prevent future leaking packages DurationRel: 1 and MitigateEffect: When package was found it was placed directly into a hazmat tote to help prevent more spilling.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061250</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023060644</title>

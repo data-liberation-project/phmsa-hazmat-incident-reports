@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jul 2023 18:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 21:11:15 +0000</lastBuildDate>
     <item>
       <title>Report E-2023070176</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188070&gt;E-2023070176&lt;/A</link>
@@ -161,94 +161,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023060776</guid>
       <pubDate>Thu, 20 Jul 2023 21:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061495</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187304&gt;X-2023061495&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187304&gt;X-2023061495&lt;/A"&gt;Report X-2023061495&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
-                &lt;li&gt;City: DURHAM&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was pulled to vsa to be inspected and put into bucket DescribePack: the inside bottle cap came loose and spilled contents DurationRel: 1 and MitigateEffect: was already released when found&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061495</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061475</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187284&gt;X-2023061475&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187284&gt;X-2023061475&lt;/A"&gt;Report X-2023061475&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-12&lt;/li&gt;
-                &lt;li&gt;City: DURHAM&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: the package was placed on a table for inspection upon inspection the package had a hole and hazmat labels on it. the package was then moved to a QA area. DescribePack: the lids on the bottles were not tight and led to a leak. DurationRel: 1 and MitigateEffect: absorbent mats were placed down to clean and stop the spared of the leak.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061475</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061275</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186757&gt;X-2023061275&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186757&gt;X-2023061275&lt;/A"&gt;Report X-2023061275&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
-                &lt;li&gt;City: DURHAM&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The damaged package was placed in a hazardous materials tote and take to the hazardous materials staging area away from personnel and other packages. DescribePack: Upon inspection it noted that the plastic drum bottom has a small hole that causes it to leak. DurationRel: 6 and MitigateEffect: The damaged package was placed in a hazardous materials pail awaiting disposition.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061275</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061266</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186748&gt;X-2023061266&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186748&gt;X-2023061266&lt;/A"&gt;Report X-2023061266&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
-                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Upon unloading the package from the trailer, the package handler noticed the package was upside down.  Upon turning it right side up to scan the label, it began leaking.  The package was placed in a red hazmat tote and QA was informed of its condition and location. DescribePack: The lid of one jug had become loose, and spilled out, soaking the bottom of the outer packaging. DurationRel: 1 and MitigateEffect: The package was placed in a red hazmat tote and take to the nearest QA cage for further processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061266</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070361</title>

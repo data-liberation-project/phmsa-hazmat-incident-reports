@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jul 2023 18:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2023 21:11:15 +0000</lastBuildDate>
     <item>
       <title>Report X-2023061652</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187461&gt;X-2023061652&lt;/A</link>
@@ -183,94 +183,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023060780</guid>
       <pubDate>Thu, 20 Jul 2023 21:09:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061483</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187292&gt;X-2023061483&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187292&gt;X-2023061483&lt;/A"&gt;Report X-2023061483&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-15&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Arrived at QA area due to internal leakage DescribePack: loose caps causing internal leakage DurationRel: 1 and MitigateEffect: placed in hazmat bag and yellow drum awaiting for disposition&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061483</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061281</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186763&gt;X-2023061281&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186763&gt;X-2023061281&lt;/A"&gt;Report X-2023061281&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
-                &lt;li&gt;City: CHANDLER&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was taken to damaged hazardous material area. It appears contents leaked through missing caps. Internal leakage spoiled other inner packages. DescribePack: Two bottles had leaks. The other two inner packs were compromised and the box was disintegrated by the time the package was inspected. DurationRel: 4 and MitigateEffect: Inner bottles placed upright and taken to ventilation hood&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061281</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061258</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186740&gt;X-2023061258&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186740&gt;X-2023061258&lt;/A"&gt;Report X-2023061258&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-12&lt;/li&gt;
-                &lt;li&gt;City: KINGMAN&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: pkg was discovered to be leaking when being unloaded. pkg was removed from unload area &amp;amp; placed in a hazmat bag &amp;amp; bucket. DescribePack: 1 bottle with loose cap causing internal leakage.  the other bottles in pkg were leaked on as well. DurationRel: 39 and MitigateEffect: pkg was placed in a hazmat bag &amp;amp; bucket and removed from unload area.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061258</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061257</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186739&gt;X-2023061257&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186739&gt;X-2023061257&lt;/A"&gt;Report X-2023061257&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-19T21:09:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-09&lt;/li&gt;
-                &lt;li&gt;City: TUCSON&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PKG LEFT IN HAZMAT CAGE FOR HAZMAT TRAINED QA PACKAGE WET/LEAKED UPON INSPECTION FOUND BOTTLE W/LOOSE CAP DescribePack: LOOSE CAP CONTENTS LEAKED OUT DurationRel: 1 and MitigateEffect: IN HOUSE CLEAN UP&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061257</guid>
-      <pubDate>Wed, 19 Jul 2023 21:09:22 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023060675</title>
