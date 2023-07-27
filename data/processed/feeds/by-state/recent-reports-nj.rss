@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Jul 2023 18:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 21:09:49 +0000</lastBuildDate>
     <item>
       <title>Report X-2023061670</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187479&gt;X-2023061670&lt;/A</link>
@@ -95,28 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070043</guid>
       <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061501</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187310&gt;X-2023061501&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187310&gt;X-2023061501&lt;/A"&gt;Report X-2023061501&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-20T21:09:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-20&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During the sunrise sort, the package arrived at the hazmat cage with signs of possible internal leakage and you can hear glass moving around. Upon inspection 1 glass bottle of 4 containing &amp;quot;Fisher Scientific Acetonitrile&amp;quot; was found cracked/broken causing the internal leakage. It was then placed into a salvage drum to await further processing and to be sent back to the shipper unless otherwise. DescribePack: The Package failure was due to 1 of the 4 brown glass bottles being cracked/broken and then leaking out completely. The glass bottle seem to have cracked due to being dropped during the loading process. DurationRel: 3 and MitigateEffect: The package was opened immediately and the 1 glass bottle scraps were properly collected to avoid injury&amp;#x27;s. Then the remaining 3 glass bottles were placed into a salvage drum to await further processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061501</guid>
-      <pubDate>Thu, 20 Jul 2023 21:09:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
