@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Jul 2023 12:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 15:11:30 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023061728</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187537&gt;X-2023061728&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187537&gt;X-2023061728&lt;/A"&gt;Report X-2023061728&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-27T15:11:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-27&lt;/li&gt;
+                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was damaged during delivery transit. When delivery truck returned, the package was located within the truck and placed into a Hazardous Materials bag to contain it. Once contained within the bag, the bag was moved to a transport cart for it be secured within the hazmat processing area for further examination and processing. Delivery truck was further looked over for any spillage within the truck, but none was found. DescribePack: Package failure was caused by an unsecure cap that caused the hazardous material bottle to leak/release into the shipping carton. DurationRel: 5 and MitigateEffect: Package was secured once discovered within a Hazardous Materials bag and transported to the Hazmat processing area away from general personel.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061728</guid>
+      <pubDate>Thu, 27 Jul 2023 15:11:25 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023070176</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188070&gt;E-2023070176&lt;/A</link>

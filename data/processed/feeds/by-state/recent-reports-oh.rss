@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Jul 2023 12:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 15:11:30 +0000</lastBuildDate>
     <item>
       <title>Report X-2023070374</title>
       <description>
@@ -28,6 +28,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070374</guid>
       <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023061732</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187541&gt;X-2023061732&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187541&gt;X-2023061732&lt;/A"&gt;Report X-2023061732&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-27T15:11:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-27&lt;/li&gt;
+                &lt;li&gt;City: PLAIN CITY&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Shipment removed from system flow due to noted liquid release and placed in red lined hazmat tote DescribePack: closure failed allowing release of the product DurationRel: 1 and MitigateEffect: shipment placed in lined tote to prevent further release&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061732</guid>
+      <pubDate>Thu, 27 Jul 2023 15:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023061697</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187506&gt;X-2023061697&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187506&gt;X-2023061697&lt;/A"&gt;Report X-2023061697&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-07-27T15:11:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-25&lt;/li&gt;
+                &lt;li&gt;City: ETNA&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DRUM TAKEN OUT OF SYSTEM FLOW DUE TO CAP LEAKING, ALL CONTENTS CONTAINED IN LINED TOTE DescribePack: CAP LEAKING ON TOP OF DRUM DurationRel: 0 and MitigateEffect: CAP REMOVED&amp;amp;REPLACED, STILL LEAKING, PLACED UPRIGHT IN PROCESSING AREA&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061697</guid>
+      <pubDate>Thu, 27 Jul 2023 15:11:25 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070183</title>
