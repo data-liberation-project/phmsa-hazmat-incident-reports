@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Jul 2023 00:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2023 03:12:22 +0000</lastBuildDate>
     <item>
       <title>Report X-2023070162</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187931&gt;X-2023070162&lt;/A</link>
@@ -229,138 +229,6 @@
       <pubDate>Mon, 24 Jul 2023 15:13:04 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023070058</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187749&gt;E-2023070058&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187749&gt;E-2023070058&lt;/A"&gt;Report E-2023070058&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-22T00:38:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-29&lt;/li&gt;
-                &lt;li&gt;City: Kennesaw&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Hard braking&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070058</guid>
-      <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070019</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187616&gt;E-2023070019&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187616&gt;E-2023070019&lt;/A"&gt;Report E-2023070019&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-22T00:38:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-28&lt;/li&gt;
-                &lt;li&gt;City: Ellenwood&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070019</guid>
-      <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061588</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187397&gt;X-2023061588&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187397&gt;X-2023061588&lt;/A"&gt;Report X-2023061588&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-22T00:38:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-02&lt;/li&gt;
-                &lt;li&gt;City: ELLENWOOD&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The box was discovered wet and torn caused by internal leakage DescribePack: loose caps on the bottles DurationRel: 1 and MitigateEffect: sand was used to contain the spillage&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061588</guid>
-      <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061582</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187391&gt;X-2023061582&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187391&gt;X-2023061582&lt;/A"&gt;Report X-2023061582&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-22T00:38:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
-                &lt;li&gt;City: KENNESAW&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Qa was call to unload due to a  leaking hazmat . DescribePack: The hazmat was leaking from the top of the cap. DurationRel: 1 and MitigateEffect: Qa clean up the spill hazmat was taking  over to waste to be process.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061582</guid>
-      <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061572</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187381&gt;X-2023061572&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187381&gt;X-2023061572&lt;/A"&gt;Report X-2023061572&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-22T00:38:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-15&lt;/li&gt;
-                &lt;li&gt;City: ELLENWOOD&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023061572 SequenceEvent: Loose caps caused internal leakage, the box was retrieved and the spill was contained. DescribePack: Loose caps on bottles inside of the box DurationRel: 1 and MitigateEffect: sand was used to contain the spill and the was package was put into a salvage drum.   2. X-2023061581 SequenceEvent: The package was wet from internal leakage due to the caps on the bottles being loose, the package fell apart before being placed on the non conveyable belt DescribePack: loose caps on the bottles DurationRel: 1 and MitigateEffect: spill was contained and put into a salvage drum.   3. X-2023061583 SequenceEvent: The package was discovered leaking on the NC belt and was pulled off DescribePack: loose caps DurationRel: 1 and MitigateEffect: sand was used to contain and clean up the spill, afterwards all contents were put into a salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061572</guid>
-      <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061568</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187377&gt;X-2023061568&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187377&gt;X-2023061568&lt;/A"&gt;Report X-2023061568&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-22T00:38:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
-                &lt;li&gt;City: KENNESAW&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Qa was called over due to a leaking hazmat. DescribePack: The hazmat was leaking from the closure due to cap being lose. DurationRel: 1 and MitigateEffect: Qa place the leaking hazmat inside a red tote to be taken over to waste to be process.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061568</guid>
-      <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023070221</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188127&gt;E-2023070221&lt;/A</link>
       <description>
@@ -425,50 +293,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070139</guid>
       <pubDate>Wed, 26 Jul 2023 00:36:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2022111080</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2162064&gt;X-2022111080&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2162064&gt;X-2022111080&lt;/A"&gt;Report X-2022111080&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-22T00:38:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2022-11-10&lt;/li&gt;
-                &lt;li&gt;City: DORAVILLE&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2022111080</guid>
-      <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2022110058</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2159930&gt;X-2022110058&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2159930&gt;X-2022110058&lt;/A"&gt;Report X-2022110058&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-22T00:38:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2022-10-27&lt;/li&gt;
-                &lt;li&gt;City: DORAVILLE&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2022110058</guid>
-      <pubDate>Sat, 22 Jul 2023 00:38:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
