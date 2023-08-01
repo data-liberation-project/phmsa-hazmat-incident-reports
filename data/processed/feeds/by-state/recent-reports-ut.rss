@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Jul 2023 00:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2023 03:13:14 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023070259</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188214&gt;E-2023070259&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188214&gt;E-2023070259&lt;/A"&gt;Report E-2023070259&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-01T03:13:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-28&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070259</guid>
+      <pubDate>Tue, 01 Aug 2023 03:13:11 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023070194</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188096&gt;E-2023070194&lt;/A</link>
@@ -95,28 +117,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070172</guid>
       <pubDate>Wed, 26 Jul 2023 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061637</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187446&gt;X-2023061637&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187446&gt;X-2023061637&lt;/A"&gt;Report X-2023061637&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-24T15:13:04+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-23&lt;/li&gt;
-                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: LEAKING CORROSIVE LIQUID DURING TRANSIT. UNLOADED AND PLACED INSIDE A HAZMAT BAG AND A RED HAZMAT TOTE. DescribePack: LOOSE CAP LEAKED ENTIRE CONTENT INSIDE AN UNSUITABLE LARGED WET BOX SOAKING THE BOX AND SOILING ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND A RED HAZMAT TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061637</guid>
-      <pubDate>Mon, 24 Jul 2023 15:13:04 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070225</title>
