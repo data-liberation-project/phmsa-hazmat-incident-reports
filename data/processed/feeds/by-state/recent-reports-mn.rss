@@ -7,16 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Aug 2023 03:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Aug 2023 21:09:29 +0000</lastBuildDate>
     <item>
-      <title>Report X-2023070149</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187918&gt;X-2023070149&lt;/A</link>
+      <title>Report X-2023070690</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189485&gt;X-2023070690&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187918&gt;X-2023070149&lt;/A"&gt;Report X-2023070149&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-28T15:11:44+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189485&gt;X-2023070690&lt;/A"&gt;Report X-2023070690&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-27&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-07-02&lt;/li&gt;
+                &lt;li&gt;City: STEWARTVILLE&lt;/li&gt;
                 &lt;li&gt;State: MN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -24,99 +24,77 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was first discovered damaged on 6/26 at STPL, but whoever did the damage report ignored the limited quantity diamond on it and processed it as a normal package, then returned one of the original four cans to the shipper UNDECLARED. The package was discovered damaged at MPGR on 6/27 at 12:33pm when a driver placed a code 10 on it and brought it back to the station. QA admin who retrieved it from the van upon its return to station noticed it was paint and appeared undeclared, so they placed it in a lined tote and brought it back to the damage area, moving it to the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, on 6/29 the HESS specialist returned to work and confirmed that its SDS states it to require declaration. awaiting disposition. DescribePack: one can leaked due to lack of lid clips. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023070690 SequenceEvent: Package was placed on the back of the trailer with nothing securing it and with the loose cap it tipped over and contents leaked out DescribePack: one of the caps was not secured so when package tipped contents leaked out DurationRel: 1 and MitigateEffect: package was turned upright and placed into a salvage drum.   2. X-2023070691 SequenceEvent: package was loaded on the end of the trailer with nothing to secure it and with the loose cap some of the contents leaked out DescribePack: 1 of the jugs had a loose cap which leaked out some contents DurationRel: 1 and MitigateEffect: package was placed into a salvage drum.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070149</guid>
-      <pubDate>Fri, 28 Jul 2023 15:11:44 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070690</guid>
+      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023070147</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187916&gt;X-2023070147&lt;/A</link>
+      <title>Report E-2023070460</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188465&gt;E-2023070460&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187916&gt;X-2023070147&lt;/A"&gt;Report X-2023070147&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-28T15:11:44+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188465&gt;E-2023070460&lt;/A"&gt;Report E-2023070460&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-27&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070147</guid>
-      <pubDate>Fri, 28 Jul 2023 15:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061691</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187500&gt;X-2023061691&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187500&gt;X-2023061691&lt;/A"&gt;Report X-2023061691&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-27T15:11:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-26&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061691</guid>
-      <pubDate>Thu, 27 Jul 2023 15:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061688</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187497&gt;X-2023061688&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187497&gt;X-2023061688&lt;/A"&gt;Report X-2023061688&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-27T15:11:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-26&lt;/li&gt;
-                &lt;li&gt;City: SAINT PAUL&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-07-05&lt;/li&gt;
+                &lt;li&gt;City: ROSEVILLE&lt;/li&gt;
                 &lt;li&gt;State: MN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND INSIDE TRAILER LEAKING FROM BOX. DescribePack: ONE GALLON PLASTIC BOTTLE THE CAP LOOSE DurationRel: 1 and MitigateEffect: LEAKING SOME LIQUID OUT.&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061688</guid>
-      <pubDate>Thu, 27 Jul 2023 15:11:25 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070460</guid>
+      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023070167</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188015&gt;E-2023070167&lt;/A</link>
+      <title>Report E-2023070465</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188471&gt;E-2023070465&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188015&gt;E-2023070167&lt;/A"&gt;Report E-2023070167&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-07-26T15:11:16+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188471&gt;E-2023070465&lt;/A"&gt;Report E-2023070465&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-29&lt;/li&gt;
-                &lt;li&gt;City: WAITE PARK&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-06-12&lt;/li&gt;
+                &lt;li&gt;City: FARMINGTON&lt;/li&gt;
                 &lt;li&gt;State: MN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal XBD notified ERTS of a UN1824 &amp;quot;Met-All Terj&amp;quot; release from a 330-gallon poly tote. Terminal personnel declined contractor assistance as the cap was loose releasing half a gallon of product which evaporated. There was no release to cleanup. The tote was secured for shipment onto the consignee.&lt;/li&gt;
+                &lt;li&gt;Description: One 5 ounce bottle crushed, released 3 ounces contained in box.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070167</guid>
-      <pubDate>Wed, 26 Jul 2023 15:11:16 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070465</guid>
+      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023070443</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188447&gt;E-2023070443&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188447&gt;E-2023070443&lt;/A"&gt;Report E-2023070443&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-15&lt;/li&gt;
+                &lt;li&gt;City: EAGAN&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: During off loading the warehouse crew accidentally put a forklift fork into one of the metal 5 gallon pail of paint (un1263) releasing 5 gallons of product.  Contractors were dispatched for the containment and cleanup of the release.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070443</guid>
+      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
