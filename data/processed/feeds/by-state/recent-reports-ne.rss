@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Aug 2023 21:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2023 15:11:27 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023070811</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189606&gt;X-2023070811&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189606&gt;X-2023070811&lt;/A"&gt;Report X-2023070811&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-07T15:11:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-06&lt;/li&gt;
+                &lt;li&gt;City: OMAHA&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: While processing hazmat packages noticed one was leaking, put on gloves and determined which package was leaking. Once identified, placed package in a container and transported to hazmat cage. Opened fiberboard box and there were 4 gallons of liquid inside the box. Noticed that one of the gallons had less liquid in it. Cleaned up minor spilling on cart carrying hazmats using approved paper towels. DescribePack: Unknown where the package failed just noticed box was wet on bottom and upon opening the box noticed that one of the gallons had less liquid than the other 3 gallons had. DurationRel: 1 and MitigateEffect: Immediately placed hazmat in salvage drum to avoid spilling on surfaces and other packages. Where hazmat initially was noticed leaking wiped spillage up with paper towels approved for cleaning up spills.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070811</guid>
+      <pubDate>Mon, 07 Aug 2023 15:11:24 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023070535</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188582&gt;E-2023070535&lt;/A</link>
@@ -29,6 +51,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070535</guid>
       <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023060708</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2185899&gt;X-2023060708&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2185899&gt;X-2023060708&lt;/A"&gt;Report X-2023060708&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-07T15:11:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-07&lt;/li&gt;
+                &lt;li&gt;City: OMAHA&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On June 7th, a package was noticed with an odor, and upon further inspection it was discovered to be leaking.  The package was marked with Class 3 flammable liquid labels and containd UN1120 Butanols, 3, PGIII.  The package was placed into a salvage drum and an amended shippers declaration was requested.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060708</guid>
+      <pubDate>Mon, 07 Aug 2023 15:11:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

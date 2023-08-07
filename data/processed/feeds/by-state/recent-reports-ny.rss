@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Aug 2023 21:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2023 15:11:27 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023070804</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189599&gt;X-2023070804&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189599&gt;X-2023070804&lt;/A"&gt;Report X-2023070804&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-07T15:11:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-06&lt;/li&gt;
+                &lt;li&gt;City: WEST HENRIETTA&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Management informed us that there was a leaking Hazmat in a bin. I located the bin and moved it to the Hazmat cage to be processed. DescribePack: Corrosive acid leaked onto the package causing the packaging to disintegrate on the side. DurationRel: 1 and MitigateEffect: I placed absorbent pads over the initial spill while the sort was still going. Then cleaned the spill and used gloves to contain the Hazmat.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070804</guid>
+      <pubDate>Mon, 07 Aug 2023 15:11:24 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023070773</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189568&gt;X-2023070773&lt;/A</link>
@@ -183,6 +205,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070687</guid>
       <pubDate>Tue, 01 Aug 2023 03:13:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023070565</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188622&gt;E-2023070565&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188622&gt;E-2023070565&lt;/A"&gt;Report E-2023070565&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-07T15:11:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
+                &lt;li&gt;City: TONAWANDA&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: One 5 gallon metal pail crushed, released 5 gallons.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070565</guid>
+      <pubDate>Mon, 07 Aug 2023 15:11:24 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070525</title>
