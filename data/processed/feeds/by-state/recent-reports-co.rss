@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Aug 2023 18:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 18:14:04 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023070969</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189764&gt;X-2023070969&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189764&gt;X-2023070969&lt;/A"&gt;Report X-2023070969&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
+                &lt;li&gt;City: AURORA&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The sequence of events are unknown because the ops manager responsible for the area the damage was found in did not make any member of our administrative staff aware of the damage. DescribePack: The shipment is leaking at or near the bottom of the drum. The location of holes/cracks are unknown. DurationRel: 8 and MitigateEffect: Package was placed into a spill tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070969</guid>
+      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023070876</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189671&gt;X-2023070876&lt;/A</link>
@@ -337,6 +359,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070458</guid>
       <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023060850</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186251&gt;X-2023060850&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186251&gt;X-2023060850&lt;/A"&gt;Report X-2023060850&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-14&lt;/li&gt;
+                &lt;li&gt;City: LITTLETON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Due to the cold nature of packages picked up from their local Safeway, a courier offered two packages to their station Dangerous Goods Specialist located in Littleton, Co , with the concern they may contain undeclared dry ice.  Outer package was reported as a reflective padded pack and the inner packaging were plastic bags which contained frozen beef filets and undeclared Dry Ice.  There were no marks nor labels on the packages to indicate there was dry ice in either package. Information was gathered on the packages and due to the perishable nature of the contents, the packages were held at the station and the shipper was called to retrieve the packages from the station.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060850</guid>
+      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070533</title>

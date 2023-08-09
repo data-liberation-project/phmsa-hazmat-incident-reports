@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Aug 2023 18:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 18:14:04 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023070923</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189718&gt;X-2023070923&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189718&gt;X-2023070923&lt;/A"&gt;Report X-2023070923&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
+                &lt;li&gt;City: NEWBURGH&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND ON THE BELT LEAKING. UPON INSPECTION NOTICED THAT THE BOTTLE WAS PUNCTURED WHICH CAUSED LEAKAGE. DescribePack: THE LOCATION OF THE LEAKAGE WAS BY THE TOP OF THE BOTTLE . DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT INSIDE OF A PLASTIC HAZMAT BAG&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070923</guid>
+      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023070882</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189677&gt;X-2023070882&lt;/A</link>
