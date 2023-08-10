@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Aug 2023 21:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 21:10:16 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023071018</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189813&gt;X-2023071018&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189813&gt;X-2023071018&lt;/A"&gt;Report X-2023071018&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-13&lt;/li&gt;
+                &lt;li&gt;City: ROSEVILLE&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found leaking when unloaded from trailer. Package was given to QA in a hazmat tote. DescribePack: Plastic seal on the cap was cracked/otherwise damaged from improper manufacturing. DurationRel: 0 and MitigateEffect: Package was placed in a hazmat tote as soon as leakage was noticed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071018</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023070692</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188923&gt;E-2023070692&lt;/A</link>
@@ -95,6 +117,49 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070460</guid>
       <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023061354</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023061354&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
+                &lt;li&gt;City: Maple Grove&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On June 22nd, FedEx Ground dropped of a package at an express station.  The package was found to have an odor of fuel and a leak on one side of the package.  There were no marks on the outside of the package indicating that it contained and dangerous goods.  The station is hold the package for further disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061354</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023061331</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186955&gt;X-2023061331&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186955&gt;X-2023061331&lt;/A"&gt;Report X-2023061331&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-14&lt;/li&gt;
+                &lt;li&gt;City: MINNEAPOLIS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: This package (772418606624) was found while unloading a PM Express shuttle from the FedEx Ground facility in Willmar, MN.  The courier suspected this package was DG due to the markings on the box calling in herbicide and being in UN spec packaging.  He brought it to manager Wayne Peterson&amp;#x27;s attention before the truck was offloaded.  The manager inspected the package and looked up the SDS online to verify transportation information.  In section 14 this chemical is listed as IATA regulated for air transport, as a UN 3082.  As the  package contained 2 inner containers, both containing 2.5 Gallons (9.45 L) this package would not qualify for shipment under special provision 197.  It should be noted according to the SDS this package would not be regulated if it were to solely travel via truck.  Package was instructed to be bumped by the Express station and to contact the FedEx Ground Facility it came from and have them retrieve the package.  A second identical package was (772418607561) discovered later that night and was give n the same disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061331</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023070891</title>

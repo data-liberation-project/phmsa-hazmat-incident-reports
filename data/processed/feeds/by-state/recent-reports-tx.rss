@@ -7,7 +7,270 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Aug 2023 21:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Aug 2023 21:10:16 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023071034</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023071034&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-10&lt;/li&gt;
+                &lt;li&gt;City: CORPUS CHRISTI&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: P&amp;amp;D DRIVER PICKED UP PACKAGE FROM SHIPPER AND LATER NOTICED A GASOLINE SMELL. CSA WENT AND RETRIEVED THE PACKAGE FROM THE DRIVER AND BROUGHT IT BACK TO THE STATION. WHEN WE OBSERVED THE PACKAGE, WE NOTICED THE SMELL OF GASOLINE AND THAT SOME OF THE BOX ON THE INSIDE WAS WET FROM IT LEAKING. DescribePack: THERE WAS NO DAMAGE. THIS WAS AN RTS PACKAGE GOING BACK TO WALMART THAT THE SHIPPER DID NOT COMPLETELY BLED THE LINES OF FLUIDS. IT IS A USED LAWN MOWER. DurationRel: 1 and MitigateEffect: IT LEAKED OUT AND THE BOX ABSORBED IT.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071034</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080095</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190426&gt;X-2023080095&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190426&gt;X-2023080095&lt;/A"&gt;Report X-2023080095&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-26&lt;/li&gt;
+                &lt;li&gt;City: BEAUMONT&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was unloaded with the content already leaked out. DescribePack: The cap was loose when I opened it. DurationRel: 24 and MitigateEffect: It was dried up when it came to our station with a stain on the box&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080095</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023071161</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189956&gt;X-2023071161&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189956&gt;X-2023071161&lt;/A"&gt;Report X-2023071161&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-18&lt;/li&gt;
+                &lt;li&gt;City: AUSTIN&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Unload called QA to pick up leaking hazmat from unload. PPE used blue gloves, mask and googles. I out on all PPE and placed the leaking haz-mat into a lined black tote. DescribePack: one of the glass jugs had a loose cap, causing a internal leak. DurationRel: 1 and MitigateEffect: placed leaking haz mat in a lines black tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071161</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023071092</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189887&gt;X-2023071092&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189887&gt;X-2023071092&lt;/A"&gt;Report X-2023071092&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-14&lt;/li&gt;
+                &lt;li&gt;City: AUSTIN&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: VSA got notice from driver about the damage hazmat in their truck; was damaged around 5pm,  got driver to pull truck aside from building and remove package, broken glass, and sweep inside the truck. Took package with the broken glass away from the building until being staged in Hazmat Cage. DescribePack: Top of package&amp;#x27;s tape was loose and one bottle fell out during transit. DurationRel: 1 and MitigateEffect: Clean up the truck and removed the damaged glass.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071092</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023071051</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189846&gt;X-2023071051&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189846&gt;X-2023071051&lt;/A"&gt;Report X-2023071051&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
+                &lt;li&gt;City: DALLAS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: BOX WAS BROUGHT, BAGGED, TO THE HWPA. DescribePack: BOX WAS LEAKING A WHITE GRANUAL. WHITE GRANUALS ALSO PRESENT LOOSE INSIDE OF BOX. PAIL HAD SHIFTED TO ITS SIDE. CAP MISALIGNED IN TWO PLACES. DurationRel: 1 and MitigateEffect: PAIL WAS BAGGED. ALL CLEAN-UP AND DAMAGED MATERIALS PLACED IN A LINED SALVAGE DRUM.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071051</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023071041</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189836&gt;X-2023071041&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189836&gt;X-2023071041&lt;/A"&gt;Report X-2023071041&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-13&lt;/li&gt;
+                &lt;li&gt;City: HUTCHINS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was bagged and placed inside a tote box for proper process. DescribePack: There was insufficient inner packing protection and the lids are poor quality and liquid content easily leaks out. DurationRel: 2 and MitigateEffect: Package was bagged.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071041</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023071037</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189832&gt;X-2023071037&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189832&gt;X-2023071037&lt;/A"&gt;Report X-2023071037&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-13&lt;/li&gt;
+                &lt;li&gt;City: HUTCHINS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Tugger brought leaking package to hazmat for proper process and examination. DescribePack: Bottle is bent from front and back, acid is leaking from cracks due to bottle damage. DurationRel: 2 and MitigateEffect: Package was bagged and oil dry was placed on top of acid that leaked out.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071037</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023071004</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189799&gt;X-2023071004&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189799&gt;X-2023071004&lt;/A"&gt;Report X-2023071004&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
+                &lt;li&gt;City: MESQUITE&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found by hazmat cage. Upon further inspection it was determined that the package was suffering from overpressure causing it to leak from the cap by force. DescribePack: The package was suffering from overpressure causing it to leak from the cap by force. DurationRel: 1 and MitigateEffect: Package was placed in a clear hazmat bag in a red hazmat tote and then processed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071004</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023071000</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189795&gt;X-2023071000&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189795&gt;X-2023071000&lt;/A"&gt;Report X-2023071000&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-13&lt;/li&gt;
+                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found in QA damage area.  Outer box was torn. DescribePack: Upon inspection, part of the bucket&amp;#x27;s lid was bent.  Only a small amount of spilled powder was seen inside of the box. DurationRel: 0 and MitigateEffect: Leakage was not spreading.  Box was in a Hazmat bag when found and placed in a salvage drum during inspection.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071000</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070996</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189791&gt;X-2023070996&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189791&gt;X-2023070996&lt;/A"&gt;Report X-2023070996&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-13&lt;/li&gt;
+                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found in QA damage area.  Box was soaked and contained in plastic bag. DescribePack: Upon inspection, one of the 2 plastic containers was empty. DurationRel: 0 and MitigateEffect: Leakage was not spreading when found.  Box was placed in salvage drum during inspection.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070996</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070980</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189775&gt;X-2023070980&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189775&gt;X-2023070980&lt;/A"&gt;Report X-2023070980&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-12&lt;/li&gt;
+                &lt;li&gt;City: MESQUITE&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was laid on its side by the pickoff. The package started leaking. QA hazmat was called. Upon arrival the package was placed upright in a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. DescribePack: Package contents had loose caps. DurationRel: 1 and MitigateEffect: The package was placed upright in a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. Package was wet but contents did not extend/leak beyond the box.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070980</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070978</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189773&gt;X-2023070978&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189773&gt;X-2023070978&lt;/A"&gt;Report X-2023070978&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-12&lt;/li&gt;
+                &lt;li&gt;City: HUTCHINS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was bagged and placed inside tote box. DescribePack: Acid stain is leaking from drum opening. DurationRel: 3 and MitigateEffect: Leaking package was bagged.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070978</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023070962</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189757&gt;X-2023070962&lt;/A</link>
@@ -1217,6 +1480,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070396</guid>
       <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070329</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188503&gt;X-2023070329&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188503&gt;X-2023070329&lt;/A"&gt;Report X-2023070329&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-28&lt;/li&gt;
+                &lt;li&gt;City: AUSTIN&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: The drum of UN2790 arrived at 079/AUS on a city trailer. The drum was offloaded onto the dock. As the drum was being loaded onto the trailer, the driver noticed the cap on the drum had a small amount of liquid on top of it. The Operations Supervisor is reaching out to the shipper about picking this up.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070329</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023061364</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187043&gt;X-2023061364&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187043&gt;X-2023061364&lt;/A"&gt;Report X-2023061364&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-26&lt;/li&gt;
+                &lt;li&gt;City: DALLAS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: The skid of UN1791 was loaded on a mobile platform. As the mobile platform was being pulled off the trailer, the nozzle on the lid of a drum struck the trailer and was broken off, causing the spill.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061364</guid>
+      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023060803</title>
