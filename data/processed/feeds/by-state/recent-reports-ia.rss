@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Aug 2023 21:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 18:13:52 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023070812</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189078&gt;E-2023070812&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189078&gt;E-2023070812&lt;/A"&gt;Report E-2023070812&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-18&lt;/li&gt;
+                &lt;li&gt;City: Wakeeney&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Load shift&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070812</guid>
+      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023071013</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189808&gt;X-2023071013&lt;/A</link>
@@ -73,94 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070925</guid>
       <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070641</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188815&gt;E-2023070641&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188815&gt;E-2023070641&lt;/A"&gt;Report E-2023070641&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-08T15:12:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-14&lt;/li&gt;
-                &lt;li&gt;City: Davenport&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Improper blocking &amp;amp; bracing&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070641</guid>
-      <pubDate>Tue, 08 Aug 2023 15:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070755</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189550&gt;X-2023070755&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189550&gt;X-2023070755&lt;/A"&gt;Report X-2023070755&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-03&lt;/li&gt;
-                &lt;li&gt;City: GRIMES&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The leaking can was discovered when it reached its final belt for van-loading. We think it came off the trailer is good condition. Upon finding the leaking can, we contained it is a hazmat bag inside a black tote, we then cleaned up any product that was on any public surfaces. DescribePack: Several leaks around the top of the can as indicated by the dried product at various crimping points. DurationRel: 1 and MitigateEffect: We covered the liquid with kitty litter and swept it up when it was thoroughly soaked in.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070755</guid>
-      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023060813</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186162&gt;X-2023060813&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186162&gt;X-2023060813&lt;/A"&gt;Report X-2023060813&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-08&lt;/li&gt;
-                &lt;li&gt;City: WATERLOO&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ILLINOIS CENTRAL RAILROAD COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 06-08-2023 a CN Mechanical employee observed liquid dripping from the bottom outlet valve of rail car # HSRX 3393 while performing an inbound train inspection at the CN Waterloo Yard in Waterloo, Iowa. The employee notified the CN Yard Coordinator who in turn made the proper notifications to all departments.  CN Dangerous Goods Officer upon arrival and inspection found the bottom outlet valve cap to be less than tool tight and the bottom outlet valve handle to not be in the fully closed position, allowing product to enter the cap and leak out.  The bottom outlet valve was moved to the fully closed position. The BOV cap was then removed and observed for 20 minutes to ensure there was no further leakage from the valve. The bottom outlet valve cap was then re-installed and tightened with a 36&amp;quot; pipe wrench.  Rail car was released back to CN transportation for continued movement to destination.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060813</guid>
-      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023060003</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187677&gt;I-2023060003&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187677&gt;I-2023060003&lt;/A"&gt;Report I-2023060003&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-08T00:23:03+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-05-19&lt;/li&gt;
-                &lt;li&gt;City: PALO&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SULLY TRANSPORT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Driver was dispatch to bring 7000 gal of fuel to Palo Power Plant Construction site. Was instructed to pump into 2 - 5000 gal tanks. Upon arrival driver checked tank 1, tank guage read zero. He pumped 3500 gals into tank then before pumping into the 2nd tank he read that guage and it showed 11 foot inches. this was on a 6 foot tall tank. There was no way to get ontop of the tank to stick a tank stick guage in it. So he hit the head of the tank and it sounded empty, as he was told. So he started his fuel off load. While unloading he noticed a strong smell of fuel, which is unusual. He immediately went to shut his pump off and before he got to it spewed out of the top of the tank. Driver reversed the direction of his pump and started pulling fuel back out to reduce the amount of spillage.  Note - Sully Transport&amp;#x27;s dispatch was told that both tanks are empty by the customer that was receiving the load.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060003</guid>
-      <pubDate>Tue, 08 Aug 2023 00:23:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

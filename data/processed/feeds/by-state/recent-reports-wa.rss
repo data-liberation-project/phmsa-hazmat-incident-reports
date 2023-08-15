@@ -7,7 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Aug 2023 21:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 18:13:52 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023071096</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189891&gt;X-2023071096&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189891&gt;X-2023071096&lt;/A"&gt;Report X-2023071096&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-14&lt;/li&gt;
+                &lt;li&gt;City: AUBURN&lt;/li&gt;
+                &lt;li&gt;State: WA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023071096 SequenceEvent: This package was discovered in the AM and was placed inside a lined hazmat tote and stored inside the hazmat cage. Upon inspection, 5 gal pail of Ecolab laundry sour liquid appeared to be leaking from the top of the cap. DescribePack: The barcode that was on top of the cap looked wet and stained. There was green liquid near and along the cap. DurationRel: 1 and MitigateEffect: Package was placed inside a lined hazmat tote.   2. X-2023071099 SequenceEvent: This package was discovered in the AM and was placed inside a lined hazmat tote and stored inside the hazmat cage. Upon inspection, the 5 gallon pail contained Ecolab laundry sour liquid. DescribePack: The top of the cap was wet, and small amount of its content leaked through top of cap. DurationRel: 1 and MitigateEffect: Package was placed inside a lined hazmat tote.   3. X-2023071100 SequenceEvent: This package was discovered in the AM and was placed inside a lined hazmat tote then stored inside the hazmat cage. Upon inspection, 5 gal pail contained Ecolab laundry sour liquid. DescribePack: The barcode that was on top of the cap looked wet and stained. A Small amount of the liquid had leaked through the top of the cap. DurationRel: 1 and MitigateEffect: Package was placed inside a lined hazmat tote.   4. X-2023071102 SequenceEvent: This package was discovered in the AM and was placed inside a lined hazmat tote and stored inside the hazmat cage. Upon inspection, 5 gal pail of Ecolab laundry sour liquid had leaked out a small amount of its contents onto the top of cap. DescribePack: The top of the cap had a small hole allowing leaking DurationRel: 1 and MitigateEffect: Package was immiedetly placed inside lined hazmat tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071096</guid>
+      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023071061</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189856&gt;X-2023071061&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189856&gt;X-2023071061&lt;/A"&gt;Report X-2023071061&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-12&lt;/li&gt;
+                &lt;li&gt;City: SPOKANE&lt;/li&gt;
+                &lt;li&gt;State: WA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Found box in trailer with corrosive damage, removed from trailer and placed into hazmat bin and transferred to hazmat cage DescribePack: leakage due to loose lid DurationRel: 1 and MitigateEffect: removed from trailer and placed into hazmat bin and transferred to hazmat cage&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071061</guid>
+      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023070919</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190060&gt;E-2023070919&lt;/A</link>
@@ -53,92 +97,48 @@
       <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023070839</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189634&gt;X-2023070839&lt;/A</link>
+      <title>Report X-2023061461</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187263&gt;X-2023061461&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189634&gt;X-2023070839&lt;/A"&gt;Report X-2023070839&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-08T15:12:38+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187263&gt;X-2023061461&lt;/A"&gt;Report X-2023061461&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-07&lt;/li&gt;
-                &lt;li&gt;City: DUPONT&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
+                &lt;li&gt;City: EVERETT&lt;/li&gt;
                 &lt;li&gt;State: WA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Pkg came to qa wet and with one side torn.  Inspection showed 2 bottles had loose caps and were leaking, soiling all contents DescribePack: loose caps DurationRel: 12 and MitigateEffect: pkg placed in plastic bag and then in plastic tote&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS REMOVED FROM TRAILER. PACKAGE CAR LOADER NOTICED LEAKING CONTENTS AS HE PICKED IT UP. RESPONDER IMMEDIATELY SET THE PACKAGE DOWN AND NOTIFIED A SUPRIVSOR. THE PACKAGE AND ALL SPILLED CONTENTS WERE SOLIDIFIED.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070839</guid>
-      <pubDate>Tue, 08 Aug 2023 15:12:38 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061461</guid>
+      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023070746</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189541&gt;X-2023070746&lt;/A</link>
+      <title>Report X-2023061371</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187051&gt;X-2023061371&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189541&gt;X-2023070746&lt;/A"&gt;Report X-2023070746&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187051&gt;X-2023061371&lt;/A"&gt;Report X-2023061371&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-04&lt;/li&gt;
-                &lt;li&gt;City: TACOMA&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-06-07&lt;/li&gt;
+                &lt;li&gt;City: PULLMAN&lt;/li&gt;
                 &lt;li&gt;State: WA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: As package was being unload the package handler noticed the side of the package was wet. DescribePack: Loose caps DurationRel: 1 and MitigateEffect: Once the leak was discovered the package was placed into a hazmat tote, taken to the damaged hazmat cage, and set under the vent.&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070746</guid>
-      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070703</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189498&gt;X-2023070703&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189498&gt;X-2023070703&lt;/A"&gt;Report X-2023070703&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-03&lt;/li&gt;
-                &lt;li&gt;City: BURLINGTON&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was dropped, and discovred to be leaking. Package was immediately put into a red hazmat bin with a lid and brought to QA. DescribePack: Box is slightly crushed on one corner. Inside, one of the Jerrican bottle&amp;#x27;s cap has been pushed in, which caused the leakage. DurationRel: 1 and MitigateEffect: Package was put into a red hazmat bin with a lid to mitigate the effects of the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070703</guid>
-      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070679</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189474&gt;X-2023070679&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189474&gt;X-2023070679&lt;/A"&gt;Report X-2023070679&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-01&lt;/li&gt;
-                &lt;li&gt;City: BURLINGTON&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was being unloaded from trailer when it was noticed package was leaking yellow liquid, was placed in hazmat tote and brought to QA for inspection DescribePack: Can dented on top and bottom breaking seal and staining other cains DurationRel: 1 and MitigateEffect: Package was placed in hazmat tote and isolated from other boxes to reduce spillage&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070679</guid>
-      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061371</guid>
+      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070678</title>
@@ -183,28 +183,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060852</guid>
       <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061317</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186836&gt;X-2023061317&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186836&gt;X-2023061317&lt;/A"&gt;Report X-2023061317&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-15&lt;/li&gt;
-                &lt;li&gt;City: TUKWILA&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: PACKAGE WAS DISCOVERED BY A SUPERVISOR WHO THEN NOTIFIED A RESPONDER. ALL PPE (GLOVES, GOGGLES, BOOTS, APRON, SILVER LINING) WAS PUT ON AND PACKAGE WAS PUT INTO A YELLOW TUB/DMP BAG. PACKAGE WAS THEN TRANSFERRED TO THE DMP FOR FURTHER PROCESSING. ALL PPE/TUBS WERE THEN DECONTAMINATED AND PACKAGE WAS FURTHER PROCESSED INTO ETT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061317</guid>
-      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

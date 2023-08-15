@@ -7,15 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Aug 2023 21:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 18:13:52 +0000</lastBuildDate>
     <item>
-      <title>Report X-2023070811</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189606&gt;X-2023070811&lt;/A</link>
+      <title>Report X-2023071124</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189919&gt;X-2023071124&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189606&gt;X-2023070811&lt;/A"&gt;Report X-2023070811&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-07T15:11:24+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189919&gt;X-2023071124&lt;/A"&gt;Report X-2023071124&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-06&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-07-17&lt;/li&gt;
                 &lt;li&gt;City: OMAHA&lt;/li&gt;
                 &lt;li&gt;State: NE&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -24,55 +24,55 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: While processing hazmat packages noticed one was leaking, put on gloves and determined which package was leaking. Once identified, placed package in a container and transported to hazmat cage. Opened fiberboard box and there were 4 gallons of liquid inside the box. Noticed that one of the gallons had less liquid in it. Cleaned up minor spilling on cart carrying hazmats using approved paper towels. DescribePack: Unknown where the package failed just noticed box was wet on bottom and upon opening the box noticed that one of the gallons had less liquid than the other 3 gallons had. DurationRel: 1 and MitigateEffect: Immediately placed hazmat in salvage drum to avoid spilling on surfaces and other packages. Where hazmat initially was noticed leaking wiped spillage up with paper towels approved for cleaning up spills.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Leakage occurred during transit to terminal. DescribePack: External packaging appeared to be solid. Leakage occurred from inside. 2 of 4 containers had loose caps. DurationRel: 1 and MitigateEffect: A QA person was near the trailer where the damage occurred and she was immediately informed.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070811</guid>
-      <pubDate>Mon, 07 Aug 2023 15:11:24 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071124</guid>
+      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023070535</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188582&gt;E-2023070535&lt;/A</link>
+      <title>Report X-2023061458</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187260&gt;X-2023061458&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188582&gt;E-2023070535&lt;/A"&gt;Report E-2023070535&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-05T21:09:27+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187260&gt;X-2023061458&lt;/A"&gt;Report X-2023061458&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-03&lt;/li&gt;
-                &lt;li&gt;City: YORK&lt;/li&gt;
-                &lt;li&gt;State: NE&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On July 3, 2023, one (1) 55-gallon drum of nitric acid had a loosened lid and released approximately one half (0.5) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Environmental Works, Inc. (EWI) to remediate the site. Crews inspected the drum and suspected the seal on the lid was faulty. EWI utilized a forklift to place the drum into an over pack drum to be shipped back to the terminal for further evaluation. All released material was neutralized and recovered with absorbents. Impacted absorbents and PPE were placed into a poly liner and removed from the site for disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070535</guid>
-      <pubDate>Sat, 05 Aug 2023 21:09:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023060708</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2185899&gt;X-2023060708&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2185899&gt;X-2023060708&lt;/A"&gt;Report X-2023060708&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-07T15:11:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-07&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
                 &lt;li&gt;City: OMAHA&lt;/li&gt;
                 &lt;li&gt;State: NE&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On June 7th, a package was noticed with an odor, and upon further inspection it was discovered to be leaking.  The package was marked with Class 3 flammable liquid labels and containd UN1120 Butanols, 3, PGIII.  The package was placed into a salvage drum and an amended shippers declaration was requested.&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060708</guid>
-      <pubDate>Mon, 07 Aug 2023 15:11:24 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061458</guid>
+      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023061386</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187106&gt;X-2023061386&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187106&gt;X-2023061386&lt;/A"&gt;Report X-2023061386&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
+                &lt;li&gt;City: OMAHA&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061386</guid>
+      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
