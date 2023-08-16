@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 21:11:10 +0000</lastBuildDate>
     <item>
       <title>Report X-2023071202</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189997&gt;X-2023071202&lt;/A</link>
@@ -359,50 +359,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070260</guid>
       <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023071064</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189859&gt;X-2023071064&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189859&gt;X-2023071064&lt;/A"&gt;Report X-2023071064&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-12&lt;/li&gt;
-                &lt;li&gt;City: SAVANNAH&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE APPEARS TO HAVE BEEN LEAKING IN TRANSIT. STILL HAS SOME MOISTURE ON IT, BUT LEAKAGE APPEARS TO HAVE MOSTLY DRIED UPON ARRIVAL DescribePack: VENTED CAPS CAUSING LEAKAGE DurationRel: 1 and MitigateEffect: PACKAGEE WAS PLACED IN HAZMAT CAGE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071064</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070973</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189768&gt;X-2023070973&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189768&gt;X-2023070973&lt;/A"&gt;Report X-2023070973&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-12&lt;/li&gt;
-                &lt;li&gt;City: SAVANNAH&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023070973 SequenceEvent: PKG ARRIVED WET AND TORN. INTERIOR CONTAINER MISSING CAP CAUSING LEAKAGE DescribePack: MISSING CAP ONN INNER CONTAINER DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED IN HAZMAT BIN IN HAZMAT CAGE.  2. X-2023070974 SequenceEvent: MISSING CAP CAUSED LEAKAGE DescribePack: MISSING CAP CAUSED LEAKAGE DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED IN HAZMAT BIN IN HAZMAT CAGE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070973</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023070098</title>

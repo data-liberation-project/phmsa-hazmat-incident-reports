@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 21:11:10 +0000</lastBuildDate>
     <item>
       <title>Report X-2023070578</title>
       <description>
@@ -272,72 +272,6 @@
       <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023070956</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189751&gt;X-2023070956&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189751&gt;X-2023070956&lt;/A"&gt;Report X-2023070956&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-10&lt;/li&gt;
-                &lt;li&gt;City: INDIANAPOLIS&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Plastic jerrican began leaking during unloading at the facility. Item may have been damaged prior to arrival at our facility. Can was placed into a plastic hazmat tote and moved to the damage area. Spilled liquid was cleaned up with absorbent pads. DescribePack: Small puncture on bottom of plastic can at the seam. DurationRel: 1 and MitigateEffect: Upon discovery the can was placed into a plastic hazmat tote and the spilled liquid was cleaned up with absorbent pads.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070956</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070952</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189747&gt;X-2023070952&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189747&gt;X-2023070952&lt;/A"&gt;Report X-2023070952&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: KOKOMO&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: odor coming from the box.  upon opening the package, a very small leak had occured at the cap DescribePack: Lid was lose on 1 bottle of corrosive cleaner. DurationRel: 1 and MitigateEffect: absorbant material was used to dry up the leak and tighted the cap.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070952</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070946</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189741&gt;X-2023070946&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189741&gt;X-2023070946&lt;/A"&gt;Report X-2023070946&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: ZIONSVILLE&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found and brought to the damage cage. DescribePack: Loose cap was the cause DurationRel: 2 and MitigateEffect: Placed in tote to secure the leak&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070946</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023061462</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187271&gt;X-2023061462&lt;/A</link>
       <description>
@@ -468,50 +402,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061330</guid>
       <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070725</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188958&gt;E-2023070725&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188958&gt;E-2023070725&lt;/A"&gt;Report E-2023070725&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-13&lt;/li&gt;
-                &lt;li&gt;City: ALEXANDRIA&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon metal pail forked. released 5 gallons in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070725</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070711</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188943&gt;E-2023070711&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188943&gt;E-2023070711&lt;/A"&gt;Report E-2023070711&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
-                &lt;li&gt;City: SOUTH BEND&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading it was discovered that the cap was loose on one of the poly 55 gallon drum of carusol (un3214) and that 2 ounces had been released due to improper  preparation for shipping.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070711</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 21:11:10 +0000</lastBuildDate>
     <item>
       <title>Report X-2023080277</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190608&gt;X-2023080277&lt;/A</link>
@@ -361,72 +361,6 @@
       <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023070971</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189766&gt;X-2023070971&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189766&gt;X-2023070971&lt;/A"&gt;Report X-2023070971&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-07&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The leaking package was removed from the loading area, placed in a plastic tote, and brought to the HMPA. DescribePack: The cap on one jug was loose, the other was completely off. DurationRel: 1 and MitigateEffect: The leaking package was placed in a tote and brought to the HMPA. The spillage was mostly confined to the carton and tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070971</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070953</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189748&gt;X-2023070953&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189748&gt;X-2023070953&lt;/A"&gt;Report X-2023070953&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: MURFREESBORO&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered leaking at the unload side. Package was placed in a hazardous bag and into a red tote. The red tote was delivered to QA cage for further inspection. DescribePack: Multiple contents had a loose cap causing leakage. DurationRel: 1 and MitigateEffect: When the package was found leaking, it was placed in a hazardous bag and into a red tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070953</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070947</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189742&gt;X-2023070947&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189742&gt;X-2023070947&lt;/A"&gt;Report X-2023070947&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-10&lt;/li&gt;
-                &lt;li&gt;City: MURFREESBORO&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered leaking at the load side. Package was placed in a hazardous bag and into a red tote. The red tote was delivered to QA cage for further inspection. DescribePack: Content had a loose cap causing leakage. DurationRel: 1 and MitigateEffect: When the package was found leaking, it was placed in a hazardous bag and into a red tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070947</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023070057</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187694&gt;X-2023070057&lt;/A</link>
       <description>
@@ -601,72 +535,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060953</guid>
       <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070955</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189750&gt;X-2023070955&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189750&gt;X-2023070955&lt;/A"&gt;Report X-2023070955&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Leaking fiberboard box containing a 5 gallon drum of Texas Stone Sealer TSSPRO-300 WetLook Sealer found on loadside. No diamond labels, proper shipping name, or hazmat paperwork present. Removed from operations. SDS requested from shipper, manufacturer, and acct executive through multiple phone calls and emails. DescribePack: One 5 gallon drum of Texas Stone Sealer TSSPRO-300 WetLook Sealer found to have lost approximately 1.2 gallons (35lb left of 43lb) through a loose lid closure. Drum lid design is removable. DurationRel: 2 and MitigateEffect: PPE donned. Until the material could be identified with the SDS provided by the Account Executive and Shipper, the material was placed in a lined and lidded tote which was under constant ventilation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070955</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023060853</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186255&gt;X-2023060853&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186255&gt;X-2023060853&lt;/A"&gt;Report X-2023060853&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-21&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A Memphis spill agent was called to the dangerous goods building for a leaking package. The agent was given a plastic jerrycan with a puncture on the top. All contents were placed into a steel salvage package and a new declaration is needed for movement.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060853</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023060841</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186211&gt;X-2023060841&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186211&gt;X-2023060841&lt;/A"&gt;Report X-2023060841&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-15&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A Memphis spill agent was dispatched to the North Input for a leaking drum. The agent was given a metal drum inside of a plastic bag an input employee placed the drum in the bag after noticing the leak. The removable lid was damaged causing the release. The package was ruled a loss and will be disposed of hazardous material at the location.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060841</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 21:11:10 +0000</lastBuildDate>
     <item>
       <title>Report X-2023080066</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190397&gt;X-2023080066&lt;/A</link>
@@ -471,116 +471,6 @@
       <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023070910</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189705&gt;X-2023070910&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189705&gt;X-2023070910&lt;/A"&gt;Report X-2023070910&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: ROMEOVILLE&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was processed on Midnight and sent forward, before it was loaded into a Tailor it must of got damaged, I seen it coming down the IC belt in a red hazmat bin, I put it on a cart and brought it to Hazmat Cage for DPR process DescribePack: loose caps/opening on top DurationRel: 1 and MitigateEffect: put inside a red hazmat bin&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070910</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070906</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189701&gt;X-2023070906&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189701&gt;X-2023070906&lt;/A"&gt;Report X-2023070906&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-10&lt;/li&gt;
-                &lt;li&gt;City: ROMEOVILLE&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: This Hazmat was processed earlier in the day when a manager called over the radio stating that he put a leaking hazmat in a red bin on the IC belt, I went and found the package and put it on a cart then brought it to QA Hazmat cage for further inspection and DPR Process DescribePack: Seems to have a loose cap on one of the bottles soiling the other 3 DurationRel: 1 and MitigateEffect: placed inside hazmat bin&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070906</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070905</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189700&gt;X-2023070905&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189700&gt;X-2023070905&lt;/A"&gt;Report X-2023070905&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-10&lt;/li&gt;
-                &lt;li&gt;City: CHICAGO&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The Flammable liquid marked package inspected due to a fume smell being released from the carton. Further inspection confirmed that the thinner inside carton was releasing from around the rim of the drum inside. Unknown reason for leaking but the shifting of the package makes liquid contents spill out. DescribePack: Unknown, release under drum lid, The lid appears to have a small defective underneath and caused release and damage DurationRel: 1 and MitigateEffect: Package placed under hood in cage&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070905</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070714</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188947&gt;E-2023070714&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188947&gt;E-2023070714&lt;/A"&gt;Report E-2023070714&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-18&lt;/li&gt;
-                &lt;li&gt;City: SAUGET&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon pail was forked, released 5 gallons on dock.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070714</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070708</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188940&gt;E-2023070708&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188940&gt;E-2023070708&lt;/A"&gt;Report E-2023070708&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-09&lt;/li&gt;
-                &lt;li&gt;City: MONMOUTH&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: CLEAN HARBORS ENVIRONMENTAL SERVICES, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Driver discovered leak on post trip inspection. Liquid was found on top of 4 drums, side, on the pallet and on the floor. The ring bolts appeared to be tightened all the way, but failure of lid gaskets during material expansion may be the cause. No deterioration or damage of drum outer shell was observed. The leaking 4 drums were placed in Salvage drums while using the proper PPE and procedures. The residual liquid was absorbed from the trailer floor and placed in salvage drums also.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070708</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023070906</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189335&gt;E-2023070906&lt;/A</link>
       <description>
@@ -1041,28 +931,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061346</guid>
       <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070682</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188912&gt;E-2023070682&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188912&gt;E-2023070682&lt;/A"&gt;Report E-2023070682&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
-                &lt;li&gt;City: S CHICAGO HEIGHTS&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading the warehouse crew accidentally put a forklift fork into one of the metal 4 gallon pail of paint (un1263) releasing 1 gallons of product.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070682</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

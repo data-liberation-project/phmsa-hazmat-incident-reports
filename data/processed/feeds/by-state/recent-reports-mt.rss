@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 21:11:10 +0000</lastBuildDate>
     <item>
       <title>Report X-2023070220</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188047&gt;X-2023070220&lt;/A</link>
@@ -29,28 +29,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070220</guid>
       <pubDate>Wed, 16 Aug 2023 06:13:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070922</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189717&gt;X-2023070922&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189717&gt;X-2023070922&lt;/A"&gt;Report X-2023070922&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: MISSOULA&lt;/li&gt;
-                &lt;li&gt;State: MT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: LEAKING IN THE TRAILER IT WAS SEGRAGRATED AND PLACED IN TUB FOR QA DescribePack: CAP WAS LOOSE ON ONE OF THE BOTTLES DurationRel: 1 and MitigateEffect: SEGRAGRATED AND PLACED IN TUB FOR QA&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070922</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

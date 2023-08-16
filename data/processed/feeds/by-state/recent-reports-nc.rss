@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Aug 2023 21:11:10 +0000</lastBuildDate>
     <item>
       <title>Report X-2023070904</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189699&gt;X-2023070904&lt;/A</link>
@@ -317,138 +317,6 @@
       <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023070976</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189771&gt;X-2023070976&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189771&gt;X-2023070976&lt;/A"&gt;Report X-2023070976&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-12&lt;/li&gt;
-                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Upon returning to the station, the driver gave the package to QA, saying that it was refused due to being damaged DescribePack: one inner can had a dented cap, causing some release.  All three cans were heavily dented.  The outer pack was wet along the bottom side. DurationRel: 4 and MitigateEffect: The package was taken to the nearest QA cage for further processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070976</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070950</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189745&gt;X-2023070950&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189745&gt;X-2023070950&lt;/A"&gt;Report X-2023070950&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Liquid seeped through box indicating leak DescribePack: Upon opening cap was off DurationRel: -1 and MitigateEffect: package was placed in lined tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070950</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070945</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189740&gt;X-2023070945&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189740&gt;X-2023070945&lt;/A"&gt;Report X-2023070945&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Liquid began to seep through box indicating leak DescribePack: upon opening bottle caps were loose DurationRel: -1 and MitigateEffect: package was immediately place in lined tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070945</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070898</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189693&gt;X-2023070898&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189693&gt;X-2023070898&lt;/A"&gt;Report X-2023070898&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-10&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Visible soiled spot DescribePack: once closer inspection, leakage form within was noticed and upon opening cap was visibly loose DurationRel: -1 and MitigateEffect: package was immediately placed in lined tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070898</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070896</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189691&gt;X-2023070896&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189691&gt;X-2023070896&lt;/A"&gt;Report X-2023070896&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-10&lt;/li&gt;
-                &lt;li&gt;City: NEWTON&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Improper packaging and improper handling. Some type of inner packaging to help brace the containers in box. Careful handling of package. DescribePack: Loose cap causing leakage. DurationRel: 1 and MitigateEffect: Package placed in plastic bag and hazmat tote and given to QA.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070896</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070351</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188632&gt;X-2023070351&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188632&gt;X-2023070351&lt;/A"&gt;Report X-2023070351&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: LEAKING HAZMAT PACKAGE WAS FOUND ON A HARDWARE CART. RESPONDER NOTIFIED WHO RESPONDED PER THE FLAMMABLE LIQUID RESPONSE SHEET AND TRANSPORTED TO DMP FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070351</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023070042</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187676&gt;X-2023070042&lt;/A</link>
       <description>
@@ -645,28 +513,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061013</guid>
       <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070713</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188946&gt;E-2023070713&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188946&gt;E-2023070713&lt;/A"&gt;Report E-2023070713&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-09T18:14:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-24&lt;/li&gt;
-                &lt;li&gt;City: KERNERSVILLE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading it was discovered that the seam was bad on the bottom of one of the metal 55 gallon drum of red primer (un1263) and that 0.5 gallon had been released.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070713</guid>
-      <pubDate>Wed, 09 Aug 2023 18:14:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
