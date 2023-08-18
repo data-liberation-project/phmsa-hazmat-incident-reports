@@ -7,16 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Aug 2023 21:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2023 21:11:05 +0000</lastBuildDate>
     <item>
-      <title>Report X-2023071019</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189814&gt;X-2023071019&lt;/A</link>
+      <title>Report X-2023080138</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190469&gt;X-2023080138&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189814&gt;X-2023071019&lt;/A"&gt;Report X-2023071019&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190469&gt;X-2023080138&lt;/A"&gt;Report X-2023080138&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-18T21:11:01+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-13&lt;/li&gt;
-                &lt;li&gt;City: EASTABOGA&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-07-05&lt;/li&gt;
+                &lt;li&gt;City: THEODORE&lt;/li&gt;
                 &lt;li&gt;State: AL&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -24,11 +24,54 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was sent out on route with driver. Upon going on the route and attempting delivery it was found to be leaking. Package was brought back to terminal and was then inspected. During inspection it was found that the top had came off a bottle and contents were leaking out DescribePack: The cap came off the bottle and the contents started leaking DurationRel: 2 and MitigateEffect: When package was brought back to terminal it was in a bag and then it was put into a tote during inspection to check on where the leakage was coming from&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package found in the unload leaking and foul smell, Qa clerk notified and given to the hazmat clerk to process DescribePack: leakage from seal DurationRel: 5 and MitigateEffect: package quickly placed in hazmat tub and removed to hazmat area and hazmat clerk notified for processing&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071019</guid>
-      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080138</guid>
+      <pubDate>Fri, 18 Aug 2023 21:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070336</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023070336&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-18T21:11:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-30&lt;/li&gt;
+                &lt;li&gt;City: DOTHAN&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: X-2023070336, X-2023070459: Package was offered to the spill clean up specialist at our station location in Dothan, AL.  Discovered during AM sort operations, package was seen to wet on outside of fibreboard box indicating leakage from inside. Further inspection found that package contained 4 plastic jugs each containing 3.78L of Alligare Diquat Herbicide (UN 1760) placed in a Surge Broadleaf Herbicide for turf box, UN 3082.  Each set of 2 jugs was placed in a plastic moisture barrier before being placed in the box.  It was seen leakage originated from the caps of the bottles and is believed to have been caused by expansion due to local heat.  SDS of Surge Broardleaf Herbicide shows commodity could travel under special provision A197.  However, the SDS also shows product has a flash point of 57 C and a boiling point of 100 C. Flammable, packing group III.  There are no marks nor labels on the package indicating the product being shipped was flammable.  SDS for Alligare Diquat shows commodity would be classified as UN1760 Corrosive Liquid, N.O.S (contains diquat dibromide) There were no marks nor labels to indicate a corrosive product was being transported.  Package was contained at location and  is awaiting FAA disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070336</guid>
+      <pubDate>Fri, 18 Aug 2023 21:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070310</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188352&gt;X-2023070310&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188352&gt;X-2023070310&lt;/A"&gt;Report X-2023070310&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-18T21:11:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-21&lt;/li&gt;
+                &lt;li&gt;City: OPELIKA&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS FOUND TO BE LEAKING ON BELT. DESIGNATED RESPONDER WAS NOTIFIED, DONNED PPE, PLACED PACKAGE IN SPILL TUB, AND REMOVED TO DMP AREA FOR FURTHER PROCESSING. UPON INSPECTION, IT WAS DISCOVERED THAT NON-REGULATED ITEM LEAKED. RESPONDER DISCOVERED INSIDE THE PACKAGE WAS AN INTERIOR PACKAGE WITH A LIMITED QUANTITY DIAMAOND HAZARD LABEL. RESPONDER CALLED THE HAZARDOUS MATERIAL SUPPORT CENTER TO NOTIFY OF UNDECLARED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070310</guid>
+      <pubDate>Fri, 18 Aug 2023 21:11:01 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023061376</title>
@@ -51,28 +94,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061376</guid>
       <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061300</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186785&gt;X-2023061300&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186785&gt;X-2023061300&lt;/A"&gt;Report X-2023061300&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-10T21:10:13+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-20&lt;/li&gt;
-                &lt;li&gt;City: DECATUR&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The bag was thought to be leaking from the initial loading by the shipper. When the forklift operator removed the skid of UN3378 from trailer 84436, the leak was present.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061300</guid>
-      <pubDate>Thu, 10 Aug 2023 21:10:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
