@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 21:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 00:30:55 +0000</lastBuildDate>
     <item>
       <title>Report X-2023080138</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190469&gt;X-2023080138&lt;/A</link>
@@ -94,6 +94,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061376</guid>
       <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080122</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190453&gt;X-2023080122&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190453&gt;X-2023080122&lt;/A"&gt;Report X-2023080122&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-19T00:29:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-04-21&lt;/li&gt;
+                &lt;li&gt;City: EVERGREEN&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Pkg came off of trailer leaking, placed in container DescribePack: Loose cap. 2-1 gal plastic jugs of ZEP purple degreaser with no inner packing. Hazmat paperwork on exterior top of box. DurationRel: 1 and MitigateEffect: Immediately isolated by placing in container&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080122</guid>
+      <pubDate>Sat, 19 Aug 2023 00:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

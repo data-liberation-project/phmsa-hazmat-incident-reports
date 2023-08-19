@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 21:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 00:30:55 +0000</lastBuildDate>
     <item>
       <title>Report E-2023070983</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190187&gt;E-2023070983&lt;/A</link>
@@ -425,6 +425,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061451</guid>
       <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023060077</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189286&gt;I-2023060077&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189286&gt;I-2023060077&lt;/A"&gt;Report I-2023060077&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-19T00:29:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-16&lt;/li&gt;
+                &lt;li&gt;City: NEENAH&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: HOLLAND&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: One tote had a loose cap and leaked. The release was properly managed. The tote was secured and is being held pending disposition from the shipper.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060077</guid>
+      <pubDate>Sat, 19 Aug 2023 00:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023070792</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189058&gt;E-2023070792&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189058&gt;E-2023070792&lt;/A"&gt;Report E-2023070792&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-19T00:29:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-04-06&lt;/li&gt;
+                &lt;li&gt;City: MILWAUKEE&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: One plastic jug was punctured by fork, released 1 gallon on dock.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070792</guid>
+      <pubDate>Sat, 19 Aug 2023 00:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

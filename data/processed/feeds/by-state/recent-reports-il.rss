@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 21:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 00:30:55 +0000</lastBuildDate>
     <item>
       <title>Report X-2023080180</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190511&gt;X-2023080180&lt;/A</link>
@@ -1393,6 +1393,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061346</guid>
       <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023060838</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186203&gt;X-2023060838&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186203&gt;X-2023060838&lt;/A"&gt;Report X-2023060838&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-19T00:29:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-31&lt;/li&gt;
+                &lt;li&gt;City: CARY&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: suspected Undeclared class 3.  inner box has ground ltd qty marking.  no dg markings on outer package.  secured in salvage drum pending FAA inspection. these are 48 plastic precision pens.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060838</guid>
+      <pubDate>Sat, 19 Aug 2023 00:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

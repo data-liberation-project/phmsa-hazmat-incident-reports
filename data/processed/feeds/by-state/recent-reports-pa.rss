@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 21:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 00:30:55 +0000</lastBuildDate>
     <item>
       <title>Report X-2023080093</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190424&gt;X-2023080093&lt;/A</link>
@@ -1503,6 +1503,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061373</guid>
       <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023060848</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186249&gt;X-2023060848&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186249&gt;X-2023060848&lt;/A"&gt;Report X-2023060848&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-19T00:29:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-29&lt;/li&gt;
+                &lt;li&gt;City: ALLENTOWN&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Norfolk Southern&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Norfolk Southern yard crew during normal switching operations observed TILX 270090 leaking. NS contractor was dispatched and found manway swing bolts were improperly secured. This resulted in a release of 1 gallon of product from the manway.  Contractor opened the manway, inspected the gasket and found no defects. Manway swing bolts resecured.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060848</guid>
+      <pubDate>Sat, 19 Aug 2023 00:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080120</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190451&gt;X-2023080120&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190451&gt;X-2023080120&lt;/A"&gt;Report X-2023080120&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-19T00:29:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-04-05&lt;/li&gt;
+                &lt;li&gt;City: PHILADELPHIA&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: This package was found upside down inside of a truck the package was leaking. QA placed this package in a bin. DescribePack: The failure for this package was a loose cap of this 13lbs package about half of the liquid came out DurationRel: 1 and MitigateEffect: The package was placed in a bin and the top was tightened.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080120</guid>
+      <pubDate>Sat, 19 Aug 2023 00:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

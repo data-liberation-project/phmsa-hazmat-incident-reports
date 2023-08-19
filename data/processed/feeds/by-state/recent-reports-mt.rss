@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Aug 2023 21:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 00:30:55 +0000</lastBuildDate>
     <item>
       <title>Report X-2023070303</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188310&gt;X-2023070303&lt;/A</link>
@@ -73,6 +73,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070311</guid>
       <pubDate>Fri, 18 Aug 2023 21:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023060849</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186250&gt;X-2023060849&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186250&gt;X-2023060849&lt;/A"&gt;Report X-2023060849&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-19T00:29:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-31&lt;/li&gt;
+                &lt;li&gt;City: GREAT FALLS&lt;/li&gt;
+                &lt;li&gt;State: MT&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: The shipment was discovered during sort operations. Frost was formed on the outer packaging, prompting the dg specialist to suspect that it was an undeclared shipment of Dry Ice. The package was opened and revealed 2 bags of dry ice and dog/pet food.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060849</guid>
+      <pubDate>Sat, 19 Aug 2023 00:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023060793</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186107&gt;X-2023060793&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2186107&gt;X-2023060793&lt;/A"&gt;Report X-2023060793&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-19T00:29:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-31&lt;/li&gt;
+                &lt;li&gt;City: MISSOULA&lt;/li&gt;
+                &lt;li&gt;State: MT&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: THE SHIPMENT WAS DISCOVERED DURING RESEARCH FOR INCORRECT ADDRESS ON THE SHIPPING LABEL. FEDEX PADDED PAK CONTAINS 1 AREOSOL CAN OF 3 IN ONE LOCK DRY LUBE. NO RELEASE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023060793</guid>
+      <pubDate>Sat, 19 Aug 2023 00:29:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
