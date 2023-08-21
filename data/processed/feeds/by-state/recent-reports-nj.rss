@@ -7,7 +7,116 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Aug 2023 12:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2023 15:11:45 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2023080002</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023080002&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-27&lt;/li&gt;
+                &lt;li&gt;City: Elizabeth&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 07/27/2023 hidden dangerous goods were discovered during the shipment inspection process at the DHL El-Z service center, 15-31 Papetti Plaza, Elizabeth NJ 07206.   Transportation by road has been confirmed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023080002</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080221</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190552&gt;X-2023080221&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190552&gt;X-2023080221&lt;/A"&gt;Report X-2023080221&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-20&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DURING THE OVER NIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE SHOWING OBVIOUS SIGNS LEAKAGE. UPON FURTHER INSPECTION 1 PLASTIC JERRICAN CONTAINING BONDERITE WAS FOUND SLIGHTLY LEAKING FROM THE BOTTOM. THE JERRICAN WAS PLACED IN A LINED SALVAGE DRUM TO BE RETURNED TO SHIPPER UNLESS OTHERWISE. DescribePack: THE CAUSED OF FAILURE WAS DUE TO IMPORPER HANDLING WHILE LOADING. THE PLASTIC JERRICAN WAS SLIGHTLY LEAKING DUE TO A PUNCTURE AT THE BOTTOM. DurationRel: 4 and MitigateEffect: THE PLASTIC JERRICAN WAS PLACED IN A LINED SALAVGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080221</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080217</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190548&gt;X-2023080217&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190548&gt;X-2023080217&lt;/A"&gt;Report X-2023080217&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-20&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF LEAKAGE. UPON FURTHER INSPECTION THE BOX CONTAINING SUNNYSIDE DENATURED ALCOHOL WAS FOUND WITH ONE OF THE CANS HALF LEAKED OUT. THEY WERE HURRIEDLY PLACED IN A SALVAGE DRUM TO BE RETURNED TO THE SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF THE PACKAGE WAS DUE TO A PUNCTURE AT THE BOTTOM OF 1 CAN OF DENATURED ALCOHOL HALF WAY LEAKED OUT. DurationRel: 4 and MitigateEffect: THE REMAINING CONTENTS WERE PLACED IN A LINED SALAVAGE DRUM TO AWAIT DISPOSITION&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080217</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080188</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190519&gt;X-2023080188&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190519&gt;X-2023080188&lt;/A"&gt;Report X-2023080188&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-20&lt;/li&gt;
+                &lt;li&gt;City: TRENTON&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Shipping box torn while in transit causing Rapicide Part B 5L jug to have loose cap.  Package was immediately placed in RED Tote upon discovery and brought to HAZMAT Cage for further processing. DescribePack: Shipping box torn while in transit causing Rapicide Part B 5L jug to have loose cap. DurationRel: 1 and MitigateEffect: Package was immediately placed in RED Tote upon discovery and brought to HAZMAT Cage for further processing.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080188</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070545</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189282&gt;X-2023070545&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189282&gt;X-2023070545&lt;/A"&gt;Report X-2023070545&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-20&lt;/li&gt;
+                &lt;li&gt;City: SECAUCUS&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: UPON ARRIVAL AT THE SCENE, RESPONDER CONSULTED THE DECISION TREE AND FOLLOWED THE PROCEDURES FOUND ON THE APPROPRIATE RESPONSE SHEET.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070545</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023080168</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190499&gt;X-2023080168&lt;/A</link>
@@ -403,6 +512,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070816</guid>
       <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023070025</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190039&gt;I-2023070025&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190039&gt;I-2023070025&lt;/A"&gt;Report I-2023070025&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-09&lt;/li&gt;
+                &lt;li&gt;City: Dayton&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: EAST PENN LOGISTICS LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: The driver picked up a load of Industrial Motive Power Batteries from a customer in Dayton, NJ. The batteries looked to be secured to the pallets and the pallets looked to be in good, sturdy condition. The driver traveled about 2 miles down the road to a stop light. While pulling away from the light he heard a bang coming from his trailer. He pulled over as soon as he found a safe place to do so along a ramp going onto the Turnpike. When he opened the trailer to check the load he saw that one of the batteries had fallen over due to a pallet collapsing. THere was no harsh braking, acceleration or cornering events to trigger the spill. He then checked the rest of the load and saw that there were other pallets that were not looking as stable as they should be. The driver did have some soda ash on his truck which he used to soak up, neutralize and berm as much of the spilled acid as he could. He did call back to Corporate for help with the clean up. The police showed up to the scene. After assessing the spill and seeing that the trailer is no longer leaking the police assisted the driver to tum his truck around and off the Turnpike ramp for easier assistance for clean up. The Hazmat clean up team arrived shorlty after the turnaround. While wating for the Hazmat clean up team, the driver contacted the cutomer that he picked up the batteries from since they were a few miles down the road asking if they would take back his load and help up-right the battery that had spilled. They accepted. The police gave the driver permission to drive back to the custmer with the Hazmat clean up team following to make sure that nothing leaked from the trailer during transit. Nothing leaked during the move. The police informed the driver that they will have the trunpike maintenacne clean up the spilled area on the ramp. Once back at the cusomer, the customer unloaded the load and helped to up-right the spilled battery. They are going to re-palletize ALL the batteries and put them on better/ stronger pallets for a future pick up. The Hazmat team cleaned out the trailer and will take care of the clean up waste. Once the trailer was cleaned the driver returned home with an&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023070025</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070979</title>

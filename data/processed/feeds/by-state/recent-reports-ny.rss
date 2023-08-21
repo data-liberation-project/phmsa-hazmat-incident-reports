@@ -7,7 +7,138 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Aug 2023 12:17:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2023 15:11:45 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2023080003</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023080003&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-27&lt;/li&gt;
+                &lt;li&gt;City: Long Island City&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 07/27/2023 hidden dangerous goods were discovered during the shipment inspection process at the DHL Express LIC facility, located at 12-12 33rd Avenue, Long Island City, NY 11106.   Transportation by road has been confirmed.   Shipment also contains   UN3480, Lithium ion batteries,  Class 9  Single Package or Inner Packaging (if any):  Packaging Type: Case  Material of Construction: Plastic  Package Capacity: 100 g  Amount in Package: 100 g  Number in Shipment 1  Number Failed: 1&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023080003</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080228</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190559&gt;X-2023080228&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190559&gt;X-2023080228&lt;/A"&gt;Report X-2023080228&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-21&lt;/li&gt;
+                &lt;li&gt;City: ELMSFORD&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: found the package on the floor leaking. looks like possible miss handling while unloading the package from trailer. DescribePack: glass bottle broken in half DurationRel: 1 and MitigateEffect: used proper PPE and place the leaking package in a plastic container to mitigate the spill. use absorbent pads to clean up any spillage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080228</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080209</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190540&gt;X-2023080209&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190540&gt;X-2023080209&lt;/A"&gt;Report X-2023080209&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-20&lt;/li&gt;
+                &lt;li&gt;City: BINGHAMTON&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: A white box of flammable liquid had yellow stains on one side and inside the box with a strong smell coming from it. It was originally wet at some point but dried quickly over time. DescribePack: One of the jugs had a loose cap which caused it to leak. DurationRel: 1 and MitigateEffect: I put it in a hazmat bag and brought it over to the hazmat cage with the fumes hud on.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080209</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080189</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190520&gt;X-2023080189&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190520&gt;X-2023080189&lt;/A"&gt;Report X-2023080189&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-20&lt;/li&gt;
+                &lt;li&gt;City: YONKERS&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The box was leaking after being unloaded of trailer.Package was left. DescribePack: The cap from two of the bottles was loose causing leaking. DurationRel: 1 and MitigateEffect: Package removed from trailer&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080189</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070558</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189302&gt;X-2023070558&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189302&gt;X-2023070558&lt;/A"&gt;Report X-2023070558&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-21&lt;/li&gt;
+                &lt;li&gt;City: HENRIETTA&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070558</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070546</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189283&gt;X-2023070546&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189283&gt;X-2023070546&lt;/A"&gt;Report X-2023070546&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-21T15:11:41+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-20&lt;/li&gt;
+                &lt;li&gt;City: BUFFALO&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070546</guid>
+      <pubDate>Mon, 21 Aug 2023 15:11:41 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023080085</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190416&gt;X-2023080085&lt;/A</link>
