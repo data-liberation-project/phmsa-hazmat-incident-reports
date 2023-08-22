@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Aug 2023 18:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Aug 2023 21:11:07 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080114</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190805&gt;E-2023080114&lt;/A</link>
@@ -183,50 +183,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070885</guid>
       <pubDate>Wed, 16 Aug 2023 06:13:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023071056</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189851&gt;X-2023071056&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189851&gt;X-2023071056&lt;/A"&gt;Report X-2023071056&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: PEARL&lt;/li&gt;
-                &lt;li&gt;State: MS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The box was being unloaded and came off the trailer damaged. QA was called, the box was placed in a red tote and taken to the hazmat cage for processing. DPR was done and awaiting disposition. DescribePack: The top was loose and contents wasted out. They were 2 quart size plastic containers with liquid arsenal stripper. DurationRel: 1 and MitigateEffect: The package was removed from the trailer and taken to the designated area. The little spill was cleaned up by QA&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071056</guid>
-      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023070872</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189230&gt;E-2023070872&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189230&gt;E-2023070872&lt;/A"&gt;Report E-2023070872&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-15T18:13:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-22&lt;/li&gt;
-                &lt;li&gt;City: Pearl&lt;/li&gt;
-                &lt;li&gt;State: MS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023070872</guid>
-      <pubDate>Tue, 15 Aug 2023 18:13:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
