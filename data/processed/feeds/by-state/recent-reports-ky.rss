@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Aug 2023 03:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Aug 2023 06:14:11 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080077</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190706&gt;E-2023080077&lt;/A</link>
@@ -273,116 +273,6 @@
       <pubDate>Fri, 18 Aug 2023 21:11:01 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023071210</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190005&gt;X-2023071210&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190005&gt;X-2023071210&lt;/A"&gt;Report X-2023071210&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-16T06:13:42+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-19&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package handler found leaking package during loading process, informed manager. Manager called QA. QA admin put package into a lined tote. DescribePack: Cap was found to be loose, causing internal leakage during transit. DurationRel: 1 and MitigateEffect: Cap was tightened and package was kept in an upright position to prevent further leakage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071210</guid>
-      <pubDate>Wed, 16 Aug 2023 06:13:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023071184</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189979&gt;X-2023071184&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189979&gt;X-2023071184&lt;/A"&gt;Report X-2023071184&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-16T06:13:42+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-18&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023071184 SequenceEvent: The cap on one of the bottles came loose and an internal leakage occurred. Upon being discovered, the item was brought to QA to be worked on. DescribePack: The contents were protruding from one side. When the box was opened, it was determined that a bottle with a loose cap was the cause. DurationRel: 1 and MitigateEffect: The contents were brought to QA and placed into a spill tote.   2. X-2023071188 SequenceEvent: CAPS ON NU-BRITE CONDENSER COIL CLEANER CAME LOOSE AT SOME POINT DURING TRANSIT CAUSING INTERNAL LIQUID CONTENTS TO LEAK THROUGHOUT PKG. PKG WAS BROUGHT TO QA FOR PROCESSING. DescribePack: CAPS CAME LOOSE DurationRel: 1 and MitigateEffect: PKG WAS PLACED IN A SPILL TOTE AND BROUGHT TO QA.   3. X-2023071189 SequenceEvent: Cap on bottle came loose and an internal leakage resulted. Upon being discovered, the item was brought to QA to be worked on. DescribePack: Contents were protruding from box due to their corrosive nature DurationRel: 1 and MitigateEffect: Item was placed in a spill tote to minimize spillage.   4. X-2023071192 SequenceEvent: There was a crack near the base of the lid on one of the bottles which caused the corrosive liquid to spill out into the box. DescribePack: The package failure was a crack in the neck of the bottle near the base of the lid. DurationRel: 1 and MitigateEffect: the dpr, hess report, and isf will be completed and will wait for disposition for further instructions.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023071184</guid>
-      <pubDate>Wed, 16 Aug 2023 06:13:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070282</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188237&gt;X-2023070282&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188237&gt;X-2023070282&lt;/A"&gt;Report X-2023070282&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-16T06:13:42+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-07&lt;/li&gt;
-                &lt;li&gt;City: WALTON&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WAS INFORMED THERE WAS A LEAKING HAZMAT. RESPONDER ARRIVED AND USED DECISION TREE. THEN PUT THE PROPER PPE ON AND CLEAN UP THE SPILL. RESPONDER TRANSPORTED BACK TO THE DMP FOR FURTHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070282</guid>
-      <pubDate>Wed, 16 Aug 2023 06:13:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070281</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188236&gt;X-2023070281&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188236&gt;X-2023070281&lt;/A"&gt;Report X-2023070281&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-16T06:13:42+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-07&lt;/li&gt;
-                &lt;li&gt;City: WALTON&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070281</guid>
-      <pubDate>Wed, 16 Aug 2023 06:13:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070280</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188232&gt;X-2023070280&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188232&gt;X-2023070280&lt;/A"&gt;Report X-2023070280&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-16T06:13:42+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-07&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: PACKAGE WAS DISCOVERED IN SMALL SORT AND PSC RESPONDED. RESPONDER TOOK THE LEAKING PACKAGE BACK TO DMP FOR PROCESSING&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070280</guid>
-      <pubDate>Wed, 16 Aug 2023 06:13:42 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023070972</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190174&gt;E-2023070972&lt;/A</link>
       <description>
@@ -425,28 +315,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070295</guid>
       <pubDate>Fri, 18 Aug 2023 21:11:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023070099</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187811&gt;X-2023070099&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187811&gt;X-2023070099&lt;/A"&gt;Report X-2023070099&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-16T06:13:42+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-30&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: AT THE UPS FACILITY IN LOUISVILLE, KY, A PACKAGE SHIPPING FROM USA TO UNITED KINGDOM WAS DISCOVERED LEAKING. THE TOP OF THE BOX SHOWED SIGNS OF A DENT. THE OUTER BOX HAD AN IATA SHIPPERS DECLARATION WITH PROPER MARKS AND LABELS APPLIED. THE PACKAGE HAD SUCCESSFULLY PASSED AN ACCEPTANCE AUDIT AT THE ORIGIN FACILITY. INSPECTION OF INNER CONTENTS FOUND TWO X ONE GALLON METAL CANS OF PINEAPPLE EXPRESS AND GRAPE APE FLAVORED TERPENES. THE PINEAPPLE EXPRESS CAN WAS SLIGHTLY LEAKING FROM THE CLOSURE. THERE WERE NO VISIBLE SIGNS OF THE CLOSURE OR CAN BEING DAMAGED. THE PACKAGE WAS SHIPPED USING UPS ACCOUNT NUMBER 1FE015, THE PERFUMER&amp;#x27;S APPRENTICE, 170 TECHNOLOGY CIRCLE, SCOTTS VALLEY CA 95066.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070099</guid>
-      <pubDate>Wed, 16 Aug 2023 06:13:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
