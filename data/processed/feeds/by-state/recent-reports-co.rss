@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Aug 2023 21:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 00:35:43 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080515</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191996&gt;E-2023080515&lt;/A</link>
@@ -359,6 +359,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080285</guid>
       <pubDate>Wed, 23 Aug 2023 18:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023060015</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187774&gt;I-2023060015&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187774&gt;I-2023060015&lt;/A"&gt;Report I-2023060015&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-30T00:33:49+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-03&lt;/li&gt;
+                &lt;li&gt;City: DENVER&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED AIRLINES HOLDINGS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: During mid flight a passenger in 35E pulled me aside and mentioned her battery pack was over heating. I immediately contacted the purser to inform her we had a battery pack over heating in the back and I was going to use the TCB protocol. The purser came back and also confirmed the battery was over heating and we proceeded to isolate the battery back in the TCB. Purser notified pilot and TCB was locked in the Right Aft Lavatory. Bag was handed over to agent in Denver.  Mid flight, I received a call from FA in the back (ebheer) that a passenger (seated in 35e, Mrs Dixon) informed him that her battery (the battery wasn&amp;#x27;t even being used) for an inflatable pillow was overheating and he decided to use the TCB bag to prevent anything further. I went to the back to check it out and it was indeed very warm, so I backed his decision and also advised the pilots of the situation. He took the steps necessary to lock the battery in the aft lav. Upon arrival, the bag was handed off to the csr.  The FA TCB was used for a baby device battery that started to overheat and smell like it was burning. No further issues. Write up was done and Mx replaced the bag.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060015</guid>
+      <pubDate>Wed, 30 Aug 2023 00:33:49 +0000</pubDate>
     </item>
   </channel>
 </rss>

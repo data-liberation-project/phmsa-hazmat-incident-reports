@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Aug 2023 21:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 00:35:43 +0000</lastBuildDate>
     <item>
       <title>Report X-2023080615</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191677&gt;X-2023080615&lt;/A</link>
@@ -1393,6 +1393,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080064</guid>
       <pubDate>Wed, 23 Aug 2023 18:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023020006</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183423&gt;I-2023020006&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2183423&gt;I-2023020006&lt;/A"&gt;Report I-2023020006&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-30T00:33:49+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2022-11-10&lt;/li&gt;
+                &lt;li&gt;City: Beaumont&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: TIDEWATER TRANSIT CO, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: The vehicle was in transit and ran over road debris, resulting in damage to the steering system of the road tractor. The driver lost control and collided with bridge support post. After the collision, the road tractor caught fire resulting in destruction of the road tractor and damage to the tank trailer, A release of material from the tanker did not occur. Environmental cleanup activities involved product transfer from the damaged tanker to a new tanker, clean up of debris, and abatement of a minor motor oil and diesel fuel release from the road tractor of the vehicle. After the fire was extinguished, the product in the tanker was transferred to another tanker. The damaged tanker was trailer #1057.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023020006</guid>
+      <pubDate>Wed, 30 Aug 2023 00:33:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
