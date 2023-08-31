@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2023 18:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 21:11:27 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080488</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191517&gt;E-2023080488&lt;/A</link>
@@ -271,50 +271,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080302</guid>
       <pubDate>Mon, 28 Aug 2023 18:15:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080497</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191559&gt;X-2023080497&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191559&gt;X-2023080497&lt;/A"&gt;Report X-2023080497&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-24T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-28&lt;/li&gt;
-                &lt;li&gt;City: TOPEKA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: UNLOAD FOUND PACKAGE ON ITS SIDE, SMALL AMOUNT OF LIQUID LEAKED OUT OF BOX.  QA PLACED PACKAGE IN HAZMAT BAG AND TOTE AND REMOVED FROM HIGH TRAFFIC AREA DescribePack: BOX WAS ON ITS SIDE IN THE TRAILER AND SMALL AMOUNT OF LIQUID LEAKED FROM THE CAP DurationRel: 4 and MitigateEffect: BAGGED AND REMOVED FROM TRAFFIC, TIGHTENED CAP&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080497</guid>
-      <pubDate>Thu, 24 Aug 2023 18:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080222</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191044&gt;E-2023080222&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191044&gt;E-2023080222&lt;/A"&gt;Report E-2023080222&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-24T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-27&lt;/li&gt;
-                &lt;li&gt;City: WICHITA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080222</guid>
-      <pubDate>Thu, 24 Aug 2023 18:13:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

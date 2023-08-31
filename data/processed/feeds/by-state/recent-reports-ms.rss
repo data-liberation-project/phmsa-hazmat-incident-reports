@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2023 18:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 21:11:27 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023080632</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191694&gt;X-2023080632&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191694&gt;X-2023080632&lt;/A"&gt;Report X-2023080632&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-02&lt;/li&gt;
+                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
+                &lt;li&gt;State: MS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was discovered on Unload Door 51 already damaged. DescribePack: One of the cans were bent around cap area, causing cap to loosen and internal leakage to occur. DurationRel: 1 and MitigateEffect: The leak was contained to the package.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080632</guid>
+      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023080610</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191672&gt;X-2023080610&lt;/A</link>
@@ -73,94 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080834</guid>
       <pubDate>Mon, 28 Aug 2023 18:15:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080562</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191624&gt;X-2023080562&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191624&gt;X-2023080562&lt;/A"&gt;Report X-2023080562&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-24T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-27&lt;/li&gt;
-                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
-                &lt;li&gt;State: MS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: found pkg in nonhazardous tote.  Pkg was corroded.  I completed DPR, ISF, and now HESS.  Area was cleaned up properly. DescribePack: Pkg was torn and ripped.  Box was corroded due to content spilling in box. DurationRel: 1 and MitigateEffect: Pkg was properly handled following guidelines.  Pkg was placed in pail and awaiting disposition response.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080562</guid>
-      <pubDate>Thu, 24 Aug 2023 18:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080494</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191556&gt;X-2023080494&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191556&gt;X-2023080494&lt;/A"&gt;Report X-2023080494&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-24T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-27&lt;/li&gt;
-                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
-                &lt;li&gt;State: MS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: pkg was found in nonhazardous tote in QA area.  Damage report was completed, ISF completed, and now HESS completion. DescribePack: Pkg had a puncture hole on top.  Upon opening, one gallon had loose cap and majority of contents spilled out and another gallon had small amount of missing content/liquid. DurationRel: 1 and MitigateEffect: hazmat material was properly handled and cleaned up properly. Followed correct processes.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080494</guid>
-      <pubDate>Thu, 24 Aug 2023 18:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080139</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190837&gt;E-2023080139&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190837&gt;E-2023080139&lt;/A"&gt;Report E-2023080139&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-24T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-06&lt;/li&gt;
-                &lt;li&gt;City: RICHLAND&lt;/li&gt;
-                &lt;li&gt;State: MS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading the warehouse crew accidentally put a forklift fork into one of the poly 55 gallon drum of sant 10 plus (un1903) releasing 4 gallons of product.  Contractors were dispatched for the containment and cleanup of the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080139</guid>
-      <pubDate>Thu, 24 Aug 2023 18:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080135</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190833&gt;E-2023080135&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190833&gt;E-2023080135&lt;/A"&gt;Report E-2023080135&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-24T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-03&lt;/li&gt;
-                &lt;li&gt;City: REDWOOD&lt;/li&gt;
-                &lt;li&gt;State: MS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During unloading facility storage tank gauge broke allowing slight amount of material in tank to be released. Unloading stopped, repair made and unloading continued without incident. Consignee personnel cleaned up release and processed properly.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080135</guid>
-      <pubDate>Thu, 24 Aug 2023 18:13:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
