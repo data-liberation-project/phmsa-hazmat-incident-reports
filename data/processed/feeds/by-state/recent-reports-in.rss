@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Aug 2023 21:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 00:33:42 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080436</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191406&gt;E-2023080436&lt;/A</link>
@@ -535,6 +535,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080095</guid>
       <pubDate>Thu, 24 Aug 2023 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023060007</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187685&gt;I-2023060007&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187685&gt;I-2023060007&lt;/A"&gt;Report I-2023060007&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-31T00:31:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-31&lt;/li&gt;
+                &lt;li&gt;City: INDIANAPOLIS&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: HOLLAND&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: While unloading one box was found leaking. The release was properly managed. The damaged box was placed into a salvage drum and is being held pending disposition from the shipper.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060007</guid>
+      <pubDate>Thu, 31 Aug 2023 00:31:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023061411</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187210&gt;X-2023061411&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187210&gt;X-2023061411&lt;/A"&gt;Report X-2023061411&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-31T00:31:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-30&lt;/li&gt;
+                &lt;li&gt;City: ELKHART&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: NORFOLK SOUTHERN RAILWAY COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Car was involved in a sideswipe derailment that caused the car to be knocked on its side and product was released from the VRD to the ground.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061411</guid>
+      <pubDate>Thu, 31 Aug 2023 00:31:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

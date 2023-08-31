@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Aug 2023 21:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 00:33:42 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080486</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191512&gt;E-2023080486&lt;/A</link>
@@ -623,6 +623,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070076</guid>
       <pubDate>Thu, 24 Aug 2023 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023060057</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023060057&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-08-31T00:31:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-18&lt;/li&gt;
+                &lt;li&gt;City: RIVIERA BEACH&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Water&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: TROPICAL SHIPPING USA, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Container HLBU1900531 was off loaded by connecting carrier Hapag-Lloyd to Tropical Shipping Vessel. Container was next off loaded in the Port of Palm Beach to be transferred to another vessel to head to it&amp;#x27;s final destination in Nassau Bahamas and noted to be over weight for equipment capacity. The container was opened to be unstuffed and broken down into two separate containers to safely continue it&amp;#x27;s transport. Upon opening the container it was noted that blocking and bracing was not used and jerricans of ethanol fell out of the container. There was no hazardous materials declaration form completed nor was the CTU placarded. Shipper info is as follows: SHIPPER: DANIEL BELANDE 37 RUE ST JOSEPH FERMATHE T:+50949084949 HLBU 1900531 (45G1) M: BNCARGO@HOTMAIL.COM&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060057</guid>
+      <pubDate>Thu, 31 Aug 2023 00:31:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
