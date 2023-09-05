@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Sep 2023 15:28:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 15:12:27 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023080767</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193033&gt;E-2023080767&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193033&gt;E-2023080767&lt;/A"&gt;Report E-2023080767&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-05T15:12:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-08&lt;/li&gt;
+                &lt;li&gt;City: BALTIMORE&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080767</guid>
+      <pubDate>Tue, 05 Sep 2023 15:12:25 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023080748</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192958&gt;E-2023080748&lt;/A</link>
@@ -249,28 +271,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080345</guid>
       <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080527</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191589&gt;X-2023080527&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191589&gt;X-2023080527&lt;/A"&gt;Report X-2023080527&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-28T18:15:10+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-30&lt;/li&gt;
-                &lt;li&gt;City: WHITE MARSH&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS UNLOADED FROM THE TRAILER, ALREADY LEAKING BADLY. THE PACKAGE HANDLER JUST PUT THE PACKAGE   OFF TO THE SIDE AWAY FROM ANYTHING THEY WERE WORKING. DescribePack: HE LID HAD WORKED ITSELF COMPLETELY OFF, AND MORE THAN HALF OF THE CONENTS SPILLED. DurationRel: 1 and MitigateEffect: I IMMEDIATELY WENT OVER TO THE UNLOAD TO GET THE BOX. I PUT THE LID ON THE LEAKING JUG, THEN PLACED THE ENTIRE  PACKAGE INSIDE A BIN LINED WITH A HEAVY DUTY HAZMAT BAG.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080527</guid>
-      <pubDate>Mon, 28 Aug 2023 18:15:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

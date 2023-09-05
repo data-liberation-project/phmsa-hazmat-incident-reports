@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Sep 2023 15:28:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 15:12:27 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080672</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192679&gt;E-2023080672&lt;/A</link>
@@ -75,26 +75,26 @@
       <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023080190</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191000&gt;E-2023080190&lt;/A</link>
+      <title>Report E-2023080789</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193106&gt;E-2023080789&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191000&gt;E-2023080190&lt;/A"&gt;Report E-2023080190&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-28T18:15:10+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193106&gt;E-2023080789&lt;/A"&gt;Report E-2023080789&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-05T15:12:25+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-02&lt;/li&gt;
-                &lt;li&gt;City: Richmond&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-07-24&lt;/li&gt;
+                &lt;li&gt;City: KING GEORGE&lt;/li&gt;
                 &lt;li&gt;State: VA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: AVERITT EXPRESS, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: KAG LEASING, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Damaged while loading&lt;/li&gt;
+                &lt;li&gt;Description: The KAG Energy, LLC driver was delivering gasoline into the customer&amp;#x27;s storage tank and overfilled the tank. Approximately 50 gallons of gasoline was released. Envirorserve responded to the scene and handled the remediation.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080190</guid>
-      <pubDate>Mon, 28 Aug 2023 18:15:10 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080789</guid>
+      <pubDate>Tue, 05 Sep 2023 15:12:25 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023080509</title>
@@ -139,72 +139,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080557</guid>
       <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080534</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191596&gt;X-2023080534&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191596&gt;X-2023080534&lt;/A"&gt;Report X-2023080534&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-28T18:15:10+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-31&lt;/li&gt;
-                &lt;li&gt;City: ROANOKE&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered in main tower chute after accidently being sent up to conveyor belt. Package was removed after discovering container was leaking from the inside. DescribePack: Lid on container had appeared to loosen and cause leakage, resulting in damage. DurationRel: 1 and MitigateEffect: Container was removed from area and placed in damaged hazmat container to prevent further spills on ground.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080534</guid>
-      <pubDate>Mon, 28 Aug 2023 18:15:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080333</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191211&gt;E-2023080333&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191211&gt;E-2023080333&lt;/A"&gt;Report E-2023080333&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-28T18:15:10+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-27&lt;/li&gt;
-                &lt;li&gt;City: COLONIAL HEIGHTS&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On July 27, 2023, one (1) 300-gallon tote of UN1263 paint had a leak due to a defective component and released approximately four (4) ounces of product to the dock floor. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from EnviroServe (ES) to remediate the impacted site. The crew transferred the virgin product into five (5) new 55-gallon drums. ES personnel then deployed granular absorbents to the release and utilized hand tools to collect and containerize all UN1263-impacted product in one (1) 55-gallon drum for disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080333</guid>
-      <pubDate>Mon, 28 Aug 2023 18:15:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080314</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191192&gt;E-2023080314&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191192&gt;E-2023080314&lt;/A"&gt;Report E-2023080314&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-28T18:15:10+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: STERLING&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: CLI TRANSPORT, LP&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Driver connected fittings and hoses. Started pot 4 then pot 3. When driver turned on pot 3 hose came off resulting in spill of around 10 gallons. Driver immediately shut valve off and grabbed absorbent pads. Used spill kit on trailer to prevent spill from entering storm drains and cleaned up area of parking lot where it occurred.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080314</guid>
-      <pubDate>Mon, 28 Aug 2023 18:15:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

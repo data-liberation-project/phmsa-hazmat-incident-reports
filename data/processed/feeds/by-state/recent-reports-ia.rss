@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Sep 2023 15:28:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 15:12:27 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080621</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192577&gt;E-2023080621&lt;/A</link>
@@ -119,6 +119,28 @@
       <pubDate>Tue, 29 Aug 2023 21:11:32 +0000</pubDate>
     </item>
     <item>
+      <title>Report E-2023080775</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193075&gt;E-2023080775&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193075&gt;E-2023080775&lt;/A"&gt;Report E-2023080775&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-05T15:12:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-23&lt;/li&gt;
+                &lt;li&gt;City: ANKENY&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SOLE TRANSPORT LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Hose was not secure spilling 5 gallons of gas.  Driver cleaned up with absorbent pads.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080775</guid>
+      <pubDate>Tue, 05 Sep 2023 15:12:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Report E-2023080655</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192636&gt;E-2023080655&lt;/A</link>
       <description>
@@ -205,28 +227,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080393</guid>
       <pubDate>Tue, 29 Aug 2023 21:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080238</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191079&gt;E-2023080238&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191079&gt;E-2023080238&lt;/A"&gt;Report E-2023080238&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-28T18:15:10+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-11&lt;/li&gt;
-                &lt;li&gt;City: CEDAR RAPIDS&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: CEDAR RAPIDS AND IOWA CITY RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: IAIS carman inspection of outbound train discovered car leaking from bottom cap area.  CIC Yard Manager was notified and the CIC carman secured a bucket underneath the car to catch any leaking liquid.  Once the leak was contained the car was returned to VCP for repairs&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080238</guid>
-      <pubDate>Mon, 28 Aug 2023 18:15:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
