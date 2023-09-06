@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Sep 2023 21:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 00:34:12 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080787</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193104&gt;E-2023080787&lt;/A</link>
@@ -73,28 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081539</guid>
       <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080573</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191635&gt;X-2023080573&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191635&gt;X-2023080573&lt;/A"&gt;Report X-2023080573&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-29T21:11:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-01&lt;/li&gt;
-                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was being unloaded from trailer when package handler noticed box was damaged. Manager placed package in bin and brought package to QA for inspection. DescribePack: Box was stained black. Inspection of the inside revealed that an entire side of the box was blackened. The aluminum bucket had a big dent on the side of the bucket that also dented the lid. DurationRel: 1 and MitigateEffect: Package was placed in a bin and then placed on top of a grate to catch any further release from the package during inspection. Once the leak was found on the top of the aluminum bucket. The item was then placed inside a hazmat bin to prevent anymore movement.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080573</guid>
-      <pubDate>Tue, 29 Aug 2023 21:11:32 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023080525</title>

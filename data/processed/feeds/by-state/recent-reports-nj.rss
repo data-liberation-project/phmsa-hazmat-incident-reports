@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Sep 2023 21:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 00:34:12 +0000</lastBuildDate>
     <item>
       <title>Report I-2023080063</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193937&gt;I-2023080063&lt;/A</link>
@@ -295,28 +295,6 @@
       <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023080581</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191643&gt;X-2023080581&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191643&gt;X-2023080581&lt;/A"&gt;Report X-2023080581&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-29T21:11:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-01&lt;/li&gt;
-                &lt;li&gt;City: BARRINGTON&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE UNLOAD PROCESS THE MANAGER NOTICED THE  PKG WAS WET AND PURPLE. MANAGER IMMEDICATELY TOOK PKG OVER TO  THE  HAZMAT CAGE. I SECURED AND VENTILATED PROPERLY. I THEN REPACKED IT INTO A YELLOW SALVAGE DRUM AND AM AWAITING THE DISPOSITION FROM PGH. DescribePack: APPROXIMATELY 1 CUP OF STAIN LEAKED OUT DUE TO A LOOSE CAP ON ONE OF THE FOUR BOTTLES. IT LEAKED OUT ONTO THE OTHER 3 BOTTLES AS WELL CAUSING THE STAIN  TO BE ALL OVER ALL FOUR BOTTLES. DurationRel: 2 and MitigateEffect: IMMEDIATELY TAKEN OVER TO HAZMAT CAGE TO BE SECURED AND REPACKED INTO A YELLOW SALVAGE DRUM AND VENTILATED PROPERLY.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080581</guid>
-      <pubDate>Tue, 29 Aug 2023 21:11:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023080653</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192633&gt;E-2023080653&lt;/A</link>
       <description>
@@ -447,28 +425,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080340</guid>
       <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080365</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191299&gt;E-2023080365&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191299&gt;E-2023080365&lt;/A"&gt;Report E-2023080365&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-29T21:11:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-26&lt;/li&gt;
-                &lt;li&gt;City: Rahway&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DUPRE LOGISTICS, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Overfill&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080365</guid>
-      <pubDate>Tue, 29 Aug 2023 21:11:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
