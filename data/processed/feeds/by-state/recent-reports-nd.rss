@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 18:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 21:12:24 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080931</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193651&gt;E-2023080931&lt;/A</link>
@@ -29,50 +29,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080931</guid>
       <pubDate>Thu, 07 Sep 2023 15:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080650</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191712&gt;X-2023080650&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191712&gt;X-2023080650&lt;/A"&gt;Report X-2023080650&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-03&lt;/li&gt;
-                &lt;li&gt;City: FARGO&lt;/li&gt;
-                &lt;li&gt;State: ND&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found by manager on rollers. Driver had coded it a 10 and wrote it was leaking from the corner. Manager did not know how package ended up receiving damage and had found it after the driver already left. No one was around when manager found package and he did not find any package handler who knew what happened to the package. QA placed damaged hazmat into a lined hazmat bin and inspected item. DescribePack: Outer box ripped open at corner and bag of powder ripped near the seal at the corner. Powder leaked out of package. It is a 1/2 in. hole in the bag. DurationRel: 1 and MitigateEffect: Upon discovery, immediately placed package in a lined hazmat drum before it was brought to QA area for processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080650</guid>
-      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080499</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191536&gt;E-2023080499&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191536&gt;E-2023080499&lt;/A"&gt;Report E-2023080499&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-02&lt;/li&gt;
-                &lt;li&gt;City: WEST FARGO&lt;/li&gt;
-                &lt;li&gt;State: ND&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080499</guid>
-      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

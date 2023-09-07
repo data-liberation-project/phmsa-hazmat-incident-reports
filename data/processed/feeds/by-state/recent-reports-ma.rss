@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 18:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 21:12:24 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090052</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194258&gt;E-2023090052&lt;/A</link>
@@ -207,28 +207,6 @@
       <pubDate>Sat, 02 Sep 2023 06:14:17 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023080550</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192038&gt;E-2023080550&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192038&gt;E-2023080550&lt;/A"&gt;Report E-2023080550&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-09&lt;/li&gt;
-                &lt;li&gt;City: Seekonk&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Load shift&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080550</guid>
-      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023080368</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190783&gt;X-2023080368&lt;/A</link>
       <description>
@@ -249,28 +227,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080368</guid>
       <pubDate>Wed, 06 Sep 2023 15:11:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080339</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190724&gt;X-2023080339&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190724&gt;X-2023080339&lt;/A"&gt;Report X-2023080339&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-27&lt;/li&gt;
-                &lt;li&gt;City: SHREWSBURY&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: DAMAGED HAZMAT WAS FOUND IN THE UNLOAD. DURING INSPECTION RESPONDER DISCOVERED INNER PACKAGE WAS LEAKING. PACKAGE WAS CONTAINED USING THE DECISION TREE FOR FLAMMABLE LIQUIDS AND BROUGHT TO THE DMP. PACKAGE WAS THEN PROCESSED USING THE DECISION TREE FOR FLAMMABLE LIQUIDS.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080339</guid>
-      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

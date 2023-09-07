@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 18:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 21:12:24 +0000</lastBuildDate>
     <item>
       <title>Report E-2023080810</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193138&gt;E-2023080810&lt;/A</link>
@@ -73,50 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080846</guid>
       <pubDate>Tue, 05 Sep 2023 15:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080624</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191686&gt;X-2023080624&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191686&gt;X-2023080624&lt;/A"&gt;Report X-2023080624&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-02&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023080624 SequenceEvent: Package was found with wet sides and obvious signs of internal leakage. QA was called and package was picked up. Package was put into a lined tote. DescribePack: Caps came loose during transit causing internal leakage. This is a constant problem with this product. DurationRel: 1 and MitigateEffect: Caps were tightened and package was kept in and upright position to prevent further leakage.  2. X-2023080625 SequenceEvent: Package was found with wet side and obvious signs of internal leakage. QA was called and package was picked up. Package was put into a lined tote. DescribePack: Caps came loose during transit causing internal leakage. This is a very common occurrence with this product. DurationRel: 1 and MitigateEffect: Caps were tightened and package was kept in an upright position.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080624</guid>
-      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023061741</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187552&gt;X-2023061741&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2187552&gt;X-2023061741&lt;/A"&gt;Report X-2023061741&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-27&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO A DECLARED LEAKING HAZARDOUS MATERIALS PACKAGE THAT WAS MARKED AND LABELED UN3082 ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. WITH AN IATA DECLARATION. THE PACKAGE HAD PREVIOUSLY PASSED AN ACCEPTANCE AUDIT AT THE ORIGIN FACILITY. OVERPACK USED INDICATED ON THE DECLARATION AND BOX. UPON INSPECTION OF THE CONTENTS DISCOVERED FOUR X ONE GALLON JUGS OF LOHFOAM 10 DEFOAMER INSIDE THE FIBERBOARD NON-SPECIFICATION OUTER BOX WITH ONE JUG LEAKING FROM THE CLOSURE OF THE JUG. THE DANGEROUS GOODS WERE NOT IN AN OVERPACK.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023061741</guid>
-      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
     </item>
   </channel>
 </rss>

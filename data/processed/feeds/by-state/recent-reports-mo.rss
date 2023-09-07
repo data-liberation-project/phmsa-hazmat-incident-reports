@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 18:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Sep 2023 21:12:24 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090041</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194234&gt;E-2023090041&lt;/A</link>
@@ -295,28 +295,6 @@
       <pubDate>Sat, 02 Sep 2023 06:14:17 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023080647</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191709&gt;X-2023080647&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191709&gt;X-2023080647&lt;/A"&gt;Report X-2023080647&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-03&lt;/li&gt;
-                &lt;li&gt;City: STRAFFORD&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package handlers unloading the trailer called QA over. Wet package was placed in black spill tote. DescribePack: Small corner dent, package in good shape otherwise. DurationRel: 3 and MitigateEffect: Spill pads and spill tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080647</guid>
-      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023080727</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192916&gt;E-2023080727&lt;/A</link>
       <description>
@@ -381,28 +359,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080560</guid>
       <pubDate>Sat, 02 Sep 2023 06:14:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080351</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190742&gt;X-2023080351&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190742&gt;X-2023080351&lt;/A"&gt;Report X-2023080351&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-08-31T21:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-27&lt;/li&gt;
-                &lt;li&gt;City: EARTH CITY&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: FULLY LABELED HAZ-MAT SHIPMENT WAS VISUALLY DISCOVERED WET IN APPEARANCE BY A WEST COUNTY DRIVER WHILE DELIVERING. HE SECURED THE VEHICLE AND CONTACTED HIS MANAGEMENT TEAM. AN OUTSIDE RESPONDER WAS DISPATCHED TO THE LOCATION AND CONTAINED   CLEANED UP THE SPILL, THEN TRANSPORTED THE WASTE TO THE EARTH CITY FACILITY DMP PROCESSING AREA. CLOSER INSPECTION REVEALED THAT THE CAP ON 1 OF 4 POLY, 3.8 LITER CONTAINERS WAS LOOSE BY 1/2 ROTATION, CAUSING APPROX. 1 PINT OF THE LIQUID TO LEAK THROUGH THE BREACH. THE INNER PACKING MATERIAL CONSISTED OF CORRUGATED PARTITIONS AND THE OUTER CARTON WAS A DOUBLEWALL FIBERBOARD BOX, RATED AT A 275 LBS/IN BURSTING TEST.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080351</guid>
-      <pubDate>Thu, 31 Aug 2023 21:11:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
