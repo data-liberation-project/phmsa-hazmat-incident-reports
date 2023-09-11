@@ -7,7 +7,116 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 21:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Sep 2023 03:13:01 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023090096</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023090096&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-11T03:12:58+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-08&lt;/li&gt;
+                &lt;li&gt;City: MUSKOGEE&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ACTION RESOURCES, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 1&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Truck transporting tank trailer load of Nitric Acid was in transit when the driver noticed product leaking from the front portion of the tank onto the rear portion of the truck. Driver pulled over to the shoulder of the road to investigate. Driver discovered a small leak coming from the tank. 911 was called for assistance. The fire department responded and deployed the hazmat team. The roadway was shut down as a precaution. Enviromental response and remediation crew was dispatched to the scene to perform the cleanup, remediation and load transfer onto another tanker. The load was successfully transferred to another tanker and transported to the destination. The cleanup and remediation of the small spill have been completed.   The driver accidentally inhaled some nitric fumes before donning his PPE while investigating the problem. He was transported to hospital for treatment. Driver was treated and released.  Upon a full inspection of the tank, it was determined that there were some pits in the barrel that caused the leak.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090096</guid>
+      <pubDate>Mon, 11 Sep 2023 03:12:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023080978</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193908&gt;E-2023080978&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193908&gt;E-2023080978&lt;/A"&gt;Report E-2023080978&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-11T03:12:58+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-16&lt;/li&gt;
+                &lt;li&gt;City: TULSA&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080978</guid>
+      <pubDate>Mon, 11 Sep 2023 03:12:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081254</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192488&gt;X-2023081254&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192488&gt;X-2023081254&lt;/A"&gt;Report X-2023081254&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-11T03:12:58+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-16&lt;/li&gt;
+                &lt;li&gt;City: BROKEN ARROW&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package handlers saw the box was wet while unloading the trailer.  they put the box in a hazmat tub and brought to qa.  no damage to any other packages nor was the box leaking heavily. DescribePack: the lid/closure of the bottle was closed tightly, but there is still a gap for liquid to seep through. there is no hole, just a gap/crookedness to the lid.  lid cannot be adjusted.  this is a slow leak. DurationRel: 1 and MitigateEffect: package placed in damage tub, lid is messed up. placed in plastic hazmat bag.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081254</guid>
+      <pubDate>Mon, 11 Sep 2023 03:12:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081142</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192376&gt;X-2023081142&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192376&gt;X-2023081142&lt;/A"&gt;Report X-2023081142&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-11T03:12:58+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-12&lt;/li&gt;
+                &lt;li&gt;City: BROKEN ARROW&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was coming out of a trailer, when the trailer was opened the package was found spilling out. DescribePack: The cap on one of the plastic bottles completely came off, causing all contents to spill out. DurationRel: 1 and MitigateEffect: The spill was immediately cleaned up, and placed in a hazardous material tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081142</guid>
+      <pubDate>Mon, 11 Sep 2023 03:12:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081031</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192202&gt;X-2023081031&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192202&gt;X-2023081031&lt;/A"&gt;Report X-2023081031&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-11T03:12:58+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-04&lt;/li&gt;
+                &lt;li&gt;City: OKLAHOMA CITY&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081031</guid>
+      <pubDate>Mon, 11 Sep 2023 03:12:58 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023080979</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192127&gt;X-2023080979&lt;/A</link>
@@ -185,6 +294,50 @@
       <pubDate>Tue, 05 Sep 2023 15:12:25 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2023080925</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192073&gt;X-2023080925&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192073&gt;X-2023080925&lt;/A"&gt;Report X-2023080925&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-11T03:12:58+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-25&lt;/li&gt;
+                &lt;li&gt;City: EDMOND&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080925</guid>
+      <pubDate>Mon, 11 Sep 2023 03:12:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080384</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190802&gt;X-2023080384&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2190802&gt;X-2023080384&lt;/A"&gt;Report X-2023080384&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-11T03:12:58+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-30&lt;/li&gt;
+                &lt;li&gt;City: TULSA&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: DAY SORT SUPERVISOR SAW A WET HAZMAT BOX ON THE SORT AISLE PLATFORM. PACKAGE WAS TRANSPORTED TO THE DMP PROCESSING AREA. THE DESIGNATED RESPONDER OPENED THE BOX AND NOTICED THAT ONE BOTTLE HAD A LOOSE CAP AND THE OTHER BOTTLES INSIDE THE BOX WERE WET.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080384</guid>
+      <pubDate>Mon, 11 Sep 2023 03:12:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Report E-2023080701</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192816&gt;E-2023080701&lt;/A</link>
       <description>
@@ -205,50 +358,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080701</guid>
       <pubDate>Tue, 05 Sep 2023 15:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080689</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192795&gt;E-2023080689&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192795&gt;E-2023080689&lt;/A"&gt;Report E-2023080689&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-02T06:14:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-18&lt;/li&gt;
-                &lt;li&gt;City: OKLAHOMA CITY&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading the warehouse crew accidentally put a forklift fork into 2 cases of pH reducer (un1789) damaging 5 of the inner poly one gallon jugs and releasing 5 gallons of product.  Contractors were dispatched for the containment and cleanup of the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080689</guid>
-      <pubDate>Sat, 02 Sep 2023 06:14:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023080676</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192688&gt;E-2023080676&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192688&gt;E-2023080676&lt;/A"&gt;Report E-2023080676&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-02T06:14:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-20&lt;/li&gt;
-                &lt;li&gt;City: NORMAN&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: While delivering to their customer  in Norman,OK and during off loading in a forklift accident a pallet fell, damaging one case of blue whale muriatic acid (un1789) damaging the 2 inner poly 2 gallon jugs and releasing 4 gallons of product.  Contractors were dispatched for the containment and cleanup of the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023080676</guid>
-      <pubDate>Sat, 02 Sep 2023 06:14:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
