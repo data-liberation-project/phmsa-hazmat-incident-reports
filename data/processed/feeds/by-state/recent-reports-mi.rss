@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Sep 2023 12:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Sep 2023 15:13:20 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090235</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194770&gt;E-2023090235&lt;/A</link>
@@ -73,6 +73,94 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090180</guid>
       <pubDate>Wed, 13 Sep 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081234</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192468&gt;X-2023081234&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192468&gt;X-2023081234&lt;/A"&gt;Report X-2023081234&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-18T15:13:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-15&lt;/li&gt;
+                &lt;li&gt;City: PORTAGE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found to be leaking by the CSP Driver while on route. When driver came back to the building, he notified QA about the leaking hazmat. QA then placed the damaged hazmat in a red hazmat tote to transport it to the hazmat cage for further inspection. Upon closer inspection, it was determined that the inner plastic container had a small puncture hole on the top of it. DescribePack: There is one small puncture hole on the top of the inner plastic container. DurationRel: 1 and MitigateEffect: Driver placed leaking hazmat in plastic bags to mitigate release until he got back to the station.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081234</guid>
+      <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081205</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192439&gt;X-2023081205&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192439&gt;X-2023081205&lt;/A"&gt;Report X-2023081205&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-18T15:13:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-07&lt;/li&gt;
+                &lt;li&gt;City: SALINE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081205</guid>
+      <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081139</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192373&gt;X-2023081139&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192373&gt;X-2023081139&lt;/A"&gt;Report X-2023081139&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-18T15:13:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-12&lt;/li&gt;
+                &lt;li&gt;City: SALINE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023081139 NO COMMENTS PROVIDED.    2. X-2023081140 NO COMMENTS PROVIDED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081139</guid>
+      <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081134</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192368&gt;X-2023081134&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192368&gt;X-2023081134&lt;/A"&gt;Report X-2023081134&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-18T15:13:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-12&lt;/li&gt;
+                &lt;li&gt;City: PORTAGE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Hazmat was found during unload with liquid leaking from the cap. It was put into a hazmat tote by management who then gave it over to QA. QA took the hazmat to the hazmat cage where upon inspection it was found that the screw on cap was not properly tightened causing the spill. DescribePack: Closure improperly tightened. DurationRel: 1 and MitigateEffect: Upon location of the leaking hazmat, it was put into a tote and taken to the hazmat cage by QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081134</guid>
+      <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023081114</title>
@@ -227,6 +315,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081323</guid>
       <pubDate>Wed, 13 Sep 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081758</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193607&gt;X-2023081758&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193607&gt;X-2023081758&lt;/A"&gt;Report X-2023081758&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-18T15:13:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-31&lt;/li&gt;
+                &lt;li&gt;City: LUDINGTON&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: OPEN BOX IN THE TRAILER THAT WAS SET ASIDE FOR TAPE UP. UPON INSPECTION THE BUCKET INSIDE HAS A YELLOW OXIDIZER 5.1 LABEL WITH UN2468. THEN CALLED THE DANGEROUS GOODS HELP DESK. ALL ITEMS TO HELD AT THE UPS CENTER UNTIL FURTHER INSTRUCTION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081758</guid>
+      <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
