@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Sep 2023 12:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 15:12:18 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023081515</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193294&gt;X-2023081515&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193294&gt;X-2023081515&lt;/A"&gt;Report X-2023081515&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-10&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: NV&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Pack Handler noted leakage from package. Manager was alerted who then handed it to QA. DescribePack: Plastic Jug cracked on seam under handle and leaked contents. DurationRel: 1 and MitigateEffect: Box was secured in hazmat tote.  Plastic jug was place in plastic bag.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081515</guid>
+      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023081744</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193589&gt;X-2023081744&lt;/A</link>

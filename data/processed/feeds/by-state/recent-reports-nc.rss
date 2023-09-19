@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Sep 2023 12:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 15:12:18 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090158</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194564&gt;E-2023090158&lt;/A</link>
@@ -51,6 +51,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090106</guid>
       <pubDate>Wed, 13 Sep 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081275</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192509&gt;X-2023081275&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192509&gt;X-2023081275&lt;/A"&gt;Report X-2023081275&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-15&lt;/li&gt;
+                &lt;li&gt;City: KERNERSVILLE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: One of our unload managers brought over the hazmat I asked him what happened and he replied the hazmat began to become wet once they were placing it on the belt to go to the unloads. DescribePack: The box was wet on one side and the box looked like it was about to begin falling apart. DurationRel: 1 and MitigateEffect: Moment i noticed the release starting I immediately placed the hazmat in a lined tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081275</guid>
+      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023090307</title>
@@ -337,6 +359,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081193</guid>
       <pubDate>Wed, 13 Sep 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081260</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192494&gt;X-2023081260&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192494&gt;X-2023081260&lt;/A"&gt;Report X-2023081260&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-14&lt;/li&gt;
+                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Damaged during unloading,  removed the damage to secure saftey of others. DescribePack: Loose fitting, which caused leakage. DurationRel: 1 and MitigateEffect: Applied spill fix.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081260</guid>
+      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2023090050</title>

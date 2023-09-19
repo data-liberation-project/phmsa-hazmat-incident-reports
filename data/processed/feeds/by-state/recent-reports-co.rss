@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Sep 2023 12:19:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2023 15:12:18 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090194</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194636&gt;E-2023090194&lt;/A</link>
@@ -29,6 +29,115 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090194</guid>
       <pubDate>Wed, 13 Sep 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023090065</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023090065&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-05&lt;/li&gt;
+                &lt;li&gt;City: DENVER&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED AIRLINES HOLDINGS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On the August 5,2023, on flight UA1951 IAD-SFO passenger Fuller/Gerald&amp;#x27;s laptop was getting hot during the flight. The laptop was transferred inside the thermal bag by the flight crew customer indicated it was a re-furbished MacBook Battery appreared to vent and was placed in a Thermal Containment bag&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090065</guid>
+      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023090418</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195335&gt;E-2023090418&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195335&gt;E-2023090418&lt;/A"&gt;Report E-2023090418&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-29&lt;/li&gt;
+                &lt;li&gt;City: MEAD&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090418</guid>
+      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081259</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192493&gt;X-2023081259&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192493&gt;X-2023081259&lt;/A"&gt;Report X-2023081259&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-15&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was brought to QA wet DescribePack: Loose caps DurationRel: 1 and MitigateEffect: Fully regulated package came to QA wet after inspecting package found loose caps on 2/4 bottles of Rapicide PA part B. Loose caps were on PART A which is the hazardous part of this package.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081259</guid>
+      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081255</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192489&gt;X-2023081255&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192489&gt;X-2023081255&lt;/A"&gt;Report X-2023081255&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-16&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was brought to QA for inspection DescribePack: Punctured cans DurationRel: 1 and MitigateEffect: Fully regulated package came to QA wet after inspecting package found 3/3 cans of paint thinner punctured causing leakage to box.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081255</guid>
+      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081246</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192480&gt;X-2023081246&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192480&gt;X-2023081246&lt;/A"&gt;Report X-2023081246&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-17&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PKG HANDLER WAS UNLOADING PKG WHEN IT WAS DROPPED ONTO ROLLERS DescribePack: GLASS BOTTLE BROKEN DurationRel: 1 and MitigateEffect: PKG WAS IMMEDIATLY BROUGHT TO DAMAGES AND PLACED IN TOTE, OILDRY WAS USED TO CLEAN UP SPILL FROM UNDER ROLLERS&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081246</guid>
+      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023081749</title>
