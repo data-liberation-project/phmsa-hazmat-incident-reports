@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Sep 2023 00:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Sep 2023 00:36:23 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090475</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195472&gt;E-2023090475&lt;/A</link>
@@ -447,49 +447,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090016</guid>
       <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023080045</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023080045&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-16T00:32:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-05-23&lt;/li&gt;
-                &lt;li&gt;City: Lyons&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: NEXGEN LOGISTICS LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 1&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The driver left the road at around 40mph for an unknown reason. We suspect he had a medical emergency. The truck crashed into several large oak trees and burst into flames. The fire burned the entire truck and truck mounted cargo tank completely down. The product in the tank burned and soaked into the soil.The driver was burned up in the cab to the point that no autopsy or testing could be done.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023080045</guid>
-      <pubDate>Sat, 16 Sep 2023 00:32:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080889</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191953&gt;X-2023080889&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191953&gt;X-2023080889&lt;/A"&gt;Report X-2023080889&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-16T00:32:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-04-27&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was notified of a leaking hazmat, and we secured it in a salvage drum. DescribePack: upon inspection the lid was found to be loose, and content leaked out. DurationRel: 1 and MitigateEffect: leaking package was secured in a salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080889</guid>
-      <pubDate>Sat, 16 Sep 2023 00:32:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

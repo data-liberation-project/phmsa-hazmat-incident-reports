@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Sep 2023 00:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Sep 2023 00:36:23 +0000</lastBuildDate>
     <item>
       <title>Report I-2023090086</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195612&gt;I-2023090086&lt;/A</link>
@@ -842,27 +842,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080409</guid>
       <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080901</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023080901&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-16T00:32:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-22&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: A bag containing aerosol cans was damaged coming down the flex slide. Upon inspection, it was discovered that two of the cans had discharged. The bag was quickly taken to the HMPA. DescribePack: The cap was broken completely off of one can. The other had been compressed enough to discharge some contents. DurationRel: 1 and MitigateEffect: The package was quickly taken to the HMPA, where it was placed in a lined tote. Spillage was confined to the inside of the padded mailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080901</guid>
-      <pubDate>Sat, 16 Sep 2023 00:32:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
