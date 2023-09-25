@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 15:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2023 18:14:27 +0000</lastBuildDate>
     <item>
       <title>Report X-2023081900</title>
       <description>
@@ -358,72 +358,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081269</guid>
       <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023090330</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195143&gt;E-2023090330&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195143&gt;E-2023090330&lt;/A"&gt;Report E-2023090330&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-18T15:13:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090330</guid>
-      <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023082072</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194102&gt;X-2023082072&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194102&gt;X-2023082072&lt;/A"&gt;Report X-2023082072&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-18T15:13:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-24&lt;/li&gt;
-                &lt;li&gt;City: GAITHERSBURG&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023082072</guid>
-      <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081168</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192402&gt;X-2023081168&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192402&gt;X-2023081168&lt;/A"&gt;Report X-2023081168&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-18T15:13:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-14&lt;/li&gt;
-                &lt;li&gt;City: SPARROWS POINT&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: damaged in transit on trailer 833647 out of 170 hrbg.outer container was wet.upon inspection all four bottles had loose caps leaking out approx 40 oz of content total. DescribePack: failure was due to loose caps causing internal leakage. DurationRel: 1 and MitigateEffect: chemical neutralizer and fold absorb were used to address spill.Package was placed in hazmat tote and put under ventilation system.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081168</guid>
-      <pubDate>Mon, 18 Sep 2023 15:13:15 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023070751</title>
