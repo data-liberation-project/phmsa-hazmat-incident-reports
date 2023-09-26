@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 15:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 18:14:33 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023090177</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194607&gt;X-2023090177&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194607&gt;X-2023090177&lt;/A"&gt;Report X-2023090177&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-05&lt;/li&gt;
+                &lt;li&gt;City: ATLANTA&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS DISCOVERED TO BE LEAKING. PACKAGE WAS REMOVED BY RESPONDER AND THE LEAKAGE WAS CLEANED UP. RESPONDER TRANSPORTED BACK TO THE DMP FOR PROCESSING&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090177</guid>
+      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023090626</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196076&gt;E-2023090626&lt;/A</link>
@@ -97,26 +119,48 @@
       <pubDate>Thu, 21 Sep 2023 15:10:31 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023090437</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195381&gt;E-2023090437&lt;/A</link>
+      <title>Report X-2023082036</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193997&gt;X-2023082036&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195381&gt;E-2023090437&lt;/A"&gt;Report E-2023090437&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193997&gt;X-2023082036&lt;/A"&gt;Report X-2023082036&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-02&lt;/li&gt;
-                &lt;li&gt;City: Ellenwood&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-08-28&lt;/li&gt;
+                &lt;li&gt;City: SAVANNAH&lt;/li&gt;
                 &lt;li&gt;State: GA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: VENTED CAPS CAUSED LEAKAGE. PACKAGE WAS PLACED IN HAZMAT BIN IN HAZMAT CAGE. DescribePack: VENTED CAPS CAUSED LEAKAGE. DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED IN HAZMAT BIN IN HAZMAT CAGE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090437</guid>
-      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023082036</guid>
+      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081939</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193818&gt;X-2023081939&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193818&gt;X-2023081939&lt;/A"&gt;Report X-2023081939&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-25&lt;/li&gt;
+                &lt;li&gt;City: NORCROSS&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PH WAS UNLOADING TRUCK AND DROPPED HAZMAT AND SEEN THAT IT WAS LEAKIN SO A QA MEMBER CAME AND ISOLATED AND RELOCATED TO SAFER AREA. DescribePack: THE CAN WAS BENT AND SEAL WAS LOOSE DurationRel: 1 and MitigateEffect: QA MEMBER CAME AND ISOLATED AND RELOCATED TO SAFER AREA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081939</guid>
+      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090135</title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 15:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 18:14:33 +0000</lastBuildDate>
     <item>
       <title>Report X-2023090137</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194489&gt;X-2023090137&lt;/A</link>
@@ -29,6 +29,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090137</guid>
       <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023082033</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193993&gt;X-2023082033&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193993&gt;X-2023082033&lt;/A"&gt;Report X-2023082033&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-28&lt;/li&gt;
+                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
+                &lt;li&gt;State: CT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Pkg was found wet and placed in a bin that was taken to the HWSA for reporting. DescribePack: A failed snap lid on 1 x 5 gal plastic pail. DurationRel: 1 and MitigateEffect: Pkg placed in bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023082033</guid>
+      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090116</title>
@@ -403,28 +425,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081547</guid>
       <pubDate>Wed, 20 Sep 2023 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023090429</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195373&gt;E-2023090429&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195373&gt;E-2023090429&lt;/A"&gt;Report E-2023090429&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-28&lt;/li&gt;
-                &lt;li&gt;City: South Windsor&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090429</guid>
-      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

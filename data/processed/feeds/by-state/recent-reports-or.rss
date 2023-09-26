@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 15:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 18:14:33 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090475</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195472&gt;E-2023090475&lt;/A</link>
@@ -29,6 +29,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090475</guid>
       <pubDate>Wed, 20 Sep 2023 15:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081962</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193841&gt;X-2023081962&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193841&gt;X-2023081962&lt;/A"&gt;Report X-2023081962&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-25&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: I found the original outer packaging in recycle bin, soaked and still had the Hazardous materials shipping papers still on one side. Shipping label and Dimond labels were removed from original outer packaging. As we do not dispose of contaminated packaging in this manner, I checked the paperwork for TRK # and looked up the Ftrack. There was a 10 Scan on 08/25/23 and nothing else till 08/26/23 at around 1am. there was no DPR done or a 40 scan for repack and inspection. I have no information about how the original package was found or the condition it was in or if there was any inner packaging, I could tell by the original packaging that the inner containers had been leaking. I was able to locate the repacked contents inspect them. Upon inspection I found 2 contains were still wet and one container was missing a noticeable amount of liquid compared to the other. There was also noted wetness on the other inner package box. And it had been tapped over. Wet outer packaging was placed in a beg. I tightened the caps on the containers and placed all outer and inner packaging in a bag inside a yellow hazmat bin. I performed a DPR and ISF once I found the repacked Hazmat containers. DescribePack: As I have no information on the original packaging, the only thing I can say for sure is that the caps were loose on the inside containers. DurationRel: 1 and MitigateEffect: Unknown&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081962</guid>
+      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081948</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193827&gt;X-2023081948&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193827&gt;X-2023081948&lt;/A"&gt;Report X-2023081948&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-25&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND IN THE TRAILER IN UNLOAD ON ITS SIDE WITH A SMALL WET SPOT ON THE BOX PACKAGE WAS PUT IN A HAZ TOTE AND TAKEN TO QA DescribePack: THE PACKAGE WAS LOADED IN THE TRAILER ON ITS SIDE THE VENTED CAP STARTED TO LEAK ON THE WAY TO PORTLAND DurationRel: 1 and MitigateEffect: PACKAGE WAS PUT IN A HAZ TOTE AND TAKEN TO QA&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081948</guid>
+      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090464</title>
@@ -315,72 +359,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081597</guid>
       <pubDate>Wed, 20 Sep 2023 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023090414</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195328&gt;E-2023090414&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195328&gt;E-2023090414&lt;/A"&gt;Report E-2023090414&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-18&lt;/li&gt;
-                &lt;li&gt;City: CLACKAMAS&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading it was discovered that the load had shifted during transit and that the one poly 5 gallon pail of formula LC (un1824) had been damaged by other freight and had released 5 ounces of product.  Contractors were dispatched for the containment and cleanup of the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090414</guid>
-      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023082013</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193973&gt;X-2023082013&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193973&gt;X-2023082013&lt;/A"&gt;Report X-2023082013&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-15&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was brought to Quality assurance promptly after discovery. DescribePack: package leaked from lids. DurationRel: 2 and MitigateEffect: package was placed into a spill bin and a hazmat bag.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023082013</guid>
-      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081531</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193310&gt;X-2023081531&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193310&gt;X-2023081531&lt;/A"&gt;Report X-2023081531&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-19T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-15&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered leaking and removed from sortation, then brought to QA. DescribePack: One bottle had a loose, leaking cap. No inner packing. No hazardous labels. DurationRel: 1 and MitigateEffect: Package was placed right side up in a spill bin and brought to appropriate damage processing area.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081531</guid>
-      <pubDate>Tue, 19 Sep 2023 15:12:14 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2023080028</title>
