@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Sep 2023 15:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2023 18:15:27 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023090695</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196219&gt;E-2023090695&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196219&gt;E-2023090695&lt;/A"&gt;Report E-2023090695&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-27T18:15:21+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-06&lt;/li&gt;
+                &lt;li&gt;City: Boise&lt;/li&gt;
+                &lt;li&gt;State: ID&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Freight stacked on top&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090695</guid>
+      <pubDate>Wed, 27 Sep 2023 18:15:21 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023090593</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195973&gt;E-2023090593&lt;/A</link>
@@ -51,28 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090567</guid>
       <pubDate>Fri, 22 Sep 2023 15:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081546</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193325&gt;X-2023081546&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193325&gt;X-2023081546&lt;/A"&gt;Report X-2023081546&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-20T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-17&lt;/li&gt;
-                &lt;li&gt;City: POCATELLO&lt;/li&gt;
-                &lt;li&gt;State: ID&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Trailer was being unloaded by package handlers when it was noticed that hazmat pkg was leaking contents. Package handlers radio QA to come and contain leaking hazmat pkg. QA put hazmat into red hazmat tote and secured in QA cage. DescribePack: Lid on plastic bottle came loose DurationRel: 1 and MitigateEffect: QA was notified immediately and hazmat was contained in hazmat tote in QA cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081546</guid>
-      <pubDate>Wed, 20 Sep 2023 15:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
