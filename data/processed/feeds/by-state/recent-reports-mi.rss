@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Sep 2023 12:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 15:12:12 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090701</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196250&gt;E-2023090701&lt;/A</link>
@@ -51,6 +51,72 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090607</guid>
       <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090316</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194987&gt;X-2023090316&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194987&gt;X-2023090316&lt;/A"&gt;Report X-2023090316&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-28T15:12:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-31&lt;/li&gt;
+                &lt;li&gt;City: SALINE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023090316 SequenceEvent: Package contains one lead-acid battery packed in an open plastic bag inside of the box. Sulfuric acid inside of battery has leaked out and soaked through outer packaging. The package was taken to QA for inspection when damage was discovered. DescribePack: Spillable battery, no apparent damage DurationRel: 1 and MitigateEffect: The package was taken to QA for inspection when damage was discovered.   2. X-2023090319 SequenceEvent: Package contains one lead-acid battery packed into an open plastic bag inside of a box. Sulfuric acid from the battery has leaked out and soaked into the outer packaging. The package was taken to QA for inspection when damage was discovered. DescribePack: spillable battery, no visible damage DurationRel: 1 and MitigateEffect: The package was taken to QA for inspection when damage was discovered.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090316</guid>
+      <pubDate>Thu, 28 Sep 2023 15:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090308</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194979&gt;X-2023090308&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194979&gt;X-2023090308&lt;/A"&gt;Report X-2023090308&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-28T15:12:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
+                &lt;li&gt;City: PORTAGE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package discovered by PH with droplets around cap + chem odor. Package was removed from area, placed in a HazMat tote, and taken to HazMat cage using proper PPE, where it was discovered that cap failed to operate, resulting in small amount of liquid spilling out. DescribePack: Loose cap, small liquid leak DurationRel: 0 and MitigateEffect: Package was removed from area, placed in a HazMat tote, and taken to HazMat cage using proper PPE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090308</guid>
+      <pubDate>Thu, 28 Sep 2023 15:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090290</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194961&gt;X-2023090290&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194961&gt;X-2023090290&lt;/A"&gt;Report X-2023090290&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-09-28T15:12:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
+                &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: LEAKING HAZMAT BUCKET WAS FOUND DURING UNLOADING PROCESS, PUT IN A HAZMAT TOTE AND BROUGHT OVER FOR INSPECTION. UPON INSPECTION IT WAS FOUND TO BE A DAMAGED HAZMAT AND THE HAZMAT PROCESS WAS STARTED DescribePack: BUCKET WAS FOUND TO HAVE A DENT NEAR THE LID CAUSING THE LID TO POP ALLOWING THE PRODUCT TO SPILL OUT. DurationRel: 1 and MitigateEffect: PRODUCT WAS TURNED RIGHT SIDE UP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090290</guid>
+      <pubDate>Thu, 28 Sep 2023 15:12:07 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023090663</title>
