@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Sep 2023 15:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 18:14:35 +0000</lastBuildDate>
     <item>
       <title>Report X-2023090137</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194489&gt;X-2023090137&lt;/A</link>
@@ -271,50 +271,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081876</guid>
       <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081832</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193710&gt;X-2023081832&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193710&gt;X-2023081832&lt;/A"&gt;Report X-2023081832&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-22T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-22&lt;/li&gt;
-                &lt;li&gt;City: WALLINGFORD&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: This package was picked up on 8/21 in our area.  It was found the next morning as having been damaged.  Somehow, it was damaged between the pickup time on Monday and Tuesday morning when it was noted as damaged.  The package had a corrosive label and the SDS revealed it to be a Haz Mat.  However, the shipper didn&amp;#x27;t ship it as a Haz Mat - no Certification or OP900.  It was brought to QA and then the Haz Cage once it was discovered. DescribePack: The cap came off 1 bottle spilling the entire contents on the interior of the box.  None of the other bottles are salvageable. DurationRel: 1 and MitigateEffect: The box was brought to QA and then held for the Haz Mat specialist.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081832</guid>
-      <pubDate>Fri, 22 Sep 2023 15:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081830</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193708&gt;X-2023081830&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193708&gt;X-2023081830&lt;/A"&gt;Report X-2023081830&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-22T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-23&lt;/li&gt;
-                &lt;li&gt;City: STRATFORD&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was being unloaded from the trailer , when the bottom of the outer packaging gave out  causing one of the inner containers to crack and the liquid contents to be released. DescribePack: crack at the bottom of the container DurationRel: 1 and MitigateEffect: package was put into a hazmat bin&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081830</guid>
-      <pubDate>Fri, 22 Sep 2023 15:12:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Sep 2023 15:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 18:14:35 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090603</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195993&gt;E-2023090603&lt;/A</link>
@@ -73,50 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090129</guid>
       <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090078</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194393&gt;X-2023090078&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194393&gt;X-2023090078&lt;/A"&gt;Report X-2023090078&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-22T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-29&lt;/li&gt;
-                &lt;li&gt;City: RICHMOND&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER CALLED TO PINK BELT FOR A LEAKING HAZMAT AND TRANSPORTED TO DMP FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090078</guid>
-      <pubDate>Fri, 22 Sep 2023 15:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081805</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193683&gt;X-2023081805&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193683&gt;X-2023081805&lt;/A"&gt;Report X-2023081805&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-22T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-22&lt;/li&gt;
-                &lt;li&gt;City: ROANOKE&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: We have received a tip from a driver that a hazmat package is leaking and there BC which is for H@S logistics told the driver to drop off the package at the VSA table without any notice to the station. The driver said that there is a leak in her van where some of the solution leaked out. It was in the bottom corner of the p1000 van which is on Van # 448260 on WA0127. We went ahead and cleaned the spill using Amphomag universal spill neutralizer and Vinyl gloves. The bottle of concentrated detergent does have liquid in the bag, and it seems to be spilling at a seem just below the cap or on it. Contents only contained 1 single bottle of detergent. DescribePack: Seems to be a break in the seem just below or on the cap. DurationRel: 2 and MitigateEffect: Nothing was done until package arrived at station/spill not known. Open knowledge, package was placed in a container and spill was neutralized at spill location.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081805</guid>
-      <pubDate>Fri, 22 Sep 2023 15:12:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

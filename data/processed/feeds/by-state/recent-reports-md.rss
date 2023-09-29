@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Sep 2023 15:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2023 18:14:35 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090689</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196209&gt;E-2023090689&lt;/A</link>
@@ -270,50 +270,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081848</guid>
       <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023090095</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195604&gt;I-2023090095&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195604&gt;I-2023090095&lt;/A"&gt;Report I-2023090095&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-22T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-14&lt;/li&gt;
-                &lt;li&gt;City: Baltimore&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: PVS MINIBULK, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: PVS Minibulk Driver was unloading hydrochloric acid into a tank when the driver noticed the product was leaking out of a 55-gallon drum that was being used as an overflow tank. A valve on the customers tank was left open and the product was flowing into the overflow drum which had a crack in the bottom of it. The driver then shut off his valves from the truck to stop the unloading process to allow customer to close the valve. The product was flowing out of the cracked drum onto a concrete pad for 5 minutes. The customer took responsibility for the release and replaced the cracked drum to ensure there would not be a release in the future if the overflow tank would be utilized. The product was used in the cleaning process of the concrete pad where it was spilled.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090095</guid>
-      <pubDate>Fri, 22 Sep 2023 15:12:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081838</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193716&gt;X-2023081838&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193716&gt;X-2023081838&lt;/A"&gt;Report X-2023081838&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-22T15:12:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-22&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS PICKED UP ON UNLOAD WET AND DAMAGED DescribePack: UPON INSPECTION FOUND 1 OUT OF 4 BOTTLES TO HAVE A BROKEN SEAL WHICH ALLOWED THE PRODUCT TO LEAK OUT DurationRel: 1 and MitigateEffect: RED TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081838</guid>
-      <pubDate>Fri, 22 Sep 2023 15:12:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
