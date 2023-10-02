@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Oct 2023 00:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 15:13:03 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023090767</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196446&gt;E-2023090767&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196446&gt;E-2023090767&lt;/A"&gt;Report E-2023090767&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-02T15:12:59+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-20&lt;/li&gt;
+                &lt;li&gt;City: Mounds View&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090767</guid>
+      <pubDate>Mon, 02 Oct 2023 15:12:59 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023090746</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196241&gt;X-2023090746&lt;/A</link>
@@ -141,70 +163,70 @@
       <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023090640</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196100&gt;E-2023090640&lt;/A</link>
+      <title>Report X-2023090367</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195038&gt;X-2023090367&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196100&gt;E-2023090640&lt;/A"&gt;Report E-2023090640&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195038&gt;X-2023090367&lt;/A"&gt;Report X-2023090367&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-02T15:12:59+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-08&lt;/li&gt;
-                &lt;li&gt;City: Mounds View&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-08-31&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
                 &lt;li&gt;State: MN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023090367 SequenceEvent: damaged hazmat was discovered in the trailer as it was being unloaded at MPGR yesterday afternoon. unload manager called it out to QA over the radio. QA responded and retrieved it, placing the damaged package in a lined tote and bringing it over to the damage area, moving it to the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: all four bottles leaked varying amounts due to the necks being dented inward, distorting the bottle forms and allowing product to leak from or near caps. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats.   2. X-2023090371 SequenceEvent: damaged hazmat was discovered in the trailer as it was being unloaded. unload manager notified QA via radio. QA admins responded and retrieved the package, placing it in a lined tote and bringing it back to the damage area, moving it to the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: one bottle leaked due to dented neck. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090640</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090367</guid>
+      <pubDate>Mon, 02 Oct 2023 15:12:59 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023090583</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195893&gt;E-2023090583&lt;/A</link>
+      <title>Report X-2023090349</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195020&gt;X-2023090349&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195893&gt;E-2023090583&lt;/A"&gt;Report E-2023090583&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195020&gt;X-2023090349&lt;/A"&gt;Report X-2023090349&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-02T15:12:59+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-15&lt;/li&gt;
-                &lt;li&gt;City: Farmington&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
                 &lt;li&gt;State: MN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Unsecured freight&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: damaged hazmat was found in the unload last night, already having been placed in a lined tote. HAP specialist processed the hazmat (this is the origin) and brought it back to the damage area, placing it atop the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: three bottles leaked due to loose caps. all have stained labels. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090583</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090349</guid>
+      <pubDate>Mon, 02 Oct 2023 15:12:59 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023090573</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195880&gt;E-2023090573&lt;/A</link>
+      <title>Report X-2023090346</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195017&gt;X-2023090346&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195880&gt;E-2023090573&lt;/A"&gt;Report E-2023090573&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195017&gt;X-2023090346&lt;/A"&gt;Report X-2023090346&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-02T15:12:59+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-13&lt;/li&gt;
-                &lt;li&gt;City: Farmington&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-08-31&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
                 &lt;li&gt;State: MN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: cap failure&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: damaged package was discovered this morning on the inbound. upon finding that the material was paint-like, inbound QA set it aside on the drain mats for HESS specialist coming in later that day. HESS specialist inspected and confirmed that the product was regulated. in-house cleanup, awaiting disposition. DescribePack: one can leaked due to loose lid clips and denting. DurationRel: 1 and MitigateEffect: placed in lined tote on drain mats&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090573</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090346</guid>
+      <pubDate>Mon, 02 Oct 2023 15:12:59 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090309</title>
@@ -227,116 +249,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090309</guid>
       <pubDate>Thu, 28 Sep 2023 15:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090101</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194425&gt;X-2023090101&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194425&gt;X-2023090101&lt;/A"&gt;Report X-2023090101&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
-                &lt;li&gt;City: EAGAN&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: DESIGNATED RESPONDER ARRIVED DONNING PROPER PPE, FOUND LEAKING PACKAGE ON THE FLOOR OF TRAILER. RESPONDER PLACED SAID PACKAGE INTO SPILL TRAY. CLEANER UP CONTAMINATED AREA. RETURNED TO DMP FOR PROCESSING&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090101</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081893</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193771&gt;X-2023081893&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193771&gt;X-2023081893&lt;/A"&gt;Report X-2023081893&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-25&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: HAP specialist was doing a dock walk in the unload to check for damages and repacks when he spotted a damaged hazmat sitting on the floor. it is not known exactly when it was set aside, but definitely the same day. He called out to the HESS specialist for a lined tote and placed it in the tote, allowing HESS specialist to bring it back to the damage area and move it to the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: two bottles leaked very small amounts due to loose caps DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081893</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081886</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193764&gt;X-2023081886&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193764&gt;X-2023081886&lt;/A"&gt;Report X-2023081886&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-22&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: damaged package was called out. QA responded and placed it in a lined tote, performing immediate in-house cleanup. DescribePack: puncture on bottom of jerrican caused product to leak DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081886</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081875</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193753&gt;X-2023081875&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193753&gt;X-2023081875&lt;/A"&gt;Report X-2023081875&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-23&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: someone placed the package onto its side, ignoring the directional arrows. sometime later someone called out the damaged hazmat at the loading dock door. QA admin responded, only to find that it was improperly oriented, which is why it leaked. he performed in-house cleanup and placed it in a lined tote, then brought it back to the damage area and moved it to the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: one bottle leaked due to the package being placed on its side, instead of obeying the directional arrows. DurationRel: 1 and MitigateEffect: immediate in-house cleanup. placed in lined tote, moved to drain mats&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081875</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081859</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193737&gt;X-2023081859&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193737&gt;X-2023081859&lt;/A"&gt;Report X-2023081859&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-23&lt;/li&gt;
-                &lt;li&gt;City: MAHTOMEDI&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found in a trailer and promptly brought to QA. DescribePack: Top of package showed the leakage 10X10 area. DurationRel: 4 and MitigateEffect: Damage was bagged and put in a haz mat tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081859</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

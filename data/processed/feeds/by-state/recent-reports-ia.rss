@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Oct 2023 00:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 15:13:03 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023090744</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196345&gt;E-2023090744&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196345&gt;E-2023090744&lt;/A"&gt;Report E-2023090744&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-02T15:12:59+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-05&lt;/li&gt;
+                &lt;li&gt;City: DES MOINES&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: CLEAN HARBORS ENVIRONMENTAL SERVICES, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Driver was loading waste solvent at the location. While loading the middle compartment it overflowed releasing approximately 50 gallons on to the containment pad. The solvent was completely contained on the pad and was recovered back into the tank.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090744</guid>
+      <pubDate>Mon, 02 Oct 2023 15:12:59 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023090214</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194756&gt;X-2023090214&lt;/A</link>
@@ -51,72 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090186</guid>
       <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023090620</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196065&gt;E-2023090620&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196065&gt;E-2023090620&lt;/A"&gt;Report E-2023090620&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-06&lt;/li&gt;
-                &lt;li&gt;City: Des Moines&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Damaged while loading&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090620</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090362</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195033&gt;X-2023090362&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195033&gt;X-2023090362&lt;/A"&gt;Report X-2023090362&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-01&lt;/li&gt;
-                &lt;li&gt;City: GRIMES&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package leaked product on unloaders who moved the wet box. We quickly ascertained the product was ethanol to assure them they were not in danger of a corrosive substance. The package handlers washed hands and returned to work. DescribePack: The release was caused by a loose cap during transport. The continuous sloshing of liquid during transit caused contents to escape the container. DurationRel: 1 and MitigateEffect: We immediate isolated the box in a plastic-lined tote and set-aside in the hazmat cage until we could process the DPR and ISF. We used towels to wipe up the wet surface in the trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090362</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090138</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194493&gt;X-2023090138&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194493&gt;X-2023090138&lt;/A"&gt;Report X-2023090138&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-01&lt;/li&gt;
-                &lt;li&gt;City: DAVENPORT&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO THE SPILL WEARING ALL PROPER PPE. USING DECSION TREE AND CORROSIVE RESPONSE SHEETS, RESPONDER CONTAINED THE SPILL. ONCE CONTAINED RESPONDER BROUGHT IT TO THE DMP AREA. RESPONDER PROCESSED THE SPILL USING THE WASTE DISPOALE CHART.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090138</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023090702</title>
@@ -182,28 +138,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090111</guid>
       <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090123</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194473&gt;X-2023090123&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194473&gt;X-2023090123&lt;/A"&gt;Report X-2023090123&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-25T03:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-31&lt;/li&gt;
-                &lt;li&gt;City: DAVENPORT&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO THE SPILL WEARING ALL PROPER PPE. USING DECSION TREE AND RESPONSE SHEETS RESPONDER CONTAINED THE SPILL AND BROUGHT IT TO THE DMP AREA TO BE PROCESSED USING THE CORROSIVE RESPONSE SHEET AND WASTE DISSPOSAL CHART.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090123</guid>
-      <pubDate>Mon, 25 Sep 2023 03:13:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
