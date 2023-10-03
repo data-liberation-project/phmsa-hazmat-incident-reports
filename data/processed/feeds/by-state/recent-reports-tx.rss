@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Oct 2023 21:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 00:35:26 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090799</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196749&gt;E-2023090799&lt;/A</link>
@@ -908,28 +908,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090690</guid>
       <pubDate>Wed, 27 Sep 2023 18:15:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023060179</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188707&gt;I-2023060179&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188707&gt;I-2023060179&lt;/A"&gt;Report I-2023060179&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-26T00:32:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-05-22&lt;/li&gt;
-                &lt;li&gt;City: Houston&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: EXXON MOBILE PIPELINE COM&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The carrier, Roberson Trucking Co., Inc.(672 Three Creeks Rd., Junction City, AR, 71749, USDOT#535803) was unaware that the salt water load they had picked up had elevated levels of hydrogen sulfide. Upon receiving the truck believed to be ordinary brine water, an EMTEC employee decided to check the headspace for H^S as a precaution. Upon doing so, 15,000 ppm of H^S were detected. EMTEC personnel devised a plan to safely offload the material. Since the Friendswood Test Facility(FTF) lab is already equipped with large Material Absorption Devices(MAD Units) for catalytically destroying H2S, hoses were Connected from the FTF frac tank to the MAD Units to purge the gas in the headspace after the material transfer from the tanker. The pumps were run until the tanker was offloaded. The frac tank venting to the MAD Units was continued for 48 hours until testing showed the H^S concentrations at 0 ppm, at which time the brine water was deemed safe. Area monitoring was also conducted to ensure safe conditions in the surrounding area. The driver was notified immediately and the driver contacted his management immediately by phone that the load was sour.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060179</guid>
-      <pubDate>Tue, 26 Sep 2023 00:32:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

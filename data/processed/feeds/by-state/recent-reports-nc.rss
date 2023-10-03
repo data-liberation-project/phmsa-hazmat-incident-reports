@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Oct 2023 21:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 00:35:26 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090804</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196754&gt;E-2023090804&lt;/A</link>
@@ -315,6 +315,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090643</guid>
       <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023090780</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196464&gt;E-2023090780&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196464&gt;E-2023090780&lt;/A"&gt;Report E-2023090780&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-03T00:33:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-01-02&lt;/li&gt;
+                &lt;li&gt;City: REIDSVILLE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: EAGLE TRANSPORT CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Driver had a 10 gallons spill of regular fuel at the murphy site. Driver did not report the spill to Eagle Transport - Greensboro dispatch. Murphy reported 8 months afterwards that they got their cleanup crew on site (Carolina Environmental Response Team) to clean up the 10-gallon spill. Driver no longer works for Eagle Transport.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090780</guid>
+      <pubDate>Tue, 03 Oct 2023 00:33:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

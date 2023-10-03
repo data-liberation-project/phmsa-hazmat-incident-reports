@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Oct 2023 21:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 00:35:26 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090783</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196467&gt;E-2023090783&lt;/A</link>
@@ -227,6 +227,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023082037</guid>
       <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023080049</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195850&gt;I-2023080049&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195850&gt;I-2023080049&lt;/A"&gt;Report I-2023080049&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-03T00:33:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-25&lt;/li&gt;
+                &lt;li&gt;City: GREENSBURG&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: LPG LOGISTICS LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 7-25-23: A driver inadvertently loaded Ammonia, Anhydrous (UN1005) into a storage tank designated for Propane (UN 1075). As part of the recovery and remediation, the storage tank offloaded into two tanker trailers (MC331 ). On 7-27-23, the pressure relief valve on one of the recovery tanker trailers released a mixture of Ammonia and Propane in to the atmosphere. The release was caused by an increase in pressure caused by an Exothermic Reaction between the two commodities. The valve reset, but an unknown quantity of product was lost. As a result, representatives from PHMSA, the Indiana Department of Environmental Management, Indiana State Police and independent response personnel developed a new and more timely recovery procedure (Liquid Flare). The remaining products were safely rendered safe and the incident was declared complete.  A copy of the report from the recovery/remediation company is attached. Risk Management of East Central Indiana LLC.  NOTE: The carrier responsible is LPG Logistics LLC USDOT# 3142354. LPG Logisitics is the Owner/Operator Branch of C Three Logistics LLC USDOT# 2961868. LPG Logistics is the responsible party; however, billing and information is handled by C Three Logistics.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023080049</guid>
+      <pubDate>Tue, 03 Oct 2023 00:33:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

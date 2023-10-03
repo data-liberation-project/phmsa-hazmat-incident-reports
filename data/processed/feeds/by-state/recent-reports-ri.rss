@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Oct 2023 21:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 00:35:26 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090812</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196763&gt;E-2023090812&lt;/A</link>
@@ -73,6 +73,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090184</guid>
       <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023090146</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023090146&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-03T00:33:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-19&lt;/li&gt;
+                &lt;li&gt;City: Kalmazoo&lt;/li&gt;
+                &lt;li&gt;State: RI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FERRELLGAS&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 1&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Bobtail was struck by other vehicle that crossed the center line.Bobtail is in a ditch on its side. The driver o the OV was injured and taken to a local hospital. Our Employee was not injured. Our Truck was flared off and was up righted around 11:30 last night. Residents that had been evacuated were allowed back in around 10:30 pm.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090146</guid>
+      <pubDate>Tue, 03 Oct 2023 00:33:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
