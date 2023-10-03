@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Oct 2023 06:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 15:14:01 +0000</lastBuildDate>
     <item>
       <title>Report X-2023090399</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195070&gt;X-2023090399&lt;/A</link>
@@ -51,6 +51,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090701</guid>
       <pubDate>Wed, 27 Sep 2023 18:15:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090493</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195659&gt;X-2023090493&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195659&gt;X-2023090493&lt;/A"&gt;Report X-2023090493&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-03T15:13:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-29&lt;/li&gt;
+                &lt;li&gt;City: OAK PARK&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was placed in a bin in the hazmat cage. DescribePack: Contents is Rapicide PA. Each jug had a deliberately made hole in the cap. 1 out of 4 jugs had its inner cap seal punctured and is now leaking because of the already made hole in the cap. DurationRel: 3 and MitigateEffect: Package was placed in a bin in the hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090493</guid>
+      <pubDate>Tue, 03 Oct 2023 15:13:57 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023090759</title>

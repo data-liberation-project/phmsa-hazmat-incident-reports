@@ -7,7 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Oct 2023 06:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 15:14:01 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023090429</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023090429&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-03T15:13:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-08&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Leaking package discovered during sortation. Package placed in lined hazmat tote and sent to QA. DescribePack: Metal aerosol cans in corrugated carton without dividers. No hazard markings on exterior. One can dented and cracked at base by impact with adjacent can. Contents spilled, soiling other cans and damaging carton. DurationRel: 1 and MitigateEffect: Package placed in lined hazmat tote and sent to QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090429</guid>
+      <pubDate>Tue, 03 Oct 2023 15:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090432</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195103&gt;X-2023090432&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195103&gt;X-2023090432&lt;/A"&gt;Report X-2023090432&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-03T15:13:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-09&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Leaking package discovered during sortation. Package placed in lined hazmat tote and sent to QA. DescribePack: Plastic jugs in corrugated carton with corrugated top liner panel. Loose caps on all four jugs allowed leakage which damaged carton. DurationRel: 1 and MitigateEffect: Package placed in lined hazmat tote and sent to QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090432</guid>
+      <pubDate>Tue, 03 Oct 2023 15:13:57 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023090414</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195085&gt;X-2023090414&lt;/A</link>
@@ -205,6 +248,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090645</guid>
       <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023100016</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196829&gt;E-2023100016&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196829&gt;E-2023100016&lt;/A"&gt;Report E-2023100016&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-03T15:13:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-29&lt;/li&gt;
+                &lt;li&gt;City: GRAND JUNCTION&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: XPO notified ERTS of a cargo release at terminal UGJ. It was reported that an unknown quantity of Sikadur 42 Grout Pak (UN3267) was released from (1) 1- gallon metal pail due to a puncture from a nail in the pallet.   A network contractor was dispatched to assist in cleaning. All waste was left onsite for XPO to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100016</guid>
+      <pubDate>Tue, 03 Oct 2023 15:13:57 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090380</title>
