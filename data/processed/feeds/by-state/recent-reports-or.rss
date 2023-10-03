@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Oct 2023 15:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 18:15:29 +0000</lastBuildDate>
     <item>
       <title>Report E-2023090834</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196786&gt;E-2023090834&lt;/A</link>
@@ -249,50 +249,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023082051</guid>
       <pubDate>Wed, 27 Sep 2023 18:15:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081962</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193841&gt;X-2023081962&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193841&gt;X-2023081962&lt;/A"&gt;Report X-2023081962&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-25&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: I found the original outer packaging in recycle bin, soaked and still had the Hazardous materials shipping papers still on one side. Shipping label and Dimond labels were removed from original outer packaging. As we do not dispose of contaminated packaging in this manner, I checked the paperwork for TRK # and looked up the Ftrack. There was a 10 Scan on 08/25/23 and nothing else till 08/26/23 at around 1am. there was no DPR done or a 40 scan for repack and inspection. I have no information about how the original package was found or the condition it was in or if there was any inner packaging, I could tell by the original packaging that the inner containers had been leaking. I was able to locate the repacked contents inspect them. Upon inspection I found 2 contains were still wet and one container was missing a noticeable amount of liquid compared to the other. There was also noted wetness on the other inner package box. And it had been tapped over. Wet outer packaging was placed in a beg. I tightened the caps on the containers and placed all outer and inner packaging in a bag inside a yellow hazmat bin. I performed a DPR and ISF once I found the repacked Hazmat containers. DescribePack: As I have no information on the original packaging, the only thing I can say for sure is that the caps were loose on the inside containers. DurationRel: 1 and MitigateEffect: Unknown&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081962</guid>
-      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081948</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193827&gt;X-2023081948&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193827&gt;X-2023081948&lt;/A"&gt;Report X-2023081948&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-25&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND IN THE TRAILER IN UNLOAD ON ITS SIDE WITH A SMALL WET SPOT ON THE BOX PACKAGE WAS PUT IN A HAZ TOTE AND TAKEN TO QA DescribePack: THE PACKAGE WAS LOADED IN THE TRAILER ON ITS SIDE THE VENTED CAP STARTED TO LEAK ON THE WAY TO PORTLAND DurationRel: 1 and MitigateEffect: PACKAGE WAS PUT IN A HAZ TOTE AND TAKEN TO QA&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081948</guid>
-      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2023080031</title>

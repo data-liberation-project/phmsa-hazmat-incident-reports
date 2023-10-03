@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Oct 2023 15:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 18:15:29 +0000</lastBuildDate>
     <item>
       <title>Report X-2023090497</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195663&gt;X-2023090497&lt;/A</link>
@@ -337,28 +337,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023082064</guid>
       <pubDate>Wed, 27 Sep 2023 18:15:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081944</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193823&gt;X-2023081944&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193823&gt;X-2023081944&lt;/A"&gt;Report X-2023081944&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-26T18:14:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-25&lt;/li&gt;
-                &lt;li&gt;City: GOODYEAR&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Leading up to the incident 2 hazmat&amp;#x27;s were sent up the belt, one was undamaged and one was damaged. The undamaged had some leakage from the other on the Botham of the box. Meanwhile the damaged hazmat had leakage coming from the inside DescribePack: There is a small puncture on one of the bottles holding the rapicide DurationRel: 3 and MitigateEffect: The damaged hazmat was put upside down to mitigate the spillage of the leaking contents&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081944</guid>
-      <pubDate>Tue, 26 Sep 2023 18:14:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
