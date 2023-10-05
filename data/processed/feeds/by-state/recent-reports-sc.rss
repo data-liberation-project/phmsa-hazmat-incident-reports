@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Oct 2023 15:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 18:15:06 +0000</lastBuildDate>
     <item>
       <title>Report X-2023090543</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195709&gt;X-2023090543&lt;/A</link>
@@ -51,28 +51,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090768</guid>
       <pubDate>Mon, 02 Oct 2023 15:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090321</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194992&gt;X-2023090321&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194992&gt;X-2023090321&lt;/A"&gt;Report X-2023090321&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-28T15:12:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
-                &lt;li&gt;City: COLUMBIA&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was being unloaded by package handlers off of trailer. QA notified for leaking hazmat package. Package was then moved to hazmat cage for further processing. DescribePack: loose cap cause by mishandling of package making dents in the inner cylinders forcing a release. DurationRel: 1 and MitigateEffect: Removal of package to hazmat cage. Tightening of caps and placed in hazmat bag.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090321</guid>
-      <pubDate>Thu, 28 Sep 2023 15:12:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

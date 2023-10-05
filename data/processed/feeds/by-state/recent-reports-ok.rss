@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Oct 2023 15:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 18:15:06 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100107</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196947&gt;E-2023100107&lt;/A</link>
@@ -161,50 +161,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023090795</guid>
       <pubDate>Mon, 02 Oct 2023 15:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090299</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194970&gt;X-2023090299&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194970&gt;X-2023090299&lt;/A"&gt;Report X-2023090299&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-28T15:12:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PKG ARRIVED AT NOKC 732 FROM FTWO 760 TRAILER 838896. PKG WAS FOUND DAMAGED AND WET INSIDE TRAILER WITH INTERNAL LEAKAGE DUE TO LOOSE CAPS AND INSUFFICIENT PACKAGING. UNDECLARED HAZMAT DescribePack: LOOSE CAPS DurationRel: 1 and MitigateEffect: PKG AND CONTENTS WERE PLACED IN HAZ BAG AND HAZ TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090299</guid>
-      <pubDate>Thu, 28 Sep 2023 15:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090298</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194969&gt;X-2023090298&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194969&gt;X-2023090298&lt;/A"&gt;Report X-2023090298&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-09-28T15:12:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PKG ARRIVED @ NOKC 732 FROM FTSM 729 TRAILER 807897. PKG CAME OFF TRAILER WET AND DAMAGED WITH INTERNAL LEAKAGE DUE TO LOOSE CAPS AND INSUFFICIENT PACKAGING. PACKAGE WAS REFUSED BY RECIPIENT BECAUSE THE PKG WAS DAMAGED. STATION 729 FTSM DID NOT FOLLOW THE PROPER DAMAGE PKG PROCESS AND ONLY DID A RETURN TO SHIPPER. THIS IS AN UNDECLARED HAZMAT. DescribePack: LOOSE CAPS DurationRel: 1 and MitigateEffect: PKG AND CONTENTS WERE PLACED IN HAZ BAG AND HAZ TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090298</guid>
-      <pubDate>Thu, 28 Sep 2023 15:12:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
