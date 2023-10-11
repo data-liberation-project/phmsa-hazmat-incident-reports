@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Oct 2023 18:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 21:10:34 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100228</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197440&gt;E-2023100228&lt;/A</link>
@@ -205,50 +205,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090566</guid>
       <pubDate>Thu, 05 Oct 2023 15:12:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090506</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195672&gt;X-2023090506&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195672&gt;X-2023090506&lt;/A"&gt;Report X-2023090506&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-04T18:16:05+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-05&lt;/li&gt;
-                &lt;li&gt;City: TUCSON&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PKG CAME OUT OF 850-PHOE-A TRAILER 823478 DAMAGED. PKG WAS WET AND LEAKING WHEN DISCOVERED IN TRAILER PKG WAS TAKEN TO HAZMAT CAGE UPON INSPECTION FOUND TWO BOTTLES W LOOSE CAPS AND CONTENTS LEAKED OUT INSIDE PKG DescribePack: LOOSE CAPS CAUSED LEAKAGE DurationRel: 1 and MitigateEffect: IN HOUSE CLEAN UP&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090506</guid>
-      <pubDate>Wed, 04 Oct 2023 18:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090500</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195666&gt;X-2023090500&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195666&gt;X-2023090500&lt;/A"&gt;Report X-2023090500&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-04T18:16:05+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-02&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: IN TRANSIT ONE BOTTLE TOP BECAME LOOSE AND LEAKED CAUSING THE BOX TO BECOME WET AND CORRODED. AT THE TIME IT WAS DISCOVERED THE BOX WAS PLACED IN A HAZMAT BAG LINED TOTE AND BROUGHT TO THE QA AREA FOR PROCESSING. DescribePack: ONE BOTTLE HAD A LOOSE TOP AND LEAKED. DurationRel: 1 and MitigateEffect: THE BOTTLE TOP WAS TIGHTEND DOWN.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090500</guid>
-      <pubDate>Wed, 04 Oct 2023 18:16:05 +0000</pubDate>
     </item>
   </channel>
 </rss>

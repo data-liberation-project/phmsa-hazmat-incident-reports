@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Oct 2023 18:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 21:10:34 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100083</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196915&gt;E-2023100083&lt;/A</link>
@@ -73,28 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100090</guid>
       <pubDate>Thu, 05 Oct 2023 15:12:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090520</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195686&gt;X-2023090520&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195686&gt;X-2023090520&lt;/A"&gt;Report X-2023090520&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-04T18:16:05+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-05&lt;/li&gt;
-                &lt;li&gt;City: BIRMINGHAM&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was sent up the belt from the unload and sent down the primary dump chute. Package was not sitting upright where the arrows on the box were not pointing upwards. This caused one of the bottles inside to leak. DescribePack: Internal leakage from one of the bottles inside, corroding the box. DurationRel: 0 and MitigateEffect: Package was a minor leak. None of the liquid made it around the box.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090520</guid>
-      <pubDate>Wed, 04 Oct 2023 18:16:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
