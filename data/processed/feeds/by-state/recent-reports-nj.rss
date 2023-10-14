@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Oct 2023 21:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2023 00:33:06 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023100350</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197675&gt;E-2023100350&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197675&gt;E-2023100350&lt;/A"&gt;Report E-2023100350&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-14T00:31:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-14&lt;/li&gt;
+                &lt;li&gt;City: CARLSTADT&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: During off loading the warehouse crew accidentally put a forklift fork into one of the metal 55 gallon drum of n-butyl methacrylate (un2227) releasing 1 pint of product.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100350</guid>
+      <pubDate>Sat, 14 Oct 2023 00:31:38 +0000</pubDate>
+    </item>
     <item>
       <title>Report I-2023090136</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196424&gt;I-2023090136&lt;/A</link>
@@ -95,6 +117,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090618</guid>
       <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023060016</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023060016&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-14T00:31:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-02&lt;/li&gt;
+                &lt;li&gt;City: NEWARK&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED AIRLINES&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Customer seat 9G dropped her mobile phone inside/under seat and then reclined her seat When her seat was reclined it crushed her mobile phone and her phone began smoking Customers phone was placed in TCB and contained issue onboard No injuries reported.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023060016</guid>
+      <pubDate>Sat, 14 Oct 2023 00:31:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

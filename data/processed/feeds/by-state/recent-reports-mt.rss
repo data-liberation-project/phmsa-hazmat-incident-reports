@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Oct 2023 21:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2023 00:33:06 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100285</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197590&gt;E-2023100285&lt;/A</link>
@@ -51,6 +51,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100172</guid>
       <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070323</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188479&gt;X-2023070323&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2188479&gt;X-2023070323&lt;/A"&gt;Report X-2023070323&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-14T00:31:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-17&lt;/li&gt;
+                &lt;li&gt;City: GREAT FALLS&lt;/li&gt;
+                &lt;li&gt;State: MT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1-2 gallon Sodium Hydrosulfide spill to tank car sides from unsecured manway (multiple manway swing bolts not secured). Stained sides and minor impacts to ground surface. No pooling. No release to water. OTS contracted to do clean-up.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070323</guid>
+      <pubDate>Sat, 14 Oct 2023 00:31:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
