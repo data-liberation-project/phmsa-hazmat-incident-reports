@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Oct 2023 21:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 00:35:59 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100428</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197976&gt;E-2023100428&lt;/A</link>
@@ -293,6 +293,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080410</guid>
       <pubDate>Mon, 16 Oct 2023 18:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070563</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189307&gt;X-2023070563&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2189307&gt;X-2023070563&lt;/A"&gt;Report X-2023070563&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-17T00:34:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-21&lt;/li&gt;
+                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER WAS CALLED FOR LEAKING HAZMAT. UPON CLEAN UP AND INSPECTION RESPONDER DISCOVERED INNER CONTENT ABSORBED MOST OF THE ACID, SOME DID EVENTUALLY CORRODE UNTIL THE OUTER PACKAGE WAS DAMAGED. RESPONDER PROCESSED THROUGH DMP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070563</guid>
+      <pubDate>Tue, 17 Oct 2023 00:34:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Oct 2023 21:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 00:35:59 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100424</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197971&gt;E-2023100424&lt;/A</link>
@@ -73,6 +73,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090648</guid>
       <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080470</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191466&gt;X-2023080470&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2191466&gt;X-2023080470&lt;/A"&gt;Report X-2023080470&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-17T00:34:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-14&lt;/li&gt;
+                &lt;li&gt;City: LYNNFIELD&lt;/li&gt;
+                &lt;li&gt;State: MA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: THE UNLOADER WAS UNLOADING WHEN HE CAME UPON A PACKAGE WITH A STRONG ODOR AND LIQUD COMING OUT AT THE CORNER OF THE BOX. THE UNLOADER THEN LEFT THE AREA AND NOTIFIED HIS SUPERVISOR. THE SUPERVISOR CALLED FOR A DESIGNATED RESPONDER. THE RESPONDER, FOLOWING THE DESICION TREE AND APPROPRIATE RESPONSE SHEET CLEANED UP THE SPILL. THE EQUIPMENT WAS DECONTAMINATED FOLLOWING THE EQUIPMENT DECONTAMINATION CHECKLIST. THE PACKAGE WAS THEN TRANSPORTED TO THE DMP AREA FOR FURTER PROCESSING. THEN DETERMINED TO BE UNDECLARED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080470</guid>
+      <pubDate>Tue, 17 Oct 2023 00:34:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

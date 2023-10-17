@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Oct 2023 21:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 00:35:59 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100446</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197999&gt;E-2023100446&lt;/A</link>
@@ -711,6 +711,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090144</guid>
       <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023070325</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023070325&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-17T00:34:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-12&lt;/li&gt;
+                &lt;li&gt;City: BARSTOW&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: GATX 89137 was identified by Barstow Mechanical with a vapor release only. The cause of the release was identified as a deteriorated gasket. BNSF HM Responders secured the release by replacing the gasket and tightening the man way swing bolts. Estimated amount released is approximate for vapor.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023070325</guid>
+      <pubDate>Tue, 17 Oct 2023 00:34:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023070324</title>
