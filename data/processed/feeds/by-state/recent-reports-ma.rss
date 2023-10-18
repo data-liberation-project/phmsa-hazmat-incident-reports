@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Oct 2023 09:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 15:12:19 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100424</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197971&gt;E-2023100424&lt;/A</link>
@@ -31,48 +31,26 @@
       <pubDate>Mon, 16 Oct 2023 18:14:40 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023090650</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195816&gt;X-2023090650&lt;/A</link>
+      <title>Report X-2023090870</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196496&gt;X-2023090870&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195816&gt;X-2023090650&lt;/A"&gt;Report X-2023090650&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-11T15:10:53+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196496&gt;X-2023090870&lt;/A"&gt;Report X-2023090870&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-18T15:12:15+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-12&lt;/li&gt;
-                &lt;li&gt;City: NATICK&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-14&lt;/li&gt;
+                &lt;li&gt;City: BOYLSTON&lt;/li&gt;
                 &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
                 &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was being unloaded when the package handler noticed the bottom was wet, he notified the manager and QA was called. Brain then placed the package in a red bin and brought it to the hazmat cage place it under the ventilation with the vent on. DescribePack: All four caps were loose. DurationRel: 1 and MitigateEffect: The hazmat was placed in a red hazmat bin and taken to the hazmat cage placed under the vent.&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090650</guid>
-      <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090648</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195814&gt;X-2023090648&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195814&gt;X-2023090648&lt;/A"&gt;Report X-2023090648&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-11T15:10:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-11&lt;/li&gt;
-                &lt;li&gt;City: NATICK&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was discovered by the van driver, who noticed that the box has wet dry marking and he brought it to the attention of QA. The QA team member placed the hazmat in a red bin and brought the damage hazmat to the hazmat cage and placed it under the vent with the ventilation system on. DescribePack: The hazmat was only wrap inside bubble wrap and place inside a box that was too big for the size of the hazmat. DurationRel: 2 and MitigateEffect: The hazmat was put inside of a red bin and placed inside of the hazmat cage with the vent on.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090648</guid>
-      <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090870</guid>
+      <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023080470</title>

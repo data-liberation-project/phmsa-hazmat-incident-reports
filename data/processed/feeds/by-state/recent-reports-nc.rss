@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Oct 2023 09:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 15:12:19 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100445</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197998&gt;E-2023100445&lt;/A</link>
@@ -97,6 +97,28 @@
       <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2023090888</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196514&gt;X-2023090888&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196514&gt;X-2023090888&lt;/A"&gt;Report X-2023090888&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-18T15:12:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-15&lt;/li&gt;
+                &lt;li&gt;City: DURHAM&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The damaged package was placed in a hazardous materials tote and taken to the hazardous materials staging area away from personnel and other packages. DescribePack: Upon inspection it was noted that three of the plastic jugs were cracked near the top causing the contents to leak. DurationRel: 1 and MitigateEffect: The damaged package was placed in a hazardous materials drum awaiting disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090888</guid>
+      <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2023090660</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195826&gt;X-2023090660&lt;/A</link>
       <description>
@@ -139,72 +161,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100374</guid>
       <pubDate>Mon, 16 Oct 2023 18:14:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100184</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197371&gt;E-2023100184&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197371&gt;E-2023100184&lt;/A"&gt;Report E-2023100184&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-11T15:10:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-27&lt;/li&gt;
-                &lt;li&gt;City: Greensboro&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: No bracing&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100184</guid>
-      <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100171</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197098&gt;E-2023100171&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197098&gt;E-2023100171&lt;/A"&gt;Report E-2023100171&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-11T15:10:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-05&lt;/li&gt;
-                &lt;li&gt;City: WILSON&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading it was discovered that one of the straps had punctured the side of one of the 275 poly tote of araldrite (na1993) and had released 10 gallons of product.  Contractors were dispatched for the containment and cleanup of the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100171</guid>
-      <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090625</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195791&gt;X-2023090625&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195791&gt;X-2023090625&lt;/A"&gt;Report X-2023090625&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-11T15:10:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-11&lt;/li&gt;
-                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The sequence of events of the actual incident are unknown, other than the incident occurred during the Preload Sort. Package had been discovered already in the Hazmat processing area. When discovered, action was taken to start the damage hazmat process. DescribePack: Package failure occurred when two caps on two of the four bottles came loose and leaked into the carton. Caps had not been sealed on tight. DurationRel: 1 and MitigateEffect: Package had already been discovered in the Hazmat holding/processing area, so it had been removed from the origin of incident location. Therefore, minimizing exposure of spillage to those untrained in handing Hazmats.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090625</guid>
-      <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

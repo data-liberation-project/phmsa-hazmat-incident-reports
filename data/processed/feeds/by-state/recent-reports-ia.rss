@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Oct 2023 09:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 15:12:19 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100252</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197521&gt;E-2023100252&lt;/A</link>
@@ -51,6 +51,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100248</guid>
       <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090868</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196494&gt;X-2023090868&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196494&gt;X-2023090868&lt;/A"&gt;Report X-2023090868&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-18T15:12:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-15&lt;/li&gt;
+                &lt;li&gt;City: COUNCIL BLUFFS&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: When package was unloaded off trailer a very small amount of liquid squirted from the puncture. From there the drum was placed into a hazmat bag and then into drum. DescribePack: small puncture next to the rim of the lid DurationRel: 1 and MitigateEffect: non combustible material was used to clean up the small spill. Metal drum was then placed into a hazmat drum&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090868</guid>
+      <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023100288</title>
@@ -117,28 +139,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100224</guid>
       <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100128</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196980&gt;E-2023100128&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196980&gt;E-2023100128&lt;/A"&gt;Report E-2023100128&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-11T15:10:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-27&lt;/li&gt;
-                &lt;li&gt;City: Council Bluffs&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Improper blocking &amp;amp; bracing&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100128</guid>
-      <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023080424</title>

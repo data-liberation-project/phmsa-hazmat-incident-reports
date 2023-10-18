@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Oct 2023 09:12:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 15:12:19 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100460</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198014&gt;E-2023100460&lt;/A</link>
@@ -97,6 +97,28 @@
       <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2023090897</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196523&gt;X-2023090897&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196523&gt;X-2023090897&lt;/A"&gt;Report X-2023090897&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-18T15:12:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-13&lt;/li&gt;
+                &lt;li&gt;City: LONG ISLAND CITY&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: While the package unloaded package handler found it was leaking and inform the QA staff, and kitty litter were used to cover the leakage and package was put in the plastic bag and send it to hazmat damage area. DescribePack: The plastic bottle cap was loose and result in internal leakage. DurationRel: 1 and MitigateEffect: kitty litter were used to cover the leakage and package was put in the plastic bag and send it to hazmat damage area.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090897</guid>
+      <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Report I-2023090149</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report I-2023090149&lt;/a&gt;&lt;/h3&gt;
@@ -160,50 +182,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100278</guid>
       <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100190</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197377&gt;E-2023100190&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197377&gt;E-2023100190&lt;/A"&gt;Report E-2023100190&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-11T15:10:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-08&lt;/li&gt;
-                &lt;li&gt;City: MONTGOMERY&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: During off loading it was discovered that the load had shifted during transit and that one of the metal 55 gallon drum of acetone (un1090) had been damaged by a sharp object and had released 10 ounces of product.  The warehouse crew was able to contain and cleanup the release, so no contractors were dispatched.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100190</guid>
-      <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023090134</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196430&gt;I-2023090134&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196430&gt;I-2023090134&lt;/A"&gt;Report I-2023090134&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-11T15:10:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-03&lt;/li&gt;
-                &lt;li&gt;City: Albany&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: HERITAGE TRANSPORT, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: At approximately 10:00 Sunday 09/03/23, a Heritage Transport employee contacted the facility Manager of the Heritage Albany 10-day to let him know there was a Leaking container on a staged trailer. The facility manager unloaded the trailer and identified the container, an FIBC. Approximately lgal of liquid leaked from the FIBC. The. leak was absorbed using absorbent pads and granular absorbent. The FIBC was 6verpacked into a new FIBC. The absorbent material was packaged for transport/ disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090134</guid>
-      <pubDate>Wed, 11 Oct 2023 15:10:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
