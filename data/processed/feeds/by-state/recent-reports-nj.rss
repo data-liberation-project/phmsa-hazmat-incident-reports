@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 15:12:08 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100456</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198009&gt;E-2023100456&lt;/A</link>
@@ -73,6 +73,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100420</guid>
       <pubDate>Mon, 16 Oct 2023 18:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090920</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196546&gt;X-2023090920&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196546&gt;X-2023090920&lt;/A"&gt;Report X-2023090920&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-16&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON FURTHER INSPECTION THE BOX CONTAINING NITRIC ACID WAS FOUND WITH TWO  OF THE BOTTLES COMPLETELY LEAKED OUT. THEY WERE HURRIEDLY PLACED IN A SALVAGE DRUM TO BE DISPOSED OF UNLESS OTHERWISE. DescribePack: FAILURE OF THE PACKAGE WAS DUE TO IMPROPER HANDLING WHILE BEING REMOVED FROM THE BELT CAUSING 2 BOTTLE OF NITRIC ACID TO BE COMPLETED LEAKED OUT. DurationRel: 4 and MitigateEffect: THE REMAINING CONTENTS WERE PLACED IN A LINED SALAVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090920</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090864</title>

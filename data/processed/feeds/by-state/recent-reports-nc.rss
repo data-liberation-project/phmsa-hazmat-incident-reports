@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 15:12:08 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100445</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197998&gt;E-2023100445&lt;/A</link>
@@ -31,70 +31,114 @@
       <pubDate>Mon, 16 Oct 2023 18:14:40 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023100263</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197551&gt;E-2023100263&lt;/A</link>
+      <title>Report X-2023090941</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196567&gt;X-2023090941&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197551&gt;E-2023100263&lt;/A"&gt;Report E-2023100263&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-12T15:12:08+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196567&gt;X-2023090941&lt;/A"&gt;Report X-2023090941&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-04&lt;/li&gt;
-                &lt;li&gt;City: China Grove&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
                 &lt;li&gt;State: NC&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Cap failure&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023090941 SequenceEvent: damaged during unloading DescribePack: upon inspection we found the box to leaking and the cap was off the bottle which was causing the leakage. package unsuitable for delivery. DurationRel: 1 and MitigateEffect: applied spill fix   2. X-2023090957 SequenceEvent: DAMAGED DURING UNLOADING DescribePack: HYDROCHLORIC ACID/ ACETONE DurationRel: 1 and MitigateEffect: APPLIED SPILL FIX TO SECURE THE SAFTEY OF OTHERS&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100263</guid>
-      <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090941</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023100257</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197537&gt;E-2023100257&lt;/A</link>
+      <title>Report X-2023090938</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196564&gt;X-2023090938&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197537&gt;E-2023100257&lt;/A"&gt;Report E-2023100257&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-12T15:12:08+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196564&gt;X-2023090938&lt;/A"&gt;Report X-2023090938&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-04&lt;/li&gt;
-                &lt;li&gt;City: Raliegh&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
                 &lt;li&gt;State: NC&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Packaging failure&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: damaged during unloading DescribePack: upon inspection after the box was dropped the box started leaking and the caps on the liquid became loose. the contents of the bottles leaked all over the box. unsuitable for delivery. DurationRel: 1 and MitigateEffect: applied spill fix&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100257</guid>
-      <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090938</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023100240</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197507&gt;E-2023100240&lt;/A</link>
+      <title>Report X-2023090926</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196552&gt;X-2023090926&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197507&gt;E-2023100240&lt;/A"&gt;Report E-2023100240&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-12T15:12:08+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196552&gt;X-2023090926&lt;/A"&gt;Report X-2023090926&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-03&lt;/li&gt;
-                &lt;li&gt;City: China Grove&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-17&lt;/li&gt;
+                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
                 &lt;li&gt;State: NC&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DAMAGED DURING UNLOADING, REMOVED THE DAMAGE TO SECURE SAFETY OF OTHERS. DescribePack: LOOSE FITTING, WHICH CAUSE BROKEN CONTENTS. DurationRel: 1 and MitigateEffect: APPLIED SPILL FIX&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100240</guid>
-      <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090926</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090922</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196548&gt;X-2023090922&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196548&gt;X-2023090922&lt;/A"&gt;Report X-2023090922&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-15&lt;/li&gt;
+                &lt;li&gt;City: CONCORD&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE BUCKET WAS BROUGHT TO QA1 BECAUSE THE LID WAS CRUSHED AND THERE WERE SOME PACKETS OF THIS DISHWASHER CLEANER THAT HAD BEEN PUNCTURED AND SPILLED OUT. IT WAS 5 OF THE 100 TABLETS THAT WERE DAMAGED AND LEAKED OUT INTO THE BUCKET. DescribePack: 5 SOLID DISHWASHER TABLETS DurationRel: 1 and MitigateEffect: WE MADE SURE TO ISOLATE THIS BUCKET IN A LINED HAZMAT TOTE AND PUT IT IN THE HAZMAT CAGE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090922</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090919</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196545&gt;X-2023090919&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196545&gt;X-2023090919&lt;/A"&gt;Report X-2023090919&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-16&lt;/li&gt;
+                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Damaged during unloading, removed the damage to secure saftey of other. DescribePack: Loose fitting, which caused leakage. DurationRel: 1 and MitigateEffect: applied spill fix.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090919</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090888</title>

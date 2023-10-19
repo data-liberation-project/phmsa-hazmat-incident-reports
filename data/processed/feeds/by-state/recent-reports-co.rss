@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 15:12:08 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100463</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198017&gt;E-2023100463&lt;/A</link>
@@ -29,6 +29,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100463</guid>
       <pubDate>Mon, 16 Oct 2023 18:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090936</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196562&gt;X-2023090936&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196562&gt;X-2023090936&lt;/A"&gt;Report X-2023090936&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found soiled and stained. Brought to damages for inspection. DescribePack: Found inner bag to be stained near lid with cap loose allowing about 1oz of liquid to spill out. DurationRel: 1 and MitigateEffect: Lid sealed and contents contained.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090936</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090932</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196558&gt;X-2023090932&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196558&gt;X-2023090932&lt;/A"&gt;Report X-2023090932&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: JOHNSTOWN&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package placed alone at the end of the hold trailer on Saturday 09/16.  Package discovered Mon having leaked. DescribePack: Package suffered from thermal expansion and loose caps causing an internal leakage of contents.  Package has no loose cap protection and to heavy for seal on bottom of package. DurationRel: 48 and MitigateEffect: package immediatly moved to red tote and stored safely away&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090932</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090904</title>

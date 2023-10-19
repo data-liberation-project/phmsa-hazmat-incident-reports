@@ -7,28 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 15:12:08 +0000</lastBuildDate>
     <item>
-      <title>Report E-2023100259</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197539&gt;E-2023100259&lt;/A</link>
+      <title>Report X-2023090955</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196581&gt;X-2023090955&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197539&gt;E-2023100259&lt;/A"&gt;Report E-2023100259&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-12T15:12:08+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196581&gt;X-2023090955&lt;/A"&gt;Report X-2023090955&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-04&lt;/li&gt;
-                &lt;li&gt;City: Portland&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
                 &lt;li&gt;State: OR&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Pallet failure&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME TO QA LEAKING. UPON CLOSER INSPECTION FOUND THAT THE PLASTIC BOTTLE HAD LOOSE CAPS AND NO INNER PACKING. ALL EXCESS LIQUID ABSORBED BY THE BOX. BOX DRUMMED AND SENT TO THE HAZMAT CAGE. DescribePack: LOOSE CAPS DurationRel: 1 and MitigateEffect: PUT IN TOTE AND SENT TO QA&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100259</guid>
-      <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090955</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090942</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196568&gt;X-2023090942&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196568&gt;X-2023090942&lt;/A"&gt;Report X-2023090942&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was discovered leaking, removed from sortation, and brought to QA. DescribePack: Cap was not unscrewed, however it had totally popped out of the container. No inner packing. DurationRel: 1 and MitigateEffect: Package was placed in spill bin and brought to appropriate damage processing area.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090942</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023100317</title>
@@ -51,6 +73,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100317</guid>
       <pubDate>Sat, 14 Oct 2023 00:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023080905</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192053&gt;X-2023080905&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192053&gt;X-2023080905&lt;/A"&gt;Report X-2023080905&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-13&lt;/li&gt;
+                &lt;li&gt;City: PORTLAND&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Operations Supervisor advised that the pail had fallen off the support and has a small crack in it and was placed in a recycling drum with ~PRO number put on the side and placed in the OSandD. the small amount was cleaned in house.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080905</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023080423</title>

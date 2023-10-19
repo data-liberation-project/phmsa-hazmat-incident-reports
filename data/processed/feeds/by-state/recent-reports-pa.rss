@@ -7,7 +7,95 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 15:12:08 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023100486</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198100&gt;E-2023100486&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198100&gt;E-2023100486&lt;/A"&gt;Report E-2023100486&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-10&lt;/li&gt;
+                &lt;li&gt;City: DOWNINGTOWN&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: DURING UNLOADING OPERATION CONSIGNEE EMPLOYEES CONECTED HOSE TO STORAGE TANK THAT DID NOT HAVE THE CAPICITY FOR THE LOAD. STORAGE TANK HIGH LEVEL CENSOR FAILED TO OPERATE RESULTING IN OVERFILL OF THE STORAGE TANK. CONSIGNEE HAULTED OPERATION AND CONNECTED UNLOADING HOSE TO A SECONDARY STORAGE TANK TO COMPLETE UNLOADING. PLANT PERSONNEL CLEANED UP RELEASED MATERIAL FROM TANK AREA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100486</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023100481</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198077&gt;E-2023100481&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198077&gt;E-2023100481&lt;/A"&gt;Report E-2023100481&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-03&lt;/li&gt;
+                &lt;li&gt;City: PHILADELPHIA&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: DURING UNLOADING OPERATION ADAPTOR ON HOSE MISALIGNED CAUSING SLIGHT LEAK. ALIGNMENT CORRECTED WITHOUT ADDITIONAL INCIDENT. PLANT PERSONNEL CLEANED UP RELEASE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100481</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090951</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196577&gt;X-2023090951&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196577&gt;X-2023090951&lt;/A"&gt;Report X-2023090951&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: EXTON&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: pkg was found on the dock. box was wet and falling apart. box and contents were placed in a bin and put in the hazmat cage. DescribePack: two caps were loose. pkg was likely on its side. both conditions contributed to the leak DurationRel: 1 and MitigateEffect: box and contents were placed in a bin and put in the hazmat cage. unsure of where the leak occured as there was no visible liquid anywhere near the pkg.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090951</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090947</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196573&gt;X-2023090947&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196573&gt;X-2023090947&lt;/A"&gt;Report X-2023090947&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: NORTHAMPTON&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: It was brought to QA due to corrosion on the box. DescribePack: Two bottles&amp;#x27; caps were a bit loose. DurationRel: 1 and MitigateEffect: Kept upright&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090947</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023090900</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196526&gt;X-2023090900&lt;/A</link>
@@ -249,28 +337,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100298</guid>
       <pubDate>Sat, 14 Oct 2023 00:31:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100264</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197558&gt;E-2023100264&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197558&gt;E-2023100264&lt;/A"&gt;Report E-2023100264&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-12T15:12:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-28&lt;/li&gt;
-                &lt;li&gt;City: Milton&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: WARD TRUCKING&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Product spill while in transit&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100264</guid>
-      <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023080471</title>

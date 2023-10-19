@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2023 15:12:08 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100472</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198052&gt;E-2023100472&lt;/A</link>
@@ -53,6 +53,28 @@
       <pubDate>Mon, 16 Oct 2023 18:14:40 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2023090956</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196582&gt;X-2023090956&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196582&gt;X-2023090956&lt;/A"&gt;Report X-2023090956&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found leaking in van. placed in hazmat tote with proper bag. DescribePack: the lids/caps of the plastics cans leaked DurationRel: 1 and MitigateEffect: leaking package was placed in hazmat tote with bag&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090956</guid>
+      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2023090857</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196483&gt;X-2023090857&lt;/A</link>
       <description>
@@ -73,28 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090857</guid>
       <pubDate>Tue, 17 Oct 2023 15:12:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100004</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196817&gt;E-2023100004&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196817&gt;E-2023100004&lt;/A"&gt;Report E-2023100004&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-12T15:12:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-20&lt;/li&gt;
-                &lt;li&gt;City: ROMULUS&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Enviroserve was dispatched to the site. Upon the contractor’s arrival, personnel observed that the released material impacted a 1ft-by-1ft area of the trailer floor and terminal floor and estimated that one (1) gallon of material was released due to damaged valve assembly causing the release of material. Enviroserve personnel transferred the remaining material in the damaged 330-gallon metal tote to eight 55-gallon metal drums. Enviroserve personnel deployed granular absorbents to the impacted areas and collected the spent material and placed into one of the 55-gallon metal drums. The generated waste was staged onsite in a secure location prior to the contractor demobilization. The generated waste will remain onsite for the ESTES DGRM team to coordinate disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100004</guid>
-      <pubDate>Thu, 12 Oct 2023 15:12:08 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023080404</title>
