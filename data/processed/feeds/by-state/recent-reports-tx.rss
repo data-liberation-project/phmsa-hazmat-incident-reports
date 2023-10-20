@@ -7,7 +7,51 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Oct 2023 15:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 18:14:00 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023100514</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198184&gt;E-2023100514&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198184&gt;E-2023100514&lt;/A"&gt;Report E-2023100514&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
+                &lt;li&gt;City: Dallas&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100514</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023100510</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198180&gt;E-2023100510&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198180&gt;E-2023100510&lt;/A"&gt;Report E-2023100510&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-11&lt;/li&gt;
+                &lt;li&gt;City: Houston&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100510</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023100490</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198106&gt;E-2023100490&lt;/A</link>
@@ -73,6 +117,160 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100396</guid>
       <pubDate>Mon, 16 Oct 2023 18:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100122</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197129&gt;X-2023100122&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197129&gt;X-2023100122&lt;/A"&gt;Report X-2023100122&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
+                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: A package Handler noticed that the Package was leaking the Package was Taken to damages where an Ops Admin Repacked the Box. While in transit another package handler had noticed that thew package was still leaking. At this point the Package was brought to the damaged Hazmat cage DescribePack: Loose Cap Led to package Leakage. DurationRel: 1 and MitigateEffect: Package was segregated from other packages to prevent other packages getting Damaged.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100122</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090999</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196625&gt;X-2023090999&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196625&gt;X-2023090999&lt;/A"&gt;Report X-2023090999&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
+                &lt;li&gt;City: CYPRESS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE LEFT AT HAZMAT DescribePack: LOOSE LID DurationRel: 1 and MitigateEffect: PACKAGE PLACED IN A LINED HAZMAT TOTE AND PUT ON CONTAINMENT PALLET&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090999</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090998</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196624&gt;X-2023090998&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196624&gt;X-2023090998&lt;/A"&gt;Report X-2023090998&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-16&lt;/li&gt;
+                &lt;li&gt;City: HUTCHINS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package handler, Amber Madrid-Slaton ID 5325252 picked up the hazmat package to load onto A218 at 7:30 AM. Package was leaking from bottom and dripped on her leg. DescribePack: The spout opening on jerrican is leaking concrete acid. DurationRel: 3 and MitigateEffect: Leaking package was placed inside tote box in QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090998</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090997</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196623&gt;X-2023090997&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196623&gt;X-2023090997&lt;/A"&gt;Report X-2023090997&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
+                &lt;li&gt;City: HOUSTON&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: UNKNOWN WHAT HAPPEN HOWEVER PKG WAS OPEN AND 1 OF THE ALCOHOL CONTAINER IS HALF FULL.  ALL THE CONTAINER AND BOX  WILL BE PLACE IN A BLUE HAZMAT BAG AND PUT INSIDE OF THE YELLOW DRUM AND PLACE INSIDE THE HAZMAT CAGE DescribePack: UNKNOW HOWEVER ACCORDING TO TRK INFORMATION 39 WAS PLACE ON PKG 9/19/23 @ 0243, ALSO STATES WAITING ON DISPOSITION. SOME HOW PKG ARRIVED AT 0775 HUB. THE HAZMAT WAS PLACE ON TRUCK 322 FOR DELIVERY BUT DRIVER KICK OFF DUE TO DAMAGE DurationRel: 1 and MitigateEffect: AT THIS STATION PPE WAS WORN AND CONTAINER WAS PLACE INSIDE YELLOW DRUM AND PUT IN HAZMAT CAGE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090997</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090995</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196621&gt;X-2023090995&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196621&gt;X-2023090995&lt;/A"&gt;Report X-2023090995&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
+                &lt;li&gt;City: CYPRESS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE LEFT AT HAZMAT CAGE DescribePack: BROKEN AMBER GLASS BOTTLE DurationRel: 1 and MitigateEffect: PACKAGE WAS PUT IN A BLK TOTE AND PLACED ON CONTAINMENT PALLET&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090995</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090965</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196591&gt;X-2023090965&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196591&gt;X-2023090965&lt;/A"&gt;Report X-2023090965&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
+                &lt;li&gt;City: CYPRESS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Hazmat was found on pallet in front of hazmat cage DescribePack: loose Cap DurationRel: 1 and MitigateEffect: placed in a lined tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090965</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090963</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196589&gt;X-2023090963&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196589&gt;X-2023090963&lt;/A"&gt;Report X-2023090963&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
+                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023090963 SequenceEvent: PACKAGE WAS FOUND IN QA DAMAGE AREA CONTAINED IN A BLACK BAG INSIDE OF A SALVAGE DRUM. DescribePack: ONE OF FOUR PLASTIC BOTTLES HAD A LOOSE CAP.  LIQUID WAS ABOUT A HALF INCH BELOW THE FULL LINE.  MOST OF THE BOX WAS WET. DurationRel: 0 and MitigateEffect: PACKAGE WAS CONTAINED IN A SALVAGE DRUM WHEN FOUND.   2. X-2023100118 SequenceEvent: PACKAGE WAS FOUND IN QA DAMAGE AREA CONTAINED IN A BLACK BAG INSIDE OF A SALVAGE DRUM. DescribePack: ONE OF FOUR PLASTIC BOTTLES HAD A LOOSE CAP.  LIQUID WAS ABOUT A HALF INCH BELOW THE FULL LINE.  MOST OF THE BOX WAS WET. DurationRel: 0 and MitigateEffect: PACKAGE WAS CONTAINED IN A SALVAGE DRUM WHEN FOUND.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090963</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023100507</title>

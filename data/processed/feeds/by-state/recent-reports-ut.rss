@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Oct 2023 15:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 18:14:00 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100466</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198045&gt;E-2023100466&lt;/A</link>
@@ -51,6 +51,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100306</guid>
       <pubDate>Sat, 14 Oct 2023 00:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090994</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196620&gt;X-2023090994&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196620&gt;X-2023090994&lt;/A"&gt;Report X-2023090994&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-14&lt;/li&gt;
+                &lt;li&gt;City: VINEYARD&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was discovered on trailer upside down and actively leaking.  Sort Manager called out the leaking package immediately upon discovery and orientated the package upright and stopped further leaking.  QA Immediately responded by isolating the package into a HAZMAT Tote with Liner to prevent further spillage onto other packages.  Spilt liquid was cleaned up with paper towels, and leaked on packages were removed from trailer to be repacked.  No packages that were leaked on were damaged. DescribePack: Inspection found 1 of 4 plastic bottles has its lid shoved in and bent at an odd angle.  Found source of leakage to be from under the handle.  The seam of the bottle had burst outward which formed a large hole. DurationRel: 1 and MitigateEffect: Package was immediately turned upright, isolated, and contained into a HAZMAT Tote with Liner to prevent further spillage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090994</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090992</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196618&gt;X-2023090992&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196618&gt;X-2023090992&lt;/A"&gt;Report X-2023090992&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
+                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: LOOSE CAPS LEAKING DURING TRANSIT, UNLOADED, PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: LOOSE CAPS LEAKING CORROSIVE OXIDIZER SOILING A WET TORN DETERIORATING SOILED BOX SOILING ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090992</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090946</title>

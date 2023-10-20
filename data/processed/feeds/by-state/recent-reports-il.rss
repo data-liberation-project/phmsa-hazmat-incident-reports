@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Oct 2023 15:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2023 18:14:00 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023100533</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198226&gt;E-2023100533&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198226&gt;E-2023100533&lt;/A"&gt;Report E-2023100533&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
+                &lt;li&gt;City: Frankfort&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Unsecured freight&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100533</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023100499</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198133&gt;E-2023100499&lt;/A</link>
@@ -183,6 +205,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100307</guid>
       <pubDate>Sat, 14 Oct 2023 00:31:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090958</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196584&gt;X-2023090958&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196584&gt;X-2023090958&lt;/A"&gt;Report X-2023090958&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-20T18:13:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
+                &lt;li&gt;City: NILES&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND LEAKING ON LOADSIDE AND WAS BROUGHT TO THE HAZMAT CAGE FOR PROCESSING. DescribePack: LEAKING FLUID FROM LOOSE CAPS. DurationRel: 1 and MitigateEffect: BAG AND TOTE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090958</guid>
+      <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090913</title>
