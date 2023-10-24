@@ -7,28 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Oct 2023 12:18:32 +0000</lastBuildDate>
-    <item>
-      <title>Report X-2023090676</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195842&gt;X-2023090676&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195842&gt;X-2023090676&lt;/A"&gt;Report X-2023090676&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-17T15:12:35+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-11&lt;/li&gt;
-                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Damaged hazmat was brought to QA by package handler.  Upon inspection found the contents were leaking from containers.  damaged hazmat was placed in a hazmat bag and drum. DescribePack: Further inspection of package found caps were loose and package appeared to be improperly loaded. DurationRel: 1 and MitigateEffect: After the damaged hazmat was discovered, it was placed in hazmat bag and drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090676</guid>
-      <pubDate>Tue, 17 Oct 2023 15:12:35 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Oct 2023 15:13:02 +0000</lastBuildDate>
   </channel>
 </rss>

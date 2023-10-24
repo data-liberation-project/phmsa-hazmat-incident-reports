@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Oct 2023 12:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 15:13:02 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100556</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198576&gt;E-2023100556&lt;/A</link>
@@ -95,28 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100488</guid>
       <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100465</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198019&gt;E-2023100465&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198019&gt;E-2023100465&lt;/A"&gt;Report E-2023100465&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-17T15:12:35+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-02&lt;/li&gt;
-                &lt;li&gt;City: CONLEY&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100465</guid>
-      <pubDate>Tue, 17 Oct 2023 15:12:35 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100818</title>
@@ -249,28 +227,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090881</guid>
       <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090852</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196478&gt;X-2023090852&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196478&gt;X-2023090852&lt;/A"&gt;Report X-2023090852&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-17T15:12:35+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-13&lt;/li&gt;
-                &lt;li&gt;City: ELLENWOOD&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: CAPS OF BOTTLES BECAME LOOSE DURING SHIPPING AND HANDLING. BOTTLES LEAKED OUT AS A RESULT. PACKAGE SECURED AND TAKEN TO THE HAZMAT STATION. DescribePack: CAPS OF BOTTLES BECAME LOOSE. DurationRel: 5 and MitigateEffect: UPON DISCOVERY, PACKAGE SECURED AND TAKEN TO THE HAZMAT STATION FOR POCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090852</guid>
-      <pubDate>Tue, 17 Oct 2023 15:12:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

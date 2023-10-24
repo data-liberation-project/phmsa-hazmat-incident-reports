@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Oct 2023 12:18:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 15:13:02 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100592</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198642&gt;E-2023100592&lt;/A</link>
@@ -271,28 +271,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090888</guid>
       <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090660</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195826&gt;X-2023090660&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195826&gt;X-2023090660&lt;/A"&gt;Report X-2023090660&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-17T15:12:35+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-09&lt;/li&gt;
-                &lt;li&gt;City: CONCORD&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS BROUGHT TO US BY THE IC BELT MANAGER. HE NOTICED IT IN A LINED TOTE BUT THE PACKAGE HAD SOME WETNESS. WE DISCOVERED THAT 2 OF THESE PLASTIC BOTTLES/CANS HAD LEAKED OUT INTO THE ENTIRE PACKAGE WHICH CONTAMINATED EVERYTHING IN THE BOX. DescribePack: 2 LOOSE CAPS DurationRel: 1 and MitigateEffect: MADE SURE TO GET THE LINED TOTE TO THE HAZMAT CAGE AND UNDER THE HOOD VENT&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090660</guid>
-      <pubDate>Tue, 17 Oct 2023 15:12:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
