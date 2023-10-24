@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Oct 2023 21:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2023 00:34:02 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100576</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198622&gt;E-2023100576&lt;/A</link>
@@ -469,6 +469,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081023</guid>
       <pubDate>Mon, 23 Oct 2023 15:12:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081016</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192185&gt;X-2023081016&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192185&gt;X-2023081016&lt;/A"&gt;Report X-2023081016&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-24T00:32:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-24&lt;/li&gt;
+                &lt;li&gt;City: MIAMI&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 07/24/2023, Dangerous Goods Administration received a call from Employee 5190395 at the station location in Miami, reporting a flammable liquid spill.  The shipment consisted of 4 fiberboard boxes, each containing 4 metal cans.  One of the cans leaked due loose closure, resulting in spillage.  The entire shipment is being held and the affected pacakge has been placed in a salvage drum and await an amended shipper&amp;#x27;s declaration for further transport.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081016</guid>
+      <pubDate>Tue, 24 Oct 2023 00:32:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
