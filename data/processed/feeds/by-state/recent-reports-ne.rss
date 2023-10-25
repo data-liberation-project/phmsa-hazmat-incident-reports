@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Oct 2023 12:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 15:12:45 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100545</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198247&gt;E-2023100545&lt;/A</link>
@@ -29,28 +29,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100545</guid>
       <pubDate>Mon, 23 Oct 2023 15:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090884</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196510&gt;X-2023090884&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196510&gt;X-2023090884&lt;/A"&gt;Report X-2023090884&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-18T15:12:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-14&lt;/li&gt;
-                &lt;li&gt;City: NORFOLK&lt;/li&gt;
-                &lt;li&gt;State: NE&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered to have leaked at unload and was placed in a HazMat tote. DescribePack: 2 bottles had loose caps and leaked DurationRel: 0 and MitigateEffect: Package was placed in HazMat tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090884</guid>
-      <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Oct 2023 12:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 15:12:45 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100486</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198100&gt;E-2023100486&lt;/A</link>
@@ -293,50 +293,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090947</guid>
       <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090900</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196526&gt;X-2023090900&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196526&gt;X-2023090900&lt;/A"&gt;Report X-2023090900&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-18T15:12:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-15&lt;/li&gt;
-                &lt;li&gt;City: PHILADELPHIA&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023090900 SequenceEvent: The package was being loaded onto a track when the package handler noticed that one of the corners of the box was wet. The box was open by QA and they saw that one of the bottles caps were loose causing liquid to leak out the side of the bottle. DescribePack: The cap become loose on one of the bottles. DurationRel: 1 and MitigateEffect: The hazmat was placed in a bin and put into the damage hazmat cage.   2. X-2023100117 SequenceEvent: The package was being loaded onto a truck when the package handler noticed that the box was wet of the side. QA check the package and saw that one of the bottles caps became loose causing liquid to leak on the box and the other bottle in the box. DescribePack: One of the bottles caps was loose. DurationRel: 1 and MitigateEffect: The package was put in a bin and placed into the damage hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090900</guid>
-      <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090858</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196484&gt;X-2023090858&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196484&gt;X-2023090858&lt;/A"&gt;Report X-2023090858&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-18T15:12:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-15&lt;/li&gt;
-                &lt;li&gt;City: FAIRVIEW&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The box was found on the rollers in the unload area.  The box had a wet spot on the side.  Taken to QA to inspect. DescribePack: The side of the box had a wet spot.  When inspecting package found  wet spots inside box and the lid was loose on the jug. DurationRel: 1 and MitigateEffect: The box was brought to QA to inspect. Box was placed  with orientation arrows upright. When inspected found liquid had leaked from the lid.  Lid was tightened to stop leakage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090858</guid>
-      <pubDate>Wed, 18 Oct 2023 15:12:15 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023080912</title>
