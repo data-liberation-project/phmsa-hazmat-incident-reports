@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Oct 2023 09:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2023 15:12:46 +0000</lastBuildDate>
     <item>
       <title>Report X-2023091032</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196658&gt;X-2023091032&lt;/A</link>
@@ -72,28 +72,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090988</guid>
       <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090934</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196560&gt;X-2023090934&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196560&gt;X-2023090934&lt;/A"&gt;Report X-2023090934&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-18&lt;/li&gt;
-                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Pkg was packed improperly with no packing material. Pkg was dropped during loading at origin terminal causing damage to the contents causing it to leak wetting the contents and carton. Contents has a Flammable Liquid diamond printed on it but there are no Hazmat markings of any kind on the outer carton. Flash point for the contents is 63F. Contents were removed fom the carton and both were placed on a vent hood to reduce the amount of odor coming from the pkg. DescribePack: 1 x 5 gal metal can with lug lid is dented and crushed which caused the lid to fail. DurationRel: 1 and MitigateEffect: Pkg placed in unauthorized plastic bin.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090934</guid>
-      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

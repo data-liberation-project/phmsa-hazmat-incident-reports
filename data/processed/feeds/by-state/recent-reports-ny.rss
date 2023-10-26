@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Oct 2023 09:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2023 15:12:46 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023100642</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198782&gt;E-2023100642&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198782&gt;E-2023100642&lt;/A"&gt;Report E-2023100642&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-26T15:12:39+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-26&lt;/li&gt;
+                &lt;li&gt;City: NEWBURGH&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: A. DUIE PYLE INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Material handler observed a drum that was staged slightly overhanging on a pallet leaking from the bottom of the drum where it was overhanging. No action was discovered that caused this damage and unintentional leak but it was assumed that it had been hit by other freight. The spilled material was neutralized and cleaned with absorbents and placed into a recovery container as was the damaged drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100642</guid>
+      <pubDate>Thu, 26 Oct 2023 15:12:39 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023100567</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198589&gt;E-2023100567&lt;/A</link>
@@ -139,28 +161,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090989</guid>
       <pubDate>Fri, 20 Oct 2023 18:13:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100493</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198109&gt;E-2023100493&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198109&gt;E-2023100493&lt;/A"&gt;Report E-2023100493&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-19T15:12:03+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-26&lt;/li&gt;
-                &lt;li&gt;City: SYRACUSE&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 55 gallon metal drum arrived leaking due to faulty packaging, released 1 ounce on skid.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100493</guid>
-      <pubDate>Thu, 19 Oct 2023 15:12:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
