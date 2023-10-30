@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 12:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 15:13:06 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100676</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198876&gt;E-2023100676&lt;/A</link>
@@ -29,6 +29,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100676</guid>
       <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100106</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197113&gt;X-2023100106&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197113&gt;X-2023100106&lt;/A"&gt;Report X-2023100106&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-05&lt;/li&gt;
+                &lt;li&gt;City: MADISON&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND ON THE ROLLERS WITH THE BOX COMPLETELY WET AND WITH A STRONG ODOR PROTRUDING FROM IT.  THE PACKAGE WAS PLACED IN A BIN AND TAKEN DIRECTLY TO THE QA CAGE. DescribePack: THE PACKAGE WAS NOTICEABLY WET ON THE BOTTOM AND SIDES. THE CAPS ON THE BOTTLES WERE ALSO WET ALONG WITH THE BOTTLES THEMSELVES. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A BIN AND TAKEN TO THE QA CAGE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100106</guid>
+      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023091104</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196730&gt;X-2023091104&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196730&gt;X-2023091104&lt;/A"&gt;Report X-2023091104&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-12&lt;/li&gt;
+                &lt;li&gt;City: DOTHAN&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE HIT THE BELT. PACKAGE HANDLER NOTICED THE BOX WAS WET AND PULLED OFF TO THE SIDE. QA CALLED OVER TO CONTAIN THE PACKAGE IN HAZMAT TOTE FOR INSPECTION. DescribePack: TOP CAP CLOSURE FOR THE BOTTLE CAME LOOSE. DurationRel: 1 and MitigateEffect: PACKAGE BOX ABSORBED SPILLED CONTENTS.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091104</guid>
+      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023091048</title>

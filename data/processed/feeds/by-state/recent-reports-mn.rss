@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 12:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 15:13:06 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100693</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198918&gt;E-2023100693&lt;/A</link>
@@ -53,26 +53,26 @@
       <pubDate>Thu, 26 Oct 2023 15:12:39 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023100578</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198625&gt;E-2023100578&lt;/A</link>
+      <title>Report X-2023100125</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197132&gt;X-2023100125&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198625&gt;E-2023100578&lt;/A"&gt;Report E-2023100578&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-23T15:12:15+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197132&gt;X-2023100125&lt;/A"&gt;Report X-2023100125&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-19&lt;/li&gt;
-                &lt;li&gt;City: EAGAN&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-20&lt;/li&gt;
+                &lt;li&gt;City: SAINT CLOUD&lt;/li&gt;
                 &lt;li&gt;State: MN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal XEN experienced a NA1993 Sulfix 9670 Additive release from a 275-gallon poly tote. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 10-gallons of product released to a 10’ x 25’ area of the concrete dock floor due to a puncture caused by a pallet of rods. The material was transferred from the damaged tote into a new one. Absorbents were then deployed and worked into the impacted area. All impacted absorbents, the cut up damaged tote, and impacted pallets were collected and containerized into (3) 55-gallon metal drums. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package was found in inbound with a wet spot. upon inspection it was found that it was a non labeled hazmat package. action taken was Admin put gloves on and processed the DPR. DescribePack: Bottle was crushed on top causing leakage from cap DurationRel: 2 and MitigateEffect: package was damaged in damage area then moved to qa cage and kept there for the hazmat form.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100578</guid>
-      <pubDate>Mon, 23 Oct 2023 15:12:15 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100125</guid>
+      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023091072</title>
@@ -117,50 +117,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091040</guid>
       <pubDate>Thu, 26 Oct 2023 15:12:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023091033</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196659&gt;X-2023091033&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196659&gt;X-2023091033&lt;/A"&gt;Report X-2023091033&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-23T15:12:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: driver placed a code 10 on the package due to damage and brought it back to the station. QA admin who picked it up placed it in a lined tote and brought it back to the damage area, moved it to the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: two bottles leaked due to loose caps DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091033</guid>
-      <pubDate>Mon, 23 Oct 2023 15:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080956</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192104&gt;X-2023080956&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192104&gt;X-2023080956&lt;/A"&gt;Report X-2023080956&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-23T15:12:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-10&lt;/li&gt;
-                &lt;li&gt;City: ROCHESTER&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2023080956 A fiberboard box with signs of a release was discovered at the RSTR facility. While investigating the fiberboard box the spill agent found three smaller fiberboard boxes with bubble wrap as dunnage. And each inner box contained two plastic bottles. One of the six bottles had a loose cap and spilled it&amp;#x27;s contents inside of the fiberboard box.  All contents were placed into a steel salvage package and a new declaration will be obtained for movement.   X-2023080957 -A fiberboard box with signs of a release was discovered at the RSTR facility. While investigating the fiberboard box the spill agent found three smaller fiberboard boxes with bubble wrap as dunnage. And each inner box contained two plastic bottles. One of the six bottles had a loose cap and spilled it&amp;#x27;s contents inside of the fiberboard box.  All contents were placed into a steel salvage package and a new declaration will be obtained for movement.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080956</guid>
-      <pubDate>Mon, 23 Oct 2023 15:12:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

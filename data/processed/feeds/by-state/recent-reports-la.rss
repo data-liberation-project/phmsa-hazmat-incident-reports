@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 12:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 15:13:06 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100703</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198936&gt;E-2023100703&lt;/A</link>
@@ -29,6 +29,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100703</guid>
       <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023100006</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198162&gt;I-2023100006&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198162&gt;I-2023100006&lt;/A"&gt;Report I-2023100006&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-31&lt;/li&gt;
+                &lt;li&gt;City: DARROW&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: MARTIN TRANSPORT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Driver arrived at the customer in Bumside, LA. When he stopped at the guard shack to check in, he noticed product coming from his crash box on top of the trailer. Driver climbed on top of the trailer to see where the product was coming from. Upon inspection, driver could see that the grommet where the air/nitrogen line hooks up had a crack in it. At this time it appeared this was what had caused the leak. Mechanic was called out to make repairs by replacing the grommet. Once mechanic got on scene, he discovered that the valve had been left open causing the product to come out of the line. Mechanic replaced the cracked grommet and closed the valve. Environmental company was called out to clean the product off the ground and to clean the trailer. Driver was able to off load without any further issues.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023100006</guid>
+      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

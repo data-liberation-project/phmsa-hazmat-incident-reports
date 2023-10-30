@@ -7,16 +7,16 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 12:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 15:13:06 +0000</lastBuildDate>
     <item>
-      <title>Report X-2023091020</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196646&gt;X-2023091020&lt;/A</link>
+      <title>Report X-2023100103</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197110&gt;X-2023100103&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196646&gt;X-2023091020&lt;/A"&gt;Report X-2023091020&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-23T15:12:15+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197110&gt;X-2023100103&lt;/A"&gt;Report X-2023100103&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-20&lt;/li&gt;
-                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-08-09&lt;/li&gt;
+                &lt;li&gt;City: GULFPORT&lt;/li&gt;
                 &lt;li&gt;State: MS&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -24,11 +24,11 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was in the trailer on door 79.Content&amp;#x27;s cap was loose, causing internal leakage and damages to other packages. Absorbent pads were used to clean up spill. DescribePack: Content cap was not secured on bottle. DurationRel: 1 and MitigateEffect: Absorbent pads was used and trailer fan was turned on to ventilate trailer.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was unloaded from trailer, PH noticed damage and pkg was taken to QA. DescribePack: QA noticed that the plastic pail was cracked which caused the leakage. DurationRel: 1 and MitigateEffect: QA placed damage into blue bag and into yellow bin to keep any spillage contained.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091020</guid>
-      <pubDate>Mon, 23 Oct 2023 15:12:15 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100103</guid>
+      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

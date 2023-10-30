@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Oct 2023 12:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Oct 2023 15:13:06 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100696</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198921&gt;E-2023100696&lt;/A</link>
@@ -73,50 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091053</guid>
       <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023091032</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196658&gt;X-2023091032&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196658&gt;X-2023091032&lt;/A"&gt;Report X-2023091032&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-23T15:12:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-21&lt;/li&gt;
-                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Pkg was loaded leaking at its second load point and arrived at its destination, presumably wet. Destination terminal filed Damaged Package Report but none of the other required reports. Destination terminal repacked the contents to return the pkg to the shipper. Upon arrival at this location the repacked contents were found to be leaking as the bottom of the repack box was wet. Pkg was placed in an unauthorized plastic bin and taken to the HMPA for inspection and reporting. DescribePack: Inspection of the 11 x 32 oz plastic bottles determined each bottle had loose cap and failed inner seals. DurationRel: 3 and MitigateEffect: Pkg was placed in a bin.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091032</guid>
-      <pubDate>Mon, 23 Oct 2023 15:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023091031</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196657&gt;X-2023091031&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196657&gt;X-2023091031&lt;/A"&gt;Report X-2023091031&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-23T15:12:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-21&lt;/li&gt;
-                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091031</guid>
-      <pubDate>Mon, 23 Oct 2023 15:12:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
