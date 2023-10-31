@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 15:12:30 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100772</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199095&gt;E-2023100772&lt;/A</link>
@@ -95,6 +95,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100607</guid>
       <pubDate>Thu, 26 Oct 2023 15:12:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100168</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197175&gt;X-2023100168&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197175&gt;X-2023100168&lt;/A"&gt;Report X-2023100168&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-31T15:12:23+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-21&lt;/li&gt;
+                &lt;li&gt;City: GEORGETOWN&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was discovered at unload leaking. Package was placed in a storage bin and taken to QA for inspection. Upon inspection it was noticed that one of the two containers had its lid fall off and all of the contents leaked out. Remaining contents were placed in a salvage drum and packed with package materials to prevent shift during transit, scanned as a code 39, 105 &amp;amp; 99 and marked for disposal at the hub. Awaiting disposition from PGH. DescribePack: one of two bottles had no lid and leaked out its contents DurationRel: 1 and MitigateEffect: Better handling techniques&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100168</guid>
+      <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100150</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197157&gt;X-2023100150&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197157&gt;X-2023100150&lt;/A"&gt;Report X-2023100150&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-31T15:12:23+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-21&lt;/li&gt;
+                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The cap was loose. A package handler moved the box causing it to leak. We cleaned up the spill with neutralizer. We secured the hazmat and soiled clean-up materials in a lined red tote. DescribePack: Cap was loose causing a leak DurationRel: 1 and MitigateEffect: Package was placed in a lined red tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100150</guid>
+      <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100115</title>

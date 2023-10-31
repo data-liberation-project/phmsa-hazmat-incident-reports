@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 15:12:30 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023100775</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199098&gt;E-2023100775&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199098&gt;E-2023100775&lt;/A"&gt;Report E-2023100775&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-31T15:12:23+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-11&lt;/li&gt;
+                &lt;li&gt;City: Miami&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Other fell&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100775</guid>
+      <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023100786</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199123&gt;E-2023100786&lt;/A</link>
@@ -95,6 +117,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100601</guid>
       <pubDate>Thu, 26 Oct 2023 15:12:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100167</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197174&gt;X-2023100167&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197174&gt;X-2023100167&lt;/A"&gt;Report X-2023100167&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-31T15:12:23+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-21&lt;/li&gt;
+                &lt;li&gt;City: SAINT PETERSBURG&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was found leaking and slightly ripped. It was immediately placed in a Hazmat bin to reduce the spill. One of the caps on the bottles of cleaner were loose which caused the leakage. DescribePack: The sid of the package was wet due to a loose cap. DurationRel: 1 and MitigateEffect: The package was immediately placed in a Hazmat bin&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100167</guid>
+      <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100102</title>

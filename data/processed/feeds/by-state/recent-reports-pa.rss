@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Oct 2023 12:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2023 15:12:30 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100757</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199034&gt;E-2023100757&lt;/A</link>
@@ -73,6 +73,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100713</guid>
       <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100149</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197156&gt;X-2023100149&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197156&gt;X-2023100149&lt;/A"&gt;Report X-2023100149&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-10-31T15:12:23+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-20&lt;/li&gt;
+                &lt;li&gt;City: LEWISBERRY&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: shipment was taken out of system flow due to external carton wet package was on trailer # 559251 already damaged wet and leaking upon inspection of inner content 2 x 1 gallon plastic bottles of zep concentrated industrial degreaser one 1 gallon bottle had a loose cap allowing .25 gallon to release from bottle. no inner packing or absorbent was found.  facility procedures for damaged hazardous material followed contents contained and awaiting  disposition DescribePack: 1 gallon plastic bottle of zep concentrated industrial purple digresser had a loose cap allowing  .25 gallon to release from bottle. DurationRel: 1 and MitigateEffect: package was place in a hazmat bag lined tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100149</guid>
+      <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023100796</title>
