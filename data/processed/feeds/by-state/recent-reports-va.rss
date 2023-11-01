@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Oct 2023 21:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 00:36:38 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100668</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198865&gt;E-2023100668&lt;/A</link>
@@ -73,27 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023100005</guid>
       <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023100003</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023100003&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-25T00:33:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-31&lt;/li&gt;
-                &lt;li&gt;City: South Hill&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FERRELLGAS&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 1&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Bobtail Roll Over Accident. The Wheel went off the side of the road, driver tried to pull it back onto the road and lost control. No other vehicles involved. No other property damage. Ferrellgas Employee was injured and taken by ambulance to a local hospital where he was treated and released. There was a minimal release of propane of approx 5.2 gallons. A piping broke that connected to the filler system. The Ferrellgas employee was able to turn the shut off valve to the tank.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023100003</guid>
-      <pubDate>Wed, 25 Oct 2023 00:33:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
