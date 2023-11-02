@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Nov 2023 15:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 18:14:39 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100819</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199435&gt;E-2023100819&lt;/A</link>
@@ -163,28 +163,6 @@
       <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023100636</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198754&gt;E-2023100636&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198754&gt;E-2023100636&lt;/A"&gt;Report E-2023100636&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-26T15:12:39+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-09&lt;/li&gt;
-                &lt;li&gt;City: AURORA&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 366 pound metal drum was punctured in transit, released 366 pounds of material.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100636</guid>
-      <pubDate>Thu, 26 Oct 2023 15:12:39 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023100184</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197191&gt;X-2023100184&lt;/A</link>
       <description>
@@ -315,28 +293,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091056</guid>
       <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023091039</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196665&gt;X-2023091039&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196665&gt;X-2023091039&lt;/A"&gt;Report X-2023091039&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-26T15:12:39+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-11&lt;/li&gt;
-                &lt;li&gt;City: COLORADO SPRINGS&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE DISCOVERED ON VEHICLE AT DELIVERY LOCATION. DRIVER BAGGED ITEM IN A BLACK PLASTIC BAG FOR SECURITY. PACKAGE INSPECTED 9/22/23 AT BEHEST OF CHARITY DOKES TO ENSURE PROPER PROCESS. DISCOVERED 1 ITEM ENTIRELY EMPTY. DescribePack: 1 BOTTLE LEAKED, CAUSING LEAKAGE ON OTHER ITEMS. DurationRel: 1 and MitigateEffect: BAGGED IN BLACK PLASTIC BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091039</guid>
-      <pubDate>Thu, 26 Oct 2023 15:12:39 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023091064</title>
