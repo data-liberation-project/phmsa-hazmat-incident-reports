@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Nov 2023 21:11:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2023 00:36:38 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100857</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199500&gt;E-2023100857&lt;/A</link>
@@ -161,6 +161,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091048</guid>
       <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023081376</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192867&gt;X-2023081376&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2192867&gt;X-2023081376&lt;/A"&gt;Report X-2023081376&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-03T00:35:02+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-28&lt;/li&gt;
+                &lt;li&gt;City: Irondale&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: NORFOLK SOUTHERN RAILWAY COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Norfolk Southern personnel reported a leak coming from the protective housing on tank car MULX702015.  Upon inspection by a contractor, both liquid line valves were found partially open and the closure plugs were less than tool tight.  The valves were closed and the plugs were properly secured.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081376</guid>
+      <pubDate>Fri, 03 Nov 2023 00:35:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

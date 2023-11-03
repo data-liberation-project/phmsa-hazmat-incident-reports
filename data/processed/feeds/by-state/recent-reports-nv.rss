@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Nov 2023 21:11:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2023 00:36:38 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100748</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199008&gt;E-2023100748&lt;/A</link>
@@ -29,6 +29,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100748</guid>
       <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090016</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194167&gt;X-2023090016&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194167&gt;X-2023090016&lt;/A"&gt;Report X-2023090016&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-03T00:35:02+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-09&lt;/li&gt;
+                &lt;li&gt;City: LAS VEGAS&lt;/li&gt;
+                &lt;li&gt;State: NV&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY INC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: After inspection of TILX 192936, the vacuum relief valve was found to be releasing vapor. The cause of the valve failure could not be identified, the vacuum relief valve was removed and a plug installed, stopping the release.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090016</guid>
+      <pubDate>Fri, 03 Nov 2023 00:35:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
