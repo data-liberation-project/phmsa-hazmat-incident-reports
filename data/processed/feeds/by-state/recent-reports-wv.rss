@@ -7,50 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Nov 2023 00:36:38 +0000</lastBuildDate>
-    <item>
-      <title>Report X-2023091077</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196703&gt;X-2023091077&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196703&gt;X-2023091077&lt;/A"&gt;Report X-2023091077&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-13&lt;/li&gt;
-                &lt;li&gt;City: CHARLESTON&lt;/li&gt;
-                &lt;li&gt;State: WV&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was unloaded and placed on IC rollers on its side by package handler.  When QA clerk found package, it was on its side with leakage at the top of the box.  Package handler ignored orientation arrows. DescribePack: Plastic seals under caps burst which allowed contents to leak out of box. DurationRel: 1 and MitigateEffect: Proper package handler training on how to handle hazmats.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091077</guid>
-      <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023091067</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196693&gt;X-2023091067&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196693&gt;X-2023091067&lt;/A"&gt;Report X-2023091067&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-08&lt;/li&gt;
-                &lt;li&gt;City: PARKERSBURG&lt;/li&gt;
-                &lt;li&gt;State: WV&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091067</guid>
-      <pubDate>Fri, 27 Oct 2023 18:13:30 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 04 Nov 2023 06:23:54 +0000</lastBuildDate>
   </channel>
 </rss>
