@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 09:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 18:13:08 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100871</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199540&gt;E-2023100871&lt;/A</link>
@@ -117,28 +117,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100775</guid>
       <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100786</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199123&gt;E-2023100786&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199123&gt;E-2023100786&lt;/A"&gt;Report E-2023100786&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-18&lt;/li&gt;
-                &lt;li&gt;City: MONTICELLO&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal NTH experienced a UN1951, Argon, Refrigerated Liquid release from a 400-pound cylinder. ERTS dispatched contractors for cleanup. Contractors arrived onsite and monitored the off gassing of the cylinder. Once it reached 0 psi caution tape was placed around the unit and the trailer was closed for shipment on. No waste was generated.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100786</guid>
-      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100055</title>
@@ -381,28 +359,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100167</guid>
       <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100102</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197109&gt;X-2023100102&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197109&gt;X-2023100102&lt;/A"&gt;Report X-2023100102&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-27&lt;/li&gt;
-                &lt;li&gt;City: SAINT PETERSBURG&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During the unloading of trailer package was identified as leaking and box wet. The box was placed in a Hazmat bag in a Hazmat container for containment and further review. DescribePack: Closures on the 4 bottles cap not secure and loose during shipping. DurationRel: 1 and MitigateEffect: The box was placed in a Hazmat bag in a Hazmat container for containment and further review.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100102</guid>
-      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

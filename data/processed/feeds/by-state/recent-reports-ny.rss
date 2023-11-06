@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 09:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 18:13:08 +0000</lastBuildDate>
     <item>
       <title>Report I-2023100026</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199661&gt;I-2023100026&lt;/A</link>
@@ -205,50 +205,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100163</guid>
       <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100126</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197133&gt;X-2023100126&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197133&gt;X-2023100126&lt;/A"&gt;Report X-2023100126&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-20&lt;/li&gt;
-                &lt;li&gt;City: BUFFALO&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023100126 SequenceEvent: After preload sort on 09/20/2023, a Hazmat package on delivery vehicle was discovered to be damaged and leaking contents into truck.  QA quickly contained leak by removing damaged package from vehicle and placing it in a red plastic Fedex Ground Hazmat bin with plastic liner and taking to QA cage on site DescribePack: Two plastic jugs of Hydrochloric acid damaged and leaking contents from loose/damaged caps. DurationRel: 1 and MitigateEffect: Damaged package placed in red plastic Fedex Ground Hazmat bin with plastic liner and staged in Hazmat cage on site for future processing by QA.  Leaking Hydrochloric Acid inside delivery vehicle with absorbent.   2. X-2023100817 SequenceEvent: Package was discovered around 1030 am by a driver who alerted QA and hazmat trained personnel who immediately cleared the area and initiated clean up using a hazmat bin for transport of the package and material and neutralizer for cleanup and got the hazmat package to the hazmat cage in the appropriate bin. DescribePack: Package had poor handling insufficient packaging materials and inner packaging and dents to the inner containers. DurationRel: 1 and MitigateEffect: The area was evacuated the material was contained and cleaned up rather quickly.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100126</guid>
-      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100105</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197112&gt;X-2023100105&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197112&gt;X-2023100105&lt;/A"&gt;Report X-2023100105&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-30T15:12:59+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-22&lt;/li&gt;
-                &lt;li&gt;City: BROOKLYN&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THIS PACKAGE WAS DISCOVERED ON TRUCK#618 WET,WHEN I INSPECT THIS PACKAGE THE GLASS BOTTLE IS BROKEN DUE TO POSSIBLE MISHANDLING OF PACKAGE WHILE IN TRANSIT. DescribePack: WHEN I INSPECT THE DAMAGE GLASS IS BROKEN,DUE TO THE DRIVER MISHANDLING THE PACKAGE IN TRANSIT. DurationRel: 8 and MitigateEffect: WHILE IN TRANSIT THE DRIVER NEEDS TO BE MORE CAREFUL WITH THE HAZMAT TO MINIMIZING THE IMPACT OF DAMAGES.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100105</guid>
-      <pubDate>Mon, 30 Oct 2023 15:12:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
