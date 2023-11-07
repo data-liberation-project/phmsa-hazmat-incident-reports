@@ -7,28 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Nov 2023 21:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2023 18:15:25 +0000</lastBuildDate>
     <item>
-      <title>Report I-2023100022</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198159&gt;I-2023100022&lt;/A</link>
+      <title>Report E-2023110015</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199727&gt;E-2023110015&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198159&gt;I-2023100022&lt;/A"&gt;Report I-2023100022&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-31T15:12:23+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199727&gt;E-2023110015&lt;/A"&gt;Report E-2023110015&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-07T18:15:22+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-04&lt;/li&gt;
-                &lt;li&gt;City: Boston&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
+                &lt;li&gt;City: CHICOPEE&lt;/li&gt;
                 &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 10/04/2023 this shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL BOS Service Center, 420 E Street, Boston, MA 02127. Transportation by road has been confirmed.&lt;/li&gt;
+                &lt;li&gt;Description: A 55gal poly drum of UN1790 Hydrofluoric acid not more than 60% was punctured by a forklift on a trailer. A Contractor was called to assist in the cleanup of material.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023100022</guid>
-      <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110015</guid>
+      <pubDate>Tue, 07 Nov 2023 18:15:22 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100047</title>
@@ -73,28 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100037</guid>
       <pubDate>Mon, 06 Nov 2023 09:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023100801</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199342&gt;E-2023100801&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199342&gt;E-2023100801&lt;/A"&gt;Report E-2023100801&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-10-31T15:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-29&lt;/li&gt;
-                &lt;li&gt;City: CHICOPEE&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Contractors reported that approximately 1-gallon of  &amp;quot;Spartan Oven and Grill Cleaner&amp;quot; Un1760 released inside the trailer as a result of being crushed by stacking. The crew located 8 jugs of the Spartan Oven &amp;amp; Grill Cleaner in 4 boxes that were damaged. The release impacted a 10’ x 1’ area of the trailer floor. The impacted area was cleaned and neutralized with citric acid and absorbents. Contractors generated a 55-gallon poly drum of waste filled with damaged jugs, the impacted pallet, and neutralized absorbents. The waste was left at the terminal to be managed by terminal personnel.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100801</guid>
-      <pubDate>Tue, 31 Oct 2023 15:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
