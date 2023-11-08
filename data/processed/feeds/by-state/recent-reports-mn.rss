@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Nov 2023 21:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 18:14:19 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110004</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199716&gt;E-2023110004&lt;/A</link>
@@ -51,6 +51,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100884</guid>
       <pubDate>Mon, 06 Nov 2023 09:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100299</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197306&gt;X-2023100299&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197306&gt;X-2023100299&lt;/A"&gt;Report X-2023100299&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-22&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package was loaded into a van this morning on the inbound. shortly afterward, someone noticed that the package was leaking. they had QA come place it in a lined tote and bring it to the damage area, where it was moved to the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: two bottles leaked due to loose caps DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100299</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100246</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197253&gt;X-2023100246&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197253&gt;X-2023100246&lt;/A"&gt;Report X-2023100246&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-25&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package was found lying damp on its side in front of the van. HAP specialist processed it and righted it, assuming the liquid was from the rain. an hour later, another QA admin brought it to the damage area suspecting damage. HESS specialist checked using a pH strip and found that it turned red for acidity. They opened up the package and found that it had leaked while on its side. The placed it in a lined tote and brought it to the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: One bottle leaked due to loose cap. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100246</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100386</title>

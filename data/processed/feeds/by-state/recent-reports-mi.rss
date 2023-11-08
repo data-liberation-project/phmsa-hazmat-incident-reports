@@ -7,28 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Nov 2023 21:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 18:14:19 +0000</lastBuildDate>
     <item>
-      <title>Report E-2023100863</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199507&gt;E-2023100863&lt;/A</link>
+      <title>Report X-2023100320</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197328&gt;X-2023100320&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199507&gt;E-2023100863&lt;/A"&gt;Report E-2023100863&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-01T18:13:50+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197328&gt;X-2023100320&lt;/A"&gt;Report X-2023100320&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-25&lt;/li&gt;
-                &lt;li&gt;City: Saginaw&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-27&lt;/li&gt;
+                &lt;li&gt;City: PORTAGE&lt;/li&gt;
                 &lt;li&gt;State: MI&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift blade strike&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was brought to our attention by a driver. Placed in a leaker hazmat tote and taken to the hazmat cage for proper handling. DescribePack: Pinhole size puncture at bottom of bottle. DurationRel: 1 and MitigateEffect: Placed in hazmat leaker tote&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100863</guid>
-      <pubDate>Wed, 01 Nov 2023 18:13:50 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100320</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090768</title>
@@ -51,28 +51,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090768</guid>
       <pubDate>Sat, 04 Nov 2023 06:23:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100205</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197212&gt;X-2023100205&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197212&gt;X-2023100205&lt;/A"&gt;Report X-2023100205&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-01T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-22&lt;/li&gt;
-                &lt;li&gt;City: SALINE&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023100205 SequenceEvent: Cap came loose on one bottle of formula 83 clearing solvent. QA was notified when damage became apparent and the package was placed in a plastic hazardous materials bin. DescribePack: 1 loose cap DurationRel: 1 and MitigateEffect: QA was notified when damage became apparent and the package was placed in a plastic hazardous materials bin.   2. X-2023100349 SequenceEvent: The package was discovered to be wet along the bottom of the box and brought to QA. DescribePack: The bottles are leaking along the bottom seam due to faulty containers. DurationRel: 1 and MitigateEffect: The package was placed in a plastic bag and bin to contain the leak.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100205</guid>
-      <pubDate>Wed, 01 Nov 2023 18:13:50 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023082081</title>

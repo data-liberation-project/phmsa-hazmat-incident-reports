@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Nov 2023 21:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 18:14:19 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100941</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199653&gt;E-2023100941&lt;/A</link>
@@ -53,26 +53,48 @@
       <pubDate>Mon, 06 Nov 2023 09:12:13 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023100858</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199501&gt;E-2023100858&lt;/A</link>
+      <title>Report X-2023100315</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197323&gt;X-2023100315&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199501&gt;E-2023100858&lt;/A"&gt;Report E-2023100858&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-01T18:13:50+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197323&gt;X-2023100315&lt;/A"&gt;Report X-2023100315&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-24&lt;/li&gt;
-                &lt;li&gt;City: BALTIMORE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-27&lt;/li&gt;
+                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
                 &lt;li&gt;State: MD&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 55 gallon metal drum was damaged from shipper, released 5 gallons in trailer.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS PICKED UP ON LOAD SIDE WET AND LEAKING DescribePack: UPON INSPECTION FOUND 1 OUT OF 4 BOTTLES TO HAVE A BROKEN SEAL AND LOOSE CAP WHICH ALLOWED THE PRODUCT TO LEAK OUT. DurationRel: 1 and MitigateEffect: RED TOTE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100858</guid>
-      <pubDate>Wed, 01 Nov 2023 18:13:50 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100315</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100288</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197295&gt;X-2023100288&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197295&gt;X-2023100288&lt;/A"&gt;Report X-2023100288&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-26&lt;/li&gt;
+                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND LEAKING ON THE UNLOAD TRAILER FROM THE PREVIOUS FACILITY. DescribePack: THE CAPS WERE CRACKED AND LOOSE ON THE PLASTIC JUGS CAUSING THE CONTENTS TO LEAK OUT. DurationRel: 10 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE FOR PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100288</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100083</title>

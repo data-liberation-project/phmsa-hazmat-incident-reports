@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Nov 2023 21:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 18:14:19 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100935</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199646&gt;E-2023100935&lt;/A</link>
@@ -31,26 +31,48 @@
       <pubDate>Tue, 07 Nov 2023 18:15:22 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023100848</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199480&gt;E-2023100848&lt;/A</link>
+      <title>Report X-2023100510</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197755&gt;X-2023100510&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199480&gt;E-2023100848&lt;/A"&gt;Report E-2023100848&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-01T18:13:50+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197755&gt;X-2023100510&lt;/A"&gt;Report X-2023100510&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-26&lt;/li&gt;
-                &lt;li&gt;City: ELDRIDGE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-23&lt;/li&gt;
+                &lt;li&gt;City: CEDAR RAPIDS&lt;/li&gt;
                 &lt;li&gt;State: IA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 55 gallon metal drum was punctured in transit, released 1 cup in trailer.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package was leaking when being removed from truck. Box was put in plastic lined tote. DescribePack: The lids have bad seals and the contents were leaking from the caps on the jugs DurationRel: 1 and MitigateEffect: item was placed in plastic lined tote&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100848</guid>
-      <pubDate>Wed, 01 Nov 2023 18:13:50 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100510</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100265</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197272&gt;X-2023100265&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197272&gt;X-2023100265&lt;/A"&gt;Report X-2023100265&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-26&lt;/li&gt;
+                &lt;li&gt;City: CEDAR RAPIDS&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Box appears to have been dropped at some point which caused a small crack in the side of one plastic jug. Box was bagged up and put in a hazmat tote. DescribePack: 1 inch slice in side of plastic 1 gallon jug. DurationRel: 1 and MitigateEffect: Box was bagged up and put in a hazmat tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100265</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100043</title>
@@ -73,28 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100043</guid>
       <pubDate>Mon, 06 Nov 2023 09:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100221</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197228&gt;X-2023100221&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197228&gt;X-2023100221&lt;/A"&gt;Report X-2023100221&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-01T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-22&lt;/li&gt;
-                &lt;li&gt;City: GRIMES&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The wet package was discovered during unload. It was immediately isolated and placed in the Hazmat cage for safe-keeping until after the inbound sort. DescribePack: Apparently the package continued to leak from its cap or a puncture, after it was placed in double-wrapped plastic bags in California prior to being shipped back to Des Moines. DurationRel: 8 and MitigateEffect: Hands were washed which came into contact with the wet box. An absorbing solid was used to soak-up the standing liquid in the trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100221</guid>
-      <pubDate>Wed, 01 Nov 2023 18:13:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

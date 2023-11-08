@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Nov 2023 21:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 18:14:19 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023110033</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199934&gt;X-2023110033&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199934&gt;X-2023110033&lt;/A"&gt;Report X-2023110033&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-19&lt;/li&gt;
+                &lt;li&gt;City: TACOMA&lt;/li&gt;
+                &lt;li&gt;State: WA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: As the package was being unloaded the package handler noticed the corner of the box was wet. DescribePack: Loose caps DurationRel: 1 and MitigateEffect: Once the package was discovered the package was placed inside a tote, taken to the damaged hazmat cage, and set under the vent.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110033</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023100906</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199591&gt;E-2023100906&lt;/A</link>
@@ -29,6 +51,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100906</guid>
       <pubDate>Mon, 06 Nov 2023 09:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100337</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197345&gt;X-2023100337&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197345&gt;X-2023100337&lt;/A"&gt;Report X-2023100337&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-20&lt;/li&gt;
+                &lt;li&gt;City: SPOKANE&lt;/li&gt;
+                &lt;li&gt;State: WA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was wet and had a strong odor. after inspection cap was found leaking and the safety seal was broken. DescribePack: Safety seal under the cap of the bottle was broken. DurationRel: 5 and MitigateEffect: Package was placed in a hazmat tote and left under the ventilation fan.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100337</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100278</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197285&gt;X-2023100278&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197285&gt;X-2023100278&lt;/A"&gt;Report X-2023100278&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-08T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-26&lt;/li&gt;
+                &lt;li&gt;City: SPOKANE VALLEY&lt;/li&gt;
+                &lt;li&gt;State: WA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: BC OF ONE OF OUR CONTRACTORS TOLD ME THAT THERE WAS A PACKAGE IN HIS WORK AREA THAT WAS LEAKING WHITE GRANULES, WENT TO INSPECT AND IMMEDIATELY TRANSFERED TO RED LINED TOTE AND BROUGHT TO QA. SDS PULLED UP AND DISCOVERED IT WAS HAZARDOUS. DescribePack: 2 .5 INCH PUNCTURES, 1 ON EACH BAG, A SMALL PINHOLE SIZED PUNCTURE ON 1 OF THE BAGS AS WELL DurationRel: 1 and MitigateEffect: IMMEDIATELY TRANSFERED TO RED LINED TOTE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100278</guid>
+      <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100426</title>
