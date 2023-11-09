@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Nov 2023 21:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 00:33:31 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110086</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200225&gt;E-2023110086&lt;/A</link>
@@ -755,6 +755,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090810</guid>
       <pubDate>Sat, 04 Nov 2023 06:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090230</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194849&gt;X-2023090230&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194849&gt;X-2023090230&lt;/A"&gt;Report X-2023090230&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T00:32:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-30&lt;/li&gt;
+                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Pkg Info ( TRK NBR=773245948314 PKG TYPE=Package (box/drum/jerrican/composite) PHY STATE=Liquid TRANSPORTATION PHASE=In Transit ) Commodity Info ( UNDG NBR=1824 CLASS=80 PSN TEXT=Sodium hydroxide solution PKG GRP=III SPILLED QTY=0 CONTAINER CAPACITY=1 CONTAINER UOM=Liquid - Liter MATERIAL CONSTRUCTION=C - Plastic NUMBER IN SHIPMENT=1 NUMBER FAILED=0 INNER PKG TYPE=1 - Bottle TOTAL AMT IN EACH CONTAINER=1 TOTAL UOM=Liquid - Liter )Dangerous Goods Administration received a call from Employee 147179 at the ramp facility in Fort Worth, reporting an undeclared corrosive spill on 8/30/2023 at approximately 0130.  The shipment consists of one fiberboard box containing multiple items, including 3 bottles of concentrated hydrogen peroxide and 1 bottle of cleaner, both of which are classifed as fully regulated corrosive material.  One of the bottles hydrogen peroxide spilled for an unknown reason, resulting in the outer package falling part.  The shipment was not prepared in accordance with IATA regulations, being void of the required markings, labeling, packaging, and paperwork.  One employee was affected and was treated at a first aid station.  The shipment is being held, pending an FAA investigation.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090230</guid>
+      <pubDate>Thu, 09 Nov 2023 00:32:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023082010</title>

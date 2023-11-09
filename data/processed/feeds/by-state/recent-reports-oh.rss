@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Nov 2023 21:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 00:33:31 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110083</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200213&gt;E-2023110083&lt;/A</link>
@@ -425,6 +425,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090778</guid>
       <pubDate>Sat, 04 Nov 2023 06:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023082008</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193968&gt;X-2023082008&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193968&gt;X-2023082008&lt;/A"&gt;Report X-2023082008&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T00:32:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-25&lt;/li&gt;
+                &lt;li&gt;City: Middleburg Heights&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: A fiberboard box was discovered with signs of a release during sort operations at the CLER location. The fiberboard box contained four plastic buckets of a substance identified as a UN3082. The lid on one of the four buckets came loose and released its contents inside of the box. All contents were placed into a steel salvage package. The fiberboard box didn&amp;#x27;t have any hazardous material markings or paperwork attached.  This was a multi piece shipment and all three packages are being held for FAA inspection.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023082008</guid>
+      <pubDate>Thu, 09 Nov 2023 00:32:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023081463</title>

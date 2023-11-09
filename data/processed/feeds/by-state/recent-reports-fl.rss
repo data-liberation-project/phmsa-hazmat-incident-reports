@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Nov 2023 21:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 00:33:31 +0000</lastBuildDate>
     <item>
       <title>Report X-2023100639</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197884&gt;X-2023100639&lt;/A</link>
@@ -623,6 +623,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090785</guid>
       <pubDate>Sat, 04 Nov 2023 06:23:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090170</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194567&gt;X-2023090170&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194567&gt;X-2023090170&lt;/A"&gt;Report X-2023090170&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T00:32:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-29&lt;/li&gt;
+                &lt;li&gt;City: MIAMI&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Package was brought to the attention of the spill clean up specialist at our station location in Miami Florida when staining was seen indicating leaking inside the package.  Package was found during the PM sort operations and was labeled as a UN 1993 Flammable Liquid n.o.s and Dry Ice.  Package consisted of a fibreboard box overpack.  Inside the fibreboard box was a Styrofoam box lined with a moisture barrier containing 3 jerricans of liquid commodity and 10 KG of dry ice.  Inspection found the cap on one of the jerricans was loose and allowed for an estimated 1 liter of product to leak.  It was instructed for liquid commodity placed in salvage drum to contain leak and dry ice to be removed.  Consignee contacted for package retrieval.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090170</guid>
+      <pubDate>Thu, 09 Nov 2023 00:32:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
