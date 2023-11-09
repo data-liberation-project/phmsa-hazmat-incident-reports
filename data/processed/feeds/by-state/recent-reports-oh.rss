@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Nov 2023 15:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 18:13:53 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110083</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200213&gt;E-2023110083&lt;/A</link>
@@ -227,6 +227,72 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100902</guid>
       <pubDate>Mon, 06 Nov 2023 09:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100541</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197786&gt;X-2023100541&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197786&gt;X-2023100541&lt;/A"&gt;Report X-2023100541&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-28&lt;/li&gt;
+                &lt;li&gt;City: CHILLICOTHE&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100541</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100532</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197777&gt;X-2023100532&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197777&gt;X-2023100532&lt;/A"&gt;Report X-2023100532&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-27&lt;/li&gt;
+                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: hazmat got put a hazmat bin DescribePack: loose cap DurationRel: 1 and MitigateEffect: hazmat got put in a bag in the hazmat bin&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100532</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023090796</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196332&gt;X-2023090796&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196332&gt;X-2023090796&lt;/A"&gt;Report X-2023090796&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-21&lt;/li&gt;
+                &lt;li&gt;City: DAYTON&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: The freight was damaged and punctured in transit by a nail&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090796</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100540</title>

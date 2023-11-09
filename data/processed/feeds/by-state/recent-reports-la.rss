@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Nov 2023 15:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 18:13:53 +0000</lastBuildDate>
     <item>
       <title>Report E-2023100937</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199649&gt;E-2023100937&lt;/A</link>
@@ -29,6 +29,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100937</guid>
       <pubDate>Tue, 07 Nov 2023 18:15:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100550</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197795&gt;X-2023100550&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197795&gt;X-2023100550&lt;/A"&gt;Report X-2023100550&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-28&lt;/li&gt;
+                &lt;li&gt;City: ALEXANDRIA&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: the hazmat was unloaded out of the trailer onto the rollers upside down, causing a small amount of the cleaner to spill out, about 1 oz DescribePack: one of the tops was loose DurationRel: 1 and MitigateEffect: placed in a tote, placed in a well ventilated area&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100550</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100548</title>

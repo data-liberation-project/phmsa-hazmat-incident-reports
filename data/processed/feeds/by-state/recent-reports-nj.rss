@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Nov 2023 15:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Nov 2023 18:13:53 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023100459</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197560&gt;X-2023100459&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197560&gt;X-2023100459&lt;/A"&gt;Report X-2023100459&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-05&lt;/li&gt;
+                &lt;li&gt;City: SECAUCUS&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER RESPONDED TO PD 11 FOR A SPILL. RESPONDER USED THE DECISION TREE AND FLAMMABLE RESPONSE SHEET TO CLEAN UP THE SPILL AND COLLECTED MATERIAL. THEN TRANSPORTED TO THE DMP AREA FOR FORTHER PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100459</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023110055</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199896&gt;E-2023110055&lt;/A</link>
@@ -97,26 +119,92 @@
       <pubDate>Sat, 04 Nov 2023 06:23:51 +0000</pubDate>
     </item>
     <item>
-      <title>Report I-2023100025</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199664&gt;I-2023100025&lt;/A</link>
+      <title>Report X-2023101256</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199137&gt;X-2023101256&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199664&gt;I-2023100025&lt;/A"&gt;Report I-2023100025&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-02T15:11:02+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199137&gt;X-2023101256&lt;/A"&gt;Report X-2023101256&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-03&lt;/li&gt;
-                &lt;li&gt;City: Elizabeth&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-28&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
                 &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 10/03/2023 hidden dangerous goods were discovered during the shipment inspection process at the DHL El-Z service center, 15-31 Papetti Plaza, Elizabeth NJ 07206. Transportation by road has been confirmed.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF LEAKAGE. UPON FURTHER INSPECTION  A METAL PAIL WAS FOUND WITH THE CONTENTS LEAKED OUT. THE PAIL WAS HURRIEDLY PLACED IN A SALVAGE DRUM TO BE  TRASH UNLESS OTHERWISE. DescribePack: FAILURE OF THE PACKAGE WAS CAUSED FROM THE PACKAGE BEING FELL AND GOTTEN A PUNCTURE AT THE BOTTOM DurationRel: 4 and MitigateEffect: THE REMAINING CONTENTS WERE PLACED IN A LINED SALAVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023100025</guid>
-      <pubDate>Thu, 02 Nov 2023 15:11:02 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101256</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100575</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197820&gt;X-2023100575&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197820&gt;X-2023100575&lt;/A"&gt;Report X-2023100575&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-28&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: IT APPEARS THE SHIPMENT WAS REMOVED FROM THE SYSTEM FLOW, DUE TO THE EXTERNAL CARTON BEING TORN AND WET DURING THE DAY SORT. DescribePack: UPON INSPECTION OF INNER CONTENTS DURING THE TWILIGHT SHIFT 3X1GALLON (PLASTIC BOTTLES) NOBLE DEGREASER. ONLY 3 BOTTLES WERE FOUND LOCATED AND APPEARS ONE OF THE BOTTLE WAS MISSING. ONE BOTTLE HAD A LOOSE CAP WHICH CAUSED LEAKAGING ALLOWING 90% SPILLAGE. WHICH ALSO CAUSED DAMAGE TO THE OUTER PACKAGING AS WELL. DurationRel: 12 and MitigateEffect: FACILITY PROCEDURES FOR DAMAGED HAZARDOUS MATERIAL FOLLOWED, CONTENTS CONTAINED AND AWAITING DISPOSITION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100575</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100558</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197803&gt;X-2023100558&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197803&gt;X-2023100558&lt;/A"&gt;Report X-2023100558&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-28&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was found at Hazmat Cage during Day sort, in a plastic drum. DescribePack: Inspection of &amp;quot;GRAINGER TRI-POW&amp;#x27;R HD&amp;quot; showed box to be wet from internal leakage caused by loose cap, also one bottle is missing, most likely from being dropped or mishandled. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a plastic salvage drum, unless otherwise stated.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100558</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100543</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197788&gt;X-2023100543&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197788&gt;X-2023100543&lt;/A"&gt;Report X-2023100543&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-28&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package arrived at hazmat cage during sunrise sort, in a plastic drum. DescribePack: Inspection of &amp;quot;ZEP CONCENTRATED INDUSTRIAL PURPLE DEGREASER&amp;quot; showed box to be wet from internal leakage caused by loose cap, most likely from being dropped or mishandled. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a plastic salvage drum, unless otherwise stated.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100543</guid>
+      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100499</title>
