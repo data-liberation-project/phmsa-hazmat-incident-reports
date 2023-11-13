@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Nov 2023 15:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2023 18:12:57 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023100622</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197867&gt;X-2023100622&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197867&gt;X-2023100622&lt;/A"&gt;Report X-2023100622&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-02&lt;/li&gt;
+                &lt;li&gt;City: THEODORE&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Hazmat found to be leaking during attempted delivery. Package was refused and brought back to the station to be processed by QA DescribePack: One of the two bottles had leaked from its cap.  Cap was loose to touch DurationRel: 1 and MitigateEffect: Hazmat was doubled bagged in thick plastic as it was brought back to the facility.  Hazmat was placed in damaged hazmat cage&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100622</guid>
+      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023100440</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197529&gt;X-2023100440&lt;/A</link>
