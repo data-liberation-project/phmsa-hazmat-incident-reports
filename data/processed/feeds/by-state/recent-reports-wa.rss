@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Nov 2023 18:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Nov 2023 21:10:30 +0000</lastBuildDate>
     <item>
       <title>Report X-2023100729</title>
       <description>
@@ -160,116 +160,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100278</guid>
       <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100426</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197501&gt;X-2023100426&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197501&gt;X-2023100426&lt;/A"&gt;Report X-2023100426&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-07T18:15:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-13&lt;/li&gt;
-                &lt;li&gt;City: SEA&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ALASKA AIRLINES, INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Undeclared Aerosol Cans were discovered during the security screening process (x-ray)&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100426</guid>
-      <pubDate>Tue, 07 Nov 2023 18:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100393</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197468&gt;X-2023100393&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197468&gt;X-2023100393&lt;/A"&gt;Report X-2023100393&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-07T18:15:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-29&lt;/li&gt;
-                &lt;li&gt;City: TACOMA&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER USED THE PPE AND THE RESPONSE SHEET FOR A FLAMMABLE LIQUID AND PUT THE HAZMAT LEAKER IN A SPILL TRAY FOR FUTHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100393</guid>
-      <pubDate>Tue, 07 Nov 2023 18:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100099</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197101&gt;X-2023100099&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197101&gt;X-2023100099&lt;/A"&gt;Report X-2023100099&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-07T18:15:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-28&lt;/li&gt;
-                &lt;li&gt;City: TACOMA&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WAS A SPILLAGE CALLED TO DMP FROM DOOR 16, RESPONDER USED PPE AND THE DECISION TREE AND WENT TO RESPOND THE CALL. WHEN ARRIVED RESPONDER FOLLOWED THE DESICION TREE AND PROCEEDED TO FOLLOW THE CONTAINMENT SHEET FOR FLAMMABLE LIQUID, FOLLOWED THE PROCESS, PUT IT IN SPILL TRAY, AND TRANSPORTED BACK TO DMP FOR FURTHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100099</guid>
-      <pubDate>Tue, 07 Nov 2023 18:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090445</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195200&gt;X-2023090445&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195200&gt;X-2023090445&lt;/A"&gt;Report X-2023090445&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-07T18:15:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-12&lt;/li&gt;
-                &lt;li&gt;City: Fife&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Tankcar reported as leaking, inspection found 1 of 6 manway swing bolts less than tool tight&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090445</guid>
-      <pubDate>Tue, 07 Nov 2023 18:15:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090444</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195199&gt;X-2023090444&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2195199&gt;X-2023090444&lt;/A"&gt;Report X-2023090444&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-07T18:15:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-10&lt;/li&gt;
-                &lt;li&gt;City: SEATTLE&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: WMXU 8694 Roll off container was reported as leaking from UPRR yard personnel response and inspection found container contents had excess liquid/moisture causing a release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090444</guid>
-      <pubDate>Tue, 07 Nov 2023 18:15:22 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023090022</title>
