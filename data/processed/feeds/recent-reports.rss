@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Nov 2023 21:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 00:36:01 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110108</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200317&gt;E-2023110108&lt;/A</link>
@@ -11820,6 +11820,28 @@
       <pubDate>Wed, 08 Nov 2023 18:14:16 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2023100693</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197938&gt;X-2023100693&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197938&gt;X-2023100693&lt;/A"&gt;Report X-2023100693&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-15T00:34:05+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-29&lt;/li&gt;
+                &lt;li&gt;City: ELLENWOOD&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: CAP OF PLASTIC PAIL BECAME LOOSE DURING TRANSIT. CONTENT BEGAN TO LEAK OUT AS A RESULT. PAIL SECURED AND TAKEN TO THE HAZMAT STATION. DescribePack: CAP OF PAIL BECAME LOOSE. DurationRel: 5 and MitigateEffect: UPON DISCOVERY, PACKAGE SECURED AND TAKEN TO THE HAZMAT STATION FOR PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100693</guid>
+      <pubDate>Wed, 15 Nov 2023 00:34:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Report I-2023100038</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199668&gt;I-2023100038&lt;/A</link>
       <description>
@@ -12455,6 +12477,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100348</guid>
       <pubDate>Thu, 09 Nov 2023 00:32:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023101114</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198550&gt;X-2023101114&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198550&gt;X-2023101114&lt;/A"&gt;Report X-2023101114&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-15T00:34:05+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-04-01&lt;/li&gt;
+                &lt;li&gt;City: STATESBORO&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was discovered in the unload. Package was leaking in the trailer when pulled out and set aside in a hazmat bin. DescribePack: Doesn&amp;#x27;t appear to have damage on the outside. One of the inner containers had a loose cap or broken cap. DurationRel: 1 and MitigateEffect: The package was immediately removed from the building and put in a hazmat container to keep it from employees&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101114</guid>
+      <pubDate>Wed, 15 Nov 2023 00:34:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
