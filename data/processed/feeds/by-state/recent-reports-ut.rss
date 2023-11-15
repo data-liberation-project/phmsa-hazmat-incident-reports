@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Nov 2023 12:17:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 15:11:38 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023110208</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200230&gt;X-2023110208&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200230&gt;X-2023110208&lt;/A"&gt;Report X-2023110208&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-15T15:11:35+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-27&lt;/li&gt;
+                &lt;li&gt;City: MOAB&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: LEAKING PACKAGE DISCOVERED BY RESPONDER IN MORNING, ONCE DISCOVERED RESPONDER PUT IN TOTE AND CLEANED UP PER THE DECISION TREE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110208</guid>
+      <pubDate>Wed, 15 Nov 2023 15:11:35 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023110165</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200497&gt;E-2023110165&lt;/A</link>
@@ -117,6 +139,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100484</guid>
       <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023100815</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198250&gt;X-2023100815&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198250&gt;X-2023100815&lt;/A"&gt;Report X-2023100815&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-15T15:11:35+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-08&lt;/li&gt;
+                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Driver noticed that a hazmat package that was loaded into his truck had a wet spot and was leaking. I came and pulled the hazmat from the truck and placed it in a hazardous red tote and brought it to the QA cage to process the damaged hazmat. DescribePack: Liquid leaked from the lid on bottle. You can see the streaks on the outside of the bottle left from the liquid. Upon inspection the lid was secured on the bottle which points to the lid being possibly defective. DurationRel: 2 and MitigateEffect: Put in a hazardous red tote and brought to the QA cage to be processed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100815</guid>
+      <pubDate>Wed, 15 Nov 2023 15:11:35 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023100391</title>
