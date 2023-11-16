@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Nov 2023 21:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 00:34:33 +0000</lastBuildDate>
     <item>
       <title>Report X-2023100699</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197944&gt;X-2023100699&lt;/A</link>
@@ -95,28 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100768</guid>
       <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023081973</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193852&gt;X-2023081973&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193852&gt;X-2023081973&lt;/A"&gt;Report X-2023081973&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-09T00:32:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-21&lt;/li&gt;
-                &lt;li&gt;City: LE MARS&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: GBRX 703543 was found leaking in Merrill, IA.  Upon inspection GBRX 703542 was found leaking from the Bottom Outlet Valve secondary cap.  The BNSF Responder inspected GBRX 703547 BOV and determined the BOV ball valve was defective allowing ethanol to leak past the ball valve seat.  The BNSF Responder tool tightened the secondary BOV closure cap to stop the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081973</guid>
-      <pubDate>Thu, 09 Nov 2023 00:32:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

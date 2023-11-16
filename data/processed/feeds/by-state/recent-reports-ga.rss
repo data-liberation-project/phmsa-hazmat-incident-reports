@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Nov 2023 21:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 00:34:33 +0000</lastBuildDate>
     <item>
       <title>Report X-2023101004</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198440&gt;X-2023101004&lt;/A</link>
@@ -493,26 +493,26 @@
       <pubDate>Wed, 15 Nov 2023 00:34:05 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023081773</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193639&gt;X-2023081773&lt;/A</link>
+      <title>Report X-2023100700</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197945&gt;X-2023100700&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2193639&gt;X-2023081773&lt;/A"&gt;Report X-2023081773&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-09T00:32:26+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197945&gt;X-2023100700&lt;/A"&gt;Report X-2023100700&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-16T00:33:26+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-19&lt;/li&gt;
-                &lt;li&gt;City: MARIETTA&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-05-08&lt;/li&gt;
+                &lt;li&gt;City: ELLENWOOD&lt;/li&gt;
                 &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On Aug 18th a package was discovered at the station during the PM sort that had no markings on the outside of the package.  An employee under manager supervision was instructed to open the package and discovered five packages of UN3480 Lithium Ion Batteries, 9 inside the box.   DG Admin instructed the employee to open the inner packages to determine if there was any contact info but there is not.  At this point, we do not know who the shipper or consignee are for this shipment. The package is being held at the station pending disposition.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: leaked at dock, contained and moved to hazmat cage 30 mim, DescribePack: pin hole crack DurationRel: 1 and MitigateEffect: contained in drum&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023081773</guid>
-      <pubDate>Thu, 09 Nov 2023 00:32:26 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100700</guid>
+      <pubDate>Thu, 16 Nov 2023 00:33:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023101114</title>

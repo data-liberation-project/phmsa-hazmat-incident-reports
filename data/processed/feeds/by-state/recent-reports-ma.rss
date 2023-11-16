@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Nov 2023 21:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 00:34:33 +0000</lastBuildDate>
     <item>
       <title>Report X-2023100902</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198338&gt;X-2023100902&lt;/A</link>
@@ -337,28 +337,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023091111</guid>
       <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023090217</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194759&gt;X-2023090217&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2194759&gt;X-2023090217&lt;/A"&gt;Report X-2023090217&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-09T00:32:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-29&lt;/li&gt;
-                &lt;li&gt;City: FRAMINGHAM&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On Aug 29th, 3 bottles containing Isopropyl alcohol were discovered at the express station leaking.  They are only intended for ground movement and have not entered an aircraft.  There is no indications on the outside of the package that it contains dangerous goods.   The 3 packages that leaked are what let FedEx Express know that they contained dangerous goods.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023090217</guid>
-      <pubDate>Thu, 09 Nov 2023 00:32:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
