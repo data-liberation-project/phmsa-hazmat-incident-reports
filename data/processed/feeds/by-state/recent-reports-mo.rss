@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Nov 2023 18:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2023 21:10:15 +0000</lastBuildDate>
     <item>
       <title>Report X-2023100831</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198266&gt;X-2023100831&lt;/A</link>
@@ -163,28 +163,6 @@
       <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023100723</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198055&gt;X-2023100723&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198055&gt;X-2023100723&lt;/A"&gt;Report X-2023100723&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-03&lt;/li&gt;
-                &lt;li&gt;City: COLUMBIA&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: REWRAP; PACKAGE LEAKED ON BY ANOTHER PACKAGE. RESPONDER CALLED HMMS HELP DESK, OPENED THE BOX, AND FOUND CYLENDERS. THEN RESPONDER PROCESSED THROUGH UNDECLARED PROCESS.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100723</guid>
-      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023100790</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198179&gt;X-2023100790&lt;/A</link>
       <description>
@@ -227,50 +205,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100600</guid>
       <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100592</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197837&gt;X-2023100592&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197837&gt;X-2023100592&lt;/A"&gt;Report X-2023100592&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-29&lt;/li&gt;
-                &lt;li&gt;City: SAINT LOUIS&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package started leaking while package handler was loading to trailer due to tilting the box. During inspection found 1 cap completely off; small amount of contents did come in contact w/ package due to box being wet. cap is vented (small hole on top) DescribePack: Loose cap; DurationRel: 1 and MitigateEffect: Package was put in a Haz tote w/ Haz bags to to processed by QA. Package handler had a first aid report; Self Care&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100592</guid>
-      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100017</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196907&gt;X-2023100017&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196907&gt;X-2023100017&lt;/A"&gt;Report X-2023100017&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-09T18:13:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-11&lt;/li&gt;
-                &lt;li&gt;City: Berkeley&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 09/10/2023 at approximately 2205, Dangerous Goods Adminstration received a call from Employee 411065 at the ramp facility in Berkeley, reporting a corrosive spill.  The shipment consisted of one glass bottle, packaged inside of a fiberboard box.  The shipment appears to have spilled after toppling over onto its side in a stationary vehicle and appeared to have leaked onto other packages.  The additional packages were cleaned  and continued in transport.  The spilled package was then placed in a salvage drum and awaits and amended shipper&amp;#x27;s declaration for furhter transport.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100017</guid>
-      <pubDate>Thu, 09 Nov 2023 18:13:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
