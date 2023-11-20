@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Nov 2023 15:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 18:13:39 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110092</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200259&gt;E-2023110092&lt;/A</link>
@@ -405,160 +405,6 @@
       <pubDate>Tue, 14 Nov 2023 18:12:23 +0000</pubDate>
     </item>
     <item>
-      <title>Report I-2023100050</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200397&gt;I-2023100050&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200397&gt;I-2023100050&lt;/A"&gt;Report I-2023100050&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-11&lt;/li&gt;
-                &lt;li&gt;City: West Deptford&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 10/11/2023 this shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL NJS Service Center, 1240 Forest Parkway, Suite 400, West Deptford, NJ 08066. Transportation by road has been confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023100050</guid>
-      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101141</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198713&gt;X-2023101141&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198713&gt;X-2023101141&lt;/A"&gt;Report X-2023101141&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-14&lt;/li&gt;
-                &lt;li&gt;City: LAWNSIDE&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER CALLED TO UNLOAD FOR LEAKING PACKAGE. RESPONDER BROUGHT BACK TO DMP FOR INVESTIGATION AND PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101141</guid>
-      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100835</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198270&gt;X-2023100835&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198270&gt;X-2023100835&lt;/A"&gt;Report X-2023100835&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-03&lt;/li&gt;
-                &lt;li&gt;City: BARRINGTON&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: A package handler was loading the hazmat into the trailer and it was dropped and it had caused a leakage in one bottle. DescribePack: The package had a crack at the bottom of the bottle and it had caused to leak all over inside the package. DurationRel: 1 and MitigateEffect: A manager was able to have a red tote and a plastic clear bag near by and was able to put the damage hazmat into the tote taking precaution.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100835</guid>
-      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100786</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198150&gt;X-2023100786&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198150&gt;X-2023100786&lt;/A"&gt;Report X-2023100786&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
-                &lt;li&gt;City: SADDLE BROOK&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO A LEAKER. RESPONDER USED THE DECISION TREE, PROPER PPE, AND TRANSPORTED PACKAGE TO PROCESSING AREA.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100786</guid>
-      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100634</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197879&gt;X-2023100634&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197879&gt;X-2023100634&lt;/A"&gt;Report X-2023100634&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-03&lt;/li&gt;
-                &lt;li&gt;City: BARRINGTON&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE UNLOAD PROCESS THE MANAGER NOTICED THAT THE PACKAGE WAS WET AND ON IT&amp;#x27;S SIDE. MANAGER IMMEDIATELY TOOK PACKAGE OVER TO THE HAZMAT CAGE TO SECURE AND VENTILATE PACKAGE PROPERLY. I WAS THEN CALLED OVER TO HANDLE THE REPACK PROCESS. I THEN REPACKED THE PACKAGE INTO A YELLOW SALVAGE DRUM SAFELY AND SECURELY AND ALSO IN A TIMELY FASHION. DescribePack: PART B HAD A LOOSE CAP AND WHEN BOX WAS TURNED ON IT&amp;#x27;S SIDE THE LOOSE CAP CAUSE IT TO LEAK APPROXIMATELY 1 CUP OUT ONTO THE PACKAGE AND THE INNER CONTAINERS OF PART A. DurationRel: 1 and MitigateEffect: I REPACKED IT INTO A YELLOW SALVAGE DRUM IN A SAFE AND TIMELY FASHION TO AVOID ANY FURTHER EXPOSURE FOR THE CHEMICALS.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100634</guid>
-      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100627</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197872&gt;X-2023100627&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197872&gt;X-2023100627&lt;/A"&gt;Report X-2023100627&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-02&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON FURTHER INSPECTION 1 BOTTLE OF ETHYL ACETATE WAS FOUND CRACKED AND FULLY LEAKED OUT. THE PACKAGE WAS HURRIEDLY PLACED IN A SALVAGE DRUM TO BE RETURNED TO THE SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF THE PACKAGE WAS CAUSED FROM THE BOX BEING DROPPED AND 1 BOTTLE OF ETHYL ACETATE BECAME CRACKED. DurationRel: 4 and MitigateEffect: THE REMAINING CONTENTS WERE PLACED IN A LINED SALAVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100627</guid>
-      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100625</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197870&gt;X-2023100625&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197870&gt;X-2023100625&lt;/A"&gt;Report X-2023100625&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-02&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE.  UPON FURTHER INSPECTION 1 BOTTLE OF METHANOL WAS FOUND WITH THE TOP CRACKED. THE PACKAGE WAS  HURRIEDLY PLACED IN A SALVAGE DRUM TO BE RETURNED TO THE SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF THE PACKAGE WAS CAUSED FROM THE BOX BEING DROPPED AND 1 BOTTLE OF METHANOL CAP BECAME CRACKED. DurationRel: 4 and MitigateEffect: THE REMAINING CONTENTS WERE PLACED IN A LINED SALAVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100625</guid>
-      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023100358</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197378&gt;X-2023100358&lt;/A</link>
       <description>
@@ -579,28 +425,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100358</guid>
       <pubDate>Tue, 14 Nov 2023 18:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100602</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197847&gt;X-2023100602&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197847&gt;X-2023100602&lt;/A"&gt;Report X-2023100602&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-13T18:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-29&lt;/li&gt;
-                &lt;li&gt;City: EAST BRUNSWICK&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND UNDER THE CONVEYOR BELT IN A HAZMAT BIN. DPR, ISF, 105 WAS DONE. PKG WAS REPACKED AND RETURN LABLE WAS DONE. PKG WAS PLACED IN THE HAZMAT CAGE AWAITING DISPOSITION DescribePack: LOOSE CAP DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PROCESS AND PREPACKED AND PLACED IN THE HAZMAT CAGE, WHILE AWAITING DISPOSITON.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100602</guid>
-      <pubDate>Mon, 13 Nov 2023 18:12:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
