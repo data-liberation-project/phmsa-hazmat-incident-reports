@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Nov 2023 15:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 18:13:42 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023101332</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199214&gt;X-2023101332&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199214&gt;X-2023101332&lt;/A"&gt;Report X-2023101332&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-21T18:13:39+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-17&lt;/li&gt;
+                &lt;li&gt;City: COLONIAL HEIGHTS&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found on the trailer damaged and was given to qa. When qa saw that this was a damaged hazmat it was then processed and placed into a salvage drum. DescribePack: When inspected by qa it was found that all 4 of the caps were not tightened before transit because all of the bottles were leaking from the tops. DurationRel: 1 and MitigateEffect: When qa saw that this was a damaged hazmat it was then processed and placed into a salvage drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101332</guid>
+      <pubDate>Tue, 21 Nov 2023 18:13:39 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023100967</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198403&gt;X-2023100967&lt;/A</link>
@@ -51,72 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100897</guid>
       <pubDate>Wed, 15 Nov 2023 15:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110175</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200512&gt;E-2023110175&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200512&gt;E-2023110175&lt;/A"&gt;Report E-2023110175&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-14T18:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-23&lt;/li&gt;
-                &lt;li&gt;City: COLONIAL HEIGHTS&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110175</guid>
-      <pubDate>Tue, 14 Nov 2023 18:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110115</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200348&gt;E-2023110115&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200348&gt;E-2023110115&lt;/A"&gt;Report E-2023110115&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-14T18:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-13&lt;/li&gt;
-                &lt;li&gt;City: SALEM&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On October 13, 2023, two (2) 5-gallon pails of UN3266 were damaged due to a load strap failure and released approximately seven (7) gallons of product to the trailer interior and concrete. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from First Call Environmental (FCE) to remediate the impacted site. A pH test was performed before remediation and a neutral reading was confirmed. An on-site forklift was used to remove all cargo from the trailer for better access to the spill. The damaged pails were collected and containerized into one (1) 55-gallon drum for disposal purposes. FCE personnel deployed absorbent boom around a nearby drain as a precautionary measure during remediation activities. Crews deployed granular absorbents and a neutralizing agent to the impacted area and worked them in with hand tools.  All UN3266-impacted material was containerized in one (1) additional 55-gallon drum for disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110115</guid>
-      <pubDate>Tue, 14 Nov 2023 18:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100416</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197491&gt;X-2023100416&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197491&gt;X-2023100416&lt;/A"&gt;Report X-2023100416&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-14T18:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-27&lt;/li&gt;
-                &lt;li&gt;City: ALEXANDRIA&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: THE SHIPMENT WAS DISCOVERED LEAKING DURING DELIVERY PHASE. INNER CONTENTS: Loctite 710 LV Fekote wipes. THE PACKAGE WAS PLACED IN A SALVAGE DRUM AND HELD PENDING DISPOSITION FROM THE SHIPPER.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100416</guid>
-      <pubDate>Tue, 14 Nov 2023 18:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

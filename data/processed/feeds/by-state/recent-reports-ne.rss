@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Nov 2023 15:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 18:13:42 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023101285</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199166&gt;X-2023101285&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199166&gt;X-2023101285&lt;/A"&gt;Report X-2023101285&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-21T18:13:39+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-13&lt;/li&gt;
+                &lt;li&gt;City: NORFOLK&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was discovered to be wet at unload. It was immediately put in a HazMat tote and set aside. Unsure when exactly it started leaking or for how long before discovery. Package was improperly repacked in a HazMat bag closed with a zip-tie and then a cardboard box at station 753 by 9266077. Inside of the bag was wet from product leaking. DescribePack: Appears leak occurred from a malfunctioning vent cap DurationRel: 1 and MitigateEffect: Package was placed in a HazMat tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101285</guid>
+      <pubDate>Tue, 21 Nov 2023 18:13:39 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023100856</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198291&gt;X-2023100856&lt;/A</link>
@@ -29,50 +51,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100856</guid>
       <pubDate>Wed, 15 Nov 2023 15:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100446</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197543&gt;X-2023100446&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197543&gt;X-2023100446&lt;/A"&gt;Report X-2023100446&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-14T18:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-03&lt;/li&gt;
-                &lt;li&gt;City: OMAHA&lt;/li&gt;
-                &lt;li&gt;State: NE&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2023100446-RESPONDER CALLED TO TRAILER FOR LEAKER. RESPONDER OBSERVED HAZMAT PACKAGE IN TRAILER LEAKING, CONTAINED, AND PROCESSED THROUGH DMP.  X-2023100447-RESPONDER RESPONDED TO AND PROCESSED PACKAGE THROUGH DMP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100446</guid>
-      <pubDate>Tue, 14 Nov 2023 18:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100004</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196869&gt;X-2023100004&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2196869&gt;X-2023100004&lt;/A"&gt;Report X-2023100004&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-14T18:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-25&lt;/li&gt;
-                &lt;li&gt;City: NORTH PLATTE&lt;/li&gt;
-                &lt;li&gt;State: NE&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Bottom oulet valve hex head flange bolt less than tool tight.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100004</guid>
-      <pubDate>Tue, 14 Nov 2023 18:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
