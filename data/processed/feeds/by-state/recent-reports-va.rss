@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Nov 2023 15:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 18:12:59 +0000</lastBuildDate>
     <item>
       <title>Report X-2023101332</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199214&gt;X-2023101332&lt;/A</link>
@@ -29,50 +29,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101332</guid>
       <pubDate>Tue, 21 Nov 2023 18:13:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100967</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198403&gt;X-2023100967&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198403&gt;X-2023100967&lt;/A"&gt;Report X-2023100967&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-15T15:11:35+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-10&lt;/li&gt;
-                &lt;li&gt;City: FREDERICKSBURG&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was placed in improper location on trailer for transport. DescribePack: Metal Pail was crushed and bent by another package during transport. Closure on top of pail has very small punctures and fractures resulting in leakage. DurationRel: 5 and MitigateEffect: Pail was placed in damaged hazmat container and placed in waste drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100967</guid>
-      <pubDate>Wed, 15 Nov 2023 15:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023100897</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198333&gt;X-2023100897&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198333&gt;X-2023100897&lt;/A"&gt;Report X-2023100897&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-15T15:11:35+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-06&lt;/li&gt;
-                &lt;li&gt;City: FREDERICKSBURG&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was soaked from leaking in transit inside trailer 831413 from Hagerstown Hub. Package was in upper half section of trailer, on top of trailer flaps, instead of floor level. Some spillage occurred immediately surrounding the package, but was wiped up with appropriate procedure and precautions without any injury. DescribePack: Contents leaked due to an unsecured cap from the inner container. May have twisted loose due to lack of packing material or knocked loose from jostling in transit. Outer fiberboard box lost integrity from being soaked at the top. DurationRel: 1 and MitigateEffect: Surrounding area of package was wiped thoroughly to remove all visible residue. Hub may wish to inspect top of trailer flap on middle of the right side for any remaining residue from package before further use.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023100897</guid>
-      <pubDate>Wed, 15 Nov 2023 15:11:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
