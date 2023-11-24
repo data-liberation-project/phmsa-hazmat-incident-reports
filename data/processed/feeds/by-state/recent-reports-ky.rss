@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Nov 2023 18:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 00:33:11 +0000</lastBuildDate>
     <item>
       <title>Report I-2023110033</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200871&gt;I-2023110033&lt;/A</link>
@@ -117,28 +117,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101295</guid>
       <pubDate>Tue, 21 Nov 2023 18:13:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101036</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198472&gt;X-2023101036&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198472&gt;X-2023101036&lt;/A"&gt;Report X-2023101036&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-16T18:13:10+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was set upside down causing the cap to leak. QA was called, we cleaned up the spill with nuetralizer. We secured the package in a lined red tote. DescribePack: Cap leaked due to being put upside down DurationRel: 1 and MitigateEffect: Package was placed rightside up in a lined red tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101036</guid>
-      <pubDate>Thu, 16 Nov 2023 18:13:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
