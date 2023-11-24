@@ -7,28 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Nov 2023 18:13:28 +0000</lastBuildDate>
-    <item>
-      <title>Report X-2023101253</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199134&gt;X-2023101253&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199134&gt;X-2023101253&lt;/A"&gt;Report X-2023101253&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-17T18:14:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-22&lt;/li&gt;
-                &lt;li&gt;City: CEDAR RAPIDS&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package came out of sorter on load side leaking.. DescribePack: leakage from cap seal broken DurationRel: 2 and MitigateEffect: box was put in tote with plastic liner&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101253</guid>
-      <pubDate>Fri, 17 Nov 2023 18:14:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Nov 2023 21:09:44 +0000</lastBuildDate>
   </channel>
 </rss>

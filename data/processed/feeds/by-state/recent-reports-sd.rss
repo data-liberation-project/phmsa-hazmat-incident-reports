@@ -7,28 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Nov 2023 18:13:28 +0000</lastBuildDate>
-    <item>
-      <title>Report X-2023101262</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199143&gt;X-2023101262&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199143&gt;X-2023101262&lt;/A"&gt;Report X-2023101262&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-17T18:14:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-09&lt;/li&gt;
-                &lt;li&gt;City: SIOUX FALLS&lt;/li&gt;
-                &lt;li&gt;State: SD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat package was found while unloading the package on the preload. DescribePack: A loose cap on one of the 6 liter containers leaked. DurationRel: 4 and MitigateEffect: Leakage marks on the outer fiberboard box were noticed but the fiberboard box was dry when the package was unloaded.  There was no liquid to clean up.  The liquid had evaporated.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101262</guid>
-      <pubDate>Fri, 17 Nov 2023 18:14:18 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Nov 2023 21:09:44 +0000</lastBuildDate>
   </channel>
 </rss>

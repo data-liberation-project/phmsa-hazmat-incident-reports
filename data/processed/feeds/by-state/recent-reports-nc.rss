@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Nov 2023 18:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2023 21:09:44 +0000</lastBuildDate>
     <item>
       <title>Report X-2023110047</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199948&gt;X-2023110047&lt;/A</link>
@@ -139,94 +139,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101143</guid>
       <pubDate>Tue, 21 Nov 2023 18:13:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101314</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199195&gt;X-2023101314&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199195&gt;X-2023101314&lt;/A"&gt;Report X-2023101314&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-17T18:14:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-16&lt;/li&gt;
-                &lt;li&gt;City: BRYSON CITY&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: called to unload for leaking package at 0500, spill was contained within red hazmat bin DescribePack: cracked bucket DurationRel: 1 and MitigateEffect: spill was contained within red hazmat bin&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101314</guid>
-      <pubDate>Fri, 17 Nov 2023 18:14:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101300</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199181&gt;X-2023101300&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199181&gt;X-2023101300&lt;/A"&gt;Report X-2023101300&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-17T18:14:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-16&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Dropped pkg, and leaking wet pkg is the reason why this pkg failed DescribePack: Dropped pkg cause the glass container to break and this caused the liquid to escape the pkg. DurationRel: 0 and MitigateEffect: dropping a pkg allows liquid to escape the pkg.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101300</guid>
-      <pubDate>Fri, 17 Nov 2023 18:14:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101058</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198494&gt;X-2023101058&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198494&gt;X-2023101058&lt;/A"&gt;Report X-2023101058&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-17T18:14:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Damaged during unloading. DescribePack: Plastic bottles were punctured, the contents to leak out. DurationRel: 1 and MitigateEffect: Spill fix was applied.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101058</guid>
-      <pubDate>Fri, 17 Nov 2023 18:14:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101055</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198491&gt;X-2023101055&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198491&gt;X-2023101055&lt;/A"&gt;Report X-2023101055&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-17T18:14:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Damaged during unloading. DescribePack: Lid came off one of the bottles causing the contents to leak out. DurationRel: 1 and MitigateEffect: Cleaned contents up.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101055</guid>
-      <pubDate>Fri, 17 Nov 2023 18:14:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
