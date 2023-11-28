@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Nov 2023 18:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2023 21:10:15 +0000</lastBuildDate>
     <item>
       <title>Report X-2023101233</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198964&gt;X-2023101233&lt;/A</link>
@@ -51,28 +51,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110223</guid>
       <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101332</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199214&gt;X-2023101332&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199214&gt;X-2023101332&lt;/A"&gt;Report X-2023101332&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-21T18:13:39+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-17&lt;/li&gt;
-                &lt;li&gt;City: COLONIAL HEIGHTS&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on the trailer damaged and was given to qa. When qa saw that this was a damaged hazmat it was then processed and placed into a salvage drum. DescribePack: When inspected by qa it was found that all 4 of the caps were not tightened before transit because all of the bottles were leaking from the tops. DurationRel: 1 and MitigateEffect: When qa saw that this was a damaged hazmat it was then processed and placed into a salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101332</guid>
-      <pubDate>Tue, 21 Nov 2023 18:13:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
