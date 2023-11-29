@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Nov 2023 15:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 18:13:35 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110398</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201548&gt;E-2023110398&lt;/A</link>
@@ -73,6 +73,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110263</guid>
       <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110148</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200049&gt;X-2023110148&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200049&gt;X-2023110148&lt;/A"&gt;Report X-2023110148&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-29T18:13:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
+                &lt;li&gt;City: KOKOMO&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVED OFF OF TRAILER, TOP OF PACKAGE AND TWO SIDES WERE WET. REMOVED FORM ROLLERS AND PLACED INSIDE RED HAZMAT TOTE. DescribePack: CAP ON BOTTLE DurationRel: 3 and MitigateEffect: PACKAGE REMOVED FROM ROLLERS AND PLACED INSIDE TOTE, PKG OPENED UP AND TIGHTENED LEAKING CAP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110148</guid>
+      <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110129</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200030&gt;X-2023110129&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200030&gt;X-2023110129&lt;/A"&gt;Report X-2023110129&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-11-29T18:13:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-24&lt;/li&gt;
+                &lt;li&gt;City: ZIONSVILLE&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: When found it was placed in a hazmat tote and brought to QA. DescribePack: The cap or top of one was compromised DurationRel: 2 and MitigateEffect: placed in a bag in a hazmat tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110129</guid>
+      <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023110099</title>
