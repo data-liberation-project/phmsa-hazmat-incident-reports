@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Dec 2023 00:38:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 18:14:08 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023110424</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201592&gt;E-2023110424&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201592&gt;E-2023110424&lt;/A"&gt;Report E-2023110424&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-01T18:14:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-15&lt;/li&gt;
+                &lt;li&gt;City: Knoxville&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110424</guid>
+      <pubDate>Fri, 01 Dec 2023 18:14:07 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023110285</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200768&gt;E-2023110285&lt;/A</link>
@@ -205,6 +227,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110287</guid>
       <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110492</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200964&gt;X-2023110492&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200964&gt;X-2023110492&lt;/A"&gt;Report X-2023110492&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-01T18:14:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-24&lt;/li&gt;
+                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Leaking, odorous fiberboard box found in tote on HMPA pallet. Prior events unknown but no load area scans present on ftrack. No prior images available on spidr (checking for any diamond labels). DescribePack: Two of eighteen (three 6pks) 16oz plastic bottles lost 4oz of fluid due to defective safety seals below the cap closure. One safety seal was found completely removed and stuck to underside of cap. DurationRel: 1 and MitigateEffect: PPE donned; tote was lined with hazbag. Ventilation utilized.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110492</guid>
+      <pubDate>Fri, 01 Dec 2023 18:14:07 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023111085</title>
