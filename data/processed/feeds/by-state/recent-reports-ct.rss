@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Dec 2023 15:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 18:14:26 +0000</lastBuildDate>
     <item>
       <title>Report X-2023111266</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202015&gt;X-2023111266&lt;/A</link>
@@ -163,28 +163,6 @@
       <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023110411</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201561&gt;E-2023110411&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201561&gt;E-2023110411&lt;/A"&gt;Report E-2023110411&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-03&lt;/li&gt;
-                &lt;li&gt;City: ORANGE&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110411</guid>
-      <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023110534</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201006&gt;X-2023110534&lt;/A</link>
       <description>
@@ -315,50 +293,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110104</guid>
       <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110078</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199979&gt;X-2023110078&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199979&gt;X-2023110078&lt;/A"&gt;Report X-2023110078&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-23&lt;/li&gt;
-                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVE FROM UNLOAD TRAILER BY AN MANAGER PUT ON A CART THEN BROUGHT TO HAZMAT CAGE DescribePack: THE CAPS LOOSENED SEALS FAILED NO HOLES OR CRACKS DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT IN TO A HAZMAT TOTE WITH BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110078</guid>
-      <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101433</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199315&gt;X-2023101433&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199315&gt;X-2023101433&lt;/A"&gt;Report X-2023101433&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-21&lt;/li&gt;
-                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was found with the side and top of it wet from the leaking 1 X 1 Gallon bottle of Noble Low Temp San.  The side of the box also has a rip down it.  It was place in a lined hazmat tote in the upright position and sent to QA. DescribePack: The side and top of the box is wet from the leaking bottle of Low Temp San.  The side of the box also has a rip down it. 1 X 1 gallon bottle of Low Temp San had a loose cap allowing it to leak during sortation.  The duration of release was less then 5 minutes. DurationRel: 0 and MitigateEffect: When the package was found it was put in a lined hazmat tote in the upright position.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101433</guid>
-      <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

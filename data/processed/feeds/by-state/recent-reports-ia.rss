@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Dec 2023 15:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 18:14:26 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110472</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201641&gt;E-2023110472&lt;/A</link>
@@ -139,50 +139,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110024</guid>
       <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110100</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200001&gt;X-2023110100&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200001&gt;X-2023110100&lt;/A"&gt;Report X-2023110100&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-20&lt;/li&gt;
-                &lt;li&gt;City: CEDAR RAPIDS&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: RIM OF CAP FOUND LEAKING SLIGHTLY, FOUND BY DRIVER. ITEM PLACES IN HAZMAT BAG / TOTE. DescribePack: RIM OF CLOSURE LEAKING. DurationRel: 1 and MitigateEffect: ITEM PLACES IN HAZMAT BAG / TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110100</guid>
-      <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101513</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199538&gt;X-2023101513&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199538&gt;X-2023101513&lt;/A"&gt;Report X-2023101513&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-25&lt;/li&gt;
-                &lt;li&gt;City: DENISON&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101513</guid>
-      <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

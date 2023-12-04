@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Dec 2023 15:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 18:14:26 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110596</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202202&gt;E-2023110596&lt;/A</link>
@@ -163,28 +163,6 @@
       <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023110246</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200678&gt;E-2023110246&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200678&gt;E-2023110246&lt;/A"&gt;Report E-2023110246&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-02&lt;/li&gt;
-                &lt;li&gt;City: HUNTSVILLE&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On November 2, 2023, one (1) one-gallon pail of UN3264 was punctured by a forklift and released approximately one (1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Miller Environmental Group (MEG) to remediate the impacted site.  Crews neutralized the impacted surfaces with a sprayer, soda ash solution, and absorbent pads, and they pH tested the surfaces to ensure they were sufficiently neutralized. MEG personnel placed the one (1) impacted 1-gallon pail, used absorbent pads, and any cleanup debris into one (1) 5-gallon bucket that was staged in the terminal&amp;#x27;s waste holding room.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110246</guid>
-      <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023110520</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200992&gt;X-2023110520&lt;/A</link>
       <description>
@@ -337,28 +315,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101230</guid>
       <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110407</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201557&gt;E-2023110407&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201557&gt;E-2023110407&lt;/A"&gt;Report E-2023110407&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-27T18:13:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
-                &lt;li&gt;City: MADISON&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110407</guid>
-      <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
