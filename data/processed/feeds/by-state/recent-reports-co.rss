@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Dec 2023 21:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 15:11:40 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2023110607</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202214&gt;E-2023110607&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202214&gt;E-2023110607&lt;/A"&gt;Report E-2023110607&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-04T15:11:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-15&lt;/li&gt;
+                &lt;li&gt;City: Commerce City&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110607</guid>
+      <pubDate>Mon, 04 Dec 2023 15:11:38 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023110557</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202084&gt;E-2023110557&lt;/A</link>
@@ -271,6 +293,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110279</guid>
       <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110503</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200975&gt;X-2023110503&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200975&gt;X-2023110503&lt;/A"&gt;Report X-2023110503&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-04T15:11:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-25&lt;/li&gt;
+                &lt;li&gt;City: BROOMFIELD&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: This hazmat was discovered leaking during outbound at around 9:00pm.  The package handler who discovered noticed it leaking while transferring hazmat from the IC rollers to trailer 136. The package handler was wearing gloves and says the liquid did not contact their skin. The manager called QA who placed the hazmat in a plastic bag and tote and cleaned floor of trailer. DescribePack: The jug has a loose cap. DurationRel: 1 and MitigateEffect: The hazmat was placed in a plastic bag and bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110503</guid>
+      <pubDate>Mon, 04 Dec 2023 15:11:38 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023110572</title>

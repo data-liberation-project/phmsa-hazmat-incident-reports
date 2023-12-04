@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Dec 2023 21:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 15:11:40 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023110761</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201233&gt;X-2023110761&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201233&gt;X-2023110761&lt;/A"&gt;Report X-2023110761&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-04T15:11:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-04&lt;/li&gt;
+                &lt;li&gt;City: EDMOND&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: CONTENTS LEAKED DUE TO LOOSE CAPS AND WAS PLACED IN A HAZMAT TOTE AND PROCESSED DescribePack: CAPS WERE LOOSE AND CAUSED CONTENTS TO SPILL DurationRel: 1 and MitigateEffect: PLACED IN TOTE WITH BAG&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110761</guid>
+      <pubDate>Mon, 04 Dec 2023 15:11:38 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023110567</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202104&gt;E-2023110567&lt;/A</link>
@@ -139,6 +161,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110221</guid>
       <pubDate>Mon, 27 Nov 2023 18:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110560</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201032&gt;X-2023110560&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201032&gt;X-2023110560&lt;/A"&gt;Report X-2023110560&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-04T15:11:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-26&lt;/li&gt;
+                &lt;li&gt;City: EDMOND&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PKG ARRIVED AT NOKC 732 FROM DALLAS 753 901877. PKG FOUND AT THE BACK OF BELT 1 WET WITH INTERNAL LEAKAGE DUE TO LOOSE CLOSURES AND INSUFFICIENT INNER PACKAGING. DescribePack: LOOSE CLOSURES DurationRel: 1 and MitigateEffect: PACKAGE AND CONTENTS WERE PLACED IN HAZ BAG AND HAZ TOTE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110560</guid>
+      <pubDate>Mon, 04 Dec 2023 15:11:38 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023110414</title>
