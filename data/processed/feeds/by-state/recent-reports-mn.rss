@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Dec 2023 21:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 18:13:45 +0000</lastBuildDate>
     <item>
       <title>Report X-2023111094</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201843&gt;X-2023111094&lt;/A</link>
@@ -53,26 +53,26 @@
       <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023110187</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200553&gt;E-2023110187&lt;/A</link>
+      <title>Report X-2023110264</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200387&gt;X-2023110264&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200553&gt;E-2023110187&lt;/A"&gt;Report E-2023110187&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-28T18:13:22+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200387&gt;X-2023110264&lt;/A"&gt;Report X-2023110264&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-05T18:13:43+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-03&lt;/li&gt;
-                &lt;li&gt;City: FARMINGTON&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
+                &lt;li&gt;City: MAPLE GROVE&lt;/li&gt;
                 &lt;li&gt;State: MN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: GREENWOOD MOTOR LINES, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A (1-G) jug arrived leaking due to being improperly secured. About (1-G) released which was contained to/soaked into a piece of plywood and quickly evaporated. The spill was cleaned and all materials were placed into an overpack for proper disposal.&lt;/li&gt;
+                &lt;li&gt;Description: A HAZMAT AUDITOR BROUGHT THEIR TRAM OVER AND INDICATED THAT THE HAZMAT THEY HAD JUST PICKED UP (CLASS 5.1 AND 8) HAD A STRONG CHEMICAL ODOR AND THOUGHT THE PACKAGE COULD BE LEAKING. OPENING AND INSPECTING THE PACKAGE RESPONDER FOUND 4 1GAL CONTAINERS WITH PIN HOLE VENTED CAPS AND NOTICED ONE OF THE CAPS WAS MISSING ITS PAPER PLUG UNDERNEATH THE CAP THAT HELPS PREVENT LEAKAGE UNDER NORMAL HANDLING WHICH ALLOWED A SMALL AMOUNT OF LIQUID TO LEAK OUT AND WET/STAIN THE INSIDE OF THE PACKAGE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110187</guid>
-      <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110264</guid>
+      <pubDate>Tue, 05 Dec 2023 18:13:43 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023110627</title>
@@ -161,28 +161,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110165</guid>
       <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110041</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199834&gt;E-2023110041&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199834&gt;E-2023110041&lt;/A"&gt;Report E-2023110041&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-28T18:13:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-12&lt;/li&gt;
-                &lt;li&gt;City: EAGAN&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: (1) 275-gallon plastic tote was punctured by a forklift during dock operations and is currently impacting the dock and the asphalt outside of the dock. A contractor was called to assist in the cleanup of material.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110041</guid>
-      <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

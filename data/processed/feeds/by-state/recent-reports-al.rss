@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Dec 2023 21:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 18:13:45 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023110988</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201464&gt;X-2023110988&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201464&gt;X-2023110988&lt;/A"&gt;Report X-2023110988&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-05T18:13:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-13&lt;/li&gt;
+                &lt;li&gt;City: BIRMINGHAM&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023110988 SequenceEvent: Package was found damaged on trailer during unload. Package was corroded from the liquid inside the bottles. Package was isolated and put in a hazardous bin. DescribePack: Package was wet and tearing apart. Oil dry was found on the package which implies that this package was already discovered to be damaged before the trailer it was on was dispatched. DurationRel: 1 and MitigateEffect: Package was isolated and put inside of a hazardous bin with a top to seal the fumes.   2. X-2023110991 SequenceEvent: Package was found damaged on trailer during unloading. The package was isolated and put into a hazardous bin. DescribePack: Package was corroded due to the liquid from the bottles. Box was torn. There were signs of a cleanup found while unloading which means it was found damaged on the trailer before it was dispacted from previous station. DurationRel: 1 and MitigateEffect: Package was put inside of a hazardous bin and closed up to stop the release of fumes&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110988</guid>
+      <pubDate>Tue, 05 Dec 2023 18:13:43 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023110596</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202202&gt;E-2023110596&lt;/A</link>
@@ -163,6 +185,27 @@
       <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
     </item>
     <item>
+      <title>Report E-2023100694</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023100694&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-05T18:13:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-23&lt;/li&gt;
+                &lt;li&gt;City: BIRMINGHAM&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: CSX CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 1&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 10/23/2023, at 1409 hours, personnel in the CSXT Boyles Yard in Birmingham, AL, reported GATX 60281, a loaded tank car of Molten Sulfur, leaking from the top of the car. The car was isolated and the shipper, HF Sinclair, was notified via CHEMTREC (Report # 2023-10-23-00150). Marion Environmental Inc. (MEI), a CSXT response contractor, was dispatched to the scene and found a vapor release coming from the manway of the rail car.  Contractor personnel determined that 6 of the 6 manway cover swing bolts were less than tool tight. The issue identified and corrective actions were communicated to the shipper’s representative: Mike Ernst (214-871-3590). Contractor personnel properly secured the manway swing bolts using a 24” wrench; this stopped all product vapor from leaking.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023100694</guid>
+      <pubDate>Tue, 05 Dec 2023 18:13:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2023110520</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200992&gt;X-2023110520&lt;/A</link>
       <description>
@@ -249,72 +292,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110150</guid>
       <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110204</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200223&gt;X-2023110204&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200223&gt;X-2023110204&lt;/A"&gt;Report X-2023110204&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-28T18:13:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-27&lt;/li&gt;
-                &lt;li&gt;City: BIRMINGHAM&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110204</guid>
-      <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110060</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199914&gt;E-2023110060&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199914&gt;E-2023110060&lt;/A"&gt;Report E-2023110060&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-28T18:13:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-18&lt;/li&gt;
-                &lt;li&gt;City: TARRANT&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: CLEAN EARTH SPECIALTY WASTE SOLUTIONS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The tanker had been picked up from a 3rd party tanker cleaning company. The investigation revealed that during the cleanout the 3rd party had removed the cleanout port cap on top of the tanker and didn&amp;#x27;t fully secure the cap once the tanker was cleaned out.  The tanker was then sent to pickup a load at PPG Industries, the driver only checked the top hatch and hose valves after loading.  Upon leaving the shipping facility the driver stopped at a scale 40 miles away, there was no evidence at this time of any release.  Upon reaching his final destination he noticed material had sprayed out of the top of the tanker from the top of the tanker from the cleanout port.  The cap was still affixed but he was able to hand tighten it.  Based upon scale tickets from the beginning and end of his trip we were able to determine the amount that had released 45lbs = 5 gallons. The tanker showed signs of the material spraying onto the top portion of tanker.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110060</guid>
-      <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101230</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198937&gt;X-2023101230&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2198937&gt;X-2023101230&lt;/A"&gt;Report X-2023101230&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-28T18:13:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-06&lt;/li&gt;
-                &lt;li&gt;City: MUSCLE SHOALS&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: NORFOLK SOUTHERN CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Norfolk Southern personnel reported tank car GATX73831 leaking from the top of the car.  Upon inspection by a contractor, the leak was found to be from the liquid valve blind flange.  The leak resulted from a defective blind flange gasket and product leaking past the closed liquid line valve.  A new blind flange gasket was installed and the leak stopped.  The shipper was notified and is arranging for a certified mobile shop to replace the valve.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101230</guid>
-      <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

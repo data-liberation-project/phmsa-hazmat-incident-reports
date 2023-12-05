@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Dec 2023 21:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 18:13:45 +0000</lastBuildDate>
     <item>
       <title>Report E-2023110615</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202222&gt;E-2023110615&lt;/A</link>
@@ -141,26 +141,48 @@
       <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
     </item>
     <item>
-      <title>Report I-2023110050</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200862&gt;I-2023110050&lt;/A</link>
+      <title>Report X-2023110374</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200708&gt;X-2023110374&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200862&gt;I-2023110050&lt;/A"&gt;Report I-2023110050&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-28T18:13:22+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200708&gt;X-2023110374&lt;/A"&gt;Report X-2023110374&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-05T18:13:43+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-02&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
+                &lt;li&gt;City: CORVALLIS&lt;/li&gt;
                 &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: T FORCE FREIGHT&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: BAG TORN IN TRANSIT DUE TO IMPROPER BLOCKING/BRACING&lt;/li&gt;
+                &lt;li&gt;Description: On Oct 31st during the PM sort, 2 packages came through that were cold to the touch and were marked on the outside of the package as perishable. After contacting DG Admin the packages were opened and UN1845 Dry Ice, 9 waas found inside the package.    It was not marked on the outside that dry ice was contained inside the package.  The shipper was contacted to come and retrieve the package.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023110050</guid>
-      <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110374</guid>
+      <pubDate>Tue, 05 Dec 2023 18:13:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110217</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200255&gt;X-2023110217&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200255&gt;X-2023110217&lt;/A"&gt;Report X-2023110217&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-05T18:13:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
+                &lt;li&gt;City: PORTLAND&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO A PACKAGE THAT NEEDED TO BE REWRAPPED DUE TO BEING LEAKED ON BY ANOTHER PACKAGE IN THE SORT. UPON INSPECTION OF THE CONTENTS DISCOVERED TWO INNER BOXES MARKED AND LABELED AS UN1070 NITROUS OXIDE WITH CLASS 2.2 AND 5.1 DIAMOND LABELS. EACH INNER BOX CONTAINED SIX NITROUS OXIDE BOTTLES. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110217</guid>
+      <pubDate>Tue, 05 Dec 2023 18:13:43 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023110490</title>
@@ -249,50 +271,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110159</guid>
       <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110213</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200629&gt;E-2023110213&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200629&gt;E-2023110213&lt;/A"&gt;Report E-2023110213&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-28T18:13:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-18&lt;/li&gt;
-                &lt;li&gt;City: CLACKAMAS&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: It was reported that due to a forklift puncture, 3 32 Oz cans of Naked Gun Spray Gun Cleaner Aerosol (UN1950) were punctured and released onto cardboard packaging and other cases of the material, The terminal advised that due to the impact, the terminal will be holding back 3 cases 18 cans in total. (1) 55Gal  DF - containing the product and packaging PPE and absorbents was created as waste and left for the terminal to manage onsite.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110213</guid>
-      <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110101</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200282&gt;E-2023110101&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200282&gt;E-2023110101&lt;/A"&gt;Report E-2023110101&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-28T18:13:22+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-24&lt;/li&gt;
-                &lt;li&gt;City: CLACKAMAS&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Approximately 8 ounces of Nitric Acid 35% released from one 55-gallon metal drum due to improper loading cap on top of drum was not full secure.. A contractor was called to assist with cleanup of material.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110101</guid>
-      <pubDate>Tue, 28 Nov 2023 18:13:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
