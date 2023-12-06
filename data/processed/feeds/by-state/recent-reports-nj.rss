@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Dec 2023 21:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 18:14:48 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023110436</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200900&gt;X-2023110436&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200900&gt;X-2023110436&lt;/A"&gt;Report X-2023110436&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-06T18:14:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-09&lt;/li&gt;
+                &lt;li&gt;City: EDISON&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: EMPLOYEE NOTICED PACKAGE WAS LEAKING AND NOTIFIED SUPERVISOR.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110436</guid>
+      <pubDate>Wed, 06 Dec 2023 18:14:46 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023110990</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201466&gt;X-2023110990&lt;/A</link>
@@ -449,13 +471,13 @@
       <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023110783</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201255&gt;X-2023110783&lt;/A</link>
+      <title>Report X-2023110558</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201030&gt;X-2023110558&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201255&gt;X-2023110783&lt;/A"&gt;Report X-2023110783&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-29T18:13:32+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201030&gt;X-2023110558&lt;/A"&gt;Report X-2023110558&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-06T18:14:46+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-03&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-10-26&lt;/li&gt;
                 &lt;li&gt;City: BARRINGTON&lt;/li&gt;
                 &lt;li&gt;State: NJ&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -464,11 +486,33 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS OUT FOR DELIVERY WHEN IT WAS NOTICED IT WAS LEAKING.  PACKAGE BROUGHT BACK TO FEDEX GROUND FACILITY.  PACKAGE PUT IN HAZMAT CAGE FOR HANDLING. DescribePack: 1 CONTAINER IN THE PACKAGE HAD A LOOSE CAP AND LEAKED APPROX 3 CUPS DurationRel: 12 and MitigateEffect: PACKAGE WAS TAKEN BACK TO THE FEDEX GROUND FACILITY, IT WAS PUT IN THE HAZMAT CAGE FOR PROCESSING, PACKAGE WAS SECURED, REPACKED AND AWAITING DISPOSITION FROM PGH.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: ONE OF THE THREE BOTTLES HAD A LOOSE CAP AND ABOUT 1/3 OF THE BOTTLE LEAKED OUT INTO THE BOX. DescribePack: ONE OF THE THREE BOTTLES HAD A LOOSE CAP AND ABOUT 1/3 OF THE BOTTLE LEAKED OUT INTO THE BOX. DurationRel: 2 and MitigateEffect: BOX PLACED IN HAZMAT BAG AND TOTE.  THEN TAKEN DOWN TO HAZMAT CAGE WHERE IT WAS PROCESSED. IT WAS THEN PLACED IN A SALVAGE DRUM.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110783</guid>
-      <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110558</guid>
+      <pubDate>Wed, 06 Dec 2023 18:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110550</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201022&gt;X-2023110550&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201022&gt;X-2023110550&lt;/A"&gt;Report X-2023110550&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-06T18:14:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-27&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package arrived at hazmat during sunrise sort in a plastic bin. DescribePack: Inspection of &amp;quot;MEDIVATORS RAPICIDE PA&amp;quot; showed proof of package being wet, torn, closures open, and internal leakage, with 2 of 4 items missing. Damage most likely caused from being dropped or mishandled. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless otherwise stated.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110550</guid>
+      <pubDate>Wed, 06 Dec 2023 18:14:46 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023110341</title>
@@ -777,50 +821,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110096</guid>
       <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110140</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200041&gt;X-2023110140&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200041&gt;X-2023110140&lt;/A"&gt;Report X-2023110140&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-29T18:13:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-25&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: IT APPEARS THE SHIPMENT WAS REMOVED FROM THE SYSTEM FLOW, DUE TO THE EXTERNAL CARTON BEIN PUNCTURED AND SPILLAGE. DescribePack: The package was discovered in the damaged hazmat area after completing processing hazmat. The package was removed from the system flow, due to leakage. Upon inspection of the METAL CAN OF THERMO FISHER SCIENTIFIC TOLUENE 20 LITERS, a small puncture hole that triggered a slow leakage of contents DUE TO MISHANDLING AT THE TERMINAL. There was about 10 ounces of leakage. DurationRel: 12 and MitigateEffect: FACILITY PROCEDURES FOR DAMAGED HAZARDOUS MATERIAL FOLLOWED, CONTENTS CONTAINED AND AWAITING DISPOSITION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110140</guid>
-      <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110117</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200018&gt;X-2023110117&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200018&gt;X-2023110117&lt;/A"&gt;Report X-2023110117&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-29T18:13:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-24&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON FURTHER INSPECTION THE BOX CONTAINING NITRIC ACID WAS FOUND COMPLETELY WET AND THE  BOTTLE HAD A SMALL CRACK CAUSING IT TO LEAK. THE BOX WAS HURRIEDLY PLACED IN A SALVAGE DRUM TO BE DISPOSED OF UNLESS OTHERWISE. DescribePack: FAILURE OF THE PACKAGE WAS DUE TO THE BOTTLED BEING CRACKED CAUSING THE PACKAGE OF NITRIC ACID TO BE DAMAGED. DurationRel: 12 and MitigateEffect: THE REMAINING CONTENTS WERE PLACED IN A LINED SALAVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110117</guid>
-      <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

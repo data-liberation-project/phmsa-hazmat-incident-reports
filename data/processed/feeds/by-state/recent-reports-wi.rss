@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Dec 2023 21:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 18:14:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2023110343</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200640&gt;X-2023110343&lt;/A</link>
@@ -141,28 +141,6 @@
       <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023110505</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201725&gt;E-2023110505&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201725&gt;E-2023110505&lt;/A"&gt;Report E-2023110505&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-29T18:13:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-13&lt;/li&gt;
-                &lt;li&gt;City: MILWAUKEE&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On November 13, 2023, one (1) 275-gallon tote of UN1993 was punctured by the shipper and released approximately one (1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from SET Environmental (SET) to remediate the impacted site. SET personnel deployed granular absorbents to the released product, and they swept them in with hand tools. The contents of the damaged 275-gallon tote were successfully transferred into one (1) new 275-gallon tote to be shipped to its next destination. All spent absorbents and cleanup debris were collected and containerized into one (1) 55-gallon drum for disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110505</guid>
-      <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023101515</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199573&gt;X-2023101515&lt;/A</link>
       <description>
@@ -227,28 +205,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110106</guid>
       <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110126</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200027&gt;X-2023110126&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200027&gt;X-2023110126&lt;/A"&gt;Report X-2023110126&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-29T18:13:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-25&lt;/li&gt;
-                &lt;li&gt;City: EAU CLAIRE&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was located at trailer as it was being unloaded with a wet spot on the top side, then Qa was informed, which we then put on gloves and took it to the hazmat cage, where we completed the process for damaged hazmats. DescribePack: Outer package was still fully intact as well as inner packing DurationRel: 1 and MitigateEffect: Box was placed in a black bin and faced with orientation arrows upright&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110126</guid>
-      <pubDate>Wed, 29 Nov 2023 18:13:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
