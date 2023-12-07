@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Dec 2023 21:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2023 18:13:50 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023111003</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201752&gt;X-2023111003&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201752&gt;X-2023111003&lt;/A"&gt;Report X-2023111003&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-07T18:13:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-11&lt;/li&gt;
+                &lt;li&gt;City: LENEXA&lt;/li&gt;
+                &lt;li&gt;State: KS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: A BOX WITH SHIPPING PAPERS AND A FLAMMABLE LIQUID DIAMOND HAZARD LABEL WAS FOUND LEAKING AT AN OUTBOUND TRAILER DOOR. A DESIGNATED RESPONDER PLACED THE LEAKING PACKAGE IN A LINED SPILL TUB AND TRANSPORTED IT TO THE DMP FOR PROPER DISPOSAL.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111003</guid>
+      <pubDate>Thu, 07 Dec 2023 18:13:48 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023110402</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200757&gt;X-2023110402&lt;/A</link>
@@ -207,26 +229,26 @@
       <pubDate>Fri, 01 Dec 2023 18:14:07 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023110362</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200689&gt;X-2023110362&lt;/A</link>
+      <title>Report X-2023110617</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201089&gt;X-2023110617&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200689&gt;X-2023110362&lt;/A"&gt;Report X-2023110362&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-30T18:13:44+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201089&gt;X-2023110617&lt;/A"&gt;Report X-2023110617&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-07T18:13:48+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-03&lt;/li&gt;
-                &lt;li&gt;City: WICHITA&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-10-29&lt;/li&gt;
+                &lt;li&gt;City: LENEXA&lt;/li&gt;
                 &lt;li&gt;State: KS&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: UNLOADER NOTICED LEAKING PACKAGE AND CALLED RESPONDER. RESPONDER DISCOVERED CORRUGATED WITH SMALL AMOUNT OF LIQUID ON THE CARDBOARD. THERE WERE TWO INNER BOXES PACKED WITH A LARGE AMOUNT OF KRAFT PAPER. EACH INNER BOX HAD NO PACKING BETWEEN MULTIPLE AEROSOL CANS.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA NOTICED THE PACKAGE ON THE BELT INSIDE A TOTE AND PULLED IT OFF.  THEY SAW IT WAS WET AND PLACED ON THE PALLETS.  UPON INVESTIGATING THE PACKAGE, I NOTICED THE CONTENTS INSIDE WERE AEROSOL CANS WITHOUT A LABEL ON THE OUTSIDE.  THE PACKAGE WAS PLACED IN A TOTE WITH A LINED HAZMAT BAG. DescribePack: THE CAPS TO THE AEROSOL CANS BROKE OFF FROM THE PACKAGE BEING DROPPED. DurationRel: 2 and MitigateEffect: THE PACKAGE WAS PLACED IN A TOTE WITH A LINED HAZMAT BAG.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110362</guid>
-      <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110617</guid>
+      <pubDate>Thu, 07 Dec 2023 18:13:48 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023110272</title>
@@ -403,50 +425,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110221</guid>
       <pubDate>Tue, 05 Dec 2023 18:13:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110334</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200882&gt;E-2023110334&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200882&gt;E-2023110334&lt;/A"&gt;Report E-2023110334&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-30T18:13:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-21&lt;/li&gt;
-                &lt;li&gt;City: KANSAS CITY&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: It was reported a release of (1) a 5-gallon plastic bucket containing System Cleaner (UN3266), which was punctured by a loose nail on the pallet prior to arrival, causing approximately 5 ounces to release. The SDS was reviewed with terminal personnel who decided to clean the spill using the appropriate PPE per the SDS. The waste and the absorbents were placed into a 30 gallon poly drum and left onsite for the terminal to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110334</guid>
-      <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110270</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200440&gt;X-2023110270&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200440&gt;X-2023110270&lt;/A"&gt;Report X-2023110270&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-11-30T18:13:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: IRREG SUPERVISIOR CALLED IN LEAKER TO THE DMP. DMP DISPATCHED A RESPONDER WITH FULL PPE AND SPILL CART. RESPONDER ARRIVED AND CONSULTED THE DECISION TREE ON HOW TO RESPOND TO THE LEAKER. RESPONDER CLEANED UP THE LEAKER FOLLOWING GUIDLINES IN DECISION TREE. RESPONDER BROUGHT THE PACKAGE BACK TO THE DMP FOR PROPER DISPOSAL.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110270</guid>
-      <pubDate>Thu, 30 Nov 2023 18:13:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
