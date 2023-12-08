@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 06:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 18:13:17 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023111072</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201821&gt;X-2023111072&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201821&gt;X-2023111072&lt;/A"&gt;Report X-2023111072&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-08T18:13:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-15&lt;/li&gt;
+                &lt;li&gt;City: INDIANAPOLIS&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER ARRIVED TO PACKAGE, FOLLOWED DECISION TREE AND RESPONSE SHEETS, CLEANED UP SPILL, AND MOVED TO DMP CAGE FOR PROCESSING&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111072</guid>
+      <pubDate>Fri, 08 Dec 2023 18:13:14 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023110442</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200907&gt;X-2023110442&lt;/A</link>
@@ -315,6 +337,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110986</guid>
       <pubDate>Fri, 01 Dec 2023 18:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110650</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201122&gt;X-2023110650&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201122&gt;X-2023110650&lt;/A"&gt;Report X-2023110650&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-08T18:13:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
+                &lt;li&gt;City: EVANSVILLE&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: I went to process a batch of hazmats that had just been unloaded and found one that a package handler had laid on its side. I promptly righted it, taking care not to touch a spot that looked wet and corrected the package handler to ensure it does not happen again. Box was inspected on the spot and found to have corrosion on the inside of the box and on the handles of the bottles. Box was then safely removed to be handled elsewhere. DescribePack: Caps were slightly loose, just enough to leak when jostled. DurationRel: 1 and MitigateEffect: Package was righted and then removed into a spill tote to prevent it leaking onto its surroundings.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110650</guid>
+      <pubDate>Fri, 08 Dec 2023 18:13:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

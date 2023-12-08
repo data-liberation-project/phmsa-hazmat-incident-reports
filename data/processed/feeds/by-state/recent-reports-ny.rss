@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 06:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 18:13:17 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023110703</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201175&gt;X-2023110703&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201175&gt;X-2023110703&lt;/A"&gt;Report X-2023110703&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-08T18:13:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-02&lt;/li&gt;
+                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Around 7:30 AM the driver noticed a strong odor coming from the package, they brought it to QA and it was placed in the hazmat cage to be processed. DescribePack: The item was tightly wrapped using a plastic bag, absorbent pads, and zip ties, it kept the liquid from leaking outside of the box. The odor was able to get out which is what alerted us to the damage. DurationRel: 1 and MitigateEffect: Package was placed in a sealed container&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110703</guid>
+      <pubDate>Fri, 08 Dec 2023 18:13:14 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023110426</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200884&gt;X-2023110426&lt;/A</link>
@@ -225,6 +247,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110974</guid>
       <pubDate>Fri, 01 Dec 2023 18:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110906</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201382&gt;X-2023110906&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201382&gt;X-2023110906&lt;/A"&gt;Report X-2023110906&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-08T18:13:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-18&lt;/li&gt;
+                &lt;li&gt;City: HOLBROOK&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The box was dry. When the box was moved on the van, the driver heard glass moving around and saw some pieces of glass fall out of the box. The driver immediately put the box into a plastic container and call the QA team. The box was removed from the vehicle. A manager notified. Everyone noticed the box was 100% dry but it sounded like broken glass. Upon inspection, saw 2 of the glass gallon containers were broken. No liquid inside. The cardboard did look like it had been wet at one time and dried. The small pieces of glass inside the van was swept up and put into the plastic container. The plastic container with the hazmat inside was brought to the Hazmat cage. DescribePack: The glass of two of the four bottles inside had broken. Since the box was already dry and had no damage to it I can not state exactly what had happened. I do know there was 3 inches of empty space on the top of the box. This would cause the glass bottles to be able to move around during transit. The bottles, even though they had the paper molds on the bottom and on the top, the bottles could still move around inside the box. The two bottles that had broken broke in the center of the bottles. The top seemed to be okay and the very bottom glass was okay. DurationRel: 1 and MitigateEffect: The  methanol inside the broken bottles had already evaporated. The box was totally dry. To minimize any more broken bottles, the box was but inside a plastic bin and transported to the hazmat cage. The small pieces of broken glass that had fallen out of the box was swept up and placed inside the plastic container.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110906</guid>
+      <pubDate>Fri, 08 Dec 2023 18:13:14 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023110625</title>

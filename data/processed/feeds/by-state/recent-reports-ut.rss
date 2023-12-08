@@ -7,7 +7,73 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 06:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 18:13:17 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023111064</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201813&gt;X-2023111064&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201813&gt;X-2023111064&lt;/A"&gt;Report X-2023111064&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-08T18:13:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-15&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: REWRAP; NO LEAK. RESPONDER DISCOVERED UNDECLARED AEROSOLS.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111064</guid>
+      <pubDate>Fri, 08 Dec 2023 18:13:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110770</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201242&gt;X-2023110770&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201242&gt;X-2023110770&lt;/A"&gt;Report X-2023110770&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-08T18:13:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-03&lt;/li&gt;
+                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package handler found the hazmat was leaking after it got on his shirt while loading it in the truck. The shirt was discarded, and the package was put in a red hazmat tote and put in a designated QA spot to wait for it to get processed. DescribePack: Loose cap on one of the 2.5 gallon bottles DurationRel: 5 and MitigateEffect: Shirt was disposed of, and package was brought to the QA spot to get processed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110770</guid>
+      <pubDate>Fri, 08 Dec 2023 18:13:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110702</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201174&gt;X-2023110702&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201174&gt;X-2023110702&lt;/A"&gt;Report X-2023110702&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-08T18:13:14+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-02&lt;/li&gt;
+                &lt;li&gt;City: VINEYARD&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was brought to QA on suspicion of possible leakage due to stains on the outside of package.  Package was immediately inspected, and found a bottle with a slightly loose cap that had less liquid when compared to the other bottles. DescribePack: Liquid loss likely due to partially unsealed cap.  Unable to identify accurate damage without fully opening the bottle and breaking the still intact lid seal.  Based on package stains from liquid, it is likely that the package itself was loaded upside down, causing a slow leak. DurationRel: 2 and MitigateEffect: Package was contained into a HAZMAT Tote with liner to prevent any other possible spillage, and stored for later processing the same day.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110702</guid>
+      <pubDate>Fri, 08 Dec 2023 18:13:14 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023110417</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200803&gt;X-2023110417&lt;/A</link>
