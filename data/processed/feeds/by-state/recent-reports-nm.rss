@@ -7,6 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 18:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 22:12:15 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023111159</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201908&gt;X-2023111159&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201908&gt;X-2023111159&lt;/A"&gt;Report X-2023111159&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-16&lt;/li&gt;
+                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
+                &lt;li&gt;State: NM&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: found in the outbound sort, brought to QA. package was place in the proper spill container. DescribePack: side of the package was wet and it was starting to become punctured DurationRel: 1 and MitigateEffect: contents was placed upright so liquid was away from lid&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111159</guid>
+      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110457</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200924&gt;X-2023110457&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200924&gt;X-2023110457&lt;/A"&gt;Report X-2023110457&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-03&lt;/li&gt;
+                &lt;li&gt;City: BELEN&lt;/li&gt;
+                &lt;li&gt;State: NM&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: BNSF Railway Company&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: GBRX 710450 was found in the Belen yard to be leaking a small stream out of the bottom outlet valve assembly on to the ballast. No injuries or exposures. No waterways or storm drains impacted. Upon inspection, the BOV cap was tight, but the plug was less than tool-tight. The BOV was closed, suspect a bad valve. Plug was tool-tightened and leak subsided.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110457</guid>
+      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
+    </item>
   </channel>
 </rss>

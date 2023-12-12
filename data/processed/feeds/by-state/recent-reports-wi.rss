@@ -7,7 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 18:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 22:12:15 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2023120015</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120015&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-29&lt;/li&gt;
+                &lt;li&gt;City: KAUKAUNA&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: TFORCE FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 1&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: tote damaged in transit&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120015</guid>
+      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023111284</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202049&gt;X-2023111284&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202049&gt;X-2023111284&lt;/A"&gt;Report X-2023111284&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-17&lt;/li&gt;
+                &lt;li&gt;City: OSHKOSH&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE DISCOVERED IN A TRAILER LEAKING. PACKAGE HAD MULTIPLE CORROSIVE DIAMOND HAZARD LABELS ON IT. TRAILER WAS IMMEADIATELY EVACTUATED AND FIRST RESPONDER NOTIFIED. RESPONDER TESTED THE LIQUID. THE ACID WAS NEUTRALIZED WITH SODIUM BICARBONATE AND ABSORBED WITH ZEP ZORBANT MATERIAL.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111284</guid>
+      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023111055</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201804&gt;X-2023111055&lt;/A</link>
@@ -73,94 +116,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111002</guid>
       <pubDate>Thu, 07 Dec 2023 18:13:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110343</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200640&gt;X-2023110343&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2200640&gt;X-2023110343&lt;/A"&gt;Report X-2023110343&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-05T18:13:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-03&lt;/li&gt;
-                &lt;li&gt;City: STURTEVANT&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO A PACKAGE DUE TO FROST FORMING AROUND THE BOTTOM OF THE BOX. ADDITIONALLY, THE SHIPPER HAD SENT MANY OTHER PACKAGES THAT WERE MARKED AS CONTAINING DRY ICE. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY 10 POUNDS OF DRY ICE PELLETS COOLING CHICKEN. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX TO INDICATE DRY ICE WAS INSIDE. THIS PACKAGE HAS NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SERVICE CO.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110343</guid>
-      <pubDate>Tue, 05 Dec 2023 18:13:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023110574</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202144&gt;E-2023110574&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202144&gt;E-2023110574&lt;/A"&gt;Report E-2023110574&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-01T18:14:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-15&lt;/li&gt;
-                &lt;li&gt;City: MILWAUKEE&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On November 15, 2023, one (1) 5-gallon pail of acetone was dented by an operator and released approximately fifteen (15) ounces of product to the dock floor. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from SET Environmental (SET) to remediate the impacted site. SET personnel deployed granular absorbents to the acetone impacted dock and swept them in with hand tools. All spent absorbents were collected and containerized into three (3) 55-gallon drum to be staged onsite for future disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023110574</guid>
-      <pubDate>Fri, 01 Dec 2023 18:14:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023101515</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199573&gt;X-2023101515&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199573&gt;X-2023101515&lt;/A"&gt;Report X-2023101515&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-04T15:11:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-27&lt;/li&gt;
-                &lt;li&gt;City: GREEN BAY&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The lid was a defective and while in transit shacking around some potassium hydroxide leaked from the top onto the tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023101515</guid>
-      <pubDate>Mon, 04 Dec 2023 15:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110601</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201073&gt;X-2023110601&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201073&gt;X-2023110601&lt;/A"&gt;Report X-2023110601&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-01T18:14:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-27&lt;/li&gt;
-                &lt;li&gt;City: MANITOWOC&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package fell off IC belt DescribePack: Where the handle goes into the bucket, it punctured the pail causing the leak. DurationRel: 0 and MitigateEffect: Put into a hazmat bag and then into a plastic drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110601</guid>
-      <pubDate>Fri, 01 Dec 2023 18:14:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,50 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 18:13:17 +0000</lastBuildDate>
-    <item>
-      <title>Report X-2023110985</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201461&gt;X-2023110985&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201461&gt;X-2023110985&lt;/A"&gt;Report X-2023110985&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-05T18:13:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-14&lt;/li&gt;
-                &lt;li&gt;City: WEST LEBANON&lt;/li&gt;
-                &lt;li&gt;State: NH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Carton was removed from trailer and 1 of 4 1-gallon jugs fell out through the bottom of the carton because of fiberboard deterioration due to acid leakage. The package was immediately turned over to trained personnel who contained the spillage. DescribePack: The cap on the bottle in question was not sufficiently tightened, and there is a possibility the carton was tilted from an upright position during transport or handling. There were orientation arrows on the carton. DurationRel: 1 and MitigateEffect: The leaking container was sequestered and had its cap carefully tightened to minimize further leakage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110985</guid>
-      <pubDate>Tue, 05 Dec 2023 18:13:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110895</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201367&gt;X-2023110895&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201367&gt;X-2023110895&lt;/A"&gt;Report X-2023110895&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-04T15:11:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-08&lt;/li&gt;
-                &lt;li&gt;City: WEST LEBANON&lt;/li&gt;
-                &lt;li&gt;State: NH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered leaking on trailer and turned over to trained personnel who contained the spillage. DescribePack: Apparently this was a loose cap on one of the bottles, and the likelihood that the package was not kept upright during transport or handling. DurationRel: 0 and MitigateEffect: The package and one it leaked onto were both sequestered and are being held securely pending receipt of disposition.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110895</guid>
-      <pubDate>Mon, 04 Dec 2023 15:11:38 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Dec 2023 22:12:15 +0000</lastBuildDate>
   </channel>
 </rss>
