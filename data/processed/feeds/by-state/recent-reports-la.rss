@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Dec 2023 22:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 00:35:11 +0000</lastBuildDate>
     <item>
       <title>Report X-2023111101</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201850&gt;X-2023111101&lt;/A</link>
@@ -95,6 +95,50 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110555</guid>
       <pubDate>Wed, 06 Dec 2023 18:14:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023110698</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201170&gt;X-2023110698&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201170&gt;X-2023110698&lt;/A"&gt;Report X-2023110698&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-13T00:34:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-29&lt;/li&gt;
+                &lt;li&gt;City: MONROE&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found coming off of trailer number #953431 , after inspecting the package saw 1 of the containers were damaged. DescribePack: one of the containers were crushed and bent at the bottom causing a slow leak DurationRel: 4 and MitigateEffect: The package was moved out of way of the package handler&amp;#x27;s area. further damage or in harms way&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110698</guid>
+      <pubDate>Wed, 13 Dec 2023 00:34:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023090079</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197643&gt;I-2023090079&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2197643&gt;I-2023090079&lt;/A"&gt;Report I-2023090079&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-13T00:34:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-31&lt;/li&gt;
+                &lt;li&gt;City: WESTLAKE&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: THE KANSAS CITY SOUTHERN RAILWAY COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: At 09:00 on 8/31/2023 it was reported that the residue LPG tank car GATX 201163 was found to be  leaking at the Kansas City Southern Railway (DBA CPKCR) Mossville yard in Westlake, LA. The  Environmental &amp;amp; Hazmat Dept. mobilized a railroad qualified response contractor to mitigate the  release. Upon arrival, responders found the vapor valve slightly open and lading leaking by the secondary  closure plug, which was less than tool tight. The valve handle was zip tied, but the zip ties were  not applied correctly to hold the valve in the closed position The zip ties were removed and the  vapor valve handle was turned approximately ¼&amp;quot; inch to close the valve and stop the leak. The  responders cleaned the secondary closure plug threads and applied clean Teflon tape before  installing the secondary closure plug tool tight. All other closures were checked and found to be  secure. Estimated release Is 0.5 gallons. After the tank car was secured, it was  released back  into transportation. File Note: Item 19-the quantity released was estimated based on the best information available at  the time of filing. This shipment was offered as a &amp;#x27;bulk&amp;#x27; shipment, aka one car load, therefore the  exact amount offered in this package is not known to the carrier. This ss to mass balance data which can exactly quantify this value.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090079</guid>
+      <pubDate>Wed, 13 Dec 2023 00:34:03 +0000</pubDate>
     </item>
   </channel>
 </rss>

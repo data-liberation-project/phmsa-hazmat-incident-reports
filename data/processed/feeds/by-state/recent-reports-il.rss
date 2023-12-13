@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Dec 2023 22:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 00:35:11 +0000</lastBuildDate>
     <item>
       <title>Report X-2023111297</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202073&gt;X-2023111297&lt;/A</link>
@@ -534,6 +534,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110606</guid>
       <pubDate>Thu, 07 Dec 2023 18:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023090115</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199599&gt;I-2023090115&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199599&gt;I-2023090115&lt;/A"&gt;Report I-2023090115&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-13T00:34:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-19&lt;/li&gt;
+                &lt;li&gt;City: WILLOW SPRINGS&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNIVAR SOLUTIONS&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: During the evening of 05/19/2023 a drum of ChemCare waste pickup that afternoon from Henkel in Elgin, IL was found to be leaking on the pickup trailer upon check in. One drum of waste profile 75-13800 was overpack once leak was discovered. Approximately two gallons of material appeared to have been released. Spill contained to within trailer and direct below trailer on concrete pad at the loading dock. Spill was cleanup properly by operators upon discovery. No exposure to employees, no impact to sewer or waterways.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090115</guid>
+      <pubDate>Wed, 13 Dec 2023 00:34:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
