@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Dec 2023 18:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 21:09:56 +0000</lastBuildDate>
     <item>
       <title>Report X-2023111223</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201972&gt;X-2023111223&lt;/A</link>
@@ -29,28 +29,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111223</guid>
       <pubDate>Wed, 13 Dec 2023 18:12:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110899</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201371&gt;X-2023110899&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201371&gt;X-2023110899&lt;/A"&gt;Report X-2023110899&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-08T18:13:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-08&lt;/li&gt;
-                &lt;li&gt;City: WATERTOWN&lt;/li&gt;
-                &lt;li&gt;State: SD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: I, myself, was walking along to search for certain package and noticed some liquid spilled along the truck and was foaming. Immediately noticed it was a hazmat and informed the senior manager. looked on how to handle a hazmat spillage and cleaned up shortly after. DescribePack: package had fallen off top shelf and leaked over truck. DurationRel: 4 and MitigateEffect: placed in tote and followed the QA/hazmat procedure to how to handle a spilled hazmat.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110899</guid>
-      <pubDate>Fri, 08 Dec 2023 18:13:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
