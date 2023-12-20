@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Dec 2023 21:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:31:05 +0000</lastBuildDate>
     <item>
       <title>Report X-2023120208</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202476&gt;X-2023120208&lt;/A</link>
@@ -51,50 +51,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120040</guid>
       <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023111142</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201891&gt;X-2023111142&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201891&gt;X-2023111142&lt;/A"&gt;Report X-2023111142&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-16&lt;/li&gt;
-                &lt;li&gt;City: CHEYENNE&lt;/li&gt;
-                &lt;li&gt;State: WY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: unloaders were unloading when they came up to it, pkg was leaking DescribePack: lid was not connected to a 2.5 gal jug DurationRel: 1 and MitigateEffect: pkg was immediatley taken to a storage tote lined with hazmat bag and taken to hazmat area&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111142</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110012</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199901&gt;X-2023110012&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2199901&gt;X-2023110012&lt;/A"&gt;Report X-2023110012&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-01&lt;/li&gt;
-                &lt;li&gt;City: SINCLAIR&lt;/li&gt;
-                &lt;li&gt;State: WY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: GATX 202185 released approximately 1/2 gallon of Diesel Fuel, the release was due to manway swing bolts being less than tool tight. GATX 202185 was secured and wiped down before going back into transportation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110012</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

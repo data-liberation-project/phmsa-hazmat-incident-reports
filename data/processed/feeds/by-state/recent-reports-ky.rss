@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Dec 2023 21:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:31:05 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120163</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202985&gt;E-2023120163&lt;/A</link>
@@ -249,94 +249,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111324</guid>
       <pubDate>Wed, 13 Dec 2023 18:12:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023111156</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201905&gt;X-2023111156&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201905&gt;X-2023111156&lt;/A"&gt;Report X-2023111156&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-16&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: One of the bottles had a loose cap and this resulted in an internal leakage. The package was brought to QA once it was found. DescribePack: The package had damage on the outside due to the corrosive nature of the contents. When the box was opened, one of the bottles was found to have a loose cap. DurationRel: 1 and MitigateEffect: The contents were placed in a spill tote when they were found.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111156</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110878</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201350&gt;X-2023110878&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201350&gt;X-2023110878&lt;/A"&gt;Report X-2023110878&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-08&lt;/li&gt;
-                &lt;li&gt;City: LEXINGTON&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: SPILL LOCATED AT VAN LINE DescribePack: MISSING CAP ON BOTTLE DurationRel: 1 and MitigateEffect: AREA QUARANTINED AND SPILL CLEANED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110878</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110768</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201240&gt;X-2023110768&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201240&gt;X-2023110768&lt;/A"&gt;Report X-2023110768&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-03&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2023110768 - SequenceEvent: The package was found partially wet in the unload.  The package was corrosive so it was put in a line tote and taken to the hazmat cage where it could be processed.  It was found at 6:00am. DescribePack: One of the caps became loose during unloading causing a small amount of liquid to leak. DurationRel: 1 and MitigateEffect: The manager called quickly and the admin put it in a lined red tote to keep liquid from spilling.    X-2023110771-  SequenceEvent: The package was found with a corner wet in the unload area.  An admin retrieved the package and put it in a lined red tote and took in to the hazmat cage. DescribePack: The lid was slightly loose upon inspection which caused some liquid to spill.  The out packaging was wet from the spillage. DurationRel: 1 and MitigateEffect: The package was put immediately in to a red line tote and taken to the hazmat processing cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110768</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110823</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201295&gt;X-2023110823&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201295&gt;X-2023110823&lt;/A"&gt;Report X-2023110823&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
-                &lt;li&gt;City: GEORGETOWN&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was unloading from a trailer onto conveyor belt going to van line. it was noticed to be leaking. the package was then secured in a black FedEx container with a bag liner. When running lines, admin noticed the package, loaded it onto a tugger cart and brough it to QA for inspection. upon inspection, with gloves on, the package was continuously leaking. opening the box carefully and pulling the gallon plastic container out, it was noticed that one of the containers has been punctured with what looks like a small knife or nail. A DPR was submitted, and the package was put into a yellow hazmat bag lined salvage drum with packing securing the product in place. DescribePack: The fiberboard box was wet with product, the plastic container inside was punctured near the bottom on the container about the size of a small knife slit. DurationRel: 1 and MitigateEffect: Put it in a black tote the placed into yellow lined salvage drum after a DPR was submitted.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110823</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

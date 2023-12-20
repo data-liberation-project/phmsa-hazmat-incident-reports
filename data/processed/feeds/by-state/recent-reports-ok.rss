@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Dec 2023 21:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:31:05 +0000</lastBuildDate>
     <item>
       <title>Report X-2023120710</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203262&gt;X-2023120710&lt;/A</link>
@@ -95,94 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120051</guid>
       <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023111183</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201932&gt;X-2023111183&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201932&gt;X-2023111183&lt;/A"&gt;Report X-2023111183&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-17&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Box was found wet and one of the contents was shattered. Spill was cleaned up and contents placed in Hazmat tote. DescribePack: the inner bottle was shattered and had spilled out. DurationRel: 1 and MitigateEffect: placed in a hazmat tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111183</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023111111</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201860&gt;X-2023111111&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201860&gt;X-2023111111&lt;/A"&gt;Report X-2023111111&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-15&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111111</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023111107</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201856&gt;X-2023111107&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201856&gt;X-2023111107&lt;/A"&gt;Report X-2023111107&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-14&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: CONTENTS LEAKED AND WERE DISCOVERED TO BE A HAZMAT. IT THEN WAS PROCESSED AS AN UNDECLARED HAZMAT BECAUSE IT HAD NO IDETIFYING MARKS ON THE BOX. DescribePack: CAPS HAD BEEN LOOSE AND THERE WAS ONLY PAPER AS THE PACKAGING DurationRel: 1 and MitigateEffect: PLACED IN A TOTE WITH A BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111107</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023110820</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201292&gt;X-2023110820&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2201292&gt;X-2023110820&lt;/A"&gt;Report X-2023110820&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-12T22:12:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-07&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023110820 SequenceEvent: PACKAGE CAME OFF TRAILER DAMAGED AND WAS PLACED IN A TOTE DescribePack: CONTENTS HAD BEEN CRUSHED AND THEN THEY LEAKED DurationRel: 1 and MitigateEffect: PLACED IN A TOTE.   2. X-2023110821 SequenceEvent: CONTENTS WERE FOUND DAMAGED ON A TRAILER AND THEN WERE PLACED IN A TOTE. DescribePack: CONTENTS WERE CRUSHED AND LEAKED DurationRel: 1 and MitigateEffect: PLACED IN A TOTE.   3. X-2023110822 SequenceEvent: CONTENTS FOUND LEAKING WHEN THEY WERE TAKEN OUT OF TRAILER AND WERE PLACED IN A TOTE DescribePack: NO HAZMAT LABELS AND CONTENTS WERE CRUSHED DurationRel: 1 and MitigateEffect: PLACED IN A TOTE.   4.  X-2023110829 SequenceEvent: ARRIVED AT NOKC 732 FROM SDRS 765 902830. PKG ARRIVED DAMAGED AND WET WITH INTERNAL LEAKAGE DUE TO LOOSE CLOSURES, INSUFFICIENT PACKAGING, AND IMPROPER LABELING. DescribePack: LOOSE CLOSURES DurationRel: 1 and MitigateEffect: PKG AND CONTENTS WERE PLACED IN HAZBAG AND HAZ TOTE.  5.X-2023120011 SequenceEvent: CONTENTS FOUND CRUSHED ON TRAILER AND WAS PLACED IN A TOTE. DescribePack: CONTENTS CRUSHED AND HAD BEEN LEAKING DurationRel: 1 and MitigateEffect: PLACED IN A TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023110820</guid>
-      <pubDate>Tue, 12 Dec 2023 22:12:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

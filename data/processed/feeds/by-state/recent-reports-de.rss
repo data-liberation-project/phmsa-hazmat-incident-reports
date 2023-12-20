@@ -7,6 +7,50 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Dec 2023 21:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:31:05 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023120602</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203154&gt;X-2023120602&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203154&gt;X-2023120602&lt;/A"&gt;Report X-2023120602&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-20T00:29:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-19&lt;/li&gt;
+                &lt;li&gt;City: NEW CASTLE&lt;/li&gt;
+                &lt;li&gt;State: DE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The haz mat was moved to hazmat cage DescribePack: Hammat was found in Bulk area leaking DurationRel: 0 and MitigateEffect: moved to cage and put into savage drum&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120602</guid>
+      <pubDate>Wed, 20 Dec 2023 00:29:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120601</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203153&gt;X-2023120601&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203153&gt;X-2023120601&lt;/A"&gt;Report X-2023120601&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-20T00:29:55+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-08-22&lt;/li&gt;
+                &lt;li&gt;City: NEW CASTLE&lt;/li&gt;
+                &lt;li&gt;State: DE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: This package was dropped off by a tuggar driver and later found leaking. DescribePack: handling of the package DurationRel: 0 and MitigateEffect: The area was blocked off while cleaning&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120601</guid>
+      <pubDate>Wed, 20 Dec 2023 00:29:55 +0000</pubDate>
+    </item>
   </channel>
 </rss>
