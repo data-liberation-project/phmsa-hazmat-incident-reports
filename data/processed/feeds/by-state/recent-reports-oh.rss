@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Dec 2023 21:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 00:35:17 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120231</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203380&gt;E-2023120231&lt;/A</link>
@@ -886,6 +886,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120057</guid>
       <pubDate>Fri, 15 Dec 2023 00:35:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023120236</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203385&gt;E-2023120236&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203385&gt;E-2023120236&lt;/A"&gt;Report E-2023120236&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-21T00:34:05+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-07-28&lt;/li&gt;
+                &lt;li&gt;City: RICHFIELD&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: WARD TRUCKING, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Product spill while in transit&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120236</guid>
+      <pubDate>Thu, 21 Dec 2023 00:34:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
