@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Dec 2023 21:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 00:33:51 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120262</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203423&gt;E-2023120262&lt;/A</link>
@@ -95,28 +95,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120221</guid>
       <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120054</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202322&gt;X-2023120054&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202322&gt;X-2023120054&lt;/A"&gt;Report X-2023120054&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-22&lt;/li&gt;
-                &lt;li&gt;City: BATON ROUGE&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Manager notified QA about leaking hazmat on beltline. Hazmat was placed into a red hazardous tote and moved to hazmat cage for inspection. DescribePack: After inspecting, there was a wet stain at the bottom of box. Also all cans were dented and bent at the bottom causing a small amount of liquid to spill out of each can into box. There was no inner packing to keep cans from damaging. DurationRel: 1 and MitigateEffect: Leaking hazmat was placed into a red hazardous tote using all proper eye and wear gear to move hazmat to cage for inspection.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120054</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

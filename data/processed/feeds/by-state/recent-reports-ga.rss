@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Dec 2023 21:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 00:33:51 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120258</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203419&gt;E-2023120258&lt;/A</link>
@@ -73,28 +73,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120123</guid>
       <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120457</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202854&gt;X-2023120457&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202854&gt;X-2023120457&lt;/A"&gt;Report X-2023120457&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-07&lt;/li&gt;
-                &lt;li&gt;City: KENNESAW&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Qa was call over to unload due to a leaking hazmat. DescribePack: The Nitric acid bottle busted causing hazmat to spill. DurationRel: 1 and MitigateEffect: Qa clean up the spill place hazmat inside a red tote to be taking over to the hazmat area to be process.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120457</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023120194</title>
@@ -273,180 +251,26 @@
       <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023120019</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202505&gt;E-2023120019&lt;/A</link>
+      <title>Report I-2023110012</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202258&gt;I-2023110012&lt;/A</link>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202505&gt;E-2023120019&lt;/A"&gt;Report E-2023120019&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202258&gt;I-2023110012&lt;/A"&gt;Report I-2023110012&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-22T00:32:37+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: Ellenwood&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-09-29&lt;/li&gt;
+                &lt;li&gt;City: ATLANTA&lt;/li&gt;
                 &lt;li&gt;State: GA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SOUTHWEST AIRLINES CO.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Other fell&lt;/li&gt;
+                &lt;li&gt;Description: Southwest Airlines F7848 was taxing to take off when a passengers battery power bank was smoking. The flight attendant placed the device in the on-board fire containment bag and ARFF was dispatched to the aircraft. They have detained the aircraft until they can retrieve and check the device contained in the fire containment bag.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120019</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120018</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202504&gt;E-2023120018&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202504&gt;E-2023120018&lt;/A"&gt;Report E-2023120018&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: Ellenwood&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Packaging failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120018</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120060</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202328&gt;X-2023120060&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202328&gt;X-2023120060&lt;/A"&gt;Report X-2023120060&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-22&lt;/li&gt;
-                &lt;li&gt;City: BRASELTON&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Van brought damage back to building coded a 10. Upon inspection the caps inside were loose and leaking into the box. Used PPE to clean spill and placed in salvage drum. DescribePack: the caps inside were loose and leaking into the box. DurationRel: 1 and MitigateEffect: Used PPE to clean spill and placed in salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120060</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120047</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202315&gt;X-2023120047&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202315&gt;X-2023120047&lt;/A"&gt;Report X-2023120047&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-21&lt;/li&gt;
-                &lt;li&gt;City: NORCROSS&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Ph found a damaged hazmat and told manager and a QA member came and isolated hazmat to another area. DescribePack: QA member came and isolated hazmat to another area. DurationRel: 1 and MitigateEffect: loose cap on bottles&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120047</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120039</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202307&gt;X-2023120039&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202307&gt;X-2023120039&lt;/A"&gt;Report X-2023120039&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-21&lt;/li&gt;
-                &lt;li&gt;City: BRASELTON&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Wet box found on dock. Upon inspection all of the plastic bottles were leaking from the loose caps. Retightened bottles and placed them in salvage drum. DescribePack: all of the plastic bottles were leaking from the loose caps DurationRel: 1 and MitigateEffect: Retightened bottles and placed them in salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120039</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120035</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202303&gt;X-2023120035&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202303&gt;X-2023120035&lt;/A"&gt;Report X-2023120035&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-21&lt;/li&gt;
-                &lt;li&gt;City: BRASELTON&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Box was slightly wet when found on the dock. Upon inspection, the metal cans inside were all dented at the bottom and the caps were loose at the top. Caps tightened and PPE was used to clean small spill and placed damage in salvage drum. DescribePack: the metal cans inside were all dented at the bottom and the caps were loose at the top. DurationRel: 1 and MitigateEffect: Caps tightened and PPE was used to clean small spill and placed damage in salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120035</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120013</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202269&gt;E-2023120013&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202269&gt;E-2023120013&lt;/A"&gt;Report E-2023120013&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-22&lt;/li&gt;
-                &lt;li&gt;City: KENNESAW&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On November 22, 2023, one (1) 250-gallon tote of sodium hydroxide was forked and released approximately seventy (70) gallons of product to the loading dock. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Hull&amp;#x27;s Environmental Services (HES) to remediate the impacted site. HES personnel transferred the contents of the damaged tote into one (1) new 250-gallon tote. The crew then deployed granular absorbents to the release and worked them in using hand tools. All sodium hydroxide-impacted material was containerized in three (3) 55-gallon drums for onsite disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120013</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120036</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202527&gt;E-2023120036&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202527&gt;E-2023120036&lt;/A"&gt;Report E-2023120036&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
-                &lt;li&gt;City: CONLEY&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: It was reported that approximately 2 quarts of Professional Tile and Grout Cleaner (UN1760) were released from a 1-gallon plastic jug due to a forklift puncture. The release impacted the inside of trailer #3153499 and the concrete at dock door 61. The SDS was reviewed by the terminal and it was decided it could be cleaned in house with PPE on site.  (1) 30-gallon DF contains one 1-gallon plastic jug of Professional Tile and Grout Cleaner and Oil Dri was created as waste and was left for the terminal to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120036</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023110012</guid>
+      <pubDate>Fri, 22 Dec 2023 00:32:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

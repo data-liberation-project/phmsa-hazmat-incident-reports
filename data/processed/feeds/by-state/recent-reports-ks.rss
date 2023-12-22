@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Dec 2023 21:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 00:33:51 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120230</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203379&gt;E-2023120230&lt;/A</link>
@@ -97,72 +97,6 @@
       <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120482</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202879&gt;X-2023120482&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202879&gt;X-2023120482&lt;/A"&gt;Report X-2023120482&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-06&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023120482 SequenceEvent: WHILE THE PACKAGE HANDLER WAS UNLOADING THE TRAILER, THEY NOTICED THIS PACKAGE WAS LEAKING AND MOVED IT TO THE END OF THE TRAILER AND NOTIFIED THEIR MANAGER.  THE MANAGER QUICKLY INFORMED QA OF THE SITUATION AND QA GRABBED A TOTE LINED WITH A CLEAR HAZMAT BAG, FOLD ABSORB AND NEUTRALIZER.  THEY RUSHED OVER TO THE AREA AND PLACED THE PACKAGE IN THE TOTE.  QA CLEANED UP THE AREA WITH THE FOLD ABSORB.  ONCE IT WAS SAFE, THEY BROUGHT THE PACKAGE BACK TO QA AND PLACED IN THE HAZMAT PROCESSING CAGE. DescribePack: THE PACKAGE WAS LOADED ON ITS SIDE AND CAUSED ONE OF THE CONTAINERS TO LEAK OUT THRU THE CAP. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A TOTE WITH A LINED HAZMAT BAG AND CLEANED UP WITH FOLD ABSORB.   2. X-2023120485 SequenceEvent: WHILE QA WAS CLEANING UP A SPILL, THEY NOTICED THIS WAS ALSO IN THE SAME TRAILER AND WAS WET.  THEY PLACED THE PACKAGE IN A TOTE AND CLEANED UP THE AREA WITH FOLD ABSORB.  ONCE IT WAS SAFE, THEY BROUGHT THE PACKAGE BACK TO THE QA AREA AND PLACED IN THE HAZMAT PROCESSING CAGE. DescribePack: THE PACKAGE WAS LOADED ON ITS SIDE AND CAUSED THE CONTENTS TO LEAK OUT THRU ONE OF THE CAPS. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A TOTE WITH A LINED HAZMAT BAG AND CLEANED UP WITH FOLD ABSORB.  3. X-2023120488 SequenceEvent: WHILE THE PACKAGE HANDLER WAS PICKING OFF THE IC BELT, THEY NOTICED THIS PACKAGE WAS WET AND POSSIBLY LEAKING.  THEY PLACED IT THE FLOOR AND INFORMED THE MANAGER.  THE MANAGER QUICKLY INFORMED QA THE SITUATION THEY HAD.  QA QUICKLY GRABBED A TOTE LINED WITH A CLEAR, LARGE HAZMAT BAG AND FOLD ABSORB.  THEY RUSHED OVER TO THE AREA.  THEY NOTICED THE PACKAGE WAS AN OXIDIZER AND PLACED IN THE TOTE.  QA MADE SURE THE AREA WAS SAFE AND SECURE.  THEY BROUGHT THE PACKAGE BACK TO QA AND PLACED IN THE HAZMAT PROCESSING CAGE. DescribePack: THE PACKAGE WAS LOADED ON ITS SIDE AND CAUSED ONE OF THE CONTAINERS TO LEAK OUT THRU THE CAP. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A TOTE AND CLEANED UP WITH FOLD ABSORB.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120482</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120453</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202850&gt;X-2023120453&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202850&gt;X-2023120453&lt;/A"&gt;Report X-2023120453&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-06&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: MANAGER NOTIFIED QA OF THE LEAKING PACKAGE. QA PLACED THE PACKAGE IN A LINED TOTE AND CLEANED UP THE SPILL. THE PACKAGE WAS THEN TAKEN TO THE PROCESSING CAGE. DescribePack: ALL FOUR OF THE BOTTLES WERE LEAKING OUT FROM AROUND THE CAPS. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120453</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120069</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202600&gt;E-2023120069&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202600&gt;E-2023120069&lt;/A"&gt;Report E-2023120069&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-04&lt;/li&gt;
-                &lt;li&gt;City: Wichita&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120069</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023120283</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203445&gt;E-2023120283&lt;/A</link>
       <description>
@@ -227,50 +161,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120122</guid>
       <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120081</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202349&gt;X-2023120081&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202349&gt;X-2023120081&lt;/A"&gt;Report X-2023120081&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-22&lt;/li&gt;
-                &lt;li&gt;City: OLATHE&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Trailer was being unloaded and the package was discovered underneath several tires. The box and the bag inside the box had a tear in it causing it to leak contents. DescribePack: There is a tear at the bottom of the plastic bag DurationRel: 9 and MitigateEffect: The package was placed in a tote and removed from the other packages. Any wet package was removed from the trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120081</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120052</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202320&gt;X-2023120052&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202320&gt;X-2023120052&lt;/A"&gt;Report X-2023120052&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-21&lt;/li&gt;
-                &lt;li&gt;City: OLATHE&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered underneath another package that had been placed next to trailer to be loaded before the trailer was closed. Package was leaking and had leaked onto another Hazmat package that was underneath it. DescribePack: One of the bottles is dented and cracked causing leaking. Another bottle is dented but is not leaking. DurationRel: 1 and MitigateEffect: the package was placed in a tote and removed from other packages.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120052</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

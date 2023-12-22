@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Dec 2023 21:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 00:33:51 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120251</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203412&gt;E-2023120251&lt;/A</link>
@@ -361,72 +361,6 @@
       <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120464</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202861&gt;X-2023120464&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202861&gt;X-2023120464&lt;/A"&gt;Report X-2023120464&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1.X-2023120464 SequenceEvent: Wet fiberboard box with Flammable Liquid DOT diamond label found damaged on loadside. Package was placed in a lined tote for immediate transport to HMPA. No HAZ service code on barcode, no OP-900 or OP-950A paperwork attached, no UN number or Proper Shipping Name found on outer packaging. DescribePack: One of four 3.78 L plastic bottles lost 4oz of fluid due to a loose cap closure. Bottle appeared dented. DurationRel: 1 and MitigateEffect: PPE donned, tote lined, and area well ventilated.   2. X-2023120465 SequenceEvent: Wet fiberboard box with Flammable Liquid DOT diamond label found damaged on loadside. Package was placed in a lined tote for immediate transport to HMPA. No HAZ service code on barcode, no OP-900 or OP-950A paperwork attached, no UN number or Proper Shipping Name found on outer packaging. DescribePack: One of three 3.78 L plastic bottles lost 0.3L of fluid due to a loose cap closure. Bottle appeared dented. DurationRel: 1 and MitigateEffect: PPE donned, tote lined, and area well ventilated.  3. X-2023120467 SequenceEvent: Wet fiberboard box with Flammable Liquid DOT diamond label found damaged on loadside. Package was placed in a lined tote for immediate transport to HMPA. No HAZ service code on barcode, no OP-900 or OP-950A paperwork attached, no UN number or Proper Shipping Name found on outer packaging. DescribePack: One of four 3.78 L plastic bottles lost 2oz of fluid due to a loose cap closure. DurationRel: 1 and MitigateEffect: PPE donned, tote lined, and area well ventilated.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120464</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120060</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202579&gt;E-2023120060&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202579&gt;E-2023120060&lt;/A"&gt;Report E-2023120060&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-04&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: While in transit, (2) 55DF&amp;#x27;s containing Sulfuric Acid 1.500 (UN1830) fell over as a result of inadequate preparation for transportation forcing the bung caps to loosen and release 20-gallons of product on the pallet, the trailer floor, and the asphalt beneath the trailer. Contractors neutralized the release using sodium bicarbonate and solidified the liquid with oil dry. The impacted pallet was cut-up and containerized with the rest of the spill debris into (3) 55DF&amp;#x27;s for waste disposal. No storm drains, water ways, or soil were impacted by the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120060</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120041</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202532&gt;E-2023120041&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202532&gt;E-2023120041&lt;/A"&gt;Report E-2023120041&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-01&lt;/li&gt;
-                &lt;li&gt;City: Chattanooga&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Over stack&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120041</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023120278</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202675&gt;X-2023120278&lt;/A</link>
       <description>
@@ -601,94 +535,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111013</guid>
       <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120254</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202651&gt;X-2023120254&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202651&gt;X-2023120254&lt;/A"&gt;Report X-2023120254&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-20&lt;/li&gt;
-                &lt;li&gt;City: OOLTEWAH&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Sequence of events unknown due to lack of communication from sort in which incident happened. DescribePack: Package failed due to bottom of pail bursting. DurationRel: 1 and MitigateEffect: Package mitigation consisted of putting pail in an open contents bin and leaving it for OB QA to process.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120254</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120070</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202601&gt;E-2023120070&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202601&gt;E-2023120070&lt;/A"&gt;Report E-2023120070&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-21&lt;/li&gt;
-                &lt;li&gt;City: sMem&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: AVERITT EXPRESS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Valve Damage/Failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120070</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120036</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202304&gt;X-2023120036&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202304&gt;X-2023120036&lt;/A"&gt;Report X-2023120036&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-21&lt;/li&gt;
-                &lt;li&gt;City: MURFREESBORO&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Upon the discovery of the package, it was promptly placed into a hazardous bag and then subsequently transferred into a red hazardous tote to mitigate any chance of additional spillage. The surrounding surfaces were also whipped down. The tote was then transferred to the HazMat QA station for further inspection. DescribePack: One of the 1-gallon bottles had a loose cap which resulted in a leakage when mishandled. Nearly half of the bottle had spilled and the box was nearly soaked in the liquid. DurationRel: 1 and MitigateEffect: Once the package was brought to our attention; it was placed into a plastic hazardous bag and then subsequently transferred into a red hazardous tote to mitigate any chance of additional spillage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120036</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120014</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202271&gt;E-2023120014&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202271&gt;E-2023120014&lt;/A"&gt;Report E-2023120014&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-14T21:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-28&lt;/li&gt;
-                &lt;li&gt;City: GOODLETTSVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal NNA experienced a customer location release of UN1203 Husqvarna 4-Stroke Fuel from 18 boxes each containing (4) 110-ounce metal cans. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 1-gallon of product released to a 3’ x 3’ area of the pallet full of boxes of product. A total of 72 damaged cans and all impacted cardboard boxes were collected and containerized into (3) 55-gallon metal drums. The waste was transported to the XPO terminal located in Nashville, TN for terminal personnel to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120014</guid>
-      <pubDate>Thu, 14 Dec 2023 21:11:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
