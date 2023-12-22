@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 18:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 21:11:14 +0000</lastBuildDate>
     <item>
       <title>Report I-2023120029</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203050&gt;I-2023120029&lt;/A</link>
@@ -185,72 +185,6 @@
       <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120514</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202977&gt;X-2023120514&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202977&gt;X-2023120514&lt;/A"&gt;Report X-2023120514&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: GREENSBORO&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A fiberboard box with signs of release was discovered during sort operations at the GSOH facility. The fiberboard box contained a steel drum inside and the cap on top of the drum was loose. All contents were placed into a steel salvage package. A new declaration will be obtained for movement.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120514</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120424</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202821&gt;X-2023120424&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202821&gt;X-2023120424&lt;/A"&gt;Report X-2023120424&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DAMAGED UPON ARRIVAL DescribePack: THE CAP WAS WRAPPED IN BLUE TAPE, BUT WAS CONTINOUSLY LEAKING DurationRel: 1 and MitigateEffect: APPLIED SPILL FIXED TO SECURE THE SAFETY OF OTHERS&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120424</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120398</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202795&gt;X-2023120398&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202795&gt;X-2023120398&lt;/A"&gt;Report X-2023120398&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Damaged during unload. DescribePack: The contents was in a metal can that was punctured, causing the contents to leak out. DurationRel: 1 and MitigateEffect: Applied spill fix.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120398</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023120294</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203457&gt;E-2023120294&lt;/A</link>
       <description>
@@ -425,116 +359,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111318</guid>
       <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120097</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202642&gt;E-2023120097&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202642&gt;E-2023120097&lt;/A"&gt;Report E-2023120097&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-06&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: It was reported a one-cup spill of regulated UN2491 &amp;quot;Ethanolamine&amp;quot; that was released at Terminal NCH. (1)  55-gallon metal drum was damaged from a pinhole puncture that came from its pallet impacting the dock. The SDS was reviewed with the terminal and it was decided it would be cleaned with PPE on hand. (1) 95-gallon poly drum overpack containing the impacted &amp;quot;Oil Dri&amp;quot; absorbent material, damaged metal drum, the remaining material, and the issued PPE was created as waste and left onsite for the terminal to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120097</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120156</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202424&gt;X-2023120156&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202424&gt;X-2023120156&lt;/A"&gt;Report X-2023120156&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-29&lt;/li&gt;
-                &lt;li&gt;City: KERNERSVILLE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Box was found on the dock to have extra packing tape going around the package. The box seemed to be wet prior to these findings. DescribePack: One of the glass bottles cracked and shattered from it being dropped/mishandled. DurationRel: 1 and MitigateEffect: Box was placed up right and to the cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120156</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120144</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202412&gt;X-2023120144&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202412&gt;X-2023120144&lt;/A"&gt;Report X-2023120144&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: loose fitting, dropped and leaking wet pkg is the reason why this pkg failed DescribePack: dropping a hazmat caused failure for this pkg DurationRel: 0 and MitigateEffect: dropping a hazmat caused the top to come off which allow the liquid to escape the containers.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120144</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120123</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202391&gt;X-2023120123&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202391&gt;X-2023120123&lt;/A"&gt;Report X-2023120123&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on the 300 belt, package was wet and was taken off belt and brought to QA area. DescribePack: Two caps were loose and damaged causing contents to spill. DurationRel: 1 and MitigateEffect: Package was brought to QA area, as to mitigate any further damage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120123</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120120</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202388&gt;X-2023120120&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202388&gt;X-2023120120&lt;/A"&gt;Report X-2023120120&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-25&lt;/li&gt;
-                &lt;li&gt;City: CONCORD&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was brought to us from the IC belt manager because it was wet on the side and bottom of package. We inspected the box and found 2 of the 4 caps were loose and the contents spilled out and contaminated all 4 of the bottles. We made sure to place these in a lined hazmat tote and moved it to the hazmat cage. DescribePack: 2 loose caps DurationRel: 1 and MitigateEffect: We placed the package in a lined hazmat tote and moved this to the hazmat cage. We also made sure this didn&amp;#x27;t effect any other packages on the IC belt.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120120</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 18:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 21:11:14 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120250</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203411&gt;E-2023120250&lt;/A</link>
@@ -163,72 +163,6 @@
       <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120417</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202814&gt;X-2023120417&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202814&gt;X-2023120417&lt;/A"&gt;Report X-2023120417&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVE FOR UNLOAD BY AN MANAGER PUT ON A CART THEN BROUGHT TO HAZMAT CAGE DescribePack: THE CAPS LOOSENED SEALS FAILED NO HOLES OR CRACKS DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT IN TO A HAZMAT TOTE WITH BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120417</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120416</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202813&gt;X-2023120416&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202813&gt;X-2023120416&lt;/A"&gt;Report X-2023120416&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120416</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120414</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202811&gt;X-2023120414&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202811&gt;X-2023120414&lt;/A"&gt;Report X-2023120414&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVE FOR UNLOAD BY AN MANAGER PUT ON A CART THEN BROUGHT TO HAZMAT CAGE DescribePack: THE CAPS LOOSENED SEALS FAILED NO HOLES OR CRACKS DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT IN TO A HAZMAT TOTE WITH BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120414</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023120276</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202673&gt;X-2023120276&lt;/A</link>
       <description>
@@ -337,50 +271,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120178</guid>
       <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120153</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202421&gt;X-2023120153&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202421&gt;X-2023120153&lt;/A"&gt;Report X-2023120153&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-29&lt;/li&gt;
-                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Pkg wet upon arrival. Pkg placed in lined Hazmat bin and taken to the HMPA for inspection and reportiing. DescribePack: Loose caps on 2 x 4 L plastic bottles. DurationRel: 1 and MitigateEffect: Pkg placed in lined Hazmat bin.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120153</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120106</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202374&gt;X-2023120106&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202374&gt;X-2023120106&lt;/A"&gt;Report X-2023120106&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-25&lt;/li&gt;
-                &lt;li&gt;City: SOUTH WINDSOR&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Wet, damaged package was unloaded from trailer and immediately removed from workflow. Package was left in Unload area for QA member discovery. Package was placed in a plastic tote. DescribePack: Five of the forty-seven aerosol cans have cracked and/or missing caps, permitting discharge of flammable contents. DurationRel: 0 and MitigateEffect: Package was placed in a plastic tote to prevent further release or seepage of flammable aerosol.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120106</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 18:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 21:11:14 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120334</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203716&gt;E-2023120334&lt;/A</link>
@@ -471,28 +471,6 @@
       <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120441</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202838&gt;X-2023120441&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202838&gt;X-2023120441&lt;/A"&gt;Report X-2023120441&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-06&lt;/li&gt;
-                &lt;li&gt;City: GROVE CITY&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023120441 SequenceEvent: CERTIFICATED PERSONNEL INFORMED OF DISTRESSED PACKAGE. SHIPMENT TAKEN OUT OF SYSTEM FLOW, NOTED LIQUID RELEASE CONTAINED TO PACKAGE. DISTRESSED PACKAGE CONTAINED IN A LINED HAZMAT TOTE. DescribePack: PACKAGE WAS DISCOVERED WET AND UPON INSPECTION, THE CAP WAS LOOSE WHICH ALLOWED LEAKAGE TO HAPPEN DurationRel: 0 and MitigateEffect: CAP WAS TIGHTENED TO MITIGATE FURTHER SPILLAGE.   2. X-2023120442 SequenceEvent: CERTIFICATED PERSONNEL INFORMED OF DISTRESSED PACKAGE. SHIPMENT TAKEN OUT OF SYSTEM FLOW, NOTED LIQUID RELEASE CONTAINED TO PACKAGE. DISTRESSED PACKAGE CONTAINED IN A LINED HAZMAT TOTE. DescribePack: PACKAGE WAS DISCOVERED WET AND UPON INSPECTION, THE CAP WAS LOOSE WHICH ALLOWED LEAKAGE TO HAPPEN DurationRel: 0 and MitigateEffect: CAP WAS TIGHTENED TO MITIGATE FURTHER SPILLAGE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120441</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2023120291</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203453&gt;E-2023120291&lt;/A</link>
       <description>
@@ -667,137 +645,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120213</guid>
       <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023111182</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023111182&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-17&lt;/li&gt;
-                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 1&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The corrosive HazMat was shipped to the facility in the belly of the trailer. According to the injured employee, the HazMat was leaking in transit. They went to lift the HazMat package and found the contents of the package had been spilled onto their clothes when it made contact with their abdomen. There was no sign of a spill prior to the employee lifting the package. DescribePack: The package contained two plastic containers of corrosive liquid. One of the containers were found with a missing cap/lid. The containers hold approximately 2.5 gallons of liquid. The spilled container looked to be missing around half of its contents. DurationRel: 6 and MitigateEffect: Employee used a shower station to mitigate injury to their skin. The manager of the unload stopped work and had QA assess and clean the spill.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023111182</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120193</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203066&gt;E-2023120193&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203066&gt;E-2023120193&lt;/A"&gt;Report E-2023120193&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-11&lt;/li&gt;
-                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: It was reported that approximately 1 cup of  RectorSeal  GENE™ 404L Low VOC PVC solvent cement (UN1133) was released from one 1-gallon metal jug due to improper loading by terminal LHW. The SDS was reviewed with the terminal and they felt comfortable cleaning up the release with PPE available on-site. (1) 10 gallon DM contains four 1-gallon metal jugs of RectorSeal  GENE™ 404L Low VOC PVC solvent cement only. The waste was left onsite for the terminal to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120193</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120128</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202933&gt;E-2023120128&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202933&gt;E-2023120128&lt;/A"&gt;Report E-2023120128&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
-                &lt;li&gt;City: Wilmington&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On November 30, 2023, two (2) one-gallon cans of paint were crushed and released approximately two (2) gallons of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Thin Line Environmental (TLE) to remediate the impacted site.  TLE personnel utilized absorbents, hand tools, and cleaners to remediate the site. All cleanup waste was collected and containerized into one (1) 55-gallon drum. All impacted freight was re-secured, shrink-wrapped, and staged for further process and shipping.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120128</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120143</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202411&gt;X-2023120143&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202411&gt;X-2023120143&lt;/A"&gt;Report X-2023120143&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: PLAIN CITY&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: shipment removed from system flow due to noted liquid release and placed in red lined hazmat tote DescribePack: closure failed on two bottles allowing release of the product DurationRel: 1 and MitigateEffect: shipment placed upright in lined tote to prevent further release&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120143</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120136</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202404&gt;X-2023120136&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202404&gt;X-2023120136&lt;/A"&gt;Report X-2023120136&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-28&lt;/li&gt;
-                &lt;li&gt;City: GROVE CITY&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: CERTIFIED PERSONNEL CALLED ABOUT A WET DISTRESSED PACKAGE. BOX WAS TAKEN OUT OF THE SYSTEM FLOW AND PLACED IN A LINED TOTE AND TAKEN TO HMPA FOR PROCESSING. DescribePack: LOOSE SAFETY CAP ALLOWED LEAKAGE TO OCCUR. DurationRel: 0 and MitigateEffect: BOX WAS PLACED IN A LINED TOTE AND TAKEN TO THE HMPA WHERE CAP WAS TIGHTENED TO MITIGATE FURTHER LIQUID RELEASE FROM OCCURRING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120136</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120124</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202392&gt;X-2023120124&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202392&gt;X-2023120124&lt;/A"&gt;Report X-2023120124&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: BOWLING GREEN&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2023120124, X-2023120125: SequenceEvent: package was being unloaded from trailer, a trainer moved package onto rollers and noticed small bubbles coming from the cap. Trainer then notified manager who contacted trained personnel. drum was isolated and taken to hazmat area for further processing DescribePack: seal on drum cap was faulty DurationRel: 1 and MitigateEffect: drum was isolated and trained personnel used absorbent material in area where drum was to ensure any liquid that leaked was cleaned up prior to moving to hazmat area for further processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120124</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023120236</title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 18:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 21:11:14 +0000</lastBuildDate>
     <item>
       <title>Report X-2023120711</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203263&gt;X-2023120711&lt;/A</link>
@@ -139,28 +139,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120372</guid>
       <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120132</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202400&gt;X-2023120132&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202400&gt;X-2023120132&lt;/A"&gt;Report X-2023120132&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-15T21:09:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: SAINT PAUL&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND WET AND LEAKING NEAR BOTTOM HALF OF BOX. DescribePack: CAP ON PLASTIC GALLON BOTTLE LOOSE. DurationRel: 1 and MitigateEffect: LEAKED SOME LIQUID OUT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120132</guid>
-      <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
