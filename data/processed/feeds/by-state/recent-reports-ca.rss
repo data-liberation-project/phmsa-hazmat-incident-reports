@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 15:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 18:12:43 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120287</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203449&gt;E-2023120287&lt;/A</link>
@@ -623,6 +623,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120423</guid>
       <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120297</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202694&gt;X-2023120297&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202694&gt;X-2023120297&lt;/A"&gt;Report X-2023120297&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-22T18:12:39+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
+                &lt;li&gt;City: TRACY&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was located in the unload package was wet on side after a full inspection I notice two caps loose causing sulfuric acid to leak out DescribePack: loose caps DurationRel: 1 and MitigateEffect: used absorbent material to soak up liquids&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120297</guid>
+      <pubDate>Fri, 22 Dec 2023 18:12:39 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023120289</title>

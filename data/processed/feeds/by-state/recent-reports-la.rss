@@ -7,7 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 15:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 18:12:43 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023120295</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202692&gt;X-2023120295&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202692&gt;X-2023120295&lt;/A"&gt;Report X-2023120295&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-22T18:12:39+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-01&lt;/li&gt;
+                &lt;li&gt;City: ALEXANDRIA&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE HAZMAT WAS LOADED AT THE BACK OF THE TRAILER, AT THE BELLY, LOADED ON IT&amp;#x27;S SIDE, BELT WAS STOPPED, PKG WAS PLACED IN A HAZMAT TOTE AND MOVED TO A VENTILATED AREA DescribePack: THE CAPS DIDN&amp;#x27;T COME OFF, DUE TO THE PACKAGE BEING LOADED ON IT&amp;#x27;S SIDE SOME OF THE LIQUID LEAKED OUT FROM THE TOP, ABOUT 1 OR 2 CUPS DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED IN A HAZMAT TOTE, LINED WITH A HAZMAT BAG, MOVED TO A VENTILATED AREA&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120295</guid>
+      <pubDate>Fri, 22 Dec 2023 18:12:39 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2023120262</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203423&gt;E-2023120262&lt;/A</link>
@@ -73,6 +95,28 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120111</guid>
       <pubDate>Fri, 15 Dec 2023 21:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023120036</title>
+      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203473&gt;I-2023120036&lt;/A</link>
+      <description>
+            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203473&gt;I-2023120036&lt;/A"&gt;Report I-2023120036&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-22T18:12:39+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-21&lt;/li&gt;
+                &lt;li&gt;City: Kenner&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DELTA AIR LINES&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Delta received notification on 11/21/23 of an undeclared event where a UN0276(Cartridges, power device(squib)) shipped undeclared from Atlanta to New Orleans airport. There were five parts in total located in the shipment; one of which was hazmat. The original order for this shipment was for four non-hazmat parts. When packaging this box, the agent used recycled packaging material from a nearby recycling bin. The affected cartridge was intermixed within this bin. When the employee used the recycled packaging material, the cartridge was intermixed and unknowingly placed in the box.   Flight#: DL2224  Date: 11/21/2023  AWB: 006-80159914   The event is under investigation to determine root cause and subsequent corrective actions.   See the attached pictures.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120036</guid>
+      <pubDate>Fri, 22 Dec 2023 18:12:39 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023120221</title>
