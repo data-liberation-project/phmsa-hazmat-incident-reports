@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Dec 2023 21:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 00:34:03 +0000</lastBuildDate>
     <item>
       <title>Report X-2023120784</title>
       <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203375&gt;X-2023120784&lt;/A</link>
@@ -226,27 +226,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023110031</guid>
       <pubDate>Fri, 22 Dec 2023 00:32:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023080992</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023080992&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-16T00:32:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-08-03&lt;/li&gt;
-                &lt;li&gt;City: SEATTLE&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The shipment was discovered during sort operations. The box has indications on the outside that it contains a MODEL#S2 MAX ELECTRIC SCOOTER HIBOY, 48vDC, 11.5 Ah, Max Speed: 19mph, Max Load: 220 lbs. Mfg: Freeman IT Limited.  The scooter is USED and was being returned by the shipper with an RMA. The shipment is being held for FAA investigation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023080992</guid>
-      <pubDate>Sat, 16 Dec 2023 00:32:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
