@@ -54,7 +54,7 @@ def next_month(year: int, month: int) -> tuple[int, int]:
 
 
 def parse_report_number(report_number_str: str) -> str:
-    match = re.match(RE_PATTERN, report_number_str)
+    match = re.match(RE_PATTERN, report_number_str, re.I)
     if match:
         return match.group(1)
     else:
