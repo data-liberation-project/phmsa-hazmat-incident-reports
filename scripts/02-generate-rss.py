@@ -10,7 +10,7 @@ import pandas as pd
 from feedgen.feed import FeedGenerator
 
 BASE_ID = "data-liberation-project:phma-hazmat-incident-reports"
-RE_PATTERN = r"^(?:<a href = .*?>)?([A-Z]+-[0-9]+)(?:</A>)?$"
+RE_PATTERN = re.compile(r"^(?:<a href = .*?>)?([A-Z]+-[0-9]+)(?:</A>)?$", re.I)
 NOW = datetime.now(tz=timezone.utc)
 STATE_ABBRS = [
     "AL",
