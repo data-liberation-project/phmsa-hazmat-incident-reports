@@ -7,50 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Dec 2023 18:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 17:46:56 +0000</lastBuildDate>
     <item>
-      <title>Report X-2023120375</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202772&gt;X-2023120375&lt;/A</link>
+      <title>Report X-2023120558</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202772&gt;X-2023120375&lt;/A"&gt;Report X-2023120375&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120558&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-03&lt;/li&gt;
-                &lt;li&gt;City: BILLINGS&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-01&lt;/li&gt;
+                &lt;li&gt;City: BOZEMAN&lt;/li&gt;
                 &lt;li&gt;State: MT&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found wet on the unload side.  Inspection found one bottle of Power Liquid had lost its cap allowing contents to leak out. DescribePack: na DurationRel: 8 and MitigateEffect: na&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS UNLOADED FROM TRAILER AND SENT TO SPA STATION WHERE IT WAS SPA&amp;#x27;D AT 0320. PACKAGE WAS THEN DISCOVERED A FEW MINUTES LATER BY BELT SPLITTERS ON BOTTOM BELT. SIDE OF PACKAGE WAS WET. BELT WAS STOPPED AND PACKAGE WAS RESPONDED TO. AS SOON AS EMPLOYEES NOTICED LEAKING HAZMAT, SUPERVISORS WERE NOTIFIED AND RESPONDERS WERE CALLED.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120375</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120346</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202743&gt;X-2023120346&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202743&gt;X-2023120346&lt;/A"&gt;Report X-2023120346&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-03&lt;/li&gt;
-                &lt;li&gt;City: GREAT FALLS&lt;/li&gt;
-                &lt;li&gt;State: MT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found by OB crew when Coordinator came in for shift. Package was left in a plastic tote and was leaking. Coordinator moved box to separate area and began hazmat process. DescribePack: cap on one of the bottles failed and leaked. DurationRel: 2 and MitigateEffect: moved hazmat to separate area for processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120346</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120558</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

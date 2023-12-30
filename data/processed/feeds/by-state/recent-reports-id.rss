@@ -7,28 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Dec 2023 18:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 17:46:56 +0000</lastBuildDate>
     <item>
-      <title>Report E-2023120306</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203491&gt;E-2023120306&lt;/A</link>
+      <title>Report X-2023120931</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203491&gt;E-2023120306&lt;/A"&gt;Report E-2023120306&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-22T18:12:39+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120931&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-12&lt;/li&gt;
-                &lt;li&gt;City: Rockford&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-15&lt;/li&gt;
+                &lt;li&gt;City: BOISE&lt;/li&gt;
                 &lt;li&gt;State: ID&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: AM QA discovered package leaking in unload. Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent. DescribePack: This package had 2 bottles of degreaser and one had a loose cap and some of the content spilled on the box on one of its smaller sides. Some of the content got on the bottle itself. DurationRel: 1 and MitigateEffect: Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120306</guid>
-      <pubDate>Fri, 22 Dec 2023 18:12:39 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120931</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

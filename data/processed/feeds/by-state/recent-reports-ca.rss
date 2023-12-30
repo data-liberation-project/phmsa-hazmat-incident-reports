@@ -7,103 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Dec 2023 18:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 17:46:56 +0000</lastBuildDate>
     <item>
-      <title>Report E-2023120287</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203449&gt;E-2023120287&lt;/A</link>
+      <title>Report X-2023120974</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203449&gt;E-2023120287&lt;/A"&gt;Report E-2023120287&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120974&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-15&lt;/li&gt;
-                &lt;li&gt;City: Montebello&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Packaging failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120287</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120318</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202715&gt;X-2023120318&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202715&gt;X-2023120318&lt;/A"&gt;Report X-2023120318&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-01&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was located in unload package was wet after a full inspection I notice that the calcium hypochlorite pail had a  crack on bottle to spill out DescribePack: crack on bottom DurationRel: 1 and MitigateEffect: swept up solid and place in lines tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120318</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120317</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202714&gt;X-2023120317&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202714&gt;X-2023120317&lt;/A"&gt;Report X-2023120317&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-01&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was located in the load side package was wet after a full inspection I notice that one bottle was broken causing   the nitric acid to leak out DescribePack: loose valves DurationRel: 1 and MitigateEffect: used absorbent material to soak up liquid&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120317</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120316</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202713&gt;X-2023120316&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202713&gt;X-2023120316&lt;/A"&gt;Report X-2023120316&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-01&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was located in the load area package was wet after a full inspection It was determined that one bottle was broke   n causing the nitric acid to leak out DescribePack: broken bottle DurationRel: 1 and MitigateEffect: used absorbent material to soak up liquid&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120316</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120311</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202708&gt;X-2023120311&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202708&gt;X-2023120311&lt;/A"&gt;Report X-2023120311&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-01&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
                 &lt;li&gt;City: SACRAMENTO&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -112,86 +23,40 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME FROM UNLOAD WET. FOUR OF THE CONTENTS CAPS ARE LOOSE ALLOWING LEAKAGE. SPILL WAS CLEANED AND PKG PLACED IN A HAZMAT BAG. DescribePack: FOUR OF THE CONTENTS CAPS ARE LOOSE ALLOWING LEAKAGE. DurationRel: 1 and MitigateEffect: SPILL WAS CLEANED AND PKG PLACED IN A HAZMAT BAG.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME FROM LOAD SIDE WET AND GIVING OFF A STRONG ODOR. ONE OF THE CONTENTS HAS A CRACK BY ITS CLOSURE DUE TO A MANUFACURER DEFECT. SPILL WAS CLEANED AND PKG PLACED IN A HAZMAT BAG. CONTENTS ARE REGULATED BUT PKG HAS NO LABELS. DescribePack: ONE OF THE CONTENTS HAS A CRACK BY ITS CLOSURE DUE TO A MANUFACURER DEFECT. DurationRel: 1 and MitigateEffect: SPILL WAS CLEANED AND PKG PLACED IN A HAZMAT BAG.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120311</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120974</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023120239</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203388&gt;E-2023120239&lt;/A</link>
+      <title>Report X-2023120963</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203388&gt;E-2023120239&lt;/A"&gt;Report E-2023120239&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-20T18:13:21+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120963&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-08&lt;/li&gt;
-                &lt;li&gt;City: MONTEBELLO&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
+                &lt;li&gt;City: SACRAMENTO&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: GREENWOOD MOTOR LINES, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: While loading (12) -(15) oz aerosol cans were forked by forklift employee. (90) oz of material was released.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: UNPROCESSED HAZMAT PACKAGE CAME FROM LOADSIDE WET AND LEAKING.  PACKAGE DAMAGED DURING LOADING, DROPPED.  PACKAGE DOES HAVE OVERHEAD SCANS AT SFSP.  FULLY REGULATED MARKINGS WITHOUT PROPER SHIPMENT CODES AND LACK OF OP-900S. DescribePack: BOTTLE LEAKED FROM CRACKED CAP.  SPILL LESS THAN TENTH OF A GALLON, ISOLATED TO PACKAGING. DurationRel: 1 and MitigateEffect: PACKAGE PLACED IN HAZMAT BAG LINED DRUM.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120239</guid>
-      <pubDate>Wed, 20 Dec 2023 18:13:21 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120963</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023120226</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203372&gt;E-2023120226&lt;/A</link>
+      <title>Report X-2023120979</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203372&gt;E-2023120226&lt;/A"&gt;Report E-2023120226&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-20T18:13:21+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120979&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-08&lt;/li&gt;
-                &lt;li&gt;City: PACOIMA&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On December 8, 2023, one (1) 2.5 gallon jug of ZeroTol 2.0 was crushed in transit and released approximately less than one (&amp;lt;1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Ten West Environmental (TWE) to remediate the impacted site. TWE personnel utilized hand tools, absorbents, and soda ash to remediate the ZeroTol-impacted impacted trailer. The crew de palletized, re palletized, and shrink wrapped the freight for the customer. TWE personnel solidified and neutralized the damaged jug of product. The damaged jug and all impacted debris were collected and containerized into two (2) 55-gallon poly vented drums and stored on site for transport and disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120226</guid>
-      <pubDate>Wed, 20 Dec 2023 18:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120224</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203356&gt;E-2023120224&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203356&gt;E-2023120224&lt;/A"&gt;Report E-2023120224&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-20T18:13:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-08&lt;/li&gt;
-                &lt;li&gt;City: MONTEBELLO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On December 6, 2023, one (1) one-gallon bottle of UN2398 was punctured by a forklift and released approximately one (1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from GrayMar Environmental Services (GES) to remediate the impacted site. The one (1) damaged bottle was removed for waste, and the other three (3) bottles in the cardboard box were wiped down and staged for return back to the shipper. GES personnel restacked all undamaged freight for further shipment and processing. One (1) 5-gallon bucket that contained the one (1) damaged bottle, absorbent pads, and any cleanup debris was staged in the terminal&amp;#x27;s waste holding room.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120224</guid>
-      <pubDate>Wed, 20 Dec 2023 18:13:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120732</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203284&gt;X-2023120732&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203284&gt;X-2023120732&lt;/A"&gt;Report X-2023120732&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
                 &lt;li&gt;City: BLOOMINGTON&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -200,21 +65,20 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE WET PACKAGE WAS RECOVERED FROM THE LOAD SIDE DescribePack: ONE BOTTLE HAD A LOOSE LID AND BROKEN SEAL AND WAS LEAKING DurationRel: 1 and MitigateEffect: ABSORBENT WAS USED TO CLEAN THE SPILL ON THE DOCK&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE ARRIVED HERE LOADED SIDEWAYS AND WET DescribePack: TWO BOTTLES WERE LEAKING FROM THE VENTED CAPS DurationRel: 1 and MitigateEffect: ABSORBENT WAS USED TO CLEAN THE SPILL INSIDE THE TRAILER&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120732</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120979</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120716</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203268&gt;X-2023120716&lt;/A</link>
+      <title>Report X-2023120986</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203268&gt;X-2023120716&lt;/A"&gt;Report X-2023120716&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120986&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-12&lt;/li&gt;
-                &lt;li&gt;City: SAN DIEGO&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-19&lt;/li&gt;
+                &lt;li&gt;City: BLOOMINGTON&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -222,86 +86,19 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found wet. Upon inspection one of the items had a loose cap. Spilled inside. We sealed the item and placed it in a Hazmat bag and then in a Hazmat tote. DescribePack: The failure was due to a loose cap on one of the containers. DurationRel: 1 and MitigateEffect: Item was sealed properly, placed in a Hazmat bag and Hazmat drum.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS RECOVERED FROM THE LOAD SIDE DescribePack: THE BOTTLE HAD A LOOSE LID AND WAS LEAKING DurationRel: 1 and MitigateEffect: ABSORBENT WAS USED TO CLEAN THE SPILL ON THE DOCK&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120716</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120986</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120713</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203265&gt;X-2023120713&lt;/A</link>
+      <title>Report X-2023120978</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203265&gt;X-2023120713&lt;/A"&gt;Report X-2023120713&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120978&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-12&lt;/li&gt;
-                &lt;li&gt;City: ANAHEIM&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was found to have a wet spot on the outer container. Package was place in a hazmat bag and tote and taken for inspection. upon inspection we found one of the two bottles had a loose cap causing it to leak about 4 oz of product on to the outer container. all clean up material was kept with package. DescribePack: One of the two bottles had a loose cap causing to leak. DurationRel: 1 and MitigateEffect: Package was placed in a hazmat bag and tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120713</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120371</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202768&gt;X-2023120371&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202768&gt;X-2023120371&lt;/A"&gt;Report X-2023120371&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-04&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The wet mark shows on the top of the box. DescribePack: Upon inspection, the jerrican cans with loose caps that cause leaking internal. The cans shows damages with dents. DurationRel: 1 and MitigateEffect: Handle with care and place them in tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120371</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120360</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202757&gt;X-2023120360&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202757&gt;X-2023120360&lt;/A"&gt;Report X-2023120360&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-04&lt;/li&gt;
-                &lt;li&gt;City: FAIRFIELD&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was being unloaded from trailer when leaking liquid was seen. PPE was then used to place in container to stop leaking DescribePack: Pail was dented and caused leaking. DurationRel: 0 and MitigateEffect: Pail was placed in drum and kept off of leaking side.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120360</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120705</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203257&gt;X-2023120705&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203257&gt;X-2023120705&lt;/A"&gt;Report X-2023120705&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
                 &lt;li&gt;City: ROSEVILLE&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -310,20 +107,103 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE APPEARS TO HAVE BEEN TIPPED ON IT&amp;#x27;S SIDE.LOOSE CAP ON ONE BOTTLE CAUSING A LOT OF LIQUID TO LEAK OUT DescribePack: PACKAGE APPEARS TO HAVE BEEN TIPPED ON ITS SIDE CAUSING CAP TO COME OFF AND LEAK LIQUID OUT DurationRel: 1 and MitigateEffect: SPILL CLEANED UP WITH FOLD ABSORBENT ROLLS AND PUT IN HAZMAT BAG AND DRUM&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE APPEARS TO HAVE BEEN DROPPED ON ITS SIDE.ONE CAN DENTED AND LEAKING .SPILL CLEANED UP WITH FOLD ABSORBENT ROLLS AND PUT IN HAZMAT BAG AND DRUM DescribePack: PACKAGE DROPPED AND CAUSING ONECAN TO BECOME DENTED DurationRel: 1 and MitigateEffect: SPILL CLEANED UP WITH FOLD ABSORBENT ROLLS AND PUT IN HAZMAT BAG AND DRUM&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120705</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120978</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120699</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203251&gt;X-2023120699&lt;/A</link>
+      <title>Report X-2023120999</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203251&gt;X-2023120699&lt;/A"&gt;Report X-2023120699&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120999&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-10&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-15&lt;/li&gt;
+                &lt;li&gt;City: ROSEVILLE&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS UNLOADED FROM TRAILER VISIBLY WET.ON DISCOVERY PACKAGE WAS PLACED INTO A LINED HAZ TOTE DescribePack: THE LID ON THE EPOXY HARDENER WAS CRUSHED CAUSING IT TO LEAK OUT DurationRel: 1 and MitigateEffect: ON DISCOVERY PACKAGE WAS PLACED INTO A LINED HAZ TOTE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120999</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023120401</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120401&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
+                &lt;li&gt;City: GARDENA&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120401</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120956</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120956&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
+                &lt;li&gt;City: VENTURA&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: box was discovered at unload. upon inspection 2 bottles of detergent were discovered. one that had a lose cap causing an internal leakage. the other bottle was undamaged. DescribePack: loose cap DurationRel: 1 and MitigateEffect: placing item into a hazardous materials bag and into salvage bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120956</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023120389</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120389&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-17&lt;/li&gt;
+                &lt;li&gt;City: MIRA LOMA&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120389</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120949</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120949&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
                 &lt;li&gt;City: CITY OF INDUSTRY&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -332,175 +212,20 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was accidently sent up the overhead sorter where it was found at the FLEX leaking. DescribePack: 1 of 2 bottles were found with a loose cap and the other one soiled from the leakage. DurationRel: 1 and MitigateEffect: The package was immediately bagged into a hazmat bag and taken to the hazmat cage.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was coming down the NC Belt where it was discovered to be wet on the side. DescribePack: 1 of 2 bottles was found wet with a loose cap which caused the leakage. DurationRel: 1 and MitigateEffect: The package was immediately put into a hazmat bag and taken to the hazmat cage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120699</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120949</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120698</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203250&gt;X-2023120698&lt;/A</link>
+      <title>Report E-2023120381</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203250&gt;X-2023120698&lt;/A"&gt;Report X-2023120698&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120381&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
-                &lt;li&gt;City: SACRAMENTO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME FROM LOAD SIDE WET. ONE OF THE CONTENT&amp;#x27;S CAP IS CROSS THREADED WITH THE SEAL UNDERNEATH CORRODED AWAY. SPILL WAS MINOR, ISOLATED TO PKG. PKG WAS PLACED IN A HAZMAT BAG. DescribePack: ONE OF THE CONTENT&amp;#x27;S CAP IS CROSS THREADED WITH THE SEAL UNDERNEATH CORRODED AWAY. DurationRel: 1 and MitigateEffect: SPILL WAS MINOR, ISOLATED TO PKG. PKG WAS PLACED IN A HAZMAT BAG.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120698</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120668</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203220&gt;X-2023120668&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203220&gt;X-2023120668&lt;/A"&gt;Report X-2023120668&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-10&lt;/li&gt;
-                &lt;li&gt;City: NEWARK&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was been moved on the belt when it was mishandled, package was pushed, dropped on the concrete floor and started leaking. DescribePack: The cap of the bottles got cracked opened when it hit the floor and started leaking. DurationRel: 1 and MitigateEffect: It was brought to the attention of a trained admin who quickly went with the equipment needed to retrieve the package and put in a place where it could not cause any harm.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120668</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120205</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203135&gt;E-2023120205&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203135&gt;E-2023120205&lt;/A"&gt;Report E-2023120205&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-04&lt;/li&gt;
-                &lt;li&gt;City: SAN LORENZO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On December 4, 2023, one (1) 330-gallon tote of UN1230 was punctured and released approximately one (1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Patriot Environmental Services (PES) to remediate the site.  PES personnel deployed granular absorbents to the methanol-impacted trailer and swept them in with hand tools. All spent absorbents were collected and containerized into one (1) 55-gallon drum. Crews transferred the product into a new 330-gallon tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120205</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120194</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203067&gt;E-2023120194&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203067&gt;E-2023120194&lt;/A"&gt;Report E-2023120194&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-07&lt;/li&gt;
-                &lt;li&gt;City: Fontana&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: GL Trucking Company DBA ESTES WEST&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Other fell&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120194</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120152</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202968&gt;E-2023120152&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202968&gt;E-2023120152&lt;/A"&gt;Report E-2023120152&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-04&lt;/li&gt;
-                &lt;li&gt;City: FONTANA&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: GREENWOOD MOTOR LINES, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: While in transit, (5)-(5) gal metal pails were crushed due to no blocking or bracing in place&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120152</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120384</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202781&gt;X-2023120384&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202781&gt;X-2023120384&lt;/A"&gt;Report X-2023120384&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-03&lt;/li&gt;
-                &lt;li&gt;City: SACRAMENTO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME FROM UNLOAD WET. ONE OF THE CONTENT HAS A SMALL CRACK UNDER THE LIP OF THE CAP. SPILL WAS CLEANED AND PKG PLACED IN A HAZMAT BAG. DescribePack: ONE OF THE CONTENT HAS A SMALL CRACK UNDER THE LIP OF THE CAP. DurationRel: 1 and MitigateEffect: SPILL WAS CLEANED AND PKG PLACED IN A HAZMAT BAG.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120384</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120297</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202694&gt;X-2023120297&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202694&gt;X-2023120297&lt;/A"&gt;Report X-2023120297&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-22T18:12:39+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was located in the unload package was wet on side after a full inspection I notice two caps loose causing sulfuric acid to leak out DescribePack: loose caps DurationRel: 1 and MitigateEffect: used absorbent material to soak up liquids&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120297</guid>
-      <pubDate>Fri, 22 Dec 2023 18:12:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120289</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203451&gt;E-2023120289&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203451&gt;E-2023120289&lt;/A"&gt;Report E-2023120289&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-29&lt;/li&gt;
-                &lt;li&gt;City: HAYWARD&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
+                &lt;li&gt;City: KETTLEMAN CITY&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -508,20 +233,82 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120289</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120381</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2023120269</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203430&gt;E-2023120269&lt;/A</link>
+      <title>Report E-2023120364</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203430&gt;E-2023120269&lt;/A"&gt;Report E-2023120269&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120364&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-29&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-10&lt;/li&gt;
+                &lt;li&gt;City: FRESNO&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120364</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120928</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120928&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
+                &lt;li&gt;City: CITY OF INDUSTRY&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023120928 SequenceEvent: The package was 1 of 3 of the same exact product found inside its trailer wet from an internal leakage. DescribePack: 2 of 4 inner containers of Branson GP were found with loose caps DurationRel: 1 and MitigateEffect: The leaking was placed into a hazmat bag and taken to the hazmat cage.   2. X-2023120962 SequenceEvent: Package arrived to our dock on the unload leaking into the trailer. DescribePack: 2 of 4 containers were found wet and dented on the sides which caused the leakage through the caps. DurationRel: 1 and MitigateEffect: The package was immediately put into a hazmat bag and taken to the hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120928</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023121035</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121035&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-07&lt;/li&gt;
+                &lt;li&gt;City: CERRITOS&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121035</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023120391</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120391&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
                 &lt;li&gt;City: SAN BERNARDINO&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -533,18 +320,80 @@
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120269</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120391</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120229</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202548&gt;X-2023120229&lt;/A</link>
+      <title>Report E-2023120390</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202548&gt;X-2023120229&lt;/A"&gt;Report X-2023120229&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120390&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-28&lt;/li&gt;
-                &lt;li&gt;City: OAKLAND&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
+                &lt;li&gt;City: W SACRAMENTO&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120390</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023120425</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120425&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-12&lt;/li&gt;
+                &lt;li&gt;City: Vernon&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Unsecured fright&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120425</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023120357</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120357&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-08&lt;/li&gt;
+                &lt;li&gt;City: WHITTIER&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120357</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023121036</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121036&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-07&lt;/li&gt;
+                &lt;li&gt;City: LATHROP&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -552,21 +401,41 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER PROCESSED SPILL FOLLOWING DECISION TREE/APPROPRIATE RESPONSE SHEET AND PROPER PPE.&lt;/li&gt;
+                &lt;li&gt;Description: SUPERVISOR NOTICED A LEAKING PACKAGE IN UNLOAD AND CALLED FOR RESPONDER. RESPONDER UTILIZED DECISION TREE TO PROPERLY CONTAIN THE SPILL AND BROUGHT BACK TO THE DMP AREA FOR FURTHER PROCESSING.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120229</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121036</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120198</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202466&gt;X-2023120198&lt;/A</link>
+      <title>Report E-2023120428</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202466&gt;X-2023120198&lt;/A"&gt;Report X-2023120198&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120428&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-19&lt;/li&gt;
+                &lt;li&gt;City: Fontana&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Load shift&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120428</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120933</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120933&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-16&lt;/li&gt;
+                &lt;li&gt;City: BLOOMINGTON&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -574,130 +443,82 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Metal container was located in load area after a full inspection I notice that it leak out from the values causing the  acetonitrile to leak DescribePack: leak from valves DurationRel: 1 and MitigateEffect: used absorbent material to soak up liquid&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: LID WAS LOOSE , BOX WAS TIPPED ON SIDE OR UPSIDE DOWN. DescribePack: BOX WAS SOAKED AND TORE , 12 X 12 HOLE DurationRel: 1 and MitigateEffect: ABSORBENT AND PLASTIC BAG&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120198</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120933</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120197</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202465&gt;X-2023120197&lt;/A</link>
+      <title>Report X-2023121075</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202465&gt;X-2023120197&lt;/A"&gt;Report X-2023120197&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121075&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
+                &lt;li&gt;City: FRESNO&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Metal. Pail was located in the unload area after a full inspection of pail I notice that the top is loose causing the printing ink to leak out DescribePack: top was loose DurationRel: 1 and MitigateEffect: used absorbent material to soak up liquid&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER ARRIVED TO FIND DROPS OF LIQUID ON BOTTLE. SECURED ARE GATHERED MATERIAL AND RETURNED TO DMP FOR FURTHER PROCESSING&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120197</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121075</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120196</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202464&gt;X-2023120196&lt;/A</link>
+      <title>Report E-2023120338</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202464&gt;X-2023120196&lt;/A"&gt;Report X-2023120196&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120338&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-04&lt;/li&gt;
+                &lt;li&gt;City: KETTLEMAN CITY&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was located in the load area after a full inspection I notice that two caps loose causing the coil cleaner to leak out and caused the ripping to corner of box DescribePack: loose caps DurationRel: 1 and MitigateEffect: used absorbent material to soak up liquid&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120196</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120338</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120188</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202456&gt;X-2023120188&lt;/A</link>
+      <title>Report E-2023120345</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202456&gt;X-2023120188&lt;/A"&gt;Report X-2023120188&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120345&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: ROSEVILLE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
+                &lt;li&gt;City: SAN BERNARDINO&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: METAL PAIL APPEARS TO HAVE BEEN TIPPED ON ITS SIDE CAUSING MOST OF LIQUID TO LEAK OUT.SPILLEVAPORATED IN VAN .NO CLEANING MATERIAL NEEDED DescribePack: LOOSE CAP ON METAL PAIL CAUSING MOST OF LIQUID TO LEAK OUT DurationRel: 1 and MitigateEffect: LIQUID EVAPORATED IN VAN . NO CLEANING MATERIAL NEEDED&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120188</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120345</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120186</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202454&gt;X-2023120186&lt;/A</link>
+      <title>Report X-2023120957</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202454&gt;X-2023120186&lt;/A"&gt;Report X-2023120186&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-19T18:11:18+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120957&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: ROSEVILLE&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: METAL PAIL APPEARS TO HAVE BEEN DROPPED CAUSING SOME LIQUID TO LEAK OUT. SPILL CLEANED UP WITH FOLD ABSORBENT ROLLS AND PUT IN HAZMAT BAG AND DRUM. DescribePack: METAL PAIL DROPPED ON ITS SIDE CAUSING  SOME LIQUID TO LEAK OUT.SPILL CLEANED UP WITH FOLD ABSORBENT ROLLS DurationRel: 1 and MitigateEffect: SPILL CLEANED UP WITH  FOLD ABSORBENT ROLLS AND PUT IN HAZMAT BAG AND DRUM&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120186</guid>
-      <pubDate>Tue, 19 Dec 2023 18:11:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120183</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203056&gt;E-2023120183&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203056&gt;E-2023120183&lt;/A"&gt;Report E-2023120183&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-29&lt;/li&gt;
-                &lt;li&gt;City: Fresno&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: GL Trucking Company DBA ESTES WEST&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Unsecured freight&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120183</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120205</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202473&gt;X-2023120205&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202473&gt;X-2023120205&lt;/A"&gt;Report X-2023120205&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-28&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-17&lt;/li&gt;
                 &lt;li&gt;City: SACRAMENTO&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -706,21 +527,20 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME FROM LOAD SIDE WET. ONE OF THE CONTENT&amp;#x27;S CAP IS BROKEN ALLOWING NOZZLE TO GO OFF. ALL CONTENTS ARE SOILED. CONTENTS ARE REGULATED BUT PKG HAS NO LABEL. SPILL WAS CLEANED AND PKG PLACED IN A HAZMAT BAG. DescribePack: NOT ENOUGH INNER OR OUTER PACKAGING. DurationRel: 1 and MitigateEffect: SPILL WAS CLEANED AND PKG PLACED IN A HAZMAT BAG.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME FROM LOADSIDE CRUSHED AND GIVING OFF AN ODOR OF ALCOHOL.  DAMAGED IN TRANSIT, INADEQUATE BLOCK AND BRACE.  ALL BOTTLES DENTED TO VARYING DEGREES. DescribePack: ONE BOTTLE LEAKED A TENTH OF A GALLON FROM CRUSHED BODY AND CAP ASKEW.  SPILL LONG SINCE DRIED OUT. DurationRel: 1 and MitigateEffect: PACKAGE PLACED IN HAZMAT BAG LINED DRUM.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120205</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120957</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120200</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202468&gt;X-2023120200&lt;/A</link>
+      <title>Report X-2023120930</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202468&gt;X-2023120200&lt;/A"&gt;Report X-2023120200&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120930&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: BLOOMINGTON&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-16&lt;/li&gt;
+                &lt;li&gt;City: CHINO&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -728,119 +548,116 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: VALVE AND STEM LEAKED, MAY HAVE BEEN ABRADED, PUT IN PLASTIC BAG IN TOTE DescribePack: BOTTOM CORNER WAS WET UNDER SEALED PLASTIC DurationRel: 1 and MitigateEffect: PLASTIC BAG IN TOTE&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package Handler accidentally dropped the box and caused bottle to break. Manager immediately had the package handlers working the area to clear out and vented out the area. Once area was completely vented out QA and Managers worked together to safely retrieve the box and place in vent and used absorbent to clean up rest of spill. DescribePack: top of glass bottle inside box broke completely causing the liquid to leak out. DurationRel: 1 and MitigateEffect: Area was cleared out and vented out by opening trailer doors and using fans. Source of leak was placed inside a hazmat bag with absorbent and safely taken to vent.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120200</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120930</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120179</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202447&gt;X-2023120179&lt;/A</link>
+      <title>Report X-2023121048</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202447&gt;X-2023120179&lt;/A"&gt;Report X-2023120179&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121048&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
-                &lt;li&gt;City: SANTA MARIA&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: This package was discovered in the unload and inspected by QA. Package was placed in a hazmat bin and inspected with gloves and masks at the QA work area. DescribePack: One bottle had a loose cap and almost fully spilled out. Only one bottle had spilled. DurationRel: 1 and MitigateEffect: Package was placed inside multiple layers of plastic liners to prevent further leakage and taken out of the unload to be processed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120179</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120171</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202439&gt;X-2023120171&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202439&gt;X-2023120171&lt;/A"&gt;Report X-2023120171&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
-                &lt;li&gt;City: BLOOMINGTON&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE WET PACKAGE WAS FOUND IN THE UNLOAD AREA DescribePack: ONE BOTTLE HAD A LOOSE LID AND BROKEN SEAL AND WAS LEAKING DurationRel: 1 and MitigateEffect: ABSORBENT&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120171</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023110052</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023110052&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
-                &lt;li&gt;City: SAN FRANCISCO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED AIRLINES HOLDINGS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Customer [PII - REDACTED BY GEM/DATA OPS] *E1 KEF0, rolled the seat over his iPad when we were about to begin our initial inflight service.  Thermal Containmen bag used UA Flight 230-31 BOS-SFO  [PII - REDACTED BY GEM/DATA OPS]&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023110052</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023090161</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023090161&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T00:34:05+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-08&lt;/li&gt;
                 &lt;li&gt;City: LOS ANGELES&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED AIRLINES HOLDINGS, INC.&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Customer in 30E notified crew that his battery pack enlarged. Crew removed it from the passengers bag and safely places it in the Thermal bag. Powerbank vented.&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER WORE REQUIRED PERSONAL PROTECTIVE EQUIPMENT (PPE), FOLLOWED THE DECISION TREE AND APPROPRIATE RESPONSE SHEET, CLEANED UP AND REMOVED THE SPILL SAFELY.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090161</guid>
-      <pubDate>Thu, 21 Dec 2023 00:34:05 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121048</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Report I-2023110029</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202602&gt;I-2023110029&lt;/A</link>
+      <title>Report E-2023120413</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202602&gt;I-2023110029&lt;/A"&gt;Report I-2023110029&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T00:34:05+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120413&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-26&lt;/li&gt;
-                &lt;li&gt;City: AZUSA&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-11-01&lt;/li&gt;
+                &lt;li&gt;City: SACRAMENTO&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: PACIFIC PETROLEUM CALIFORNIA, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: PPC employee and receiving facility employee were unloading the drums from inside the trailer to a  location outside. The employees tried to use a pallet jack but were unable to get it under the  pallet. The employees proceeded to take one drum at a time from off of the pallet and move them by  dolly. There was no sign or indication that the drum was leaking when the employees were moving the  drums. When the receiving facility employee moved the last drum, the bottom of the drum cracked.  The crack was a total failure (please see attached photo #1) and all fluid was released quickly  inside the trailer.  The fluids ran out of the trailer and onto the asphalt where it gathered along the cement curb.  Employees worked together and set down absorbent boom and pads to contain the waste from spreading  further. Fluids stayed onsite in the immediate area and didn&amp;#x27;t enter any waterways, public property  or roads. Internal response team from the facility cleaned up the spill. Waste materials were then collected and placed into new drums for disposal.&lt;/li&gt;
+                &lt;li&gt;Description: It was reported that approximately .5 gallons of hydroplate 1086 part A (UN1263) released from a 5 gallon plastic bucket due to a bad pallet that broke during transport. The release impacted trailer floor. The SDS was reviewed with the terminal and it was determined that terminal personnel were capable of cleaning the release with PPE available on site. (1) 8 gallon poly drum was created as waste and left onsite for the terminal to manage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023110029</guid>
-      <pubDate>Thu, 21 Dec 2023 00:34:05 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120413</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120243</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120243&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-28&lt;/li&gt;
+                &lt;li&gt;City: LATHROP&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120243</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120241</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120241&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-29&lt;/li&gt;
+                &lt;li&gt;City: SAN JOSE&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120241</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120001</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120001&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-28&lt;/li&gt;
+                &lt;li&gt;City: SAN DIEGO&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: package was crushed during shipping, leaked onto cardboard box, cardboard box absorbed all of the spill.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120001</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

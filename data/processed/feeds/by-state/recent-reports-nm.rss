@@ -7,38 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Dec 2023 18:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 17:46:56 +0000</lastBuildDate>
     <item>
-      <title>Report E-2023120275</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203436&gt;E-2023120275&lt;/A</link>
+      <title>Report X-2023120965</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2203436&gt;E-2023120275&lt;/A"&gt;Report E-2023120275&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-21T18:11:30+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120965&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-27&lt;/li&gt;
-                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120275</guid>
-      <pubDate>Thu, 21 Dec 2023 18:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120189</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202457&gt;X-2023120189&lt;/A</link>
-      <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202457&gt;X-2023120189&lt;/A"&gt;Report X-2023120189&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-28&lt;/li&gt;
-                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
+                &lt;li&gt;City: ROSWELL&lt;/li&gt;
                 &lt;li&gt;State: NM&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -46,11 +23,11 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on a bulk truck in wet condition. Put on hazmat gloves, placed package into a damage bin and relocated damaged hazmat to the QA cage for further investigation. DescribePack: 2 of the 4 contained bottles had loose caps which caused leakage throughout packaging. DurationRel: 1 and MitigateEffect: Package was handled with hazmat gloves and taken to a QA cage to inspect further. Absorbency pads placed in the semi-damp areas, but it did not seem that there was too much release.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: the package had arrived was unprocessed. Package was processed by another Admin. When package hander had attempted to lift package they noticed a substance leaking from package. package handler had called QA, I was nearby I had seen that it wa a Hazmat so I pulled the E-stop. I asked for a Hazmat tub and I went for PPE. Operations were stopped during clean up DescribePack: Package failure was due to no overspill for the powder the head of the inner container DurationRel: 0 and MitigateEffect: Swift response from all members along with constant training with reminders&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120189</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120965</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

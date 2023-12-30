@@ -7,15 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Dec 2023 18:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 17:46:56 +0000</lastBuildDate>
     <item>
-      <title>Report X-2023120170</title>
-      <link>https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202438&gt;X-2023120170&lt;/A</link>
+      <title>Report X-2023120951</title>
       <description>
-            &lt;h3&gt;&lt;a link="https://portal.phmsa.dot.gov/PDFGenerator/getPublicReport/OHMIR_5800-1?INCIDENTID=2202438&gt;X-2023120170&lt;/A"&gt;Report X-2023120170&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-18T21:10:37+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120951&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
                 &lt;li&gt;City: SOUTH BURLINGTON&lt;/li&gt;
                 &lt;li&gt;State: VT&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -24,11 +23,11 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: A package handler touched a HazMat and noticed it was wet, he immediately notified the Line Manage who called QA to the scene. The E-Stop was engaged, and the HazMat was pulled off safely and placed into a HazMat bin. Both Manager and Package handler were instructed by QA to wash their hands thoroughly with soap and warm water. DescribePack: The safety cap seemed to be popped off from one of the bottles, which caused it to start leaking as it wasn&amp;#x27;t properly secured anymore. DurationRel: 1 and MitigateEffect: E-stop engaged, Used proper equipment, Contained in Hazmat bin and brought to HazMat processing area by QA.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA could not correlate the actual damage to what was described by our package handler that saw the leaking package. PH said that he dropped it a bit too hard maybe, but the damage is to the top part of the bucket. QA Immediately picked the package up with a Hazmat bin and brought it for processing to HazMat cage. DescribePack: Dented lid on bucket. DurationRel: 1 and MitigateEffect: Contained in a HazMat bin with appropriate safety precautions and cleaned up with Absorbent Pads.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120170</guid>
-      <pubDate>Mon, 18 Dec 2023 21:10:37 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120951</guid>
+      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
