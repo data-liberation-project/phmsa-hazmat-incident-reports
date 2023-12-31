@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Dec 2023 21:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:37:12 +0000</lastBuildDate>
     <item>
       <title>Report X-2023121051</title>
       <description>
@@ -154,6 +154,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120387</guid>
       <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023090105</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023090105&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-31T00:35:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-07&lt;/li&gt;
+                &lt;li&gt;City: KANSAS CITY&lt;/li&gt;
+                &lt;li&gt;State: MO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: HERITAGE TRANSPORT, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: While driving a loaded trailer, a driver hit the brakes to avoid a vehicle collision. The container load shifted forward and a 55DF of Chromic Acid sludge was damaged. The contents of the drum leaked from the bottom and sides of the trailer floor onto the roadway and plant parking lot surface. Stormwater collected on the KC Plant parking lot was impacted by the spill.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090105</guid>
+      <pubDate>Sun, 31 Dec 2023 00:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Dec 2023 21:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 00:37:12 +0000</lastBuildDate>
     <item>
       <title>Report E-2023120380</title>
       <description>
@@ -259,6 +259,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120501</guid>
       <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023090117</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023090117&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2023-12-31T00:35:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-05-04&lt;/li&gt;
+                &lt;li&gt;City: JEFFERSONVILLE&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Univar Solutions USA Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Driver arrived at customer to fill a sulfuric tank. He verified the tank, quantity, product, and connections before starting to pump. The driver started the pump and after a couple of minutes he noticed sulfuric acid leaking out of the pump box. The driver immediately shut it down and notified his supervisor. The customer blocked off the nearest sewer drain with boom and absorbent. A third party cleanup contractor was sent in to neutralize and remove the product that was released.   The cause of the release was determined to be two loose nuts on the flange that connects the outbound side of the pump to the hose reel. Going forward we will be checking the torque on all nuts inside this pump box monthly.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023090117</guid>
+      <pubDate>Sun, 31 Dec 2023 00:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
