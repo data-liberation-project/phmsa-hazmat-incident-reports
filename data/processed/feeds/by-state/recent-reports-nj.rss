@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2024 06:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 15:11:55 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023120883</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120883&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2023120883 SequenceEvent: Package arrived at hazmat during sunrise sort in a plastic bin. DescribePack: Inspection showed package of &amp;quot;ZEP CLOG ATTACK&amp;quot; to be wet, torn open, with internal leakage, and with 1 loose cap. Damage most likely from being dropped or mishandled. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a plastic salvage drum, unless otherwise stated.   2. X-2023120888 SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO HAZMAT CAGE SHOWING OBVIOUS SIGN OF INTERNAL LEAKAGE. UPON INSPECTION TWO BOTTLES OF ZEP CLOG ATTACK WAS FOUND MISSING AND ONE SLIGHTLY LEAKING. THE REMAINING CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE RETURNED TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF THE ZEP CLOG ATTACK CAUSED FROM THE PACKAGE BEING MISHANDLED OR DROPPED. DurationRel: 4 and MitigateEffect: THE CONTENTS WERE PLACED IN A SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120883</guid>
+      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120892</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120892&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package arrived at hazmat during sunrise sort in a plastic bin. DescribePack: Inspection showed package of &amp;quot;GRAINGER NU-BRITE&amp;quot; to be wet, on its side, with internal leakage, from 1 loose cap. Damage most likely from being dropped or mishandled during the loading process. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless otherwise stated.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120892</guid>
+      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120889</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120889&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO HAZMAT CAGE SHOWING OBVIOUS SIGN OF INTERNAL LEAKAGE. UPON INSPECTION ONE BOTTLE OF NOBLE CLOG BE GONE WAS FOUND  SLIGHTLY LEAKING. THE REMAINING CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE RETURNED TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF NOBLE CLOG BE GONE CAUSED FROM THE PACKAGE BEING MISHANDLED OR DROPPED. DurationRel: 12 and MitigateEffect: THE CONTENTS WERE PLACED IN A SALVAGE DRUM TO AWAIT DISPOSITION&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120889</guid>
+      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023120987</title>
       <description>
