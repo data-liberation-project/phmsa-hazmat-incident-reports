@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jan 2024 21:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 00:37:14 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023120688</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120688&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
+                &lt;li&gt;City: HALETHORPE&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: once noticed that the package was leaking, placed into a hazmat storage container and placed into the damage hazmat cage. DescribePack: one of the gallons had a loose cap.  which caused the leakage. DurationRel: 1 and MitigateEffect: immediately cleaned up with powder to contain the smell that it gave off.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120688</guid>
+      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023120731</title>
       <description>
@@ -175,48 +196,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120570</guid>
       <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120932</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120932&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-16&lt;/li&gt;
-                &lt;li&gt;City: BELTSVILLE&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: I found damage package in hazmat cage. I repacked package in a salvage drum and filled out the required paperwork. DescribePack: Internal leakage was caused by a loose cap on one of the containers. About 1 cup of content spilled. DurationRel: 1 and MitigateEffect: The wet package was placed in a tub and taken to the damage hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120932</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120520</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120520&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
-                &lt;li&gt;City: LAUREL&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: LOADER NOTICED HAZMAT WAS WET ON BOTTOM AND STOPPED PROGRESS. RESPONDER WAS CALLED AND RESPONDED IN FULL PPE WITH DECISION TREE. SPILL WAS CLEANED UP FOLLOWING PROPER RESPONSE SHEET AND BROUGHT TO DMP FOR DISPOSAL.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120520</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

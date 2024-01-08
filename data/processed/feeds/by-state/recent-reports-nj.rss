@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jan 2024 21:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 00:37:14 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023120677</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120677&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-09&lt;/li&gt;
+                &lt;li&gt;City: TRENTON&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Cap on bottle was loose causing contents to leak during transit. Upon discovery the box was placed in a red tote and moved into the hazmat cage DescribePack: Cap was not on the bottle securley DurationRel: 1 and MitigateEffect: box was placed in a red tote and moved into the hazmat cage&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120677</guid>
+      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010022</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010022&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-20&lt;/li&gt;
+                &lt;li&gt;City: LAWNSIDE&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: CALL TO UNLOAD FOR LEAKING PACKING, WHEN ARRIVED RESPONDER NOTICED THIS PACKAGE WET, UPON FURTHER INVESTIGATION FOUND THE CAP WAS LOOSE AND THE SECURITY TAP UNDER THE LID WAS SLIGHTLY POPPED UP. PROCESSED THROUGH THE DMP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010022</guid>
+      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023120641</title>
       <description>
@@ -240,109 +282,25 @@
       <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120987</title>
+      <title>Report I-2023120004</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120987&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120004&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-11-04&lt;/li&gt;
+                &lt;li&gt;City: Newark&lt;/li&gt;
                 &lt;li&gt;State: NJ&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO HAZMAT CAGE SHOWING OBVIOUS SIGN OF INTERNAL LEAKAGE. UPON INSPECTION FOUR BOTTLES OF RAPICIDE WAS FOUND WITH ONE SLIGHTLY LEAKING. THE REMAINING CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE RETURNED TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF THE RAPICIDE CAUSED FROM THE PACKAGE BEING MISHANDLED OR DROPPED. DurationRel: 4 and MitigateEffect: THE CONTENTS WERE PLACED IN LINED A SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
+                &lt;li&gt;Description: 1 x glass bottle of UN1266 Undeclared DG in fibreboard outer package(non un spec). discovered due to leak/odor. no dg markings or labels. spill cleaned locally and secured in salvage drum for FAA inspection.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120987</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120993</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120993&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-19&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1.  X-2023120993 SequenceEvent: During the sunrise sort, the package arrived at the hazmat cage with wet conditions and closures open. Upon inspection, 2 of 4 were found with internal leakage due to loose caps and the remaining 2 were missing not found. The package was placed into a salvage drum to await disposition. DescribePack: The package failure seems to be from loose caps causing internal leakage and causing the box to become wet and closures to open and the remaining two bottles to come out of the box and go missing. 2 of the 3 bottles that leaked out, leaked out about a cup each. DurationRel: 1 and MitigateEffect: The package was immediately inspected and recovered items were placed into a salvage drum.   2. X-2023120994 SequenceEvent: During the sunrise sort, the package arrived at the hazmat cage with wet conditions and closures open. Upon inspection, 4 Bottles were found 1 with a missing cap. The bottles in the package weren&amp;#x27;t all the corresponding ones with this package. This package is to contain 2 Part A Bottles &amp;amp; 2 Part B bottles, all bottles that arrived with the box at the cage were all Part B bottles. The Part A bottles are missing and were replaced with wrong bottles. DescribePack: The package failure was due to loose and missing caps causing leakage and allowing the box to get wet and break open and 2 bottles to go missing. The bottles that were recovered which mentioned weren&amp;#x27;t all the correct bottles as mentioned all leaked out almost 2 cups each. DurationRel: 1 and MitigateEffect: The bottles cap were secured and the bottle with no cap was placed upright into a salvage drum to await disposition.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120993</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120988</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120988&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO HAZMAT CAGE SHOWING OBVIOUS SIGN OF INTERNAL LEAKAGE. UPON INSPECTION ONE BOTTLE OF SODIUM HYDROXIDE WAS FOUND MISSING AND ONE SLIGHTLY LEAKING. THE REMAINING CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE RETURNED TO SHIPPER UNLESS OTHERWISE DescribePack: FAILURE OF THE  SODIUM HYDROXIDE CAUSED FROM THE PACKAGE BEING MISHANDLED OR DROPPED. DurationRel: 4 and MitigateEffect: THE CONTENTS WERE PLACED IN A SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120988</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120958</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120958&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
-                &lt;li&gt;City: WAYNE&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Trailer was being unloaded... all pkgs were soaked due to the rain. When we came across this pkg we left for end of sort to inspect and possible repack but once inspected that the box smelled a little of alcohol and one of the bottles has a less amount than the rest. The spill happened in the box and formed on the outside of the box. It was then placed in a red tote and processed after dock walk. DescribePack: the bottle had a loose cap. I believe that the box was dropped trying to take it off the belt resulting the one of the caps coming loose. spilling on too the other box inside. DurationRel: 1100 and MitigateEffect: placed in tote and placed by Damages.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120958</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120955</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120955&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During the day sort, the package arrived at the hazmat cage with soiled conditions. Upon inspection 1 metal drum was found with soiled conditions as well. Top of the drum got dented and plastic plug closure seems to be slightly displaced causing leakage through there as well. The drum was placed into a salvage drum to collect any further possible leakage and to await disposition. DescribePack: The package failure seems to be from the metail pail receiving impacts from being improperly packaged for shipping. Drum has soiled stains from the product throughout the entire drum coming from the lid down. Plastic Plug top seems to be slightly displaced causing leakage from there too. DurationRel: 1 and MitigateEffect: The package was immediately inspected &amp;amp; the drum was placed upright into a lined salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120955</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120004</guid>
+      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

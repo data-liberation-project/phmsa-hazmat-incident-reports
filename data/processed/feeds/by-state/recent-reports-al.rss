@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jan 2024 21:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 00:37:14 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2023120709</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120709&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
+                &lt;li&gt;City: DOTHAN&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package went out for delivery with the driver. Driver discovered the product beginning to leak from the lid and placed in a plastic back. Package was returned back to station. OutBound admin brought the package to QA to be processed. DescribePack: Paint leaking around the rim of the pail. DurationRel: 3 and MitigateEffect: Driver placed into plastic bag while in truck. Once at station, pail was placed inside a hazmat line tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120709</guid>
+      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023120722</title>
       <description>
@@ -91,69 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120766</guid>
       <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120446</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120446&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: HUNTSVILLE&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On December 22, 2023, one (1) 55-gallon drum of printer ink was punctured by a nail and released approximately less than one (&amp;lt;1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Hull&amp;#x27;s Environmental Services (HES) to remediate the impacted site. HES personnel deployed absorbents to the ink-impacted trailer and swept them in with hand tools. All spent absorbents were collected and containerized into one (1) 5-gallon bucket. Crews placed the damaged 55-gallon drum into one (1) 85-gallon drum for disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120446</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120984</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120984&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
-                &lt;li&gt;City: THEODORE&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat was found leaking in unload. Strong smell noticed by PH DescribePack: Package was found as a wet mess. A cap appears to have been loose DurationRel: 1 and MitigateEffect: Unload QA used gloves to remove leaking hazmat from unload into approved container. Hazmat trained QA alerted&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120984</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120348</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120348&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2023-12-30T17:46:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-20&lt;/li&gt;
-                &lt;li&gt;City: BIRMINGHAM&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: GROENDYKE TRANSPORT INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Driver noticed leak of about 10 gals of Ethanol on compartment 4 while loading.  Spill occurred in a containment zone at the shipper.  Driver transloaded all but 500 gallons of the products to the compartment #2. Driver departed with product loaded into compartments #1, 2, 3, and 5.  Shipping rack unloaded the remaining 500 gallons in compartment #4 prior to driver departing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120348</guid>
-      <pubDate>Sat, 30 Dec 2023 17:46:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
