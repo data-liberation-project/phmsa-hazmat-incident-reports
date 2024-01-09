@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jan 2024 15:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 18:12:14 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010040</title>
       <description>
@@ -238,69 +238,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120460</guid>
       <pubDate>Wed, 03 Jan 2024 15:12:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120879</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120879&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The caps on the bottles came loose and an internal leakage occurred. Upon being found, the item was brought to QA to be worked on. DescribePack: The package was leaking when it was brought to QA. When the package was opened, the caps on the bottles were noted to be loose. DurationRel: 1 and MitigateEffect: The contents were placed in a spill tote to prevent further leakage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120879</guid>
-      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023121120</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121120&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023121120 NO COMMENTS PROVIDED.    2. X-2023121121 NO COMMENTS PROVIDED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121120</guid>
-      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120461</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120461&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-18&lt;/li&gt;
-                &lt;li&gt;City: Louisville&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120461</guid>
-      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

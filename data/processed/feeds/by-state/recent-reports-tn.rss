@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jan 2024 15:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 18:12:14 +0000</lastBuildDate>
     <item>
       <title>Report X-2023121002</title>
       <description>
@@ -322,69 +322,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120873</guid>
       <pubDate>Wed, 03 Jan 2024 15:12:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2023120449</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120449&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-09&lt;/li&gt;
-                &lt;li&gt;City: KNOXVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A hazardous spill of UN1814 &amp;quot;Nalstrip #2634&amp;quot; that arrived damaged at Terminal. The caller stated that (1) a 330-gallon plastic IBC tote was punctured by strapping braces on its pallet impacting Trailer and the area underneath the trailer. No Drains, soil or water way were impacted.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120449</guid>
-      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120882</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120882&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Leaking hazmat package found on Big Unload 1AM 12/14. Package and spillage removed from operations, taken to HMPA in two lined totes. Please note that Ftrack shows delivery scan and no 63 / Relabel status code was applied; this may be a duplicate barcode. DescribePack: One 1 gallon plastic bottle lost 0.5 gallon of fluid from a 1 inch puncture to the top/side of container body near the handle. This was not following the seam. Puncture caused by impact from sharp object. DurationRel: 1 and MitigateEffect: PPE donned and ventilation used.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120882</guid>
-      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023121078</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121078&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-02T15:11:53+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Pkg Info ( TRK NBR=774200642190 PKG TYPE=Package (box/drum/jerrican/composite) PHY STATE=Liquid TRANSPORTATION PHASE=In Transit ) Commodity Info ( UNDG NBR=UN1268 CLASS=30 PSN TEXT=PETROLEUM DISTILLATES, N.O.S. PKG GRP=II SPILLED QTY=0 CONTAINER CAPACITY=1.1 CONTAINER UOM=Liquid - Liter MATERIAL CONSTRUCTION=A - Metal (any type) NUMBER IN SHIPMENT=1 NUMBER FAILED=0 INNER PKG TYPE=1 - Bottle TOTAL AMT IN EACH CONTAINER=1.1 TOTAL UOM=Liquid - Liter )Pkg Info ( TRK NBR=774200642190 PKG TYPE=Package (box/drum/jerrican/composite) PHY STATE=Liquid TRANSPORTATION PHASE=In Transit ) Commodity Info ( UNDG NBR=UN1593 CLASS=61 PSN TEXT=DICHLOROMETHANE PKG GRP=III SPILLED QTY=0 CONTAINER CAPACITY=0.004 CONTAINER UOM=Liquid - Liter MATERIAL CONSTRUCTION=B - Glass# porcelain# or stoneware NUMBER IN SHIPMENT=1 NUMBER FAILED=0 INNER PKG TYPE=1 - Bottle TOTAL AMT IN EACH CONTAINER=0.004 TOTAL UOM=Liquid - Liter )Pkg Info ( TRK NBR=774200642190 PKG TYPE=Package (box/drum/jerrican/composite) PHY STATE=Liquid TRANSPORTATION PHASE=In Transit ) Commodity Info ( UNDG NBR=UN1760 CLASS=80 PSN TEXT=CORROSIVE LIQUID, N.O.S. PKG GRP=III SPILLED QTY=0 CONTAINER CAPACITY=300 CONTAINER UOM=Liquid - Milliliter MATERIAL CONSTRUCTION=B - Glass# porcelain# or stoneware NUMBER IN SHIPMENT=1 NUMBER FAILED=0 INNER PKG TYPE=1 - Bottle TOTAL AMT IN EACH CONTAINER=300 TOTAL UOM=Liquid - Liter )A fiberboard box with signs of release was found during sort operations at the MEMH facility.  While investigating the shipment there were three glass bottles of petroleum distillates that had broken and spilled inside of the fiberboard box. All items inside were wrapped with bubble wrap and the inside of the fiberboard box was lined with plastic.  The remaining contents were contained into a Steel Salvage Package. The shipper has been contacted for an amended Declaration and further disposition.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121078</guid>
-      <pubDate>Tue, 02 Jan 2024 15:11:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
