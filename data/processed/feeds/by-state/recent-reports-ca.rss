@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 15:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 18:14:36 +0000</lastBuildDate>
     <item>
       <title>Report X-2023120786</title>
       <description>
@@ -996,27 +996,6 @@
       <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2023120827</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120827&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-03T15:12:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
-                &lt;li&gt;City: FAIRFIELD&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was unloaded from trailer and was immediately placed into bag in order to prevent further white liquid spill. Appears cans from inside had been moving around that may have caused dent on one can. The dent caused closures of lid of bottle to open up and allow liquid substance to leak inside package damaging other container as well. DescribePack: Dent on paint can causing lid to open DurationRel: 1 and MitigateEffect: Package was placed upright according to directional arrows and placed inside a plastic bag as well as proper drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120827</guid>
-      <pubDate>Wed, 03 Jan 2024 15:12:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2023120210</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120210&lt;/a&gt;&lt;/h3&gt;
@@ -1036,27 +1015,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120210</guid>
       <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120805</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120805&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-03T15:12:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-20&lt;/li&gt;
-                &lt;li&gt;City: SAN DIEGO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120805</guid>
-      <pubDate>Wed, 03 Jan 2024 15:12:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
