@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 12:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 15:12:28 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024010116</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010116&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-11T15:12:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
+                &lt;li&gt;City: CARLISLE&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO (2) PACKAGES COLD TO THE TOUCH. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY 2 POUNDS OF DRY ICE COOLING MEAT. ADDITIONAL TRACKING NUMBER TO ANOTHER CONSIGNEE IN THE USA 1Z16605X1596654577. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOXES.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010116</guid>
+      <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024010090</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010090&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-11T15:12:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-23&lt;/li&gt;
+                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010090</guid>
+      <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010062</title>
       <description>
@@ -217,153 +259,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010002</guid>
       <pubDate>Fri, 05 Jan 2024 18:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120683</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120683&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-10&lt;/li&gt;
-                &lt;li&gt;City: PITTSBURGH&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Box was dropped and cap came loose from a 1 gallon bottle and contents spilled DescribePack: no package failure DurationRel: 1 and MitigateEffect: Turn box upright&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120683</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120756</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120756&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: HORSHAM&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120756</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120770</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120770&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-06&lt;/li&gt;
-                &lt;li&gt;City: HORSHAM&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120770</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120838</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120838&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
-                &lt;li&gt;City: BREINIGSVILLE&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Found in Unload. Box was wet when retrieved. Upon further investigation bottle of Hydrogen peroxide leaked inside box. Placed package inside Hazmat cage for further processing. DescribePack: Box was most likely placed, or fell,  on its side during shipping. Cap on it was not properly secured. DurationRel: 1 and MitigateEffect: Placed in the Hazmat Cage, within a Hazmat bin to prevent any effects.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120838</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120832</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120832&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
-                &lt;li&gt;City: LEWISBERRY&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: shipment taken out of system flow due to external carton wet and leaking package was found one trailer# 831257 already wet and leaking upon inspection of inner content 2 x 1 gallon plastic bottles of paramount super concentrated machine dishwash both had loose lids allowing .5 gallon to release from each bottle. package had no slotted partitions, bags or absorbent. Facility procedures for damaged hazardous materials followed contents contained and awaiting disposition. DescribePack: 2 x 1 gallon plastic bottles of paramount super concentrated machine dishwash both had loose lids allowing .5 gallon to release from each bottle DurationRel: 1 and MitigateEffect: leaking package was placed in a hazmat bag lined tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120832</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023121096</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121096&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
-                &lt;li&gt;City: NEW STANTON&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121096</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120769</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120769&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-06&lt;/li&gt;
-                &lt;li&gt;City: BETHLEHEM&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WAS CALLED FOR A HAZMAT LEAKER. ARRIVED WEARING PROPER PPE WITH DECISION TREE IN HAND. AFTER OBSERIVING THE LEAKER, FOLLOWED DECISION TREE FOR PROPER CLEAN UP AND RESPONDS. AFTER CLEAN UP, RESPONDER TRANSPORTED THE HAZMAT TO THE DMP FOR FURITHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120769</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010006</title>

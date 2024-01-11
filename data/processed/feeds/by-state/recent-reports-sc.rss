@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 12:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 15:12:28 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010028</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010028&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-11T15:12:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
+                &lt;li&gt;City: NORTH CHARLESTON&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: XPO Logistics terminal NCS experienced a UN3267 Ferrogard 903 release from a 5-gallon poly pail. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 5-gallons of product released to a 5’ x 16’ area of the trailer floor due to a puncture. Absorbents were deployed and worked into the impacted area. The damaged pail, impacted absorbents, debris, and PPE were then containerized into a 55-gallon poly drum. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010028</guid>
+      <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2023121139</title>
       <description>
@@ -28,48 +49,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121139</guid>
       <pubDate>Fri, 05 Jan 2024 18:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120857</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120857&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
-                &lt;li&gt;City: LADSON&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: spill DescribePack: spill DurationRel: 1 and MitigateEffect: spill&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120857</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120772</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120772&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-04T15:11:20+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-06&lt;/li&gt;
-                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120772</guid>
-      <pubDate>Thu, 04 Jan 2024 15:11:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
