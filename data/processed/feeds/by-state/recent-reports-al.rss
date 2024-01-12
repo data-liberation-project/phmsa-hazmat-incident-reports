@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jan 2024 18:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 21:09:50 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010046</title>
       <description>
@@ -112,48 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120709</guid>
       <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120722</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120722&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-05T18:16:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
-                &lt;li&gt;City: BIRMINGHAM&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023120722 SequenceEvent: Package was put into a hazardous bin sideways which caused the jerrican inside to leak due to its faulty closure. DescribePack: loose top DurationRel: 0 and MitigateEffect: package sat in a hazardous bin.   2. 2023120724 SequenceEvent: Package was found damaged on delivery van by driver. Driver claims the package was put on the van damaged when and noticed it before delivering. Package was isolated until coming back to the station. DescribePack: Liquid spilled from jerrican while inside the box. DurationRel: 1 and MitigateEffect: Package was isolated.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120722</guid>
-      <pubDate>Fri, 05 Jan 2024 18:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120817</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120817&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-05T18:16:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Admin spotted the package sitting top down next to an induction belt and alerted manager. Upon seeing the yellow leakage, area was covered in neutralizing agent to absorb the spill. Package appears to have fallen from to of belt and landed on the caps, causing the failure. No other damage was caused and location has been cleaned. DescribePack: Package appears to have landed on its caps, causing the failure. Spill covered an area of about 2 square meters. Caps were not loose, leading me to believe the impact cause the leakage. From what we were able to observe, there was no evident source of the leakage. DurationRel: 1 and MitigateEffect: Neutralizing absorbent agent was spread over spill, and package was placed in a containment bag and bin.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120817</guid>
-      <pubDate>Fri, 05 Jan 2024 18:16:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

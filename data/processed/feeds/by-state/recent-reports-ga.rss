@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jan 2024 18:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 21:09:50 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010120</title>
       <description>
@@ -364,69 +364,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010019</guid>
       <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120826</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120826&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-05T18:16:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
-                &lt;li&gt;City: KENNESAW&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Qa was call over to unload due to a leaking hazmat that spill. DescribePack: Hazmat tops was loose causing hazmat to spill. DurationRel: 1 and MitigateEffect: Qa clean up the spill place hazmat inside a red tote to be taking over to the hazmat here to be process.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120826</guid>
-      <pubDate>Fri, 05 Jan 2024 18:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023121140</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121140&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-05T18:16:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-15&lt;/li&gt;
-                &lt;li&gt;City: DORAVILLE&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121140</guid>
-      <pubDate>Fri, 05 Jan 2024 18:16:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120728</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120728&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-05T18:16:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-12&lt;/li&gt;
-                &lt;li&gt;City: AUSTELL&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS BEING UNLOADED AND THE BOX WAS WET DescribePack: 1 BOTTLE CONTAINED A LOOSE CAP DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED WITH PPE IN A HAZMAT BAG AND HAZMAT YELLOW TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120728</guid>
-      <pubDate>Fri, 05 Jan 2024 18:16:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
