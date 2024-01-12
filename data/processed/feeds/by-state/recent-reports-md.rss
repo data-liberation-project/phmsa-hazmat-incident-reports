@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 21:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 00:38:43 +0000</lastBuildDate>
     <item>
       <title>Report X-2023120688</title>
       <description>
@@ -70,6 +70,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121138</guid>
       <pubDate>Fri, 05 Jan 2024 18:16:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023110039</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023110039&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-12T00:37:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-04&lt;/li&gt;
+                &lt;li&gt;City: BALTIMORE&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: RSI LEASING, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 10.4.23 at approximately 7:45am, during a transfer of Ferric Chloride from railcar(PVSX213032) into All-Chem trailer (FRP64) the air valve on the trailer malfunctioned causing a release. The loader immediately climbed down from the railcar and closed both the internal and external valves on the trailer. Approximately 2 gallons of product was released, notifications were made to proper NS, RSI, PVS and All-Chem personnel. Hepaco arrived on site around 12pm, cleaned up, removed all debris and departed around 2:15pm.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023110039</guid>
+      <pubDate>Fri, 12 Jan 2024 00:37:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
