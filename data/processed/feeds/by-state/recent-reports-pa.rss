@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jan 2024 21:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 00:39:18 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010152</title>
       <description>
@@ -154,69 +154,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010078</guid>
       <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120664</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120664&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-09&lt;/li&gt;
-                &lt;li&gt;City: LEWISBERRY&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was on load side wet, taken to cage for further inspection. Upon inspecting the inner contents there was  an inner box with 2 x 5.0 liters plastic bottles of Rapicide PA Part A. The 1 plastic bottle was leaking from cap vent hole allowing .20 liters spill out. The other 2 x 5.0-liter plastic bottles of Rapicide PA Part B were not damaged.  Facility procedures for damaged hazardous materials followed, contents contained and awaiting disposition. DescribePack: The one x 5.0-liter plastic bottle of Rapicide PA Part A was leaking from cap vent hole allowing .20 liters to spill out. DurationRel: 1 and MitigateEffect: Package was placed in a red lined tote to contain the leaking damaged hazmat, taken to cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120664</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120667</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120667&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-09&lt;/li&gt;
-                &lt;li&gt;City: LEWISBERRY&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: shipment taken out of system flow due to external carton wet and leaking package found on trailer # 244146 already damage wet and leaking upon inspection of inner content 4 x 1 gallon plastic bottles of Zep calcium lime rust remover 1 gallon bottle had loose cap allowing .5 gallons to release. package had no slotted partitions bags or absorbent was found. facility procedures for damaged hazardous materials followed contents contained and awaiting disposition. DescribePack: 1 gallon plastic bottle of zep calcium lime rust remover had loose cap allowing .5 gallon to release from bottle. DurationRel: 1 and MitigateEffect: leaking package was placed in a hazmat bag lined tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120667</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010102</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010102&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
-                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: WEARING PROPER PPE RESPONDER RESPONDED. USED THE DECISION TREE AND RESPONCE SHEETS FOR 1.4S. BOX WAS ON FLOOR IN DA. AREA BOX WAS SOILED AND WET ON BOTTOM. NO LIQUID ON FLOOR NO NEED FOR ZEP ABSORBANT.PLACE BOX IN GREEN PLASTIC D.M.P. BAG AND REMOVED TO D.M.P FOR FURTHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010102</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010006</title>

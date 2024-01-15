@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jan 2024 21:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 00:39:18 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010121</title>
       <description>
@@ -175,27 +175,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010085</guid>
       <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010107</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010107&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
-                &lt;li&gt;City: DALLAS&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: DURING SHIPPING PAIL HAD FALLEN UP AGAINST TRAILER DOOR. WHEN DOOR WAS OPENED, BOLT FROM DOOR DAMAGED PAIL CAUSING SPILL.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010107</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023121166</title>
@@ -721,69 +700,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010032</guid>
       <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120702</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120702&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
-                &lt;li&gt;City: HUTCHINS&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: When Hazmat team arrived to QA, package was already double bagged and placed in a black tub. DescribePack: Jerrican had a loose cap and spilled it contents in the box. The box got torn in multiple places due to it being wet. DurationRel: 1 and MitigateEffect: Package was double bagged and place in a black tub until hazmat team arrive.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120702</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120684</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120684&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
-                &lt;li&gt;City: TYLER&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE HANDLER DROPPED THE BOX AND THE PLASTIC PAIL CRACKED ON THE BOTTOM. DescribePack: CRACKED ACROSS THE BOTTOM OF PAIL DurationRel: 1 and MitigateEffect: PUT IN A TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120684</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120692</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120692&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
-                &lt;li&gt;City: HOUSTON&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS BEING LOADED AND QA WAS CALLED BECAUSE THE CONTENTS WAS LEAKING OUT DescribePack: THE BOTTOM OF THE PAIL HAS A PUNCTURED HOLE IN IT DurationRel: 1 and MitigateEffect: PLACED INSIDE A SALVAGE DRUM&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120692</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

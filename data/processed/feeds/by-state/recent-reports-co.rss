@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jan 2024 21:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 00:39:18 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010107</title>
       <description>
@@ -322,90 +322,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120652</guid>
       <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120681</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120681&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-10&lt;/li&gt;
-                &lt;li&gt;City: HENDERSON&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to unload trailer 554502 due to a leaking hazmat and when QA arrived pkg. was leaking out and QA placed inside a lined tote and took to hazmat cage to get inspected. DescribePack: Inner cans were punctured and dented on bottom due to there were no slotted partitions from keeping the inner cans pressing up against each other and causing cans to get punctured and dented. And liquid was leaking out of the bottom of the cans where the dents were. DurationRel: 13 and MitigateEffect: Pkg. was placed inside a lined tote and was taken to hazmat cage to get inspected.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120681</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120663</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120663&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-08&lt;/li&gt;
-                &lt;li&gt;City: HENDERSON&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Leaking package discovered during sortation. Package placed in lined hazmat tote and sent to QA. DescribePack: Plastic jugs in corrugated carton with corrugated divider. Pinhole in handle of one jug allowed leakage which soiled other jugs and damaged carton. DurationRel: 1 and MitigateEffect: Package placed in lined hazmat tote and sent to QA.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120663</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120718</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120718&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-12&lt;/li&gt;
-                &lt;li&gt;City: HENDERSON&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Pkg. came to QA wet on the IC belt and QA pulled off and placed inside a lined tote. DescribePack: Closures came loose and liquid leaked out soiling outer carton and inner cans. DurationRel: 13 and MitigateEffect: Pkg. was placed inside a lined tote and QA took to hazmat cage to get inspected.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120718</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120640</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120640&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-08&lt;/li&gt;
-                &lt;li&gt;City: HENDERSON&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: A Fully regulated package came to QA wet and soiled after inspection loose caps on bottles caused the spill soiling the box and other contents DescribePack: loose caps on bottles caused the spill DurationRel: 1 and MitigateEffect: package was brought to QA in a lined tote for inspection&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120640</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

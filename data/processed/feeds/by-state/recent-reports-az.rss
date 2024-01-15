@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jan 2024 21:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2024 00:39:18 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010362</title>
       <description>
@@ -259,48 +259,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010059</guid>
       <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120673</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120673&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-04&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was being unloaded when it was discovered that the top and sides were wet. The package was placed in a hazmat bag lined tote, the bottle top was tightened down and the tote was brought to the QA area for processing. DescribePack: One bottle top came loose during the shipping process causing the bottle to leak. DurationRel: 1 and MitigateEffect: The bottle top was tightened down.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120673</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120700</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120700&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-08T00:36:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-11&lt;/li&gt;
-                &lt;li&gt;City: TEMPE&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found outside of a drivers truck and put into a lined hazmat tote and taken to the hazmat cage. DescribePack: The closure on the inner container was loose causing the inner container to leak damaging the box. DurationRel: 5 and MitigateEffect: Package was placed into a lined hazmat tote with orientation arrows up.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120700</guid>
-      <pubDate>Mon, 08 Jan 2024 00:36:07 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010325</title>
