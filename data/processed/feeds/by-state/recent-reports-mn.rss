@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jan 2024 15:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 18:13:20 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010128</title>
       <description>
@@ -28,6 +28,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010128</guid>
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010286</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010286&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-16T18:13:17+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024010286 SequenceEvent: HAP specialist was going through the unload bank when he spotted the damaged hazmat sitting on the rollers on its side.  the package was leaking a slow dribble onto the floor. He called the HESS specialist to ask for a lined tote and cleanup material to perform immediate in-house cleanup. upon completion, HESS specialist brought the package in a lined tote back to the damage area and moved it to the drain mats in the incoming damaged hazmat/LQ area. DescribePack: one bottle leaked due to loose cap. DurationRel: 1 and MitigateEffect: immediate in-house cleanup. placed in lined tote, moved to drain mats.   2. X-2024010289 SequenceEvent: HAP specialist discovered this damaged hazmat at the same time as the package in Hazmat Incident No.117328, in the unload. He called HESS specialist to bring him a lined tote and cleanup material. HESS specialist did as requested, then took from him the damaged hazmat in its tote and brought this back to the damage area, placing it atop the drain mats in the incoming damaged hazmat/LQ area. DescribePack: two bottles leaked due to loose caps DurationRel: 1 and MitigateEffect: immediate in-house cleanup performed. placed in lined tote, moved to drain mats.   3. X-2024010300 SequenceEvent: HAP specialist discovered this package in the unload when placing several other damaged hazmats into lined totes for the HESS specialist to bring back to the damage area. As this was in the same MPS as the others and found in the same trailer, HAP specialist elected to have it inspected just in case. HESS specialist placed the package&amp;#x27;s tote atop the drain mats in the incoming damaged hazmat/LQ area. The following day, HESS specialist inspected the contents and found that one bottle had leaked. DescribePack: one bottle leaked due to loose cap DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats.   4. X-2024010302 SequenceEvent: HAP specialist discovered this package in the unload when placing several other damaged hazmats into lined totes for the HESS specialist to bring back to the damage area. As this was in the same MPS as the others and found in the same trailer, HAP specialist elected to have it inspected just in case. HESS specialist placed the package&amp;#x27;s tote atop the drain mats in the incoming damaged hazmat/LQ area. The following day, HESS specialist inspected the contents and found that one bottle had leaked. DescribePack: one bottle leaked due to loose cap DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010286</guid>
+      <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023121116</title>
