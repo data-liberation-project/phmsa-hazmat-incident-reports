@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jan 2024 03:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 09:11:39 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010102</title>
       <description>
@@ -28,48 +28,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010102</guid>
       <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010027</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010027&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-09T06:14:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
-                &lt;li&gt;City: OKLAHOMA CITY&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On December 27, 2023, one (1) 375-gallon tote of UN2693 was punctured by a forklift and released approximately one hundred (100) gallons of product to the trailer interior, pavement beneath the trailer, and dock floor. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from LoneStar Hazmat (LSH) to remediate the impacted site. LSH personnel deployed granular absorbents to the UN2693-impacted trailer, dock floor, and asphalt parking lot and swept them in utilizing hand tools. All spent absorbents were collected and containerized into one (1) 55-gallon drum to be staged onsite for future disposal. LSH personnel transferred the product from the damaged 330-gallon tote to one (1) new 330-gallon tote for further shipment.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010027</guid>
-      <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120637</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120637&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-09T06:14:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-08&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2023120637 SequenceEvent: PACKAGE WAS FOUND LEAKING ON OTHER PACKAGES IN UNLOAD. IT WAS DISCOVERED TO BE A HAZMAT AND PLACED IN A HAZMAT TOTE. DescribePack: CAPS HAD BEEN LOOSE AND IT WAS NOT PROPERLY PACKED DurationRel: 1 and MitigateEffect: PLACED IN TOTE WITH BAG.   2. X-2023120643 SequenceEvent: Package was found at the first IC pull wet and torn open DescribePack: Box was wet and torn open. DurationRel: 1 and MitigateEffect: Package was placed into a red tote with hazmat bag.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120637</guid>
-      <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jan 2024 03:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 09:11:39 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010361</title>
       <description>
@@ -51,27 +51,6 @@
       <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024010003</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010003&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-09T06:14:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
-                &lt;li&gt;City: Connersville&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: RECLAIMED ENERGY CO., INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: While unloading drums noticed a puddle under the drum. It was found that the drum body had a hole in it and material leaked out. Drum was placed in overpack, and material cleaned up in house. The hole was caused by a bolt from another drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010003</guid>
-      <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024010065</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010065&lt;/a&gt;&lt;/h3&gt;
@@ -91,48 +70,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010065</guid>
       <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023121000</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121000&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-09T06:14:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
-                &lt;li&gt;City: INDIANAPOLIS&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A plastic drum was discovered with signs of a release during sort operations at the INDH facility. The drum had a small puncture on the bottom causing the release. The drum was placed into a steel salvage package and a new declaration will be obtained for movement.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121000</guid>
-      <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010016</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010016&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-09T06:14:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
-                &lt;li&gt;City: Edinburgh&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010016</guid>
-      <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

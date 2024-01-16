@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jan 2024 03:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 09:11:39 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010107</title>
       <description>
@@ -280,48 +280,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010106</guid>
       <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120638</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120638&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-09T06:14:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-07&lt;/li&gt;
-                &lt;li&gt;City: HENDERSON&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: A Fully regulated package came to QA wet and soiled after inspection loose caps on bottles caused the spill soiling the box and other contents in the box DescribePack: loose caps and punctured bottles caused the spill DurationRel: 1 and MitigateEffect: package was brought to QA for inspection in a lined tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120638</guid>
-      <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120652</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120652&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-09T06:14:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-07&lt;/li&gt;
-                &lt;li&gt;City: AURORA&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package discovered leaking on load side after it was scanned to a trailer. Upon inspection a loose cap was determined to be the cause of the leak. Package was placed into a damaged hazmat tote complete with liner however, orientation arrows were not initially observed which caused additional leakage. DescribePack: Loose cap no seal on contents. DurationRel: 3 and MitigateEffect: Package was placed into damage tote with liner. Initially orientation arrows were not observed, once noticed position of package righted.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120652</guid>
-      <pubDate>Tue, 09 Jan 2024 06:14:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
