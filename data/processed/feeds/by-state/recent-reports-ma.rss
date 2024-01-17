@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:11:29 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010124</title>
       <description>
@@ -70,27 +70,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010092</guid>
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010074</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010074&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-12&lt;/li&gt;
-                &lt;li&gt;City: CANTON&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Two 5 gallon metal pails were crushed in transit, released 3 gallons in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010074</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:11:29 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010181</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010181&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-09&lt;/li&gt;
+                &lt;li&gt;City: FRIDLEY&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: XPO Logistics terminal XMP experienced a UN2874 Airkure 241 EX Resin release from a 275-gallon poly tote. ERTS dispatched contractors to conduct cleanup operations.  Contractors arrived onsite and confirmed approximately 1 pint of material released to a 2’ x 2’ area of the concrete dock floor due to a puncture to the top corner of the tote. The material was transferred from the damaged tote into a new one. The damaged tote was then cut up and containerized. Absorbents were deployed and worked into the impacted area. The cut up tote, impacted absorbents, and PPE were containerized into a 55-gallon metal drum. All waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010181</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010128</title>
       <description>
@@ -28,6 +49,90 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010128</guid>
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010258</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010258&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-20&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: someone called out a damaged hazmat around door 133 on the load side. HAP specialist responded to the call and brought the package, in a lined tote, back to the damage area. he placed it atop the drain mats in the incoming damaged hazmat/LQ area. DescribePack: one bottle leaked due to the entire package having been upside down. employees on the load side did not specify whether the package fell off something or a package handler mishandled it somehow, but it is clear that something happened after it was removed from the IC belt on the load side. DurationRel: 0 and MitigateEffect: immediate cleanup performed. placed in lined tote, moved to drain mats&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010258</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010282</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010282&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
+                &lt;li&gt;City: SAINT PAUL&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Upon unload of trailer into local 551, hazmat was found to be dripping slowly. Pail was put into a hazmat salvage pail in a plastic hazmat bag. DescribePack: Crack on bottom of pail through raised portion. DurationRel: 1 and MitigateEffect: Amphomag and absorbant used. Package contained in bag.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010282</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010284</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010284&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: someone noticed that the package was damaged and smelled slightly of alcohol. that person set the package aside, placed it in a lined tote, brought it to the damage area, and moved it to the drain mats. in-house cleanup, awaiting disposition. DescribePack: one bottle leaked due to loose cap. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010284</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024010174</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010174&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-30&lt;/li&gt;
+                &lt;li&gt;City: LAKEVILLE&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010174</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010286</title>
@@ -70,48 +175,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121116</guid>
       <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010054</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010054&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: EAGAN&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER PICKED UP LEAKER. PROCESSED THROUGH DMP&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010054</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010098</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010098&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
-                &lt;li&gt;City: FARMINGTON&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 1 gallon metal pail was punctured due to nail in pallet, released 1 pint of material.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010098</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

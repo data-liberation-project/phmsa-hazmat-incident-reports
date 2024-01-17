@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:11:29 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010116</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010116&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
+                &lt;li&gt;City: BUFFALO&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: BUFFALO &amp; PITTSBURGH RAILROAD, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: FRA HM Inspector Steven Myers found HM tank car PROX 47160 placarded class3, UN 3295, loaded with UN3295 Hydrocarbons, Liquid, N.O.S. class 3, PG 1, (natural gasoline) to be venting at the vacuum relief device.  This was reported to BPRR management and SPSI was dispatched by Buffalo &amp;amp; Pittsburgh Railroad (Rita Mager) to investigate and make certified permanent repairs.  Shipper MarkWest Energy, Shawn Dunkle notified.  Upon inspection, SPSI determined defective vacuum relief device and they did not have part, so made temporary repairs (gasket) to eliminate any venting possibility.  Shipper notified car owner, Gunvor, who hired Rescar to make repairs.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010116</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010370</title>
       <description>
@@ -70,6 +91,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010119</guid>
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010252</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010252&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
+                &lt;li&gt;City: SCHENECTADY&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: unload manager brought package to qa and left it in the damage area during the preload sort DescribePack: Package contained 2 1-Gallon cans and 3 Quarter-Gallon plastic bottles.  1 Gallon can leaked, causing product to spill on to all other contents.  Outer box could fit 4 1-Gallon cans, but contained above. DurationRel: 1 and MitigateEffect: manager brought it to qa and morning qa repacked it into a salvage drum&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010252</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010115</title>
@@ -175,48 +217,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010093</guid>
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010086</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010086&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: YORKTOWN HGTS&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: LEAKING PACKAGE DISCOVERED UPON OPENING TRAILER DOOR. EMPLOYEES LEFT AREA, RESPONDER CALLED, AND FOLLOWED DECISION TREE AND RESPONSE SHEETS TO CLEAN THE SPILL AND TRANSPORT TO DMP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010086</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010084</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010084&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
-                &lt;li&gt;City: TONAWANDA&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon plastic pail cracked during loading, released 2 cups.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010084</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2023120243</title>

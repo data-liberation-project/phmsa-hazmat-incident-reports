@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:11:29 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010373</title>
       <description>
@@ -91,6 +91,69 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010126</guid>
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010277</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010277&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
+                &lt;li&gt;City: KENNESAW&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024010277 SequenceEvent: Qa was call over due to a leaking hazmat. DescribePack: Caps was loose on the hazmat causing hazmat to leak. DurationRel: 1 and MitigateEffect: Qa clean up the spill place hazmat inside the red containers to be taken over for process.   2.  X-2024010280 SequenceEvent: Qa was call over to unload due to a leaking hazmat. DescribePack: The hazmat caps were loose causing hazmat to leak. DurationRel: 1 and MitigateEffect: Qa clean up the spill lace hazmat inside a red tote to be taken over to the hazmat area to be process.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010277</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010263</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010263&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
+                &lt;li&gt;City: BRASELTON&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: 1 steel drum ethanol solution was discovered on the dock with a hole in it leaking. Cleaned spill with PPE and placed in salvage drum. DescribePack: a hole in the bottom leaking DurationRel: 1 and MitigateEffect: Cleaned spill with PPE and placed in salvage drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010263</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024010186</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010186&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
+                &lt;li&gt;City: VALDOSTA&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010186</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010335</title>

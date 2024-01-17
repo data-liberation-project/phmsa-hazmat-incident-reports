@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:11:29 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010378</title>
       <description>
@@ -93,6 +93,27 @@
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
     </item>
     <item>
+      <title>Report E-2024010218</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010218&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
+                &lt;li&gt;City: PITTSBURGH&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: . It was reported that due to unknown reasons, approximately 2 gallons of Prep-All Wax &amp;amp; Grease Remover (Hazardous - UN1993)) was released. The released product was contained to the trailer floor and dried up. The SDS was reviewed with the terminal and they felt comfortable cleaning the release donning the proper PPE per SDS. The 2 damaged cans and remaining waste product were placed into a 10 gallon poly drum and staged in OS&amp;amp;D. There were no drains, soils or waterways reported to have been impacted by the release.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010218</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2024010365</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010365&lt;/a&gt;&lt;/h3&gt;
@@ -175,27 +196,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010090</guid>
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010062</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010062&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-23&lt;/li&gt;
-                &lt;li&gt;City: PHILADELPHIA&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A LEAKER WAS CALL IN ON BOXLINE 2, CORROSIVE 8. RESPONDER FOLLOWED STEPS TO RESPONED. RESPONDER USED PPE AND FOLLOWED DECISION TREE AND RESPONSE SHEET.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010062</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

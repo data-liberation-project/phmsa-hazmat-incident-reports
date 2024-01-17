@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:11:29 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010154</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010154&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
+                &lt;li&gt;City: BRANCHBURG&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On January 2, 2024, one (1) 55-gallon drum of UN1993 was leaking during transit and released approximately three (3) ounces of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from First Call Environmental (FCE) to remediate the impacted site. FCE personnel deployed absorbent pads to the UN1993-impacted trailer. FCE then replaced the bung on top of the drum. All spent absorbents were collected and containerized into one (1) 55-gallon drum for transport and disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010154</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010369</title>
       <description>
@@ -28,6 +49,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010369</guid>
       <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010257</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010257&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024010257 SequenceEvent: Package arrived at hazmat during sunrise sort in a plastic bin. DescribePack: Inspection showed package of &amp;quot;BRANSON EC FORMULATED CLEANING CONCENTRATE&amp;quot; to be wet with internal leakage, torn open, with 1 of 4 items missing, and 1 of 4 with a loose cap. Damage most likely from being placed on wrong conveyor belt. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless otherwise stated.   2. X-2024010264 SequenceEvent: IT APPEARS THE SHIPMENT WAS REMOVED FROM THE SYSTEM FLOW, DUE TO THE EXTERNAL CARTON BEING TORN AND WET DURING THE DAY SORT. DescribePack: UPON INSPECTION OF INNER CONTENTS DURING THE TWILIGHT SORT 4 X 1 GALLON BRANSON PLASTIC bottle. Two of the caps were loose and caused leakage which damaged the outer and inner packaging allowing 20% spillage. DurationRel: 12 and MitigateEffect: FACILITY PROCEDURES FOR DAMAGED HAZARDOUS MATERIAL FOLLOWED, CONTENTS CONTAINED AND AWAITING DISPOSITION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010257</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010296</title>

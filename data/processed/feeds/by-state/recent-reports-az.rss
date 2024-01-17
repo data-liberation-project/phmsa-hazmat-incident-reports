@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:11:29 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010375</title>
       <description>
@@ -49,6 +49,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010362</guid>
       <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010287</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010287&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
+                &lt;li&gt;City: PHOENIX&lt;/li&gt;
+                &lt;li&gt;State: AZ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was tipped on it&amp;#x27;s side and leaked. DescribePack: Lid was not on the container properly which caused it to leak. DurationRel: 1 and MitigateEffect: Package was stood upright and placed inside the Hazmat bag.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010287</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010253</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010253&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
+                &lt;li&gt;City: CHANDLER&lt;/li&gt;
+                &lt;li&gt;State: AZ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: During the unloading process unload crew noticed the leaking package. Package was place in a hazardous bag and tote and staged for proper inspection. Three packages were damaged from the hazmat. DescribePack: Cap failure. DurationRel: 6 and MitigateEffect: Packages were placed in hazardous bags and totes.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010253</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010346</title>
@@ -177,109 +219,25 @@
       <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010088</title>
+      <title>Report E-2024010219</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010088&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010219&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-26&lt;/li&gt;
-                &lt;li&gt;City: GOODYEAR&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
+                &lt;li&gt;City: PHOENIX&lt;/li&gt;
                 &lt;li&gt;State: AZ&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+                &lt;li&gt;Description: It was  reported a 16-ounce spill of regulated UN1824 &amp;quot;Instant Power® Hair Clog Remover&amp;quot; that was released at Terminal UPH.  (1) a 33-ounce plastic bottle was punctured during loading operations impacting Trailer #463-4139 and underneath the trailer. The terminal decided they would clean up the release with terminal-used PPE onsite.  (1) 30-plastic drum containing the impacted &amp;quot;Oil Dri&amp;quot; absorbent material used, plastic bottle, and the issued PPE was created as waste and left onsite for the terminal to manage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010088</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010060</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010060&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: GOODYEAR&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RECIEVED A CALL FOR A LEAKING PACKAGE IN THE UNLOAD WALL. UPON ARRIVAL IDENTIFIED SAID LEAKING PACKAGE. PLACED LEAKING PACKAGE IN SPILL TRAY AND CLEANED UP SPILL. TRANSPORTED PACKAGE TO DMP ARE FOR PROPER DISPOSAL.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010060</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010061</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010061&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: GOODYEAR&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RECEIVED A CALL FOR A LEAKING PACKAGE AT THE UNLOAD WALL. UPON ARRIVAL, RESPONDER IDENTIFIED SAID LEAKING PACKAGE. RESPONDER PLACED PACKAGE IN SPILL TRAY. TRANSPORTED PACKAGE TO DMP AREA FOR PROPER DISPOSAL&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010061</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010068</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010068&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-23&lt;/li&gt;
-                &lt;li&gt;City: GOODYEAR&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010068</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010059</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010059&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-10T15:11:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: GOODYEAR&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WAS DRIVING TO OTHER LEAKER IN FULL PPE WHEN CALLED OVER TO THIS LEAKER BY RMP SUPERVISOR, IN FULL PPE. THE RMP PLACED THE LEAKER ONTO SPILL CART. RESPONDER THEN CONTINUED TO HIS NEXT LEAKER CALL BEFORE BRINGING BOTH BACK TO THE DMP AREA FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010059</guid>
-      <pubDate>Wed, 10 Jan 2024 15:11:16 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010219</guid>
+      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010325</title>
