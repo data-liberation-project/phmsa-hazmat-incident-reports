@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 15:13:37 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010124</title>
       <description>
@@ -28,6 +28,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010124</guid>
       <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010172</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010172&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
+                &lt;li&gt;City: MADISON&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: found the box in the hazmat cage damaged and wet. once opened found that the two plastic containers have leaked out due to not having any caps or seals on the containers. DescribePack: The containers have leaked out due to not having caps on the containers. DurationRel: 1 and MitigateEffect: all was put into the hazmat cage in a plastic spill bag and then into a black tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010172</guid>
+      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010191</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010191&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-16&lt;/li&gt;
+                &lt;li&gt;City: SUPERIOR&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was discovered to be leaking upon unloading it from the trailer. Package was immediately placed into a damage bucket and brought to QA for inspection and processing. DescribePack: Package was soaked through and falling apart. Bottles cap came off spilling contents. DurationRel: 1 and MitigateEffect: Package was placed into a damage bin to contain spill.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010191</guid>
+      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010133</title>

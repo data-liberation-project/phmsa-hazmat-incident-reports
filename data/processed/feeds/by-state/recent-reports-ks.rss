@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:18:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 15:13:37 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010279</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010279&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
+                &lt;li&gt;City: KANSAS CITY&lt;/li&gt;
+                &lt;li&gt;State: KS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: (1) box containing 4- 1 gallon jugs that were crushed due to a load shift, the pallet fell over. The release impacted the trailer floor and cardboard boxes on the pallet. No Drains, Soils, waterways were impacted.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010279</guid>
+      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024010242</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010242&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-08&lt;/li&gt;
+                &lt;li&gt;City: Wichita&lt;/li&gt;
+                &lt;li&gt;State: KS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Other fell&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010242</guid>
+      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010159</title>
       <description>
@@ -51,25 +93,25 @@
       <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010122</title>
+      <title>Report X-2024010182</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010122&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-11T15:12:25+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010182&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-15&lt;/li&gt;
+                &lt;li&gt;City: COLBY&lt;/li&gt;
                 &lt;li&gt;State: KS&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SUPERVISOR CALLED IN A LEAKER TO THE DMP. DMP DISPATCHED A RESPONDER WITH FULL PPE AND SPILL CART. RESPONDER ARRIVED ON SCENE AND CONSULTED WITH THE DECISION TREE ON HOW TO PROCCED WITH THE CLEAN UP. RESPONDER FOLLOWED THE GUIDLINES IN THE DECISION TREE AND CLEANED UP THE SPILL. RESPONDER BROUGHT BACK THE LEAKER FOR PROPER DISPOSAL. LEAKER WAS DISPOSED OF FOLLOWING GUIDLINES&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Found during unload on trailer. 1 box with 2 containers of disinfectant leaking from nozzle. Package was not loaded on floor. PH notified manager who confirmed no additional contamination and removed package from work area. DescribePack: Leaking nozzle on 2 containers. DurationRel: 1 and MitigateEffect: Placed contents and packaging inside of hazmat tote, cleared area of contamination to resume work.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010122</guid>
-      <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010182</guid>
+      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010276</title>
@@ -154,69 +196,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010332</guid>
       <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010085</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010085&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-11T15:12:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
-                &lt;li&gt;City: WICHITA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010085</guid>
-      <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010096</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010096&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-11T15:12:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SUPERVISOR CALLED IN A LEAKER TO THE DMP. DMP DISPATCHED A RESPONDER WITH FULL PPE AND DECSION TREE. RESPONDER ARRIVED AND CONSULTED THE DECISION TREE ON HOW TO PROCCED. RESPONDER FOLLOWED THE DECSION TREE GUIDLINES AND CLEANED UP THE SPILL. RESPONDER BROUGHT BACK THE LEAKER TO THE DMP FOR PROPER DISPOSAL&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010096</guid>
-      <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010063</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010063&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-11T15:12:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-20&lt;/li&gt;
-                &lt;li&gt;City: WICHITA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010063</guid>
-      <pubDate>Thu, 11 Jan 2024 15:12:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
