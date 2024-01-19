@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jan 2024 15:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 18:14:04 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010466</title>
       <description>
@@ -175,48 +175,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010264</guid>
       <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010149</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010149&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
-                &lt;li&gt;City: SYLMAR&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WAS CALLED TO HAZMAT SPILL IN THE UNLOAD. THE PACKAGE HAD SHIPPING PAPERS AND FLAMABLE LIQUID 3 LABEL ON IT. RESPONDER FOLLOWED DECISION TREE FOR CLEAN UP RESPONSE PROCEDURES.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010149</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010118</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010118&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-06&lt;/li&gt;
-                &lt;li&gt;City: BLYTHE&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal UBY experienced a release from 24 boxes of UN1824 Mechanical Warewash Detergent each containing 1.5-gallon poly jugs. ERTS dispatched contractors to complete spill cleanup. Contractors arrived onsite and confirmed approximately 2.5-gallons of product released in total to a 6’ x 12’ area of the trailer floor due to load shift/improper loading. Absorbents were deployed and worked into the impacted area. All impacted absorbents were placed into a 55-gallon poly drum. The damaged boxes of product were placed into (2) 55-gallon poly drums. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010118</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010470</title>
@@ -742,111 +700,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010313</guid>
       <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010352</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010352&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
-                &lt;li&gt;City: SANTA FE SPRINGS&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package while being loaded was found to be damage due to a leak which QA was called to retrieve the package and place it in the hazmat area to be inspected and processed DescribePack: While package was being inspected the bottles inside didn&amp;#x27;t had any punctured or crack damage that was causing the leak but the caps were loose which was being loaded caused the leak inside DurationRel: 2 and MitigateEffect: QA was called right away with absorbing pads to carefully clean the affected areas where the package was being loaded to and taken in a tote container to the hazmat area&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010352</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010326</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010326&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-24&lt;/li&gt;
-                &lt;li&gt;City: CITY OF INDUSTRY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found with an internal leakage inside of the trailer in the unload. DescribePack: 1 of 2 canisters were found with a loose lid which caused the spillage, and for the other one to get soiled. DurationRel: 1 and MitigateEffect: The package was immediately put into a hazmat bag along with the absorbent pads used to contain the spillage and taken to the hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010326</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010360</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010360&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
-                &lt;li&gt;City: PACOIMA&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package appeared wet DescribePack: Side of package was wet.  The packaging was falling apart DurationRel: 1 and MitigateEffect: Package was isolated and placed in hazmat storage cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010360</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010339</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010339&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-26&lt;/li&gt;
-                &lt;li&gt;City: CHINO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package handlers unloading delivery vans brought leaking hazmat to QA, was placed in plastic bucket w/absorbent DescribePack: loose cap DurationRel: 1 and MitigateEffect: placed in plastic bucket w/absorbent&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010339</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010319</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010319&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-26&lt;/li&gt;
-                &lt;li&gt;City: WATSONVILLE&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Box was found soaked and open with leaking jugs falling out. DescribePack: The bottle caps were not fully tightened causing leakage. DurationRel: 5 and MitigateEffect: Package was put into a lined hazardous materials tote for inspection.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010319</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010166</title>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jan 2024 15:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 18:14:04 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010375</title>
       <description>
@@ -28,27 +28,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010375</guid>
       <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010362</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010362&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-05&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package found wet and leaking upon inspection the lids on the bottles had come loose causing and internal leak there was no packing to protect product DescribePack: lids on top of bottle came loose DurationRel: 1 and MitigateEffect: i placed package in hazmat bag then placed in yellow drum for processing&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010362</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2023120561</title>
@@ -156,90 +135,6 @@
       <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010346</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010346&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
-                &lt;li&gt;City: CHANDLER&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2024010346 SequenceEvent: Package was unloaded during the morning shift and notified personnel about the leaking package. Package was placed in a hazardous tote and bag for further inspection. DescribePack: Caps seals were off the bottles. DurationRel: 6 and MitigateEffect: Package was placed in a hazardous tote and bag and placed under the vent in the hazmat cage.   2. X-2024010347 SequenceEvent: Package was leaking during the unloading process the was placed inside a hazardous tote and bag for further inspection. DescribePack: The cap seals caused an internal leak. Small holes in the seals. DurationRel: 6 and MitigateEffect: Package was placed in a hazardous tote and bag and taken to the hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010346</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010340</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010340&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat was placed on rollers when it fell over, one of the lids became loose due to no inner packing at all to protect the contents inside. DescribePack: Due to a cap becoming loose the outside of the box and the inside became stained and wet. DurationRel: 1 and MitigateEffect: The hazmat was placed into a yellow drum lined with a hazmat bag to prevent any further leaking.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010340</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023121103</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023121103&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-14&lt;/li&gt;
-                &lt;li&gt;City: TUCSON&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Air/vapor valve left open and plug less than tool tight.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023121103</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010355</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010355&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat was going to be loaded when it was dropped due to another package. No inner packing caused the lids to easily become loose. DescribePack: The lack of inner packing caused the lids to become loose causing leakage and a tear on the side of the box as well as becoming wet due to the contents inside. DurationRel: 1 and MitigateEffect: Box was then picked up and placed in a red tote lined with a hazmat bag to prevent further leaking.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010355</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024010219</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010219&lt;/a&gt;&lt;/h3&gt;
@@ -259,27 +154,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010219</guid>
       <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010325</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010325&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-12T18:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-21&lt;/li&gt;
-                &lt;li&gt;City: CHANDLER&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was brought to the damage area for further inspection by a trained personnel. Upon inspection the cap lock for the container failed during the unloading process. Approximately, 5 cups of the liquid leaked out which caused the package to be soiled. DescribePack: The cap lock failed. DurationRel: 7 and MitigateEffect: The package was further inspected by a trained personnel to reduce any possible injuries.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010325</guid>
-      <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
