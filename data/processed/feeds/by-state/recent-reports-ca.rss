@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jan 2024 21:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 00:35:44 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010276</title>
       <description>
@@ -679,6 +679,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010319</guid>
       <pubDate>Fri, 12 Jan 2024 18:13:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010166</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010166&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-19T00:34:31+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-10-09&lt;/li&gt;
+                &lt;li&gt;City: SAN DIEGO&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package was brought to hazmat cage and put into a hazardous tote DescribePack: loose caps and caused the paint to leak DurationRel: 1 and MitigateEffect: thrown into a hazardous waste bag&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010166</guid>
+      <pubDate>Fri, 19 Jan 2024 00:34:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2023120517</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120517&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-19T00:34:31+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-06-28&lt;/li&gt;
+                &lt;li&gt;City: BARSTOW&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: GATX 82116 was found in the Barstow yard leaking from the top of the car. Upon inspection by a BNSF responder, the liquid valve was leaking below the valve due to being less than tool-tight.. The valve was removed, threads taped and tool-tightened.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120517</guid>
+      <pubDate>Fri, 19 Jan 2024 00:34:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
