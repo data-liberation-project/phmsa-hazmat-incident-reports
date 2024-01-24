@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 15:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 00:35:52 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010410</title>
       <description>
@@ -154,48 +154,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010208</guid>
       <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010122</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010122&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-16T18:13:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-06&lt;/li&gt;
-                &lt;li&gt;City: ORLANDO&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal NOF experienced a UN1992 Pro Form Lacquer Thinner Fast 19122 release from a 5-gallon steel drum. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 1 cup of product released to a 2’ x 2’ area of cardboard on the floor due to a puncture caused by other freight as a result of improper loading. The release was contained to cardboard. The damaged pail and impacted cardboard were collected into a 55-gallon metal drum. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010122</guid>
-      <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010130</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010130&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-16T18:13:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
-                &lt;li&gt;City: Gainesville&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: AVERITT EXPRESS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Load shift&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010130</guid>
-      <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010441</title>
@@ -427,27 +385,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010182</guid>
       <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010307</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010307&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-16T18:13:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-24&lt;/li&gt;
-                &lt;li&gt;City: POMPANO BEACH&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: HazMat arrived in a repack box with one side wet and torn away.  It was put in a red tote and HazMat bag until it could be processed. DescribePack: Someone had repacked the HazMat from an earlier date.  One cap was broken off and a jug was leaking.  One side of the box was soiled and torn apart. DurationRel: 1 and MitigateEffect: A red tote and HazMat bag were used to isolate it from others.  It was then placed inside the HazMat Cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010307</guid>
-      <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

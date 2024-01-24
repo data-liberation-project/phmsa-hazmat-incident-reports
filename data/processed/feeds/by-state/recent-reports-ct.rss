@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 15:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 00:35:52 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010496</title>
       <description>
@@ -259,48 +259,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010167</guid>
       <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010309</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010309&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-16T18:13:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-24&lt;/li&gt;
-                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVE FOR UNLOAD BY AN MANAGER PUT ON A CART THEN BROUGHT TO HAZMAT CAGE DescribePack: GLASS BOTTLE SHATTERED DUE TO HARD HIT DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT IN TO A HAZMAT TOTE WITH BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010309</guid>
-      <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010310</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010310&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-16T18:13:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-24&lt;/li&gt;
-                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVE FOR UNLOAD BY AN MANAGER PUT ON A CART THEN BROUGHT TO HAZMAT CAGE DescribePack: DUE TO INSUFFICIENT PACKAGEING THE CAPS LOOSENED SEALS FAILED NO HOLES OR CRACKS DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT IN TO A HAZMAT TOTE WITH BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010310</guid>
-      <pubDate>Tue, 16 Jan 2024 18:13:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
