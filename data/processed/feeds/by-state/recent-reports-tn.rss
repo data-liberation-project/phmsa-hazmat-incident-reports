@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jan 2024 12:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 15:11:42 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010379</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010379&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-24T15:11:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
+                &lt;li&gt;City: BLOUNTVILLE&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010379</guid>
+      <pubDate>Wed, 24 Jan 2024 15:11:38 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010487</title>
       <description>
@@ -196,69 +217,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010234</guid>
       <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010250</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010250&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Wet fiberboard box found on HMPA staging pallet, unloaded from 826162 KODA trailer. Unknown whether leaking on dock or in transit. DescribePack: One of four 1 gallon plastic bottles lost 0.8 gal of fluid due to a cracked and missing cap closure. DurationRel: 1 and MitigateEffect: PPE donned and ventilation used.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010250</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010192</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010192&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: ARLINGTON&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Three 5 gallon metal pails were punctured during loading, released 1 gallon.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010192</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010283</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010283&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: MOUNT JULIET&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND ON VAN WITH A WET OUTER PACKAING. PACKAGE BROUGHT TO QA. DescribePack: INNER BOTTLE HAD A LOOSE CAP DurationRel: 1 and MitigateEffect: PACKAGE PLACED UPRIGHT AND BROUGH TO QA DAMAGE AREA&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010283</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

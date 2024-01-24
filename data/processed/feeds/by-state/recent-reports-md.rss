@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jan 2024 12:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 15:11:42 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024010400</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010400&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-24T15:11:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-08&lt;/li&gt;
+                &lt;li&gt;City: BALTIMORE&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITD PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER CALLED TO LEAKING PACKAGE IN THE UNLOAD DMP, DONNED PPE, FOLLOWED DECISION TREE TO RESPONSE SHEET FOR AN OXIDIZER. RESPONDER FOLLOWED ACTIONS STEPS FOR CLEAN UP. RESPONDER PROCESSED THROUGH DMP&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010400</guid>
+      <pubDate>Wed, 24 Jan 2024 15:11:38 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010459</title>
       <description>
@@ -49,48 +70,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010450</guid>
       <pubDate>Fri, 19 Jan 2024 15:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010268</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010268&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND LEAKING ON THE UNLOAD TRAILER FROM THE PREVIOUS FACILITY. DescribePack: THE CAPS CAME LOOSE ON THE PLASTIC JUGS CAUSING THE CONTENTS TO LEAK OUT. DurationRel: 8 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010268</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010294</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010294&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-23&lt;/li&gt;
-                &lt;li&gt;City: SPARROWS POINT&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: discovered damaged on work area 1144.package was dropped upon inspection one bottle was shattered leaking out 4 liters of content. DescribePack: failure was due to package being dropped resulting in internal leakage. DurationRel: 1 and MitigateEffect: spillage remained inside of outer container.package was placed in a hazmat tote and put under ventilation system.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010294</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jan 2024 12:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 15:11:42 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024010388</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010388&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-24T15:11:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
+                &lt;li&gt;City: LENEXA&lt;/li&gt;
+                &lt;li&gt;State: KS&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS RETREIVED BY A DESIGNATED RESPONDER FROM DOOR 250. BOX SAT IN DMP AWAITING DAMAGE INSPECTION AND TO DETERMINE HOW TO PROCEED WITH DAMAGE OR DISPOSAL OF CONTENTS. DESIGNATED RESPONDER TOOK THE PACKAGE FOR INITAL DAMAGE INSPECTION AND FOUND LIMITED QUANTITY MARKING ON INTERIOR BOXES (REWRAP; NO LEAK) BUT THERE WERE NO MARKINGS OF ANY KIND ON THE EXTERIOR PACKAGE. SUPERVISOR WAS CALLED FOR UNDECLAIRED HAZARDOUS MATERIAL.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010388</guid>
+      <pubDate>Wed, 24 Jan 2024 15:11:38 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010432</title>
       <description>
@@ -238,69 +259,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010182</guid>
       <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010276</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010276&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: While a package handler was working in the IC belt, he noticed that a package was on it sided and wet. he told to his manager and they called QA,. DescribePack: One gallon got loose cap and spilled out some of the contens. DurationRel: 1 and MitigateEffect: QA went to the area and put the package in a tote line with a hazmat bag and brought to the processing cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010276</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010256</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010256&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-20&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Driver coded a 10. Admin found on truck laying sideways with directional arrows. Manager looked up SDS to confirm undeclared Hazmat. DescribePack: Loose caps and dented products causing leakage. DurationRel: 1 and MitigateEffect: The package was put right side up then transported to QA in a black tote.  Once processing was completed, entire package was put in a sealed salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010256</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010293</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010293&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-22&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: While a package handler was in the IC belt, he noticed that a package was leaking, he told to his manger and they called QA. DescribePack: The package got crack in the bottom seal and spilled out. DurationRel: 1 and MitigateEffect: QA went to the area with a tote line with a hazmat bag and pick the package and bright to the processing cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010293</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
   </channel>
 </rss>

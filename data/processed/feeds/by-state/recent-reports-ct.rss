@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jan 2024 12:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 15:11:42 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010496</title>
       <description>
@@ -196,69 +196,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010212</guid>
       <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010168</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010168&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-19&lt;/li&gt;
-                &lt;li&gt;City: SOUTH WINDSOR&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon metal pail was punctured during unloading, released 2 gallons in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010168</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010261</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010261&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
-                &lt;li&gt;City: SOUTH WINDSOR&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was place into a bin. DescribePack: The package failed due to the bottle cap coming loose from the bottle. DurationRel: 0 and MitigateEffect: The hazmat damage was then place into a red hazmat bin to prevent further damage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010261</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010167</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010167&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-17T15:11:26+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-29&lt;/li&gt;
-                &lt;li&gt;City: WINDSOR LOCKS&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010167</guid>
-      <pubDate>Wed, 17 Jan 2024 15:11:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
