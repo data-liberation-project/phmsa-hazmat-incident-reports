@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jan 2024 15:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 18:14:08 +0000</lastBuildDate>
     <item>
       <title>Report I-2024100020</title>
       <description>
@@ -135,27 +135,6 @@
       <pubDate>Fri, 19 Jan 2024 15:12:18 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024010205</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010205&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
-                &lt;li&gt;City: KEARNY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon metal pail was punctured, released 5 gallons on dock.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010205</guid>
-      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Report I-2024100022</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100022&lt;/a&gt;&lt;/h3&gt;
@@ -175,48 +154,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100022</guid>
       <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010208</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010208&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-19&lt;/li&gt;
-                &lt;li&gt;City: BARRINGTON&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE UNLOAD THE MANAGER NOTICED THE PACKAGE WAS WET AND IMMEDIATELY TOOK PACKAGE OVER TO THE HAZMAT CAGE TO SECURE AND VENTILATE IT PROPERLY. I WAS THEN CALLED OVER TO SAFELY REPACK IT INTO A YELLOW SALVAGE DRUM. APPROXIMATELY 1 CUP OF ISOPROANOL LIQUID LEAKED OUT DUE TO ONE OF THE FOUR BOTTLES HAVING A LOOSE CAP. AWAITING THE DISPOSITION FROM PGH. DescribePack: ONE OF THE FOUR BOTTLES HAD A LOOSE CAP CAUSING 1 CUP OF ISOPROPANOL LIQUID TO LEAK OUT. DurationRel: 1 and MitigateEffect: QUICKLY AND SAFELY TAKING THE WET PACKAGE OVER TO THE HAZMAT CAGE TO SECURE IT AND VENTILATE IT. AFTERWARDS REPACKING IT INTO A YELLOW SALVAGE DRUM TO BE SHIPPED TO DISCARD PROPERLY.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010208</guid>
-      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010214</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010214&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-19&lt;/li&gt;
-                &lt;li&gt;City: DOVER&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package left at QA; unsure of original discovery point. Package inspected by morning QA upon arrival to warehouse in AM. Package leaked into plastic bin it was originally placed in; upon discovery, items were separated from box and placed into new red hazmat bin with new plastic liner. Upon inspection, 1 gallon can Milesi Polyurethane topcoat had fully leaked into and through box. NOTE: Other items in pkg are hazmat items as well, but did not leak. DescribePack: Outer package is unpunctured/not torn or outwardly damaged, but very wet/sticky from internal leak. Outer package appears to have had hazmat stickers/some remnants of them are visible, but all labeling and stickers have melted off of box/been damaged to the point of unreadability. DurationRel: 1 and MitigateEffect: Upon discovery, package was inspected and items separated from sticky/damaged outer packaging. All inner items and packaging placed in a red hazmat bin with plastic bag liner.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010214</guid>
-      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

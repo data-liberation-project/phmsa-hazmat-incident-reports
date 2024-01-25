@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jan 2024 15:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 18:14:08 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010352</title>
       <description>
@@ -70,27 +70,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010334</guid>
       <pubDate>Fri, 19 Jan 2024 15:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010190</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010190&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-18T15:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-19&lt;/li&gt;
-                &lt;li&gt;City: FORT MILL&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND ON THE VAN LINE WITH A STRONG SMELLING AROMA COMING FROM IT. THE ADMIN ON THE BELT TOOK IT OFF OF THE VAN SCAN TO INVESTIGATE. SHE FOUND THAT THE PACKAGE WAS LEAKING AND TO HER SURPRISE WAS A HAZMAT ON THE INSIDE OF THE OUTER BOX. THE OUTER BOX HAD NO MARKINGS OR HAZMAT LABELS, BUT THE INSIDE BOX HAD A FLAMMABLE LIQUID DIAMOND LABEL AND A UN NUMBER ON IT. SHE PLACED IT IN A HAZMAT TOTE TO BE INVESTIGATED FURTHER. DescribePack: THE PACKAGE FAILURE WAS IN THE CLOSURE. ONE OF THE GALLONS LEAKED OUT THE PRODUCT INSIDE. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A HAZMAT TOTE AND CLOSED SO THAT THE AROMA/ VAPORS WERE NO LONGER IN THE AIR.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010190</guid>
-      <pubDate>Thu, 18 Jan 2024 15:13:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
