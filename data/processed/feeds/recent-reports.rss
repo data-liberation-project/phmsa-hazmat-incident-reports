@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 03:12:50 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010420</title>
       <description>
@@ -5574,48 +5574,6 @@
       <pubDate>Tue, 23 Jan 2024 00:37:19 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010166</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010166&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-19T00:34:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-09&lt;/li&gt;
-                &lt;li&gt;City: SAN DIEGO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was brought to hazmat cage and put into a hazardous tote DescribePack: loose caps and caused the paint to leak DurationRel: 1 and MitigateEffect: thrown into a hazardous waste bag&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010166</guid>
-      <pubDate>Fri, 19 Jan 2024 00:34:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010253</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010253&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-19T00:34:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-17&lt;/li&gt;
-                &lt;li&gt;City: CONNERSVILLE&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: RECLAIMED ENERGY CO., INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The material shipped as 32/55-gallon drums (received on 10/17/23) of flammable liquids for recycling.   The material was attempted to be recycled but did not result in an usable product. This resulted in the material not qualifying as a Hazardous Secondary Material. The material was managed as a hazardous waste with the waste codes of F005, F003, D001, and D035.  Reclaimed Energy is permitted to accept these waste codes and managed the waste in an appropriate manner.  The generator has been notified.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010253</guid>
-      <pubDate>Fri, 19 Jan 2024 00:34:31 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024010438</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010438&lt;/a&gt;&lt;/h3&gt;
@@ -5635,48 +5593,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010438</guid>
       <pubDate>Tue, 23 Jan 2024 00:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010165</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010165&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-19T00:34:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-19&lt;/li&gt;
-                &lt;li&gt;City: HOUSTON&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THIS HAZMAT WAS LEFT ON THE FLOOR IN THE CENTER OFF THE QA AREA, NO SPILLAGE AT THIS TIME THE LIQUID HAD ALREADY EXPELLED.  AT THIS TIME PPE WAS USED TO PUT THE HAZMAT INSIDE OF THE YELLOW DRUM FOR SAFETY. DescribePack: DIDN&amp;#x27;T SEE THE FAILURE HOWEVER IT WAS DROPPED AND ALL THE LIQUID IS EXPELLED FROME GLASS CONTAINER DurationRel: 1 and MitigateEffect: PKG WAS PLACED INSIDE THE BLUE BAG AND PUT INTO THE YELLOW DRUM AND PLACE IN THE HAZMAT CAGE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010165</guid>
-      <pubDate>Fri, 19 Jan 2024 00:34:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010252</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010252&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-19T00:34:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-21&lt;/li&gt;
-                &lt;li&gt;City: CONNERSVILLE&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: RECLAIMED ENERGY CO., INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The material shipped as 36/ 55-gallon drums (received on 9/21/23) of flammable liquids for recycling.   The material was attempted to be recycled but did not result in an usable product. This resulted in the material not qualifying as a Hazardous Secondary Material. The material was managed as a hazardous waste with the waste codes of F005, F003, D001, and D035.  Reclaimed Energy is permitted to accept these waste codes and managed the waste in an appropriate manner.  The generator has been notified.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010252</guid>
-      <pubDate>Fri, 19 Jan 2024 00:34:31 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010345</title>
@@ -5740,27 +5656,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010408</guid>
       <pubDate>Thu, 25 Jan 2024 00:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2023120517</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2023120517&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-19T00:34:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-06-28&lt;/li&gt;
-                &lt;li&gt;City: BARSTOW&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: GATX 82116 was found in the Barstow yard leaking from the top of the car. Upon inspection by a BNSF responder, the liquid valve was leaking below the valve due to being less than tool-tight.. The valve was removed, threads taped and tool-tightened.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2023120517</guid>
-      <pubDate>Fri, 19 Jan 2024 00:34:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
