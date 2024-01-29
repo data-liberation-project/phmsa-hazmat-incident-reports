@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jan 2024 12:17:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 15:11:30 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024010689</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010689&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-29T15:11:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
+                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
+                &lt;li&gt;State: MS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: FOUND ON LOADSIDE NOTICED THE LEAK TURNED UP RIGHT, BROUGHT TO QA, DescribePack: THE CAPS WAS LOOSE CAUSING LEAKAGE DurationRel: -1 and MitigateEffect: IMMIDIETLY CALLED QA TO COME RETREIVE AND WAS BAGGED AND BARRELED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010689</guid>
+      <pubDate>Mon, 29 Jan 2024 15:11:25 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024010389</title>
       <description>
@@ -28,6 +49,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010389</guid>
       <pubDate>Wed, 24 Jan 2024 15:11:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010688</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010688&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-01-29T15:11:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
+                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
+                &lt;li&gt;State: MS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: WHILE UNLOADING PACKAGE HANDLER NOTICED THE BOX WAS WET. CALLED HAZMAT TEAM. THERE WAS NO SPILLAGE ON THE FLOOR JUST ON THE BOX. DescribePack: THE BOTTLES HAD LOOSE CAPS CAUSING CONTENTS TO LEAK OUT A LITTLE DurationRel: -1 and MitigateEffect: AS SOON AS PACKAGE HANDLER SAW BOX WAS WET THEY INFORMED THEIR MANAGER WHO CALLED QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010688</guid>
+      <pubDate>Mon, 29 Jan 2024 15:11:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
