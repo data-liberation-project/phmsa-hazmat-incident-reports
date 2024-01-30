@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jan 2024 00:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 03:11:14 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010609</title>
       <description>
@@ -4900,69 +4900,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120477</guid>
       <pubDate>Wed, 24 Jan 2024 15:11:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010167</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010167&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-23T00:37:19+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-10-26&lt;/li&gt;
-                &lt;li&gt;City: ELLENWOOD&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: the package was discovered at the hazmat processing cage damaged DescribePack: loose tops caused the spill DurationRel: 3 and MitigateEffect: mgmt retrieved the package and removed it from the area&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010167</guid>
-      <pubDate>Tue, 23 Jan 2024 00:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010438</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010438&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-23T00:37:19+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-09-20&lt;/li&gt;
-                &lt;li&gt;City: KYLE&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Driver found package leaking at 2:26pm and brought it back to warehouse. Hazmat was put in damage tote. DescribePack: Bottle had cracked cap from package being dropped. DurationRel: 1 and MitigateEffect: Hazmat was put in damage hazmat tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010438</guid>
-      <pubDate>Tue, 23 Jan 2024 00:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010437</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010437&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-23T00:37:19+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-07-28&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Some point during transit the contents caps have came loose causing a leak of cleaner package was found and placed in the hazmat cage for processing. DescribePack: loose caps DurationRel: 1 and MitigateEffect: package was placed in a spillproof tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010437</guid>
-      <pubDate>Tue, 23 Jan 2024 00:37:19 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010408</title>
