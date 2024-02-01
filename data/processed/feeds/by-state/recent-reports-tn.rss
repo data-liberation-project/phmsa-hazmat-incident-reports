@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 03:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:11:53 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010486</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010486&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-26&lt;/li&gt;
+                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: XPO Logistics terminal NNA experienced a UN1760 Muscle Magic release from a 5-gallon poly pail due to a forklift puncture. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 4-gallons of product released to a 12’ x 15’ area of the concrete dock floor due to a forklift puncture. Absorbents were deployed and worked into the impacted area. The damaged pail and material remaining in it were solidified and containerized along with all impacted absorbents into a 55-gallon poly drum. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010486</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010655</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010655&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
+                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Wet fiberboard box found on unload, placed in lined tote, and staged for HMPA. The outer packaging was soiled by leakage from another package and/or rain in transit. DescribePack: Upon opening the box, spill incident was discovered. One of four 1 gallon plastic bottles lost 1oz of fluid due to a loose cap closure. DurationRel: 1 and MitigateEffect: PPE donned. The tote used for transport to HMPA was lined.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010655</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024010450</title>
       <description>
@@ -51,25 +93,46 @@
       <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024010411</title>
+      <title>Report X-2024010132</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010411&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010132&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: Memphis&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
+                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
                 &lt;li&gt;State: TN&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+                &lt;li&gt;Description: A fiberboard box with signs of release was discovered during sort operations at the MEMH facility. The shipment was an all packed in one and the single 500ML glass bottle containing UN2248 was broken spilling inside of the fiberboard box. The fiberboard boxes inside were separated with dividers and styrofoam peanuts for dunnage. All contents were placed into a steel salvage package and a new declaration will be obtained for movement.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010411</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010132</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010114</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010114&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
+                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On Dec 27th during the PM sort a package was discovered to be leaking.   The package contained 13 aerosol cans and 3 cans of paint.  One of the aerosol cans dispersed some of its contents inside of the package.   The spill was cleaned up and the package was contained in a steel salvage drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010114</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010118</title>

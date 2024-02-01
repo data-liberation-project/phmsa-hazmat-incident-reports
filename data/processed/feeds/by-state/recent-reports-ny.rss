@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 03:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:11:53 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024010666</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010666&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-05&lt;/li&gt;
+                &lt;li&gt;City: SYRACUSE&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA found a hazmat leaker at door 311. Hazmat tote, hazmat bag and gloves were used to detain the hazmat and bring it back to QA area. Upon further inspection found that the cause was a crack on the Body. DescribePack: the cause was a crack on the Body. DurationRel: 1 and MitigateEffect: Hazmat tote, hazmat bag and gloves were used to detain the hazmat and bring it back to QA area&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010666</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010669</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010669&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-07&lt;/li&gt;
+                &lt;li&gt;City: SYRACUSE&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA WAS CALLED TO LOAD DOOR 305 FOR HAZMAT PACKAGE THAT APPEARED TO BE WET. DescribePack: UPON INSPECTION IN QA IT WAS CONFIRMED THE CAPS WERE LOOSE AND CONTENTS LEAKED TO OUTER PACKAGING DurationRel: 1 and MitigateEffect: PACAKGE WAS CONTAINED IN A SALVAGE DRUM AND REPORTS WERE FILED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010669</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010697</title>
       <description>
@@ -156,48 +198,6 @@
       <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
     </item>
     <item>
-      <title>Report I-2024100019</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100019&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
-                &lt;li&gt;City: Long Island City&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 01/03#2024 hidden dangerous goods were discovered during the shipment inspection process at the DHL Express LIC facility, located at 12-12 33rd Avenue, Long Island City, NY 11106. Transportation by road has been confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100019</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010157</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010157&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
-                &lt;li&gt;City: SELKIRK&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: CSX CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 01/04/2024, at 1336 hours, personnel at the CSX yard in Selkirk, New York, reported product leaking from inside the valve box of car LTCX 1902, a tank car loaded with Argon, refrigerated liquid.  The car was isolated and the shipper, Linde Inc., was notified via CHEMTREC (Report 2024-0104-00121). David Scoons, a CSX Senior Manager of Hazardous Materials, responded to the incident and determined the cause of the release was a loose coupler fitting on a gauge panel feed line.  Response personnel tightened the loose coupler fitting and stopped the release.  The shipper’s representative, Timothy Lavallee (716-225-0242), was notified of the condition found and the corrective actions taken.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010157</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024010392</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010392&lt;/a&gt;&lt;/h3&gt;
@@ -217,27 +217,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010392</guid>
       <pubDate>Mon, 29 Jan 2024 15:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024100003</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100003&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
-                &lt;li&gt;City: Brooklyn&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 12/27/2023, hidden dangerous goods were discovered during the shipment inspection process at the DHL BKL Service Center, 653 East 56th St., Brooklyn, NY 11203. Transportation by road has been confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100003</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

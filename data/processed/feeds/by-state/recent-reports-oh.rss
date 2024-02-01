@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 03:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:11:53 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024010665</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010665&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
+                &lt;li&gt;City: GROVE CITY&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: CERTIFIED PERSONNEL CALLED ABOUT A WET DENTED METAL DRUM/PAIL THAT WAS LEAKING AT THE BASE. DRUM WAS PLACED IN A LINED TOTE AND TAKEN TO HMPA FOR PROCESSING. DescribePack: MISHANDLING AT PREVIOUS LOAD POINT ALLOWED BOTTOM OF METAL PAIL TO BECOME DENTED CAUSING WELD AT BASE TO FAIL AND LIQUID RELEASE TO OCCUR. DurationRel: 0 and MitigateEffect: METAL PAIL/DRUM WAS PLACED IN A LINED TOTE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010665</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024010488</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010488&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-22&lt;/li&gt;
+                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: One 55 gallon metal drum was leaking due to faulty packaging, released 2 cups.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010488</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010668</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010668&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-06&lt;/li&gt;
+                &lt;li&gt;City: GROVE CITY&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.  Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: Two of the lids have a small puncture in them allowing leakage. DurationRel: 0 and MitigateEffect: placed in a red tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010668</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024010475</title>
       <description>
@@ -196,111 +259,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010438</guid>
       <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010580</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010580&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WORE REQUIRED PERSONAL PROTECTIVE EQUIPMENT (PPE), FOLLOWED THE DECISION TREE AND APPROPRIATE RESPONSE SHEET, CLEANED UP AND REMOVED THE SPILL SAFELY.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010580</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010425</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010425&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-18&lt;/li&gt;
-                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 30 gallon plastic drum was punctured, due to faulty skid, during unloading, released 10 gallons&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010425</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010579</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010579&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WORE REQUIRED PERSONAL PROTECTIVE EQUIPMENT (PPE), FOLLOWED THE DECISION TREE AND APPROPRIATE RESPONSE SHEET, CLEANED UP AND REMOVED THE SPILL SAFELY&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010579</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010419</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010419&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
-                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon plastic pail arrived crushed in transit, released 1 cup in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010419</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010423</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010423&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
-                &lt;li&gt;City: Norwalk&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Six 1 gallon metal pails were crushed in transit, released 16 ounces in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010423</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010479</title>

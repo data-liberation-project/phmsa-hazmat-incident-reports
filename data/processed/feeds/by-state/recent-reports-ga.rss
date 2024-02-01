@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 03:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:11:53 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024010802</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010802&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
+                &lt;li&gt;City: KENNESAW&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Qa was call over to unload due to a leaking hazmat that spill. DescribePack: The hazmat was drop causing it to leak. DurationRel: 1 and MitigateEffect: Qa clean up the spill place hazmat inside a red tote to be taking from to the hazmat area to be process.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010802</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024010480</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010480&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-23&lt;/li&gt;
+                &lt;li&gt;City: ELLENWOOD&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On January 23, 2024, one (1) 5-gallon drum of paint was damaged due to a faulty pallet and released approximately five (5) gallons of product to the trailer interior, dock floor, and pavement of the terminal yard. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Hull&amp;#x27;s Environmental Services (HES) to remediate the impacted site.  HES personnel deployed granular absorbents to the released product inside of the trailer and to the pavement underneath, and they swept them up with hand tools. Crews utilized absorbent pads and cleaners to wipe down the impacted trailer floor and underside of the trailer. One (1) 55-gallon drum containing the impacted drum of product and one (1) 55-gallon drum of spent absorbents and any cleanup debris were both labeled and staged in the terminal&amp;#x27;s waste holding room.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010480</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010659</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010659&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
+                &lt;li&gt;City: KENNESAW&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Qa was call over to unload due to a leaking hazmat. DescribePack: The hazmat was leaking near the handle looks like it was Punctured. DurationRel: 1 and MitigateEffect: Qa place hazmt inside a red tote to be taking over for process.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010659</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024010442</title>
       <description>
@@ -28,27 +91,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010442</guid>
       <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010437</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010437&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: KENNESAW&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon metal pail was punctured during loading, released 5 gallons of material.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010437</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
     </item>
   </channel>
 </rss>

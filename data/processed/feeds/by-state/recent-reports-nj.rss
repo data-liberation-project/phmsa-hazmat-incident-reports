@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 03:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 15:11:53 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010472</title>
       <description>
@@ -72,46 +72,25 @@
       <pubDate>Mon, 29 Jan 2024 15:11:25 +0000</pubDate>
     </item>
     <item>
-      <title>Report I-2024100020</title>
+      <title>Report X-2024010644</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100020&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010644&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
-                &lt;li&gt;City: East Windsor&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-30&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
                 &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 01/02/2024 a shipment was discovered to contain hidden DG during inspection process at the DHL TTN service center, located at 80 Milford Road, East Windsor, NJ 08520 Transportation by road has been confirmed.&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024010644  SequenceEvent: Package arrived at hazmat during sunrise sort in a plastic bin. DescribePack: Inspection of &amp;quot;MEDIVATORS RAPICIDE PA&amp;quot; showed closures torn open, wet from internal leakage, with 1 loose cap. Damage most likely caused from being placed on the wrong conveyor belt. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless otherwise stated.   2. X-2024010648 SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERAL LEAKAGE. UPON INSPECTION 1 BOTTLE OF RAPICIDE PART B WAS FOUND TO BE MISSING AND ONE BOTTLE OF PART A TO BE SLIGHTLY LEAKING. THE REMAINING CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE RETURNED TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF RAPICIDE CAUSED FROM PACKAGE BEING DROPPED OF MISHANDLED. DurationRel: 6 and MitigateEffect: CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100020</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024100018</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100018&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
-                &lt;li&gt;City: West Deptford&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 01/04/2024 this shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL NJS Service Center, 1240 Forest Parkway, Suite 400, West Deptford, NJ 08066. Transportation by road has been confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100018</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010644</guid>
+      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010686</title>
@@ -133,27 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010686</guid>
       <pubDate>Mon, 29 Jan 2024 15:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024100022</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100022&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-25T15:11:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
-                &lt;li&gt;City: East Windsor&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 12/28/2023 a shipment was discovered to contain hidden DG during inspection process at the DHL TTN service center, located at 80 Milford Road, East Windsor, NJ 08520 Transportation by road has been confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100022</guid>
-      <pubDate>Thu, 25 Jan 2024 15:11:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
