@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2024 21:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:34:40 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010506</title>
       <description>
@@ -196,6 +196,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010645</guid>
       <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2023120219</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2023120219&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-02T00:33:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-22&lt;/li&gt;
+                &lt;li&gt;City: LIVINGSTON&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: CSX TRANSPORTATION, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 1&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 11/22/2023, at approximately 13:51 hours, CSX train M54121 derailed at milepost 00C 138.8.  As a result of the derailment two tank cars containing sulfur breached and released their contents which caught fire.  Additionally, an empty tank car, which last contained methanol, was determined to have breached.  Multiple other rail cars containing non-regulated materials also breached and released contents- some of which caught fire.  The shippers of hazardous materials (loaded and residue shipments) were notified via CHEMTREC (Report #2023-11-22-00172).  Multiple response contractors, as well as CSX Hazardous Materials Team personnel, were responded to the incident emergently.  CSX and contractor personnel contained the fire and releases, as well as remediated the environmental impact.   Due to air quality concerns from the fire, local responders recommended that residents in the area of the derailment site evacuate.  This recommended evacuation applied to a single residence shortly after the derailment occurred and continued to expand for several hours until it included the entire town of Livingston, KY.  On 11/23/2023, at 16:00 hours, response officials lifted the evacuation.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2023120219</guid>
+      <pubDate>Fri, 02 Feb 2024 00:33:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
