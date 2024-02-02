@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Feb 2024 00:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 15:12:02 +0000</lastBuildDate>
     <item>
       <title>Report E-2024010495</title>
       <description>
@@ -135,25 +135,25 @@
       <pubDate>Mon, 29 Jan 2024 15:11:25 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010603</title>
+      <title>Report X-2024010637</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010603&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-26T15:11:09+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010637&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-21&lt;/li&gt;
-                &lt;li&gt;City: JACKSONVILLE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-29&lt;/li&gt;
+                &lt;li&gt;City: OCALA&lt;/li&gt;
                 &lt;li&gt;State: FL&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER CALLED TO RESPOND TO A WET PKG. RESPONDER DONNED ALL OF PPE AND FOLLOWED THE DECISION TREE AND RESPONSE SHEET TO CLEAN UP AND PROCESS THRU PROPER DMP PROCEDURES.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found wet. Upon inspection found a box contain 2 bottles of Rapicide PA Part A 5-liters had loose lids resulted to leakage. DescribePack: Bottles had loose lids resulted to leakage. DurationRel: 1 and MitigateEffect: Placed in hazmat bag lined tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010603</guid>
-      <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010637</guid>
+      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010661</title>

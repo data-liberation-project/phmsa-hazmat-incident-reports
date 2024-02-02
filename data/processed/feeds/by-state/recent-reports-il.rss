@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Feb 2024 00:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 15:12:02 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010533</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010533&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-26&lt;/li&gt;
+                &lt;li&gt;City: S CHICAGO HEIGHTS&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: XPO notified ERTS of a leaking 55DM as a result of a forklift accident. Approximately 1-Gallon of UN1993 released onto the dock floor. The customer confirmed the proper PPE to clean-up the release and possession of an 85DM to overpack. XPO successfully overpacked the punctured 55DM into an 85DM for waste disposal. No storm-drains, waterways, or soil were impacted by the release.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010533</guid>
+      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024010656</title>
       <description>
@@ -282,109 +303,88 @@
       <pubDate>Mon, 29 Jan 2024 15:11:25 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010564</title>
+      <title>Report X-2024010616</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010564&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-26T15:11:09+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010616&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-18&lt;/li&gt;
-                &lt;li&gt;City: HODGKINS&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
+                &lt;li&gt;City: GRAYSLAKE&lt;/li&gt;
                 &lt;li&gt;State: IL&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER USED THE DECISION TREE AND RESPONSE SHEET TO THEN CLEAN UP THE SPILL AND TRANSPORT BACK TO THE DMP CAGE FOR FURTHER PROCESSING.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THIS CORROSIVE PACKAGE WAS FOUND LEAKING. DescribePack: WHEN INSPECTED THERE WAS 4 GALLONS OF CLR STAIN REMOVER. THERE WAS SOME LOOSE CAPS CAUSING THE LIQUID TO SPILL OUT. DurationRel: 1 and MitigateEffect: THIS PACKAGE WAS PLACED INSIDE A PLASTIC BIN.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010564</guid>
-      <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010616</guid>
+      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010543</title>
+      <title>Report X-2024010630</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010543&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-26T15:11:09+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010630&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
-                &lt;li&gt;City: HODGKINS&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
+                &lt;li&gt;City: SAUGET&lt;/li&gt;
                 &lt;li&gt;State: IL&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER USED THE DECISION TREE AND RESPONSE SHEET TO CLEAN UP THE SPILL AND TRANSPORT BACK TO THE DMP CAGE FOR FURTHER PROCESSING.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package handler was unloading a truck when the package was dropped causing leakage. DescribePack: Leaking seal DurationRel: 1 and MitigateEffect: QA was notified and in house cleanup was preformed.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010543</guid>
-      <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010630</guid>
+      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010563</title>
+      <title>Report X-2024010628</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010563&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-26T15:11:09+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010628&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-18&lt;/li&gt;
-                &lt;li&gt;City: HODGKINS&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-28&lt;/li&gt;
+                &lt;li&gt;City: CAROL STREAM&lt;/li&gt;
                 &lt;li&gt;State: IL&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: THE RESPONDER WENT TO THE SPILL, CLEANED UP THE SPILL, AND PROCESSED THROUGH DMP.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Hazmat package containing 4 plastic bottles of dehydrant. The box was stained on the bottom from one bottle that was spilling liquid due to a puncture near the bottom. Stained other bottles but are undamaged. Not safe to transport. Hazmat was in pallet that was shrink wrapped, unsure how it was damaged exactly. Possibly damaged at shipper before it was sent out. DescribePack: Box was wet on the bottom. DurationRel: 1 and MitigateEffect: Placed inside a hazmat bag inside a plastic bin.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010563</guid>
-      <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010628</guid>
+      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010562</title>
+      <title>Report X-2024010638</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010562&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-26T15:11:09+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010638&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-18&lt;/li&gt;
-                &lt;li&gt;City: PALATINE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-29&lt;/li&gt;
+                &lt;li&gt;City: ROMEOVILLE&lt;/li&gt;
                 &lt;li&gt;State: IL&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS DROPPED DescribePack: when the package fell the contents inside broke DurationRel: 1 and MitigateEffect: The hazmat package was put into a red hazmat bin and brought to me&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010562</guid>
-      <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010596</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010596&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-26T15:11:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-20&lt;/li&gt;
-                &lt;li&gt;City: NORTHBROOK&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WAS INFORMED OF A LEAKING HAZMAT IN BAY 17 UNLOAD. AFTER DONING PPE AND PROCURRING A SPILL CART RESPONDER PROCEEDED TO SAID BAY. THERE WAS A HAZMAT IMMEDIATLY VISIBLE ALONG WITH A PUDDLE ON THE FLOOR AND SEVERAL PACKAGES AROUND IT THAT WERE WET FROM THE BOTTOM. UTILIZING THE DECISION TREE AND RESPONSE SHEETS THE PACKAGE WAS PLACED INTO A LINED SPILL TUB AND TRANSPORTED TO THE PSC AREA ALONG WITH THE SET PACKAGES FOR FURTHER PROCESSING. ONE OF THE BOTTLES HAD A CRACKED CAP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010596</guid>
-      <pubDate>Fri, 26 Jan 2024 15:11:09 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010638</guid>
+      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010650</title>
