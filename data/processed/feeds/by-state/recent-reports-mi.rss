@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Feb 2024 00:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2024 15:13:10 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024010535</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010535&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-05T15:13:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
+                &lt;li&gt;City: FLINT&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Enviroserve was dispatched to the site. Upon the contractor’s  arrival,  personnel  observed  that  the  released  material  impacted  a  5ft-by-2ft  area  of  the trailer floor and estimated that one (1) gallon of material was released due to a puncture into one (1) 330-gallon plastic tote. Enviroserve personnel deployed granular absorbents to the impacted area and recovered the spent material and placed it into one (1) 55-gallon poly drum. The remaining product in the damaged tote was transferred to a new tote and the damaged plastic tote was cut-up and placed into  the  previously  mentioned  55-gallon  poly  tote  and  one  additional  95-gallon  poly  drum.  The  new plastic tote was shipped onto the consignee and the generated waste was staged onsite at the terminal in a secure location prior to the contractor demobilization. The generated waste will remain onsite for the ESTES DGRM team to coordinate disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010535</guid>
+      <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024010496</title>
       <description>
@@ -49,27 +70,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010696</guid>
       <pubDate>Tue, 30 Jan 2024 15:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010513</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010513&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-29T15:11:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
-                &lt;li&gt;City: DETROIT&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: AIR PACKAGE WAS GIVEN TO A RESPONDER TO INSPECT DUE TO THE AUDIBLE RATTLE SOUND OF AN AEROSOL CAN. UPON INSPECTION OF THE CONTENTS DISCOVERED ONE AEROSOL CAN OF SHERWIN-WILLIAMS FINISH REPAIR CLEAR TOPCOAT. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010513</guid>
-      <pubDate>Mon, 29 Jan 2024 15:11:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
