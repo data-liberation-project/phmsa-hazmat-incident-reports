@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Feb 2024 00:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 18:12:10 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024010717</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010717&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-06T18:12:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
+                &lt;li&gt;City: DURHAM&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The damaged can was placed in a hazardous materials tote and taken to the hazardous materials staging area away from personnel and other packages. DescribePack: Upon inspection it was noted that the lid on the can of acetone was dented at one section causing the lid to loosen and the contents to spill. DurationRel: 1 and MitigateEffect: The damaged can was placed in a hazardous materials drum awaiting disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010717</guid>
+      <pubDate>Tue, 06 Feb 2024 18:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010736</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010736&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-06T18:12:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
+                &lt;li&gt;City: KERNERSVILLE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was found on the dock to have a wet outer context. DescribePack: The top corner was wet. Upon investigation the cap failed on one of the four bottles. DurationRel: 1 and MitigateEffect: Placed in a plastic bag, and brought to the hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010736</guid>
+      <pubDate>Tue, 06 Feb 2024 18:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024010728</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010728&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-06T18:12:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
+                &lt;li&gt;City: FLETCHER&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: FOUND PACKAGE IN TRAILER WET AND WAS PLACED IN PLASTIC TUB MOVED TO QA STAGING LOCATION DescribePack: . DurationRel: 1 and MitigateEffect: THE PACKAGE WAS MOVED FORM QA STAGING LOCATION TO HAZMAT CAGE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010728</guid>
+      <pubDate>Tue, 06 Feb 2024 18:12:07 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020007</title>
       <description>
@@ -72,25 +135,25 @@
       <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024010698</title>
+      <title>Report X-2024010398</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010698&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-30T15:10:41+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010398&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-06T18:12:07+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: HOPE MILLS&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
+                &lt;li&gt;City: SELMA&lt;/li&gt;
                 &lt;li&gt;State: NC&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: NORFOLK SOUTHERN CORPORATION&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: PACKAGE WAS LEAKING IN TRAILER. SEPARATED FROM OTHER PACKAGES AND TAKEN TO HAZMAT AREA. SPILLED IN TRAILER. ABSORBENT WAS USED&lt;/li&gt;
+                &lt;li&gt;Description: DODX 14411, residue aviation jet fuel, was found leaking with a steady drip of product at Selma Yard by a train crew.  Area isolated and response contractor called.  Contractor found the BOV cap to be less than tool tight.  Contractor tightened the cap and the leak stopped then cycled the valve to clear any potential debris from the valve.  No further leaks detected.  Area remediated by contractor.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010698</guid>
-      <pubDate>Tue, 30 Jan 2024 15:10:41 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010398</guid>
+      <pubDate>Tue, 06 Feb 2024 18:12:07 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024010647</title>

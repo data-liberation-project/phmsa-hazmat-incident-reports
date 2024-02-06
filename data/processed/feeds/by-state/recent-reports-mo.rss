@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Feb 2024 00:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 18:12:10 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024020031</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020031&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-06T18:12:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
+                &lt;li&gt;City: Saint Charles&lt;/li&gt;
+                &lt;li&gt;State: MO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: OLD DOMINION FREIGHT LINE INC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Pallet failure&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020031</guid>
+      <pubDate>Tue, 06 Feb 2024 18:12:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020010</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020010&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-06T18:12:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-23&lt;/li&gt;
+                &lt;li&gt;City: EARTH CITY&lt;/li&gt;
+                &lt;li&gt;State: MO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER WAS CALLED TO THE UNLOAD FOR A LEAKING FLAMMABLE LIQUID HAZMAT. RESPONDER SHOWED UP WEARING PPE AND SPILL CART. UTILIZING DECISION TREE AND FLAMMABLE LIQUID RESPONSE SHEET, RESPONDER CLEANED UP THE SPILL. PACKAGE AND CONTAMINATED DEBRIS WERE PLACED INTO A SPILL TUB AND TRANSPORTED BACK TO DMP CAGE FOR FURTHER PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020010</guid>
+      <pubDate>Tue, 06 Feb 2024 18:12:07 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024010531</title>
       <description>
@@ -28,27 +70,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010531</guid>
       <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010674</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010674&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-01-30T15:10:41+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-01&lt;/li&gt;
-                &lt;li&gt;City: SAINT LOUIS&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was discovered to be leaking upon being unloaded from the trailer that it was on. Upon discovery, package was placed in a hazmat bag and tote and relocated to the damaged hazmat cage to await further processing. DescribePack: A seal that is supposed to be under the cap on one of the jerricans is not present. DurationRel: 1 and MitigateEffect: The package was placed upright and a neutralizing agent was used on the spill and then cleaned.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010674</guid>
-      <pubDate>Tue, 30 Jan 2024 15:10:41 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024020005</title>
