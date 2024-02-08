@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 18:16:02 +0000</lastBuildDate>
     <item>
       <title>Report X-2024020012</title>
       <description>
@@ -49,48 +49,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010753</guid>
       <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010836</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010836&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-05&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2024010836-SequenceEvent: The package had been found at the back of van line 3. The container had minor tears as well as had been wet. The contents had leaked from loose closures due to not being secured with clips. The package had been placed in a red hazmat tote to help reduce exposure to leaking contents. DescribePack: The paint cans leaked from loose closures due to not being secured with clips. DurationRel: 1 and MitigateEffect: The package had been placed in a red hazmat tote to help reduce exposure to leaking contents.  X-2024010835 SequenceEvent: The package had been found at the back of van line 3. The container had been wet. The contents had been leaking due to loose caps caused by a lack of clips for the lids of the paint cans. I placed the Hazmat into a red hazmat tote to help reduce exposure to leaking materials. DescribePack: The lids of the paint cans came loose causing leaking due to lacking clips for the lids. DurationRel: 1 and MitigateEffect: I placed the Hazmat into a red hazmat tote to help reduce exposure to leaking materials.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010836</guid>
-      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010835</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010835&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-05&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2024010835 SequenceEvent: The package had been found at the back of van line 3. The container had been wet. The contents had been leaking due to loose caps caused by a lack of clips for the lids of the paint cans. I placed the Hazmat into a red hazmat tote to help reduce exposure to leaking materials. DescribePack: The lids of the paint cans came loose causing leaking due to lacking clips for the lids. DurationRel: 1 and MitigateEffect: I placed the Hazmat into a red hazmat tote to help reduce exposure to leaking materials.  X-2024010836-SequenceEvent: The package had been found at the back of van line 3. The container had minor tears as well as had been wet. The contents had leaked from loose closures due to not being secured with clips. The package had been placed in a red hazmat tote to help reduce exposure to leaking contents. DescribePack: The paint cans leaked from loose closures due to not being secured with clips. DurationRel: 1 and MitigateEffect: The package had been placed in a red hazmat tote to help reduce exposure to leaking contents.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010835</guid>
-      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010505</title>

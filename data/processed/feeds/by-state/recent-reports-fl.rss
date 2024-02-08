@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 18:16:02 +0000</lastBuildDate>
     <item>
       <title>Report X-2024010812</title>
       <description>
@@ -198,48 +198,6 @@
       <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024010495</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010495&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
-                &lt;li&gt;City: JACKSONVILLE&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 55 gallon metal drum was punctured during loading, released 5 gallons on dock.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010495</guid>
-      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010657</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010657&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-02&lt;/li&gt;
-                &lt;li&gt;City: WEST PALM BEACH&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PKG WAS IMPROPERLY LOADED TO CONVEYOR BELT, AS A RESULT THE PACKAGE WAS DAMAGE AND WHEN DISCOVERED IT WAS PLACED INTO A RED HAZMAT BIN DescribePack: THE CAP WAS CRACKED SPILLING ALL THE INK AT INNER PKG. DurationRel: 2 and MitigateEffect: PLACE INTO A HAZMAT BIN KEEP AWAY FROM OTHER PKG AND PACKAGE HANDLERS&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010657</guid>
-      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024010798</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010798&lt;/a&gt;&lt;/h3&gt;
@@ -280,48 +238,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010637</guid>
       <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010661</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010661&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-30&lt;/li&gt;
-                &lt;li&gt;City: ORLANDO&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was send to the hazmat cage wet, place in a hazmat bag and hazmat tote DescribePack: package was leaking from a loose cap DurationRel: 1 and MitigateEffect: package was place upright and cap was closed&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010661</guid>
-      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010651</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010651&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-01T15:11:51+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-31&lt;/li&gt;
-                &lt;li&gt;City: POMPANO BEACH&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Box was found with leakage on side while loading into truck. Box was placed inside of hazmat bag and tote and brought to the hazmat cage to be processed. DescribePack: 2 bottles were found leaking inside of box. DurationRel: 1 and MitigateEffect: Box was placed inside of hazmat bag and tote and placed inside of hazmat cage to be processed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010651</guid>
-      <pubDate>Thu, 01 Feb 2024 15:11:51 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024010527</title>
