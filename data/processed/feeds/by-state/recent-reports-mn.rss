@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Feb 2024 06:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 18:14:31 +0000</lastBuildDate>
     <item>
       <title>Report E-2024020065</title>
       <description>
@@ -91,69 +91,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010135</guid>
       <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010640</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010640&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-29&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: the person unloading the trailer sent this hazmat upstairs, as evidenced by the overhead scan. about fifteen minutes after this scan, the load side manager called out to QA about a leaking hazmat. HESS specialist responded to the spill and retrieved it, placing it in a lined tote, bringing it back to the damage area, and placing it atop the drain mats in the incoming damaged hazmat/LQ area. in-house cleanup, awaiting disposition. DescribePack: both jerricans leaked from the cap due to improper handling. the leakage appears to have happened after the package was sent upstairs over the overhead sorter. both caps appeared to be relatively tight, however the jerricans were in ziplocked plastic bags that had some traces of liquid on the inside, showing that both cans leaked some amount. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010640</guid>
-      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010631</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010631&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-29&lt;/li&gt;
-                &lt;li&gt;City: SAINT PAUL&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND WET AND LEAKING ON BOTTOM OF BOX. DescribePack: PLASTIC GALLON BOTTLE DENTED AND HAD A PUNCTURE HOLE NEAR BOTTOM. DurationRel: 1 and MitigateEffect: LEAKED SOME LIQUID OUT OF HOLE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010631</guid>
-      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010621</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010621&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-02T15:12:00+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-26&lt;/li&gt;
-                &lt;li&gt;City: SHAKOPEE&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The drum was discovered at 5:00 PM upright in a plastic bag by package handler who contacted hazmat admin who initiated the clean-up. DescribePack: The 5-gallon metal drum had a small crack in the bottom side area. DurationRel: 7 and MitigateEffect: Paint was found in a semi dried state. The damaged package was placed in a hazmat drum and put in the hazmat cage. The remaining paint was cleaned with paper towels and wet wipes.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010621</guid>
-      <pubDate>Fri, 02 Feb 2024 15:12:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
