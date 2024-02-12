@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Feb 2024 07:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 18:12:43 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024020298</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020298&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-10&lt;/li&gt;
+                &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was leaking in Van. Was brought to VSA when discovered. Was placed in leaker tote to prevent further spillage. DescribePack: the top was loose. DurationRel: 2 and MitigateEffect: Was placed in leaker tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020298</guid>
+      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020119</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020119&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
+                &lt;li&gt;City: LIVONIA&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO A PACKAGE DUE TO THE RATTLE OF AEROSOLS CANS. UPON INSPECTION OF THE CONTENTS DISCOVERED (2) 19 OUNCE AEROSOL CANS OF KABOOM WITH OXI CLEAN. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE HAS NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SERVICE CO. THIS PACKAGE WAS SHIPPED FROM MICHIGAN USING UPS ACCOUNT NUMBER 4XW144, DURACO, 7400 INDUSTRIAL DR., FOREST PARK IL 60130-2536.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020119</guid>
+      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024020053</title>
       <description>
@@ -49,27 +91,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010779</guid>
       <pubDate>Wed, 07 Feb 2024 15:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024010535</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024010535&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-05T15:13:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
-                &lt;li&gt;City: FLINT&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Enviroserve was dispatched to the site. Upon the contractor’s  arrival,  personnel  observed  that  the  released  material  impacted  a  5ft-by-2ft  area  of  the trailer floor and estimated that one (1) gallon of material was released due to a puncture into one (1) 330-gallon plastic tote. Enviroserve personnel deployed granular absorbents to the impacted area and recovered the spent material and placed it into one (1) 55-gallon poly drum. The remaining product in the damaged tote was transferred to a new tote and the damaged plastic tote was cut-up and placed into  the  previously  mentioned  55-gallon  poly  tote  and  one  additional  95-gallon  poly  drum.  The  new plastic tote was shipped onto the consignee and the generated waste was staged onsite at the terminal in a secure location prior to the contractor demobilization. The generated waste will remain onsite for the ESTES DGRM team to coordinate disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024010535</guid>
-      <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

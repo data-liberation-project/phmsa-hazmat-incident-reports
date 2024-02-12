@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Feb 2024 07:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 18:12:43 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024020109</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020109&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
+                &lt;li&gt;City: MINNEAPOLIS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: PAKCAGE WAS BROUGHT TO THE DMP, FROM DOOR 11. IN THE DMP, PACKAGE WAS OPENED AND FOUND TO CONTAIN FOUR, 4 LITER, GLASS BOTTLES OF ACETONITRILE, BEING SHIPPED AS A FLAMMABLE LIQUID HAZ-MAT PACKAGE, (UN1648, ACETONITRILE, 3, II, ERG127, 1 FIBERBOARD BOX X 16 L). TWO OF THE GLASS JARS HAD LOOSE CAPS, WHICH ALLOWED A SMALL PORTION OF THE FLAMMABLE LIQUID TO ESCAPE ONTO THE INNER CARDBOPARD PACKING. ALL MATERIAL WAS PROCESSED THROUGH THE DMP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020109</guid>
+      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020065</title>
       <description>
@@ -70,27 +91,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020042</guid>
       <pubDate>Tue, 06 Feb 2024 18:12:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010135</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010135&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-05T15:13:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-05&lt;/li&gt;
-                &lt;li&gt;City: SAINT PAUL&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: ABF stated they found the freight in OSD and the checker alerted the SCM. The cause of damage is unknown but seems to have been crushed. ABF stated the fuel has already been cleaned up and placed into a recovery drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010135</guid>
-      <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

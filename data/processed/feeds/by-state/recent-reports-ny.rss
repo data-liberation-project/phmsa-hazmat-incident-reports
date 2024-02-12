@@ -7,7 +7,112 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Feb 2024 07:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 18:12:43 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024020009</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020009&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-04&lt;/li&gt;
+                &lt;li&gt;City: MONTGOMERY&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: T FORCE FREIGHT&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: BOXES CRUSHED IN TRANSIT DUE TO HEAVY FREIGHT STACKED ON TOP&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020009</guid>
+      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024020103</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020103&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-01&lt;/li&gt;
+                &lt;li&gt;City: eSyr&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Load shift&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020103</guid>
+      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020464</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020464&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
+                &lt;li&gt;City: PLATTSBURGH&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package discovered to be leaking on truck. QA was called, the immediate area was vacated and package was removed from truck. DescribePack: none DurationRel: 1 and MitigateEffect: Package was sealed in a salvage drum&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020464</guid>
+      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020175</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020175&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-05&lt;/li&gt;
+                &lt;li&gt;City: MONTGOMERY&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: dropped DescribePack: dropped DurationRel: 1 and MitigateEffect: dropped&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020175</guid>
+      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020126</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020126&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
+                &lt;li&gt;City: BROOKLYN&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024020126 PACKAGE WAS RETRIEVED FROM A PACKAGE CAR AND PLACED IN SPILL TRAY INSIDE DMP AREA. DURING INSPECTION RESPONDER DISCOVERED ONE OF THE FOUR BOTTLES WAS CRACKED. ANOTHER BOTTLE HAD A LOOSE CAP. RESPONDER PROCESSED THROUGH DMP.   2. X-2024020127 PACKAGE WAS RETREIVED FROM A PACKAGE CAR BY RESPONDER AND PLACED IN A SPILL TRAY INSIDE DMP AREA. RESPONDER DISCOVERED TWO OUT OF THE FOUR BOTTLES HAD LOOSE CAPS.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020126</guid>
+      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024020003</title>
       <description>
@@ -49,69 +154,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020071</guid>
       <pubDate>Wed, 07 Feb 2024 15:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024100048</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100048&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-05T15:13:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-12&lt;/li&gt;
-                &lt;li&gt;City: Brooklyn&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 01/12/2024, hidden dangerous goods were discovered during the shipment inspection process at the DHL BKL Service Center, 653 East 56th St., Brooklyn, NY 11203. Transportation by road has been confirmed. Shipment also contains UN1266, Paint, Class 3 Single Package or Inner Packaging(if any): Packaging Type: Bottle Material of Construction: Glass Package Capacity: 10 mi Amount in Package: 10 mi Number in Shipment: 3 Number Failed: 3&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100048</guid>
-      <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024100049</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100049&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-05T15:13:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
-                &lt;li&gt;City: Jamaica&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 01/11/2024 this shipment had hidden dangerous goods that were discovered during the shipment inspection process at the at the DHL JFK service center, Bldg 263, JFK Int&amp;#x27;I Airport, Jamaica, NY 11430 Transportation by road confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100049</guid>
-      <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020011</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020011&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-05T15:13:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
-                &lt;li&gt;City: Syracuse&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: OLD DOMINION FREIGHT LINE INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Unsecured freight&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020011</guid>
-      <pubDate>Mon, 05 Feb 2024 15:13:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
