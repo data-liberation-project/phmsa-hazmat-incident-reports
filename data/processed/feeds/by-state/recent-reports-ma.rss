@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Feb 2024 03:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 15:13:10 +0000</lastBuildDate>
     <item>
       <title>Report X-2024020146</title>
       <description>
@@ -70,48 +70,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020099</guid>
       <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010768</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010768&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-07T15:11:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
-                &lt;li&gt;City: NATICK&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: REMOVING OFF VEHICULE AND NOTICED PACKAGE WAS WET. DescribePack: WHEN CHECKING HAZMAT CAP WAS LOOSE DurationRel: 1 and MitigateEffect: PLACE IN A RED HAZMAT BIN BROUGHT TO HAZMAT CAGE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010768</guid>
-      <pubDate>Wed, 07 Feb 2024 15:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010748</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010748&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-07T15:11:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
-                &lt;li&gt;City: NORTH BILLERICA&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was dropped by a package handler which caused one of the bottles to become dented and caused a leakage. upon discovery of the leakage package was immediately place in a hazmat bag which was then placed in a red hazmat bin. DescribePack: 1 inner bottle has the cap and neck of the bottle dented/pushed inside of itself which caused a small cut and subsequent leakage. DurationRel: 1 and MitigateEffect: the package was flipped right side up.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010748</guid>
-      <pubDate>Wed, 07 Feb 2024 15:11:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

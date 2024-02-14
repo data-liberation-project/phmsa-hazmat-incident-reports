@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Feb 2024 03:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 15:13:10 +0000</lastBuildDate>
     <item>
       <title>Report E-2024020161</title>
       <description>
@@ -112,90 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020113</guid>
       <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010819</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010819&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-07T15:11:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-04&lt;/li&gt;
-                &lt;li&gt;City: EVANSVILLE&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered and placed in a spill tote, but the person who found it failed to immediately notify qualified personnel and package was left for about an hour before it was discovered by QA. Package was then immediately moved to a hazmat tote and liner and taken to be processed. Package had been promptly put into a spill liner so there was no mess to clean up in the surroundings. DescribePack: Caps were loose and spun freely when interacted with. DurationRel: 1 and MitigateEffect: Package placed in spill liner/tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010819</guid>
-      <pubDate>Wed, 07 Feb 2024 15:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010814</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010814&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-07T15:11:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-23&lt;/li&gt;
-                &lt;li&gt;City: EVANSVILLE&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER PROCESSED LEAKING PACKAGE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010814</guid>
-      <pubDate>Wed, 07 Feb 2024 15:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010757</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010757&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-07T15:11:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
-                &lt;li&gt;City: ZIONSVILLE&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was given to QA by the driver asking for inspection DescribePack: 1 gallon is completely empty whether be a puncture or lid loose and the other had a loose cap DurationRel: 3 and MitigateEffect: Placed in a hazmat tote lined with bag&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010757</guid>
-      <pubDate>Wed, 07 Feb 2024 15:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024010737</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024010737&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-07T15:11:14+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
-                &lt;li&gt;City: GREENWOOD&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE ARRIVED IN THE QA AREA AND UPON INSPECTION DEEMED A FULLY REGULATED HAZMAT. FURTHER INSPECTION CONCLUDED PACKAGE NOTICEABLY WET, DUE TO INTERNAL LEAKAGE OF CONTENTS. CONTENTS DEEMED AS 4 X 1LITER PLASTIC BOTTLES OF VIDEOJET CLEANING SOLUTION. ENTIRE PACKAGE FAILED DUE TO LOSE BOTTLE CAPS, CAUSING AN INTERNAL LEAKAGE LEAVING GOODS DAMAGED AND UNUSABLE. DescribePack: FAILED DUE TO LOOSE BOTTLE CAPS. DurationRel: 1 and MitigateEffect: ONCE PACKAGE WAS DEEMED A FULLY REGULATED HAZMAT, IT WAS SEGREGATED FROM ALL OTHER PACKAGES.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024010737</guid>
-      <pubDate>Wed, 07 Feb 2024 15:11:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
