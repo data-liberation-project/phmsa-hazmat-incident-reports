@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Feb 2024 21:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 00:34:27 +0000</lastBuildDate>
     <item>
       <title>Report X-2024020546</title>
       <description>
@@ -70,6 +70,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020296</guid>
       <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020426</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020426&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-20&lt;/li&gt;
+                &lt;li&gt;City: LENEXA&lt;/li&gt;
+                &lt;li&gt;State: KS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024020426 SequenceEvent: Package was placed on it&amp;#x27;s side allowing liquid to be forced through the caps. Package was discovered in the unload and QA was called to isolate and remove the package. DescribePack: contents leaked through the caps DurationRel: 1 and MitigateEffect: Package was placed in a plastic lined tote and placed in the HAZMAT cage for evaluation.   2. X-2024020427 SequenceEvent: Package appears to have been dropped, forcing liquid through the caps. Package was discovered in the unload and QA was called. DescribePack: Contents leaked through the lid of one bottle and damaged the other three. DurationRel: 1 and MitigateEffect: Package was placed in a plastic lined tote and placed in the HAZMAT cage for inspection.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020426</guid>
+      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020252</title>

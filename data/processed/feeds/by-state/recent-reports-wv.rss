@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Feb 2024 21:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 00:34:27 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024020263</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020263&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-10&lt;/li&gt;
+                &lt;li&gt;City: BEAVER&lt;/li&gt;
+                &lt;li&gt;State: WV&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package arrived at station on 1/9, did not go OFD due to weather conditions, package moved to a staging cart for next day sortation. Package discovered this morning wet with internal leakage. Package removed from cart, placed into hazmat bucket, removed from sort. DescribePack: 1 Gal jerry can of Rogersolite leaked internally, seal on jerry can failed. DurationRel: 12 and MitigateEffect: Package removed from sortation, placed into hazmat bucket to ensure no spillage reached other packages.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020263</guid>
+      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020213</title>
       <description>

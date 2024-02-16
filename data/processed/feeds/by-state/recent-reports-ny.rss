@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Feb 2024 21:09:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 00:34:27 +0000</lastBuildDate>
     <item>
       <title>Report X-2024020526</title>
       <description>
@@ -112,6 +112,111 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020103</guid>
       <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020437</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020437&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
+                &lt;li&gt;City: BLAUVELT&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS LOCATED ON BELT 4 ON THE QA PALLET AT 6:45AM.  ONCE I OBSERVED THE BOX, THE BOX WAS WET.  ONCE I COMPLETELY OPEN THE BOX, I OBSERVED THERE WAS ONE GALLON OF THERMO SCIENTIFIC 80% ETHANOL, FOR MOLECULAR BIOLOGY WITH A LOOSE CAP.  BOX WAS PUT IN A RED BIN.  NO SPILL ON THE FLOOR.  PACKAGE ARRIVED AT THE FACILITY WET. DescribePack: THE GALLON HAD LOOSE CAP DurationRel: 1 and MitigateEffect: NONE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020437</guid>
+      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020261</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020261&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-10&lt;/li&gt;
+                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: During the preload sort, the package was being unloaded and there was a distinct smell coming from it. The package handler notified their manager whom contacted the hazmat team which placed the package into a yellow bin under ventilation in the hazmat cage. When inspected it was discovered that the cap was loose with a slow leak. DescribePack: the cap has a slow leak DurationRel: 1 and MitigateEffect: The package was brought to the hazmat cage and placed in a yellow bin and put under ventilation.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020261</guid>
+      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020264</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020264&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-10&lt;/li&gt;
+                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: During the preload sort a package handler noticed a smell and informed their manager which then the package was placed into the hazmat cage under ventilation. Upon inspection by the hazmat team it was discovered that there when pressure is applied to one of the bottles the cap leaks slowly. DescribePack: The caps on one of the bottles leaks when pressure is applied or when the bottle is tilted. DurationRel: 1 and MitigateEffect: The package was brought to the hazmat cage and placed under ventilation.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020264</guid>
+      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020270</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020270&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-10&lt;/li&gt;
+                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: During the preload sort, it was notice the top was leaking so the package handler informed his manager and brought the package to the hazmat cage under ventilation. DescribePack: The package has a puncture above the cap DurationRel: 1 and MitigateEffect: The package was brought to the hazmat cage and placed in a yellow drum under ventilation&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020270</guid>
+      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020340</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020340&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-10&lt;/li&gt;
+                &lt;li&gt;City: YONKERS&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: During the unload process the package was found leaking in the trailer. The package was placed in a Haz Mat drum. DescribePack: One of the bottles had a loose cap causing the leak. DurationRel: 1 and MitigateEffect: Package was placed in a Haz Mat drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020340</guid>
+      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020503</title>
