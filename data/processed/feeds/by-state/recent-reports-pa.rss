@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Feb 2024 12:16:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 15:14:20 +0000</lastBuildDate>
     <item>
       <title>Report X-2024020551</title>
       <description>
@@ -133,6 +133,69 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020147</guid>
       <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020333</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020333&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
+                &lt;li&gt;City: MUNCY&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found by a package handler during the morning unload. Manager was informed and package was brought to QA to be processed. DescribePack: The package contained 4 bottles of rapicide cleaner. 1 was wet but lid appeared tight. Assuming product froze since it was below zero. DurationRel: 1 and MitigateEffect: Made sure that all lids were tight and placed back in securely.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020333</guid>
+      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020773</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020773&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
+                &lt;li&gt;City: HERMITAGE&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: At the time of unloading this bucket from the trailer, the staff realized that it had spilled a little and so they called QA, we looked for the ERG and we printed the SDS and then proceeded to clean up the spill. DescribePack: The lid of the bucket was not fully secured, which caused it to open and spill its contents. DurationRel: 1 and MitigateEffect: The spill area was cleaned, the bucket with the muriatic acid was placed inside a black bin to prevent further/more spillage, and the bucket was taken to the Hazmat cage andplace in a drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020773</guid>
+      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020335</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020335&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-16&lt;/li&gt;
+                &lt;li&gt;City: NORTH WALES&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package brought to QA attention on 01/16 this happened in the night shift, and it was moved to the hazmat processing area by QA. DescribePack: Package was leaking in the unloading area, recip noticed damaged  box. Inner contents 1 2.5GAL plastic bottle, the cap was loose. DurationRel: 1 and MitigateEffect: Package taken off unloading area and moved to hazmat processing area by QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020335</guid>
+      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020292</title>

@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Feb 2024 12:16:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 15:14:20 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024020338</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020338&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
+                &lt;li&gt;City: Louisville&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020338</guid>
+      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024020541</title>
       <description>
@@ -70,6 +91,90 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020144</guid>
       <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020809</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020809&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
+                &lt;li&gt;City: GEORGETOWN&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was brought to QA from unload in a tote with contents leaking from the outside. I realized it was a damage Hazmat and took it to the Hazmat Cage to start processing. DescribePack: Box was ripped from the opening, down the side to the bottom. Hydrogen Peroxide and Peroxyacetic Acid mixture stabilized, 5.1 (8), 11, 3.781, Oxidizer Corrosive inside of a plastic bag that was leaking contents. DurationRel: 2 and MitigateEffect: Box was placed in a hazardous materials bag inside a yellow drum. I used the chemical neutralizer on the visible spilled liquid. This is a Class 8 liquid, so I confirmed neutralization using the PH test. Levels were between 6-9, at 8. Once there was no heat and had cooled down, I placed the fiberboard box in the drum and secured the bag with a zip tie. Drum is sealed and waiting to be picked up by authorized personnel.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020809</guid>
+      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020419</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020419&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-20&lt;/li&gt;
+                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Jerrican was found in QA department with a wet spot around spout. PH paper was used to figure out if liquid was from hazmat or another source. PH paper indicated a PH of 1. Further inspection of jerrican showed that cap was misaligned and had allowed product to leak out during transit. DescribePack: Cap was not screwed into threads properly causing leakage. DurationRel: 1 and MitigateEffect: Jerrican was kept in a lined tote and in an upright position.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020419</guid>
+      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020650</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020650&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
+                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA was called to a leaking drum, when QA arrived it was discovered that the drum was a hazmat. Spill pads were used to clean up the leaked product and drum was brought to the middle area for processing. DescribePack: Bottom of drum was dented during handling causing damage and allowing product to leak. DurationRel: 1 and MitigateEffect: Package was put upside down in a lined tote to prevent further leakage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020650</guid>
+      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020371</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020371&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
+                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024020371 SequenceEvent: The cap became loose causing it to spill. The manager called QA we secured the hazmat in a lined red tote. The spillage only soiled the outer packaging. DescribePack: Cap became loose DurationRel: 1 and MitigateEffect: Cap was tightened and package was placed in a lined red tote.   2. X-2024020381 SequenceEvent: The cap became loose causing it to leak on the outer packaging. The manager called QA, we secured the package in a lined red tote. DescribePack: Cap became loose DurationRel: 1 and MitigateEffect: Cap was tightened and package was placed in a lined red tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020371</guid>
+      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020441</title>
