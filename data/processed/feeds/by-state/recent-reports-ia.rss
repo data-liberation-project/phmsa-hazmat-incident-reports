@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Feb 2024 15:11:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 18:13:29 +0000</lastBuildDate>
     <item>
       <title>Report E-2024020318</title>
       <description>
@@ -135,48 +135,6 @@
       <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024020099</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020099&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-01&lt;/li&gt;
-                &lt;li&gt;City: Cedar Rapids&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DOHRN TRANSFER COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Other fell&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020099</guid>
-      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020078</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020078&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
-                &lt;li&gt;City: FORT DODGE&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal XFO experienced a UN3082 Caromax 28 release from a 275-gallon poly tote. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 2-gallons of product released to a 3’ x 2’ area of the wooden trailer floor and a 1’ x 1’ area of the concrete dock floor due to a crack in the top corner of the tote. The material was transferred from the damaged tote into a new one. Absorbents were deployed and worked into the impacted areas. The damaged tote was then cut up and containerized along with all impacted absorbents into (2) 55- gallon poly drums. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020078</guid>
-      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024020251</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020251&lt;/a&gt;&lt;/h3&gt;
@@ -217,48 +175,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020285</guid>
       <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020181</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020181&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-05&lt;/li&gt;
-                &lt;li&gt;City: COUNCIL BLUFFS&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was loaded in the truck with the orientation arrows facing upside down. Driver then found package to be leaking, causing the damage.fd DescribePack: The cap became lose and contents leaked out. DurationRel: 2 and MitigateEffect: Package was contained in a plastic in a hazmat bag&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020181</guid>
-      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020083</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020083&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-12T18:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
-                &lt;li&gt;City: DES MOINES&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On January 31, 2024, one (1) 5-gallon pail of UN2922 fell in transit and released approximately one (1) liter of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Environmental Works, Inc. (EWI) to remediate the impacted site. EWI personnel deployed granular absorbents to the corrosive liquid-impacted trailer interior and swept them in with hand tools. All spent absorbents were collected and containerized into one (1) 55-gallon drum for terminal disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020083</guid>
-      <pubDate>Mon, 12 Feb 2024 18:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
