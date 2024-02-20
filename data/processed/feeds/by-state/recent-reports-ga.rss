@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Feb 2024 00:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 03:12:36 +0000</lastBuildDate>
     <item>
       <title>Report E-2024020335</title>
       <description>
@@ -490,27 +490,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020167</guid>
       <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023120018</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120018&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-13T00:34:02+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-30&lt;/li&gt;
-                &lt;li&gt;City: ATLANTA&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: TFORCE FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: JUG FORKED IN TRANSIT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120018</guid>
-      <pubDate>Tue, 13 Feb 2024 00:34:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
