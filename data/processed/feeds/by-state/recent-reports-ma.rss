@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Feb 2024 12:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:11:31 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024020991</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020991&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-20T15:11:27+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
+                &lt;li&gt;City: SEEKONK&lt;/li&gt;
+                &lt;li&gt;State: MA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found on truck leaking, placed into spill bin, and brought to QA cage for further processing. DescribePack: Cap on one bottle loosened allowing liquid to leak. DurationRel: 2 and MitigateEffect: Placed into spill bin to prevent leakage elsewhere.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020991</guid>
+      <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024020585</title>
       <description>
@@ -70,6 +91,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020522</guid>
       <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020792</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020792&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-20T15:11:27+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-27&lt;/li&gt;
+                &lt;li&gt;City: CHICOPEE&lt;/li&gt;
+                &lt;li&gt;State: MA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package came to QA leaking liquid from the corners of the box. with further inspection I seen that all the caps to the bottles were loose and unsealed, causing the spill.  we tighten the caps to all the bottles to stop leakage. DescribePack: the package failure for this package was actually from the inside not anything outside of the box. DurationRel: 2 and MitigateEffect: proper inner packaging,&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020792</guid>
+      <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
