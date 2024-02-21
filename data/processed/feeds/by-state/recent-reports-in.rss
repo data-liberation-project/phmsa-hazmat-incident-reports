@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Feb 2024 12:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 15:11:43 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021007</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021007&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
+                &lt;li&gt;City: GREENWOOD&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE ARRIVED IN THE QA AREA AND UPON INSPECTION DEEMED A FULLY REGULATED HAZMAT. FURTHER INSPECTION CONCLUDED PACKAGE NOTICEABLY WET DUE TO INTERNAL LEAKAGE OF CONTENTS. 2 X 5 LITERS (OXIDIZER, CORROSIVE LIQUIDS) FAILED ENTIRELY DUE TO LOOSEN BOTTLE CAPS. DAMAGED AND UNUSABLE GOODS. DescribePack: FAILED AT TOP BOTTLE CAPS DurationRel: 1 and MitigateEffect: ONCE PACKAGE WAS DEEMED A FULLY REGULATED HAZMAT, IT WAS SEGREGATED FROM ALL OTHER PACKAGES.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021007</guid>
+      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024020375</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020375&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-10&lt;/li&gt;
+                &lt;li&gt;City: Indainapolis&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020375</guid>
+      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024020407</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020407&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-19&lt;/li&gt;
+                &lt;li&gt;City: CONNERSVILLE&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: RECLAIMED ENERGY CO., INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Material was shipped as a non-regulated shipment of petroleum distillates. Once received the material was analyzed by our lab and the flash point of the material was determined to be 138F. The material was determined to be a hazardous waste UN 1268 Petroleum Distillates with a waste code of D001 for ignitibility. The material did ship on a hazardous waste manifest (MT# 0206124145JJK). To rectify the situation, we updated the shipping description and waste codes on the hazardous waste manifest. We relabeled the drums with hazardous waste labels and are managing the waste as hazardous.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020407</guid>
+      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020358</title>
       <description>

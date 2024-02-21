@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Feb 2024 12:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 15:11:43 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021019</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021019&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
+                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024021019 SequenceEvent: Package was found with the bottom of the box wet while loading. Upon inspection There are 4 1-gallon bottles inside of the box in a plastic bag, 3 of which looked like they had leaked from the cap. At some point during transit, the package could have been put on its side or upside down, not following the direction of the orientation arrows. No other cracks or holes were found that would result in contents leaking. Package was put in a red hazmat tote and taken to a designated QA area for processing. DescribePack: All bottles still had the caps on them but still resulted in them leaking. No other defects were found. DurationRel: 3 and MitigateEffect: Package was put in a red hazmat tote and taken to a designated QA area for processing.   2. X-2024021026 SequenceEvent: Package was found with the bottom of the box wet while loading. Upon inspection there are 4 1-gallon bottles inside of the box in a plastic bag, 1 of which was leaking from the cap when put upside down or on its side. Package at some point during transit was most likely put on its side resulting in contents leaking. Package was put in a red hazmat tote and taken to a designated QA area for processing. DescribePack: One bottle had a loose cap resulting in it leaking contents when put on its side or upside down. DurationRel: 4 and MitigateEffect: Package was put in a red hazmat tote and taken to a designated QA area for processing.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021019</guid>
+      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021125</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021125&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
+                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: LOOSE CAP LEAKING NON-FLAMMABLE LIQUID, ULOADED, PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: 1 LOOSE CAP OF NON-FLAMMABLE LIQUID, BD HEMATOXYLIN STAIN 0.75 INSIDE A CYTOLOGY STAIN KIT WITH UNDAMAGED FLAMMABLE LIQUID BD EA/OG COMBO STAIN LEAKED ENTIRE CONTENT SOILING THE WET TORN HAZMAT BOX AND ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021125</guid>
+      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021013</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021013&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
+                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was found with one end opened. Upon inspection there are two bottles inside, one of them had a broken lid and the other lid was secure but you could still see where some of the contents had leaked out. This was most likely caused by not following the orientation arrows and package being dropped. The package was put in a red hazmat tote and brought over to the QA area for processing. DescribePack: One of the lids was cracked in half and broken. The other lid looked secure but still showed signs of leaking some of it&amp;#x27;s contents. Neither bottle had a seal under the lid. DurationRel: 3 and MitigateEffect: Package was put in a red hazmat tote and brought to a designated QA area for processing.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021013</guid>
+      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020345</title>
       <description>
