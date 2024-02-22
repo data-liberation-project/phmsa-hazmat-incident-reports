@@ -7,27 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Feb 2024 12:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 15:12:27 +0000</lastBuildDate>
     <item>
-      <title>Report X-2024020562</title>
+      <title>Report X-2024020625</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020562&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020625&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-22T15:12:23+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-03&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-01-24&lt;/li&gt;
                 &lt;li&gt;City: SPARKS&lt;/li&gt;
                 &lt;li&gt;State: NV&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: LEAKER WAS DISCOVERED BY UNLOADER REPORTED TO SUPERVISOR DILLON ON DOOR 4 RESPONDER NOTIFIED DMP RESPONDED IN FULL PPE AND BROUGHT BACK PACKAGE TO DMP FOR PROCESSING&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: This package was visibly wet and smelt like Gasoline. Upon further inspection there was no inner packaging, and the metal can was filled too much causing the gasoline to leak out. DescribePack: Metal container was too filled causing the gasoline to leak out. DurationRel: 1 and MitigateEffect: Spill Pads and Spill tote&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020562</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020625</guid>
+      <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2024020028</title>
@@ -91,48 +91,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020474</guid>
       <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020505</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020505&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-24&lt;/li&gt;
-                &lt;li&gt;City: HENDERSON&lt;/li&gt;
-                &lt;li&gt;State: NV&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package handler reported leaking hazmat to manager. Manager secured package in a plastic lined hazmat tote wearing latex gloves and delivered to QA. DescribePack: Loose leaking cap. Contents leaked out. DurationRel: 1 and MitigateEffect: Kept the package up right and secured the loose cap. Contained the package in a lined hazmat tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020505</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020045</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020045&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
-                &lt;li&gt;City: RENO&lt;/li&gt;
-                &lt;li&gt;State: NV&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Both shipments were discovered during sort operations. The first pallet (Trk789319646932) has 8 plastic drums that are labeled “shredded lithium cells” and were leaking 30 ml or less from the top/caps. The litmus test indicated 6-7 ph. The second pallet wrapped in black shrink contained 32 boxes of concealed dg (UN 3268) and one empty box. No Release. Trk# 789400462276. Both pallets are being held for FAA investigation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020045</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

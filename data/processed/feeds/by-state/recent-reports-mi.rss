@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Feb 2024 12:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 15:12:27 +0000</lastBuildDate>
     <item>
       <title>Report E-2024020392</title>
       <description>
@@ -49,27 +49,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020579</guid>
       <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020090</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020090&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-02&lt;/li&gt;
-                &lt;li&gt;City: LIVONIA&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO A PACKAGE DUE TO THE RATTLE OF AEROSOLS CANS. UPON INSPECTION OF THE CONTENTS DISCOVERED (2) 11 OUNCES AEROSOL CANS OF FLAMMABLE ELMER&amp;#x27;S MULTI-PURPOSE SPRAY ADHESIVE. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE HAS NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SERVICE CO. THIS PACKAGE WAS SHIPPED USING UPS ACCOUNT NUMBER E53034, EPIC - DEEP SPACE, 1979 MILKY WAY, VERONA WI 53593-9179.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020090</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020597</title>
@@ -154,111 +133,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020283</guid>
       <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020498</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020498&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-24&lt;/li&gt;
-                &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: A WET HAZMAT BOX WAS FOUND DURING THE UNLOADING PROCESS AND BROUGHT OVER FOR INSPCTION. UPON INSPCTIONS IT WAS FOUND TO BE A DAMAGED HAZMAT AND THE HAZMAT PROCESS WAS STARTED. DescribePack: CAP TO ONE OF THE GALLON JUGS WAS FOUND TO BE LOOSE AND THE CAUSE OF THE LEAK. DurationRel: 1 and MitigateEffect: BOX WAS TURNED RIGHT SIDE UP ACCORDING TO THE DIRECTIONAL ARROWS ON THE BOX.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020498</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020207</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020207&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-08&lt;/li&gt;
-                &lt;li&gt;City: LIVONIA&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was dropped and placed in a bucket one leak was discovered. DescribePack: package has a small leak in the bag DurationRel: 1 and MitigateEffect: package was placed in a bucket.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020207</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020204</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020204&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-08&lt;/li&gt;
-                &lt;li&gt;City: GAYLORD&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: trailer 839267. hazmat found at 3:10 am on its side, package handlers found it took it out of the trailer and called for management and QA. DescribePack: improper shippingg DurationRel: 0 and MitigateEffect: placed in red hazmat tote and placed outside of building&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020204</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020264</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020264&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
-                &lt;li&gt;City: ROMULUS&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020264</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020263</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020263&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-15T12:17:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
-                &lt;li&gt;City: ROMULUS&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020263</guid>
-      <pubDate>Thu, 15 Feb 2024 12:17:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
