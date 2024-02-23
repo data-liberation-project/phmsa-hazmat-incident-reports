@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Feb 2024 21:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:34:28 +0000</lastBuildDate>
     <item>
       <title>Report E-2024020400</title>
       <description>
@@ -28,27 +28,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020400</guid>
       <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020317</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020317&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
-                &lt;li&gt;City: PIEDMONT&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Four 1 gallon plastic jugs were punctured in transit, released 2 gallons.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020317</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024021094</title>
@@ -175,69 +154,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020398</guid>
       <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020342</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020342&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
-                &lt;li&gt;City: FORT MILL&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND NEAR THE 400 BELT AREA. IT APPEARED TO HAVE BEEN LEAKING OR WET FROM ANOTHER DAMAGE. I INSPECTED THE PACKAGE AND CONCLUDED THAT IT WAS A SMALL LEAK AND IT WAS COMING OUT OF THE BOTTLE ON TO THE BOX. DescribePack: THE PACKAGE FAILURE WAS IN THE CLOSURE, THE CLOSURE WAS NOT TIGHT ENOUGH FOR TRANSPORT. DurationRel: 1 and MitigateEffect: THE  PACKAGE WAS TAKEN TO THE HWPA AND PLACED IN A LINED DRUM.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020342</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020481</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020481&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-22&lt;/li&gt;
-                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE UNLOADED FROM TRAILER LEAKING. UNLOAD MANAGER NOTIFIED HAZMAT-CERTIFIED ADMIN OF DAMAGED HAZMAT PACKAGE. DescribePack: LOOSE CAP/DETACHED FOIL CAP SEAL. DurationRel: 1 and MitigateEffect: HAZMAT-CERTIFIED ADMIN USING PROPER PPE PLACED THE PACKAGE INSIDE A LINED HAZMAT TOTE AND SECURED THE TOTE INSIDE THE HAZMAT CAGE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020481</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020480</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020480&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-22&lt;/li&gt;
-                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE UNLOADED FROM TRAILER LEAKING. UNLOAD MANAGER NOTIFIED HAZMAT-CERTIFIED ADMIN OF DAMAGED HAZMAT PACKAGE. DescribePack: LOOSE CAPS. DurationRel: 1 and MitigateEffect: HAZMAT-CERTIFIED ADMIN USING PROPER PPE PLACED THE PACKAGE INSIDE A LINED HAZMAT TOTE AND SECURED THE TOTE INSIDE THE HAZMAT CAGE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020480</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2023120040</title>

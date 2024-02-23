@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Feb 2024 21:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:34:28 +0000</lastBuildDate>
     <item>
       <title>Report E-2024020416</title>
       <description>
@@ -240,48 +240,6 @@
       <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024020311</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020311&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
-                &lt;li&gt;City: CHINA GROVE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Two 5 gallon metal pails were punctured, released 0.5 gallons on dock.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020311</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020310</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020310&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
-                &lt;li&gt;City: China Grove&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: No bracing&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020310</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Report I-2024020060</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020060&lt;/a&gt;&lt;/h3&gt;
@@ -471,88 +429,46 @@
       <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024020315</title>
+      <title>Report I-2023120043</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020315&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120043&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T00:33:07+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
-                &lt;li&gt;City: FLETCHER&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-11-09&lt;/li&gt;
+                &lt;li&gt;City: ROBERSONVILLE&lt;/li&gt;
                 &lt;li&gt;State: NC&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ASSOCIATED PETROLEUM CARRIERS, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: found in hazmat cage, package came back leaking and placed in plastic tub DescribePack: . DurationRel: 1 and MitigateEffect: processing hazmat.&lt;/li&gt;
+                &lt;li&gt;Description: Our vehicle was traveling south on 1-95. The Town of Hope Mills, NC had attempted an arrest that led to a chase where the assailant fled to 1-95. The police continued the chase on 1-95 into a construction zone, the assailant attempted to pass our vehicle on the right where he was blocked with concrete barricades, and wedged his vehicle between our truck and the concrete barricades, causing him and our driver to crash. Our vehicle hit the concrete barricade on the right and the tank rolled over the concrete median, which gouged a small hole in two places on the tank, causing approx 1,500 gallons to spill on the roadway and soil adjacent to the road. The Fayetteville, NC hazmat team secured the area, plugged the holes, and controlled the pump out of the cargo tank, and allowed us to place absorbent booms to control the migration of the gasoline.  No photos are available for the pump out and original damage due to the HazMat team keeping everyone away from the tanker until it was pumped out. The product was leaking approximately 7-8 hours until  they could get the holes stopped up. We have hired a geologist to assist with supervising the follow up cleanup and removal of contaminated soil. That work has not begun at the time of this report.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020315</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120043</guid>
+      <pubDate>Fri, 23 Feb 2024 00:33:07 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024020456</title>
+      <title>Report I-2023120042</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020456&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120042&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T00:33:07+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-23&lt;/li&gt;
-                &lt;li&gt;City: RAEFORD&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2023-10-31&lt;/li&gt;
+                &lt;li&gt;City: MILL SPRING&lt;/li&gt;
                 &lt;li&gt;State: NC&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ASSOCIATED PETROLEUM CARRIERS, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: UPON ARRIVAL TO THE TERMINAL, PACKAGE WAS FOUND WET AND SMELLING STRONGLY, PUT IN A DAMAGE BIN, AND GIVEN TO THE QA TEAM FOR INSPECTION.  AFTER INSPECTING, IT WAS FOUND THAT THE CANS HAD BEEN DENTED/CRUSHED ALONG WITH THE PRODUCT FROM WITH IN SEAPED OUT OF THE CANS.  THE CAPS WERE ON TIGHT BUT MAY HAVE BEEN MISALIGNED. DescribePack: NO PACKAGING FAILURES. DurationRel: 1 and MitigateEffect: WHEN THE PACKAGE WAS FOUND, IT WAS GIVEN TO THE QA&amp;#x27;S AND PLACED IN A DAMAGE BIN UNTIL A HAZMAT CONTAINER WAS FOUND TO CONTROL THE STRONG SMELL.&lt;/li&gt;
+                &lt;li&gt;Description: Vehicle was traveling south on NC-9. Vehicle traveled off rightside of the roadway, collided with a  ditch and overturned to the left, coming to rest in the roadway on its left side. The driver immediately called and reported the incident to 911. The driver then notified his safety officer, which immediately dispatched a remediation crew. The dome lid of the #2 compartment dripped diesel fuel for approximately 5 hours (approximately 25 LGA which was contained with spill pads and boom). Advance Environmental Options, Inc mitigated the release.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020456</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020440</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020440&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The actual sequence of events that led up to the damaged package incident is unknown, but once package had been discovered, immediate action was taken to isolate the package within the hazmat processing cage for further processing and examination. DescribePack: Two bags of granular fungicide powder had some ripping and tearing along the seams of the bag closure, which caused the leakage. DurationRel: 2 and MitigateEffect: Once package was discovered, action was taken to isolate the damaged package in the Hazmat Processing cage for further investigation and processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020440</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020279</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020279&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T00:33:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
-                &lt;li&gt;City: RAEFORD&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was loaded on vehicle for delivery driver saw package leaking at 11:30am and immediately placed package in plastic bag. Once driver returned to station, he turned it in to VSA to be processed accordingly. DescribePack: The cap on top of gallon did not close properly and caused it to leak. DurationRel: 1 and MitigateEffect: Placed in a plastic bag inside vehicle.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020279</guid>
-      <pubDate>Fri, 16 Feb 2024 00:33:09 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120042</guid>
+      <pubDate>Fri, 23 Feb 2024 00:33:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
