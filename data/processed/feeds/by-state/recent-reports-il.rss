@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 15:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 18:13:38 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021089</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021089&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
+                &lt;li&gt;City: HODGKINS&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE CONTAIN 1 1GL PLASTIC BOTTLE OF ETHYL ALCOHOL WHICH LEAKED AT THE CLOSURE.THE ENTIRE CONTENTS GOT PROCESSED THRU DMP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021089</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020430</title>
       <description>
@@ -261,33 +282,12 @@
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024020581</title>
+      <title>Report X-2024020637</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020581&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020637&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
-                &lt;li&gt;City: ADDISON&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: HAZMAT PACKAGE WAS FOUND ON A CART WITH LIQUID LEAKING FROM THE BOTTOM. THE LIQUID LEAKED ON THE CART/PACKAGES AND DRIPPED OVER ONTO THE FLOOR. AFTER FOLLOWING THE DESCISION TREE/CORROSIVE RESPONSE, CONTAINMENT AND REMOVAL RESPONDER RETURNED TO THE DMP AREA.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020581</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021042</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021042&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
                 &lt;li&gt;City: CHAMPAIGN&lt;/li&gt;
                 &lt;li&gt;State: IL&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -296,32 +296,74 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND WET. UPON INSPECTION, BATTERY HAD LEAKED ACID. IT APPEARED TO BE LEAKING FROM DEFECTIVE SEAMS; NO OBVIOUS ABRASION DAMAGE. PACKAGE CONTAINED; SPILLAGE ABSORBED. UNDECLARED LEAD-ACID BATTERY. DescribePack: BATTERY WAS LEAKING ACID. IT APPEARED TO BE LEAKING FROM DEFECTIVE SEAMS; NO OBVIOUS ABRASION DAMAGE. DurationRel: 1 and MitigateEffect: PACKAGE CONTAINED; SPILLAGE ABSORBED.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found wet and placed into a haz bag and tote. Tote was placed in a QA area. DescribePack: Cap on one bottle loose and leaked. DurationRel: 1 and MitigateEffect: Package was placed into a haz bag and tote. Tote was placed in a QA area. Cap was tightened.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021042</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020637</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024020580</title>
+      <title>Report X-2024020702</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020580&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020702&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
-                &lt;li&gt;City: PALATINE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
+                &lt;li&gt;City: CHAMPAIGN&lt;/li&gt;
                 &lt;li&gt;State: IL&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO DOCK 3 BAY 64 FOR A LEAKER IN FULL PPE. RESPONDER DISCOVERED IT WAS A CORROSIVE AND FOLLOWED DECISION TREE AND RESPONSE SHEET AND CLEANED IT UP ACCORDING TO THEM. RESPONDER RETURNED TO THE CAGE FOR FURTHER PROCESSING.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found leaking and falling apart. Package was placed into a haz bag and tote. Tote was brought to a QA area. DescribePack: Small puncture in upper part of body. Contents leaking from hole. DurationRel: 1 and MitigateEffect: Package was placed into a haz bag and tote. Tote was taken to a QA area and contents arranged to prevent more leakage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020580</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020702</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020658</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020658&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
+                &lt;li&gt;City: ROMEOVILLE&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Saw the hazmat at barcodes and brought it to the hazmat cage ibn a red hazmat bin DescribePack: The lid loosened and the contents spilled out DurationRel: 1 and MitigateEffect: Was put into a red hazmat bin and brought to the hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020658</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020721</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020721&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
+                &lt;li&gt;City: CHAMPAIGN&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: A driver brought this over to QA due to a very small leak at the bottom. The driver already had it sitting under absorbent pads. DescribePack: There is a small puncture on the bottom of the drum that was caused more than likely from the drum being dropped. DurationRel: 1 and MitigateEffect: Package was brought to the hazmat processing area and absorbent pads were placed underneath the drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020721</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020681</title>
@@ -343,90 +385,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020681</guid>
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020328</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020328&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-16&lt;/li&gt;
-                &lt;li&gt;City: GRAYSLAKE&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THIS PACAKAGE WAS FOUND WET AND TORN. DescribePack: WHEN INSPECTED THERE WAS 4 GLASS GALLONS OF ETHYL ACETATE. THE JARS WERE CRACKED CAUSING ALL THE LIQUID TO LEAK. DurationRel: 3 and MitigateEffect: THIS PACKAGE WAS PLACED INSIDE A PLASTIC BIN TO PREVENT FURTHER LEAKAGE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020328</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020353</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020353&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
-                &lt;li&gt;City: WHEELING&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found when unloading a van. Package was wet and leaking. Package was removed from operation area and taken to Hazmat Cage for processing. Any spill was  cleaned up and materials used were brought to Hazmat cage. DescribePack: loose caps and seals on inner bottles DurationRel: 1 and MitigateEffect: As soon as package was discovered leaking it was removed from the area and taken to Hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020353</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020406</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020406&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: ROMEOVILLE&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Was brought to me at my hazmat cage in a red hazmat bin. DescribePack: The cap on one of the bottles loosened. DurationRel: 1 and MitigateEffect: The hazmat was put into a red hazmat bin, and brought to the hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020406</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020408</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020408&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
-                &lt;li&gt;City: ROMEOVILLE&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found wet on bank 3 after being tossed off the belt by the tagger. Package had Flammable Liquid labeling. Package was put in a plastic bag and taken to the HazMat Cage in order to isolate it from the rest of the employees. The fan was turned on in the HazMat cage to vent the odor. Package was researched and was determined to be a Flammable Liquid HazMat. DescribePack: 1 of the 6 glass bottles inside had shattered, this caused a leak of Hazardous Materials DurationRel: 0 and MitigateEffect: Package was taken to the HazMat cage for isolation and processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020408</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

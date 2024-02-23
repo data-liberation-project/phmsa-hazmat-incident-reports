@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 15:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 18:13:38 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021015</title>
       <description>
@@ -72,25 +72,25 @@
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024020584</title>
+      <title>Report X-2024020674</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020584&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020674&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
-                &lt;li&gt;City: SPOKANE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
+                &lt;li&gt;City: BURLINGTON&lt;/li&gt;
                 &lt;li&gt;State: WA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was unloaded from trailer and sent to van line 300, handlers noticed box was leaking then placed in hazmat tote and brought to QA for inspection DescribePack: Top of cap shattered off causing foil seal to open and discharge in box DurationRel: 2 and MitigateEffect: Package was placed in hazmat tote and isolated from other boxes&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020584</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020674</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020771</title>
@@ -112,48 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020771</guid>
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020761</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020761&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
-                &lt;li&gt;City: TACOMA&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: As the package was being unloaded the package handler noticed the top of the box being wet. DescribePack: Loose caps DurationRel: 1 and MitigateEffect: Once the package was discovered the package was placed in a hazmat tote, taken to the damaged hazmat cage, and set under the vent.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020761</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020833</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020833&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
-                &lt;li&gt;City: AUBURN&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was removed from the package flow due to leaking carton; package was then brought to QA for further inspection. DescribePack: Two bottles of Rapticide PA Part A have leaked its content through vented caps. Package also contains Rapicide Part B bottles which have been exposed / soiled by the leaking one. DurationRel: 1 and MitigateEffect: Package was placed inside a lined tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020833</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

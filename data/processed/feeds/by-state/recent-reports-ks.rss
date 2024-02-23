@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 15:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 18:13:38 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021030</title>
       <description>
@@ -51,6 +51,48 @@
       <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2024020699</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020699&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-28&lt;/li&gt;
+                &lt;li&gt;City: LENEXA&lt;/li&gt;
+                &lt;li&gt;State: KS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: MANAGER NOTIFIED QA OF THE LEAKING PACKAGE. QA PLACED THE LEAKING PAIL IN A LINED TOTE AND CLEANED UP THE SPILL. THE PACKAGE WAS THEN TAKEN TO THE PROCESSING CAGE. DescribePack: THE PAIL WAS DROPPED AND BOTTOM CRACKED CAUSING CONTENTS TO SPILL OUT. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020699</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020688</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020688&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-27&lt;/li&gt;
+                &lt;li&gt;City: LENEXA&lt;/li&gt;
+                &lt;li&gt;State: KS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA take a dock walk; we found a package with the bottom wet. DescribePack: the pail is leaking from the bottom seal, looks like got dropped. DurationRel: 1 and MitigateEffect: QA take a tote lime with a hazmat bag and brought the package to the processing cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020688</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
+    <item>
       <title>Report E-2024020371</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020371&lt;/a&gt;&lt;/h3&gt;
@@ -70,48 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020371</guid>
       <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020594</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020594&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-09&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX GROUND PACKAGE SYS INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020594</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020724</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020724&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-28&lt;/li&gt;
-                &lt;li&gt;City: OLATHE&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was pulled off induction and placed on the ground. Several hours later when the inductor went to take the Hazmat down from induction he saw that it was leaking. DescribePack: There is a crack on the side of the bottle. DurationRel: 4 and MitigateEffect: The package was placed in a tub and the spilled liquid was cleaned using PPE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020724</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

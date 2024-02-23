@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 15:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 18:13:38 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021253</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021253&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
+                &lt;li&gt;City: BALTIMORE&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER CALLED TO RESPOND TO A LEAKING HAZMAT ON THE METRO. RESPONDER DONNED PPE, (GOGGLES, GLOVES, BOOTS AND APRON) AND PREPARED TO RESPOND TO THE SPILL. FOLLOWING DECISION TREE AND RESPONSE SHEETS, CONTAINED THE SPILL AND DECONTAMINATED THE SPILL AREA. ALL WASTE WAS DISPOSED OF THROUGH THE DMP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021253</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020427</title>
       <description>
@@ -51,27 +72,6 @@
       <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024021041</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021041&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-09&lt;/li&gt;
-                &lt;li&gt;City: BELTSVILLE&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: I found wet box in the damage hazmat cage. I filled out the required paperwork and repackaged the damage in a salvage drum. DescribePack: The package failure was from internal leakage caused by a loose cap on some of the container. DurationRel: 1 and MitigateEffect: The leaking package was placed in a tub and taken to the damage hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021041</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024020567</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020567&lt;/a&gt;&lt;/h3&gt;
@@ -112,111 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020347</guid>
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020801</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020801&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS PULLED OUT OF ORIGIN TRAILER STAINED, DescribePack: UPON INSPECTION FOUND 4 OUT OF 4 BOTTLES TO HAVE BROKEN SEALS AND LOOSE CAPS WHICH ALLOWED THE PRODUCT TO LEAK OUT DurationRel: 1 and MitigateEffect: RED TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020801</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020377</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020377&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-18&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE FELL OFF THE ROLLER LINE DURING SORTATION. DescribePack: THE FALL CAUSED THE CAP TO COME LOOSE AND THE CONTENTS TO LEAK OUT. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020377</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020380</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020380&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-18&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND LEAKING DURING SORTATION. DescribePack: THE PLASTIC JUG HAD A DEFECTIVE VENTED CAP CAUSING THE CONTENTS TO SLOWLY LEAK OUT. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020380</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020324</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020324&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-16&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS PICKED UP ON LOAD SIDE STAINED DescribePack: UPON INSPECTION FOUND 1 OUT OF 4 BOTTLES TO HAVE A BROKEN SEAL AND LOOSE CAP WHICH ALLOWED THE PRODUCT TO LEAK OUT DurationRel: 1 and MitigateEffect: RED TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020324</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020417</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020417&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-19&lt;/li&gt;
-                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS PICKED UP ON UNLOAD WET DescribePack: UPON INSPECTION FOUND 2 OUT OF 2 BOTTLES WITH A LOOSE CAP WHICH ALLOWED THE PRODUCT TO LEAK OUT DurationRel: 1 and MitigateEffect: RED TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020417</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

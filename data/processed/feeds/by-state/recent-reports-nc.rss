@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 15:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 18:13:38 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021085</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021085&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
+                &lt;li&gt;City: HOPEMILLS&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS DISCOVERED IN UNLOAD WITH WET BOX. RESPONDER USED SPILL TRAY AND TOOK TO HAZMAT AREA&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021085</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020416</title>
       <description>
@@ -198,33 +219,12 @@
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024020337</title>
+      <title>Report X-2024020653</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020337&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020653&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-09&lt;/li&gt;
-                &lt;li&gt;City: GREENSBORO&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On February 9, 2024, one (1) 55-gallon drum of paint was damaged by a forklift and released approximately twenty-five (25) gallons of paint to the trailer interior and dock floor. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from First Call Environmental (FCE) to remediate the impacted site. Crews collected the absorbents used by the terminal staff and deployed more as needed to the dock, trailer, and pavement surfaces. The damaged drum was placed into an 85-gallon salvage drum for disposal. All impacted absorbents and solid waste was collected and contianerized into one (1) 55-gallon poly drum. FCE remediated staining on the dock floor and pavement to the extent practicable with paint thinner and acetone. Both waste drums were labeled and staged onsite.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020337</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020947</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020947&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
                 &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
                 &lt;li&gt;State: NC&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -233,11 +233,53 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PKG WAS BEING UNLOADED AND APPARENTLY PLACED ON THE BELT AND THERE WAS VISIBLE DAMAGE. PKG WAS QUICKLY SECURED IN A YELLOW HAZMAT DRUM AND SEALED DUE TO THE STRONG ODOR OF THE CONTENTS. PKG WAS LATER INVESTIGATED AT THE QA DAMAGE TABLE AFTER THE SORT. DescribePack: MISHANDLING AND TOO MUCH REHANDLE WAS THE CAUSE. PKG HAS BEEN RECYCLING FOR 2 WEEKS BACK AND FORTH FROM THE SHIPPER DUE TO IMPORPER PAPERWORK. BOTTLE INSIDE WAS GLASS SO IT WAS EITHER DROPPED OR THROWN ONTO THE BELT, CAUSING IT TO BREAK. DurationRel: 1 and MitigateEffect: ENTIRE PKG WAS PLACED IN A HAZMAT DRUM AND SEALED AND SECURED AWAY FROM STATION EMPLOYEE.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Cap came off/missing and item leaked DescribePack: Cap loose DurationRel: -1 and MitigateEffect: item was immediately taken to Hazmat processing area&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020947</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020653</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020655</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020655&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
+                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Dropped hazmat caused the top to come off the plastic container which allowed the liquid to escape the container DescribePack: Dropping a hazmat caused failure and eventually this hazmat started leaking DurationRel: 0 and MitigateEffect: once the pkg was dropped this allow the liquid to escape the container&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020655</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020672</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020672&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
+                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The following package was being loaded to pallet and transport to the 100 Van line. A following package handlers threw the pack and cause one of the glass containers inside to bust. Package was isolated and contained in plastic storage bin. DescribePack: one bottle broken contain spilled from glass bottle DurationRel: 1 and MitigateEffect: placed in plastic storage bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020672</guid>
+      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2024020060</title>
@@ -364,69 +406,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020608</guid>
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020786</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020786&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
-                &lt;li&gt;City: CONCORD&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: IC belt manger contacted QA, to inspect a potential hazmat leaking package. Upon inspection, we noticed that one of the bottles had a loose cap which spilled out and contaminated the entire package contents. We responded within five minutes of the call and isolated this package in a lined hazmat tote and then moved it to the hazmat cage. DescribePack: Loose cap DurationRel: 1 and MitigateEffect: Responded quickly to the call and isolated the hazmat package within the hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020786</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020690</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020690&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-27&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DAMAGED DURING UNLOADING, REMOVED THE DAMAGE TO SECURE SAFETY OF OTHERS. DescribePack: LOOS FITTING, WHICH CAUSED LEAKAGE. DurationRel: 1 and MitigateEffect: APPLIED SPILL FIX.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020690</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020364</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020364&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-16T15:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-17&lt;/li&gt;
-                &lt;li&gt;City: CONCORD&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: As driver was on their route, Hazmat package tipped over and cracked the seal causing it to spill out 4 gallons of hazardous liquid onto about 25 non hazardous packages.  All 25 packages were damaged.  Driver alerted FedEx while on the road and when they returned QA cleaned up liquid and removed all damaged packages. DescribePack: Lid cracked DurationRel: 2 and MitigateEffect: Used absorbent pads for li&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020364</guid>
-      <pubDate>Fri, 16 Feb 2024 15:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2023120043</title>
