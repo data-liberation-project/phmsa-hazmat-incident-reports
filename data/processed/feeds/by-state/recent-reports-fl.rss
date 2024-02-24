@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 21:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 00:33:45 +0000</lastBuildDate>
     <item>
       <title>Report X-2024020575</title>
       <description>
@@ -322,6 +322,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020351</guid>
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023110059</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023110059&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-24T00:32:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-15&lt;/li&gt;
+                &lt;li&gt;City: MIAMI&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: AMERIJET HOLDINGS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Undeclared dangerous goods material. On 11-15-2023, AWB# 810-20766955 was transfered by highway to Amerijet MIA from ATL to KIN. The  shipment contained 2 packages with a gross weight of 70 kg. Piece #1 contained 12 cans of UN2037, and piece #2 contained UN3528 in the form of a generator. The  packages were discovered during routine CBP inspections and then reported. The Amerijet Dangerous Goods team inspected the shipment and confirmed the presence of undeclared  dangerous goods. The shipment was placed on hold in the dangerous goods hold area.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023110059</guid>
+      <pubDate>Sat, 24 Feb 2024 00:32:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

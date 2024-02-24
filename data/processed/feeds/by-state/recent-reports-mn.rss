@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 21:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 00:33:45 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021032</title>
       <description>
@@ -91,6 +91,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020651</guid>
       <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023120020</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120020&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-24T00:32:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-05&lt;/li&gt;
+                &lt;li&gt;City: SAINT PAUL&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SOO LINE RAILROAD COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: At 13:15 on 11/05/2023 a 500 Line Railroad (DBA CPKC) Hazardous Materials Officer became aware that  UTLX 220854 was leaking from its protective housing at the CPKC St. Paul, MN rail yard. A railroad  qualified response contractor was mobilized to investigate. Upon arrival, responders identified that the release was emanating from the threads on the nipple,  where the liquid valve connects to the pressure plate. Responders could not tighten the valve  because the threads were cross threaded. Because of this, absorbents were placed in the protective  housing, around the leak to catch additional product and replaced daily. The shipper was notified,  and subsequently mobilized a Mobile Repair Unit (MRU) to repair the car. The MRU removed the  Nitrogen pad (5Ibs) that had been applied to the car at the time of shipping, which stopped the  leak. However, the MRU could not remove the liquid valve to repair the connection. Because of this, the Shipper applied for an OTMA to move the car to home shop. Both CPKC and UP  Railroads would not agree to this move, so the car was transferred and cleaned an purged in St.  Paul. Once this was done, CPKC and UP Railroads agreed to move the car under an OTMA-1 to home shop  for repairs. File Note: Item 19-the quantity released was estimated based on the best information available at  the time of filing. This shipment was offered as a &amp;#x27;bulk&amp;#x27; shipment, aka one car load, therefore the  exact amount offered in this package is not known to the carrier. This carrier does not have access to mass balance data which can exactly quantify this value.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120020</guid>
+      <pubDate>Sat, 24 Feb 2024 00:32:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
