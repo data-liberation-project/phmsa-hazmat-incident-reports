@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Feb 2024 12:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 15:11:11 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021032</title>
       <description>
@@ -70,6 +70,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020885</guid>
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020853</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020853&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: the driver scanned the package with a code 10 due to suspected damage and removed it from the van. someone set it aside in a lined tote for QA. QA person placed a code 39 on it and brought it back to the damage area, moving it to the drain mats in the incoming damaged hazmat/LQ area. DescribePack: two jerricans leaked small amounts from the caps due to improper handling of package and resulted in dents to the sides of the jerricans. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020853</guid>
+      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020651</title>

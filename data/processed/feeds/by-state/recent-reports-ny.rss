@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Feb 2024 12:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 15:11:11 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021080</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021080&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
+                &lt;li&gt;City: NEW YORK&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021080</guid>
+      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
+    </item>
     <item>
       <title>Report I-2024020064</title>
       <description>
@@ -91,6 +112,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020969</guid>
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020736</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020736&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
+                &lt;li&gt;City: BUFFALO&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: During preload sort on 01/30/2024, a fully regulated Hazmat package was discovered to be damaged and leaking contents.  After discovery, damaged package was taken to QA for inspection DescribePack: Four litter bottle of LabChem Isopropyl Alcohol, 70% leakinmg contents from loose cap inside package. DurationRel: 1 and MitigateEffect: After discovery, damaged package placed in a red plastic Fedex Ground Hazmat bin with plastic liner and staged in Hazmat cage on site for future processing by QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020736</guid>
+      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020634</title>

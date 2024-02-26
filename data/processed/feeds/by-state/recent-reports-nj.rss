@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Feb 2024 12:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 15:11:11 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024020466</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020466&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-13&lt;/li&gt;
+                &lt;li&gt;City: BURLINGTON&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On February 13, 2024, one (1) 5-gallon pail of paint was damaged by a forklift and released approximately five (5) gallons of product to the dock floor. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from First Call Environmental (FCE) to remediate the impacted site.  FCE personnel deployed granular absorbents to the paint-impacted dock and swept them in with hand tools. All spent absorbents were collected and containerized into one (1) 55-gallon drum.  The damaged pail was collected and containerized into one (1) 55-gallon drum. Both containers were staged onsite for future disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020466</guid>
+      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021358</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021358&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-02&lt;/li&gt;
+                &lt;li&gt;City: TRENTON&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Due to jostling during the transit process a  bottle became cracked causing leaking. Upon discovery the package was placed in a red tote and secured in the hazmat cage DescribePack: Crack at the bottom of bottle DurationRel: 1 and MitigateEffect: Upon discovery was placed in red tote and secured in hazmat cage&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021358</guid>
+      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024021129</title>
       <description>
@@ -154,6 +196,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020360</guid>
       <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020727</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020727&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVE AT THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON INSPECTION 2 BOTTLES OF NOBLE LOW TEMP SAN WAS FOUND AND THEY BOTH WERE BOTH SLIGHTLY LEAKING. THE CONTENTS WERE PLACED IN A LINE SALVAGE DRUM TO BE RETURN TO THE SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF NOBLE LOW TEMP SAN CAUSED FROM THE PACKAGE BEING DROPPED OR MISHANDLED. DurationRel: 4 and MitigateEffect: PACKAGE WAS PLACED IN A LINE SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020727</guid>
+      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020722</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020722&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
+                &lt;li&gt;City: KEASBEY&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT THE HAZMAT CAGE, UPON INSPECTION THE BOX OF ZEP CLOG ATTACK WAS FOUND TO BE EMPTY. THE CONTENTS WERE MISSING HENCE THE BOX WAS PLACE IN THE HAZMAT CAGE IN A HAZMAT BAG TO BE SCRAPPED UNLESS OTHERS. DescribePack: FAILURE OF ZEP CLOG ATTACK CAUSED FROM THE PACKAGE BEING DROPPED OR MISHANDLED CAUSING THE CONTENTS TO BE MISSING. DurationRel: 24 and MitigateEffect: THE PACKAGE BOX WAS PLACED IN THE HAZMAT CAGE INSIDE A CLEAR HAZMAT BAG TO AWAIT DISPOSITION UNLESS OTHERWISE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020722</guid>
+      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020615</title>
