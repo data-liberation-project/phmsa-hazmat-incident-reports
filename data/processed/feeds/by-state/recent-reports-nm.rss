@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Feb 2024 12:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 15:15:00 +0000</lastBuildDate>
     <item>
       <title>Report I-2024020055</title>
       <description>
@@ -49,48 +49,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020716</guid>
       <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020639</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020639&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-20T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
-                &lt;li&gt;City: ROSWELL&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During unload PHs found the hazmat at the bottom of the trailer with the orientation arrows not followed. A manager was called over and damaged hazmat was removed and put in out hazardous work area. DescribePack: loose caps DurationRel: 4 and MitigateEffect: Put in a plastic tub&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020639</guid>
-      <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020352</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020352&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-20T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-14&lt;/li&gt;
-                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: GROENDYKE TRANSPORT INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Driver loaded EUP in compartment #1 because the store layout is such that it can be dropped in this manner without moving the truck.  Driver stuck the tanks but failed to check the Veeder Root. Driver failed to properly complete the math resulting in the overfill. Driver was connected to both E10 tanks at the time of unloading but was only unloading into one at a time.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020352</guid>
-      <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

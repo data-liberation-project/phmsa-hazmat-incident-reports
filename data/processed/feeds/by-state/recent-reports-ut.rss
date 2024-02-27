@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Feb 2024 12:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 15:15:00 +0000</lastBuildDate>
     <item>
       <title>Report E-2024020459</title>
       <description>
@@ -93,27 +93,6 @@
       <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024020345</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020345&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-20T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
-                &lt;li&gt;City: WEST VALLEY CITY&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On February 8, 2024, two (2) 5-gallon pails of UN1993 were punctured by a nail in transit and released approximately one (1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from GrayMar Environmental Services (GES) to remediate the impacted site.  GES personnel personnel placed the one damaged pails into an 85-gallon over-pack for terminal disposal. The second dented pail was placed back on the pallet due to no leakage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020345</guid>
-      <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024020709</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020709&lt;/a&gt;&lt;/h3&gt;
@@ -196,27 +175,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020611</guid>
       <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020362</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020362&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-20T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-18&lt;/li&gt;
-                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: LOOSE CAPPS LEAKING DURING TRANSIT, UNLOADED, PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: LOOSE CAPS LEAKING CORROSIVE OXIDIZER INSIDE A WET SOILED BOX SOILING ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020362</guid>
-      <pubDate>Tue, 20 Feb 2024 15:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
