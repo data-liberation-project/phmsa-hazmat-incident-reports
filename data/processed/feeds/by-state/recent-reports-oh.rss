@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Feb 2024 15:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:13:06 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024020956</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020956&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
+                &lt;li&gt;City: PERRYSBURG&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: pkg was found during the unload process on 2-6 at 16:00 and taken to qa for inspection. DescribePack: carton was wet due to two leaking bottles inside that had loose caps. DurationRel: 1 and MitigateEffect: ppe used to place carton in a hazmat bag and then into a plastic tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020956</guid>
+      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020476</title>
       <description>
@@ -406,6 +427,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020384</guid>
       <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020834</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020834&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-22&lt;/li&gt;
+                &lt;li&gt;City: CAMBRIDGE&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020834</guid>
+      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020764</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020764&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
+                &lt;li&gt;City: PERRYSBURG&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: pkg was found during the unload process on 1-30 at 21:30 and taken to qa for inspection. DescribePack: carton was wet due to a leaking plastic bag inside. DurationRel: 1 and MitigateEffect: ppe used to place carton in a hazmat bag and then into a plastic tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020764</guid>
+      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020654</title>

@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Feb 2024 15:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 18:13:06 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024020778</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020778&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
+                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
+                &lt;li&gt;State: MS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was in Gateway area, inside container AMJ 66240 FX. The package was already wet from internal leakage. Two caps were slightly loosened. DescribePack: The package had begun to tear, due to the over absorption of the hazardous material. DurationRel: 1 and MitigateEffect: The package was placed inside a plastic bag and had absorbed majority of the hazardous material.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020778</guid>
+      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024021024</title>
       <description>
@@ -28,6 +49,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021024</guid>
       <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020749</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020749&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
+                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
+                &lt;li&gt;State: MS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND INSIDE OF NON-HAZARDOUS TOTE. THE PACKAGE WAS COMPLETELY DESTROYED. DescribePack: THE BOTTOM AND THE SIDES OF THE PACKAGE WET. THE LEAKAGE WAS ABSORBED THROUGHOUT THE CARDBOARD BOX. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PROPERLY HANDLED USING THE CORRECT HAZARDOUS MATERIALS SPILL CLEAN UP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020749</guid>
+      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024021101</title>
