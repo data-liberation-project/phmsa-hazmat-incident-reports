@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 15:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 18:14:21 +0000</lastBuildDate>
     <item>
-      <title>Report X-2024021038</title>
+      <title>Report X-2024021536</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021038&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021536&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-09&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
                 &lt;li&gt;City: BOISE&lt;/li&gt;
                 &lt;li&gt;State: ID&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -23,11 +23,11 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: M QA discovered package leaking in unload. Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent. DescribePack: There was a leak on the top right side of the box. The package was a bottle of degreaser that had a loose cap and 2 fl. oz. spilled out of the bottle. DurationRel: 1 and MitigateEffect: Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: AM QA discovered package leaking in unload. Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent. DescribePack: There was leaking on the bottom corner of the box. There was also leaking inside the box. The plastic bottles were wrapped in plastic bags but the content went through the bag and spilled onto the box. DurationRel: 1 and MitigateEffect: Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021038</guid>
-      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021536</guid>
+      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020795</title>

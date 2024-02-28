@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 15:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 18:14:21 +0000</lastBuildDate>
     <item>
-      <title>Report E-2024020402</title>
+      <title>Report E-2024020504</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020402&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020504&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
                 &lt;li&gt;City: JANESVILLE&lt;/li&gt;
                 &lt;li&gt;State: WI&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -23,32 +23,32 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Two 1 gallon plastic jugs were crushed during transit, released 0.5 gallons.&lt;/li&gt;
+                &lt;li&gt;Description: One 5 gallon metal pail was crushed during loading, released 1 cup on dock.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020402</guid>
-      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020504</guid>
+      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024020382</title>
+      <title>Report X-2024021120</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020382&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021120&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
-                &lt;li&gt;City: Sturtevant&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-02-09&lt;/li&gt;
+                &lt;li&gt;City: MENOMONEE FALLS&lt;/li&gt;
                 &lt;li&gt;State: WI&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Packagin failure&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found by manager on the belt Durning unloading. noticed the box was black and looked leaking. DescribePack: The side of one of the bottles had a crack in it. DurationRel: 1 and MitigateEffect: Package was placed in a tote and given to QA to inspect for damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020382</guid>
-      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021120</guid>
+      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020800</title>
@@ -154,27 +154,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020667</guid>
       <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020856</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020856&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
-                &lt;li&gt;City: MADISON&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: the box was found in the hazmat cage. DescribePack: The box as covered in a strong alcohol smelling liquid. once opened found that one of the bottles caps was loose and cross threaded. the under-cap seal was bad. DurationRel: 1 and MitigateEffect: all was put into a plastic spill bag and then into the cage in a black tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020856</guid>
-      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

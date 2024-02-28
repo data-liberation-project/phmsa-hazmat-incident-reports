@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 15:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 18:14:21 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021524</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021524&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
+                &lt;li&gt;City: KENNESAW&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Qa was call over  due to a leaking hazmat. DescribePack: The hazmat was leaking from the bottom of the jerrican. DurationRel: 1 and MitigateEffect: Qa clean the spill place hazmat inside a red tote to be taken over to the hazmat area for processing.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021524</guid>
+      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021520</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021520&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
+                &lt;li&gt;City: KENNESAW&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Qa was call over due to a leaking hazmat spill. DescribePack: Hazmat was leaking from the bottom. DurationRel: 1 and MitigateEffect: Qa clean up the spill place hazmat inside a red tote to be taking over to the hazmat area for processing.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021520</guid>
+      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024020989</title>
       <description>
@@ -324,46 +366,25 @@
       <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024020397</title>
+      <title>Report X-2024021105</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020397&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021105&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-13&lt;/li&gt;
-                &lt;li&gt;City: ELLENWOOD&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
+                &lt;li&gt;City: KENNESAW&lt;/li&gt;
                 &lt;li&gt;State: GA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon metal pail was punctured during transit, released 1 gallon in trailer.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Qa was call over to unload due to a leaking hazmat. DescribePack: The hazmat caps was loose causing the spill. DurationRel: 1 and MitigateEffect: Qa clean up the spill place hazmat inside a red tote to be taking over to the waste area for process.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020397</guid>
-      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020409</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020409&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: Ellenwood&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: AAA COOPER TRANSPORTATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Other fell&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020409</guid>
-      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021105</guid>
+      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020799</title>

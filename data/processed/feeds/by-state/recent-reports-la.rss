@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Feb 2024 15:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 18:14:21 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021535</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021535&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-17&lt;/li&gt;
+                &lt;li&gt;City: BATON ROUGE&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was found damaged wet on the bottom of package. The package was placed in a red bin by QA and transported to the hazmat area to be processed properly. DescribePack: The bottle of acid was found in a plastic bag with some strap on the cap. The bottle leaked a little in the bag and it deteriorate wetting up the box. DurationRel: 2 and MitigateEffect: The package was placed in red bin and brought to hazmat cage to be processed properly.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021535</guid>
+      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020464</title>
       <description>
@@ -49,27 +70,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020934</guid>
       <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020393</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020393&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-21T15:11:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-10&lt;/li&gt;
-                &lt;li&gt;City: SHREVEPORT&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A spill of about 1 gallon of &amp;quot;Tomamine DA-17&amp;quot;, a class 8 corrosive liquid, out of a 50gal metal drum onto the trailer floor. The drum was punctured by a forklift. No Drains, Soils or Waterways were impacted.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020393</guid>
-      <pubDate>Wed, 21 Feb 2024 15:11:40 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020740</title>
