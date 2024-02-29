@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Feb 2024 15:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 18:14:11 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024020071</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020071&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-29T18:14:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
+                &lt;li&gt;City: Sharon Hill&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On 02/15/2023 this shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL PHL Service Center, 550 Elmwood Ave., Sharon Hill, PA 19079.   Transportation by road has been confirmed.   Shipment also contains   UN1950 Aerosols, flammable                     UN1950 Aerosols, flammable Class 2.1                                                 Class 2.1  Single Package or Inner Packaging (if any): Single Package or Inner Packaging (if any):  Packaging Type: Receptacle                       Packaging Type: Receptacle  Material of Construction: Metal                  Material of Construction: Metal  Package Capacity: 170 g                           Package Capacity: 184 g  Amount in Package: 170 g                        Amount in Package: 184 g  Number in Shipment: 2                            Number in Shipment: 3  Number Failed: 2                                     Number Failed: 3&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020071</guid>
+      <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021063</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021063&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-29T18:14:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
+                &lt;li&gt;City: READING&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: ABF stated that the spill was caused by a nail in the skid, puncturing the drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021063</guid>
+      <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020513</title>
       <description>
@@ -471,27 +513,6 @@
       <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
     <item>
-      <title>Report I-2024020062</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020062&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-22T15:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: MECHANICSBURG&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: T FORCE FREIGHT&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: CORROSIVE LIQUID LEAKED IN TRANSIT DUE TO IMPROPER BLOCKING/BRACING&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020062</guid>
-      <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024021104</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021104&lt;/a&gt;&lt;/h3&gt;
@@ -679,27 +700,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020447</guid>
       <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021095</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021095&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-22T15:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-08&lt;/li&gt;
-                &lt;li&gt;City: ZELIENOPLE&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Driver brought the leaker to QA cage 1, stating that it was leaking and it could not be delivered. The package was immediately put into a lined spill bin while the SDS was pulled up. The SDS revealed it was a limited quantity and needed to be processed as a damaged hazmat. DescribePack: Box was soggy and the bottles had broken through the wet cardboard. One bottle had completely leaked and was tipped over. DurationRel: 0 and MitigateEffect: Box put into tote to prevent more leakage, lids were tightened&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021095</guid>
-      <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Feb 2024 15:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 18:14:11 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021491</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021491&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-29T18:14:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
+                &lt;li&gt;City: BELDEN&lt;/li&gt;
+                &lt;li&gt;State: MS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package handler noticed leaking substance from box, DescribePack: box has bucket inside with bottom cracked DurationRel: 1 and MitigateEffect: QA retrieved box and secured it in proper hazmat area.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021491</guid>
+      <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021210</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021210&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-29T18:14:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
+                &lt;li&gt;City: OLIVE BRANCH&lt;/li&gt;
+                &lt;li&gt;State: MS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was pushed off IC belt by L1-1. The cap was loose on content, causing internal leakage. DescribePack: The content cap became loose due to being pushed off IC belt.. DurationRel: 1 and MitigateEffect: The package was immediately placed in a plastic bag and absorbent pads were used to soak up spill..&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021210</guid>
+      <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024020778</title>
       <description>

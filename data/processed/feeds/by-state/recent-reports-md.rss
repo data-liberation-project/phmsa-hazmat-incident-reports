@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Feb 2024 15:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 18:14:11 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021486</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021486&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-29T18:14:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-18&lt;/li&gt;
+                &lt;li&gt;City: HAGERSTOWN&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS FOUND LEAKING ON THE UNLOAD TRAILER FROM THE PREVIOUS FACILITY. DescribePack: THE CAP CAME LOOSE ON THE PLASTIC JUG CAUSING THE CONTENTS TO LEAK OUT. DurationRel: 2 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE FOR PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021486</guid>
+      <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020502</title>
       <description>
@@ -114,48 +135,6 @@
       <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024020427</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020427&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-22T15:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: BALTIMORE&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 1 liter bottle punctured during loading, released 1 liter on dock.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020427</guid>
-      <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020429</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020429&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-22T15:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: Hagerstown&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: OLD DOMINION FREIGHT LINE INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Valve damage/Failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020429</guid>
-      <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024020806</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020806&lt;/a&gt;&lt;/h3&gt;
@@ -196,27 +175,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020723</guid>
       <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020567</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020567&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-22T15:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-29&lt;/li&gt;
-                &lt;li&gt;City: BALTIMORE&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On Jan 28th during the PM sort a drum was found that was dented and slightly leaking.  The drum contains UN3082 Environmentally Hazardous Substance, liquid, n.o.s.(), 9, PGIII.   The spill was cleaned up, contained and the consignee was contacted to come and pick up the drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020567</guid>
-      <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

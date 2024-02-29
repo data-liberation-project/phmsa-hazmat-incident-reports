@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Feb 2024 15:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 18:14:11 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021154</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021154&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-29T18:14:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
+                &lt;li&gt;City: SALEM&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package found in trailer loaded on side and not up right. Box wet and placed in upright in red tote. DescribePack: Bottle leaked from cap. DurationRel: 1 and MitigateEffect: Cap tightened, and bottle placed upright.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021154</guid>
+      <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024020493</title>
       <description>
@@ -156,6 +177,48 @@
       <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2024020829</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020829&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-29T18:14:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
+                &lt;li&gt;City: PORTLAND&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package was unloaded and leaked. was put in a tote to prevent further leakage. DescribePack: loose cap at the top caused leakage. DurationRel: 1 and MitigateEffect: put in a tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020829</guid>
+      <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024020839</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020839&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-02-29T18:14:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
+                &lt;li&gt;City: PORTLAND&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: bottle has a leak from somewhere under the cap am unable to find exact point of leak. found on vanline put in spill proof bin moved to hazmat cage DescribePack: bottle has a leak from somewhere under the cap am unable to find exact point of leak. DurationRel: 3 and MitigateEffect: found on vanline put in spill proof bin moved to hazmat cage&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020839</guid>
+      <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2024020781</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020781&lt;/a&gt;&lt;/h3&gt;
@@ -259,27 +322,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020766</guid>
       <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020861</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020861&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-22T15:12:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-29&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The box was brought to QA post spill. Box was soiled. Inside were 12 bottles of cleaning solution. One had a loose cap and was missing about half of it&amp;#x27;s liquid. DescribePack: Twist plastic cap was loose DurationRel: 1 and MitigateEffect: tightened cap&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020861</guid>
-      <pubDate>Thu, 22 Feb 2024 15:12:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
