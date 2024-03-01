@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 06:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021142</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021142&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-11&lt;/li&gt;
+                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The manager noticed the outer packaging wet and called QA. We secured the hazmat in a lined red tote, tightened the caps. Spill pads were used to clean up the floor, DescribePack: Cap became loose DurationRel: 1 and MitigateEffect: Cap was tightened and package was placed in a lined red tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021142</guid>
+      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021277</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021277&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-09&lt;/li&gt;
+                &lt;li&gt;City: LEXINGTON&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021277</guid>
+      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024020580</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020580&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-10&lt;/li&gt;
+                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020580</guid>
+      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024020927</title>
       <description>
@@ -261,111 +324,6 @@
       <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024021268</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021268&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-19&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2024021268 AT THE UPS WORLDPORT FACILITY IN LOUISVILLE, KY, AN AIR PACKAGE FROM UNITED KINGDOM TO NEVADA, USA WAS INSPECTED DUE TO PREVIOUS UNDECLARED SHIPMENTS BEING FOUND BY IMPORT USA CBP AGENTS. PACKAGE INSPECTION REVEALS MEAL, READY TO EAT (MRE) WITH FLAMELESS RATION HEATERS CONTAINING MAGNESIUM POWDER, CARBON CLASSIFIED AS DANGEROUS WHEN WET. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS IMPORTED INTO THE USA FROM THE UNITED KINGDOM USING UPS ACCOUNT NUMBER 418UTY, BAART OJRYNSKI, 2 2 P URDOM RD., WELWYM GARDEN C, AL74FH, UNITED KINGDOM.   2. X-2024021308 AT THE UPS WORLDPORT FACILITY IN LOUISVILLE, KY, AN AIR PACKAGE FROM UNITED KINGDOM TO ALASKA, USA WAS INSPECTED DUE TO PREVIOUS UNDECLARED SHIPMENTS BEING FOUND BY IMPORT USA CBP AGENTS. PACKAGE INSPECTION REVEALS MEAL, READY TO EAT (MRE) WITH FLAMELESS HEATERS CONTAINING MAGNESIUM POWDER, CARBON CLASSIFIED AS DANGEROUS WHEN WET. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS IMPORTED INTO THE USA FROM THE UNITED KINGDOM USING UPS ACCOUNT NUMBER 417TDD, BAART OJRYNSKI, 2 2 P URDOM RD., WELWYM GARDEN C, AL74FH, UNITED KINGDOM.  3. X-2024021311 AT THE UPS WORLDPORT FACILITY IN LOUISVILLE, KY, AN AIR PACKAGE FROM UNITED KINGDOM TO NORTH DAKOTA, USA WAS INSPECTED DUE TO PREVIOUS UNDECLARED SHIPMENTS BEING FOUND BY IMPORT USA CBP AGENTS. PACKAGE INSPECTION REVEALS MEAL, READY TO EAT (MRE) WITH FLAMELESS RATION HEATERS CONTAINING MAGNESIUM POWDER, CARBON CLASSIFIED AS DANGEROUS WHEN WET. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS IMPORTED INTO THE USA FROM THE UNITED KINGDOM USING UPS ACCOUNT NUMBER 41NHT3, BAART OJRYNSKI, 2 2 P URDOM RD., WELWYM GARDEN C, AL74FH, UNITED KINGDOM.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021268</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021237</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021237&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2024021237  AIR PACKAGE FROM THE UNITED KINGDOM TO INDIANA, USA WAS INSPECTED BY IMPORT CBP AGENTS AT THE UPS WORLDPORT FACILITY IN LOUISVILLE, KENTUCKY. THE AGENT OPENED THE PACKAGE AND FOUND MEAL, READY TO EAT (MRE) WITH FLAMELESS RATION HEATERS CONTAINING MAGNESIUM POWDER, CARBON CLASSIFIED AS DANGEROUS WHEN WET. THE INVOICE WAS TREKKING SUPPLIES. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS EXPORTED FROM THE UNITED KINGDOM TO THE USA USING UPS ACCOUNT NUMBER 409WFT, BAART OJRYNSKI, 2 2 PURDOM RD., WEST GARDEN C, AL74FA, UNITED KINGDOM.   2. X-2024021238 AIR PACKAGE FROM THE UNITED KINGDOM TO TEXAS, USA WAS INSPECTED BY IMPORT USA CBP AGENTS AT THE UPS WORLDPORT FACILITY IN LOUISVILLE, KENTUCKY. THE AGENT OPENED THE PACKAGE AND FOUND MEAL, READY TO EAT (MRE) WITH FLAMELESS RATION HEATERS CONTAINING MAGNESIUM POWDER, CARBON CLASSIFIED AS DANGEROUS WHEN WET. THE INVOICE DESCRIPTION WAS TREKKING SUPPLIES. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS EXPORTED FROM THE UNITED KINGDOM TO THE USA USING UPS ACCOUNT NUMBER 41M5LT, BAART OJRYNSKI, 2 2 P URDOM RD., WELWYM GARDEN C, AL74FH, UNITED KINGDOM.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021237</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021243</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021243&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO A LEAKING DANGEROUS GOODS PACKAGE THAT WAS MARKED AND LABELED AS CONSUMER COMMODITY ID8000 WITH A CLASS 9 DIAMOND LABEL, AIR LIMITED QUANTITY MARKING, AND SHIPPERS DECLARATION. THE DANGEROUS GOODS SHIPMENT HAD PREVIOUSLY PASSED AN ACCEPTANCE AUDIT AT THE ORIGIN FACILITY. UPON INSPECTION OF THE CONTENTS DISCOVERED ONE X 500 ML BOTTLE OF RITUALS PARFUM D&amp;#x27;INTERIEUR RELAX INTERIOR PERFUME LEAKING FROM THE CLOSURE. APPROXIMATELY 400 ML HAD LEAKED. ADDITIONAL PRODUCTS INSIDE THE PACKAGE DID NOT LEAK. THE PACKAGE WAS SHIPPED FROM THE NETHERLANDS GOING TO THE USA USING UPS ACCOUNT NUMBER B567J0, ARVATO BENELUX BV, BREM 1, HEIJEN NETHERLANDS 6598MH.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021243</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021244</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021244&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO A LEAKING DANGEROUS GOODS PACKAGE THAT WAS MARKED AND LABELED AS CONSUMER COMMODITY ID8000 WITH A CLASS 9 DIAMOND LABEL, AIR LIMITED QUANTITY MARKING, AND SHIPPERS DECLARATION. THE DANGEROUS GOODS PACKAGE HAD PREVIOUSLY PASSED AN ACCEPTANCE AUDIT AT THE ORIGIN FACILITY. UPON INSPECTION OF THE CONTENTS DISCOVERED THREE X 16.9 OUNCE BOTTLES OF WILD FIG HOME PERFUME. TWO OF THE BOTTLES HAD LEAKED FROM LOOSE CLOSURES. ONE BOTTLE DID NOT LEAK. THE PACKAGE WAS SHIPPED FROM THE NETHERLANDS GOING TO THE USA USING UPS ACCOUNT NUMBER B567J0, ARVATO BENELUX BV, BREM 1, HEIJEN NETHERLANDS 6598MH.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021244</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021242</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021242&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO (2) LEAKING DANGEROUS GOODS PACKAGES MARKED AND LABELED AS CONSUMER COMMODITY ID8000 WITH CLASS 9 DIAMOND LABELS, AIR LIMITED QUANTITY MARKINGS, AND SHIPPERS DECLARATIONS. BOTH PACKAGES HAD PREVIOUSLY PASSED ACCEPTANCE AUDITS AT THEIR ORIGIN FACILITIES IN THE NETHERLANDS. UPON INSPECTION OF TRACKING NUMBER 1ZB567J00459689513, ONE X 500 ML BOTTLE OF FLAMMABLE WILD FIG HOME PERFUME SPRAY WAS LEAKING FROM A LOOSE CLOSURE. UPON INSPECTION OF TRACKING NUMBER 1ZB567J00459689282, ONE X 6.7 OZ AEROSOL CAN OF RITUAL OF MEHR FOAMING SHOWER GEL HAD LEAKED FROM THE CLOSURE. THE SECOND PRODUCT LEAKING IN THE BOX WAS ONE X 3.3 OUNCE BOTTLE OF RITUALS OF MEHR DRY OIL FOR THE BODY LEAKING APPROXIMATELY ONE OUNCE FROM A LOOSE CLOSURE. THESE PACKAGES WERE SHIPPED FROM THE NETHERLANDS GOING TO THE USA USING UPS ACCOUNT NUMBER B567J0, ARVATO BENELUX BV, BREM 1, HEIJEN NETHERLANDS 6598MH.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021242</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024020805</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020805&lt;/a&gt;&lt;/h3&gt;
@@ -427,27 +385,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020836</guid>
       <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020680</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020680&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-26&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to a leaking package. Package was found on dock with wet spots on it and was immediately put into a lined tote when QA arrived at spill. Product evaporated off floor before it could be wiped up. DescribePack: Caps were loose and allowing leakage. DurationRel: 1 and MitigateEffect: Package was kept in an upright position in a lined tote and caps were tightened to prevent further leakage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020680</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 06:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:15:00 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021514</title>
       <description>
@@ -93,6 +93,48 @@
       <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2024021339</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021339&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-22&lt;/li&gt;
+                &lt;li&gt;City: EAU CLAIRE&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Undiscovered hazmat package discovered wet on bulk truck during unload on Outbound sort. Package was removed from vehicle and inspected. It was found that the contents were hazardous materials with no accompanying paperwork. DescribePack: All four bottles in the package had leaked due to the caps not being properly secured. DurationRel: 4 and MitigateEffect: Package was placed in a bin and put underneath ventilation system in hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021339</guid>
+      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021301</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021301&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
+                &lt;li&gt;City: OAK CREEK&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS LEAKED ON BY ANOTHER PACKAGE IN THE SYSTEM. DURING CLEANUP IT WAS DISCOVERED THAT THIS NON-LEAKING PACKAGE CONTAINED AN AEROSOL CAN, BUT POSSESSED NO ORM-D LABEL TO INDICATE ANY SUCH CONTENTS.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021301</guid>
+      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2024020800</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020800&lt;/a&gt;&lt;/h3&gt;
@@ -112,90 +154,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020800</guid>
       <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020629</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020629&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
-                &lt;li&gt;City: EAU CLAIRE&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2024020629, X-2024020630: SequenceEvent: improperly loaded Hazmat packages, they appeared to be stacked on top of each other, I was the one who opened the trailer because are switcher stated that the trailer had a funny smell to it. After opening the trailer, I mediately could see the damaged hazmat&amp;#x27;s actively leaking, I had are switcher pull the trailer out into the yard to air out, and after about 30 minutes I had him put the trailer back on the door, I then put on my PPE and used PH balancing powder to cover the effected spill area, after that I swept the powder up and let the trailer air out for another 30 minutes, after that I gave the go ahead to unload the trailer. DescribePack: improperly loaded Hazmat packages, they appeared to be stacked on top of each other, which caused them to fall over and start spilling due to the vented caps. DurationRel: 1 and MitigateEffect: As soon as it was safe to do so I put the hazmat&amp;#x27;s upright and brought them over to are Hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020629</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020661</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020661&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
-                &lt;li&gt;City: MADISON&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: was told the box was found damaged and leaking. may have fallen off of a tugger cart.  The hazmat cleanup team was called to clean up the spill. DescribePack: 1 of 4 glass bottles shattered and leaked out its corrosive and flammable contents.  the other 3 bottles are undamaged just leaked on and soiled. DurationRel: 2 and MitigateEffect: liquid dry was put on the spill. the damaged bottle box and one damaged item were disposed of by the cleanup team.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020661</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020731</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020731&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
-                &lt;li&gt;City: EAU CLAIRE&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package handlers were unloading a 53-foot trailer, and discovered this Hazmat tipped over on its side, they immediately notified the manager and the QA. DescribePack: there were two lids on the inner container the smaller second lid was not tightened all the way and the package started leaking, when it tipped over. DurationRel: 1 and MitigateEffect: After the package handlers made me aware of the package, I immediately put on gloves and put the package upright, I then put the package in a bin for transport and brough it down to are hazmat cage, i then use absorbent powder to clean up the liquid in the trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020731</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020667</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020667&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-25&lt;/li&gt;
-                &lt;li&gt;City: MADISON&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: the box was being unloaded and it had a loose cap on one plastic bottle and most of its contents has leaked out. DescribePack: the bottle was missing its cap and its contents leaked out. the bottom of the box is soaked. DurationRel: 1 and MitigateEffect: The damaged box was put into a plastic spill bag lined tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020667</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 06:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:15:00 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021172</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021172&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-13&lt;/li&gt;
+                &lt;li&gt;City: OMAHA&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: While loading a van a manager found a hazmat that was leaking and notified QA. DescribePack: Upon inspection a loose seal was found under one of the caps. DurationRel: 1 and MitigateEffect: When the leak was found QA tightened the lid and packed the box into a salvage drum&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021172</guid>
+      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021187</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021187&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-13&lt;/li&gt;
+                &lt;li&gt;City: OMAHA&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Delivery driver came back to station with package on his truck. He told me he had a leaking hazmat package. I removed the hazmat package which was in a trash bag to prevent any further contamination. I took hazmat package to hazmat cage and opened it up and determined that inside the package there were 4 gallons of Dishmachine detergent, of which 1 was leaking. DescribePack: The lid on the gallon that was leaking was loose. DurationRel: 1 and MitigateEffect: I sprinkled Amphomag universal spill neutralizer inside the truck on the small amount that spilled&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021187</guid>
+      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024021066</title>
       <description>

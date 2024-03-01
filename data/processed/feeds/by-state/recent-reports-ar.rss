@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 06:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:15:00 +0000</lastBuildDate>
     <item>
       <title>Report I-2024020066</title>
       <description>
@@ -49,48 +49,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020566</guid>
       <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020673</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020673&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-26&lt;/li&gt;
-                &lt;li&gt;City: MABELVALE&lt;/li&gt;
-                &lt;li&gt;State: AR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PKG CAME OFF OF TRAILER WET AND LEAKING. UPON INSPECTION, PKG WAS IMMEDIATELY GIVEN TO QA. DescribePack: CAP WAS LOOSE ON Rapicide® PA Part A BOTTLE DurationRel: 1 and MitigateEffect: PLACED IN HAZMAT TOTE LINED WITH HAZMAT PLASTIC&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020673</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020612</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020612&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-23T18:13:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-24&lt;/li&gt;
-                &lt;li&gt;City: HARRISON&lt;/li&gt;
-                &lt;li&gt;State: AR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: A package handler picked up the package assuming it was a wet box from rain and then set it on the rollers. I went and noticed a leak under the package and quickly noticed it was leaking and saw that it was a hazmat. I identified the type of hazmat being alcohol and got a tote to avoid any major spillage to continue. DescribePack: Multiple bottles of alcohol had loose caps but only one was very loose which caused the package to leak. DurationRel: 0 and MitigateEffect: It was placed so that it would not leak and then had a tote put underneath so anymore would not spill&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020612</guid>
-      <pubDate>Fri, 23 Feb 2024 18:13:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
