@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 21:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 15:11:52 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021297</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021297&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-19&lt;/li&gt;
+                &lt;li&gt;City: CHEYENNE&lt;/li&gt;
+                &lt;li&gt;State: WY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY INC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: GATX 50772 was found releasing in the Union Pacific Cheyenne Yard. After investigation it was found the release was due to the pressure relief device activating, rupturing the frangible disk.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021297</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024021333</title>
       <description>
@@ -28,27 +49,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021333</guid>
       <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020365</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020365&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-22&lt;/li&gt;
-                &lt;li&gt;City: ELK MOUNTAIN&lt;/li&gt;
-                &lt;li&gt;State: WY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: AIRGAS SPECIALTY PRODUCTS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The accident is still under investigation to determine the cause.  What we know is the vehicle veered to the right leaving the interstate and rolling multiple times.  Due to the rollover, a 2 inch pipe on the back end of the tank was broken off causing the loss of ammonia.  Carbon Count FD, WY State Police and EMT&amp;#x27;s responded to the scene.  I80 was closed for an estimated 5 hours, favorable wind direction allowed the interstate to reopen.  We dispatched our local plant manager to the scene to help determine the severity of the leak.  Once we received information back, it was determined to tarp and cover the release to help contain the fugitive vapors near the truck.  Our Field Service team was activated and sent to the site to remove the remaining liquid ammonia from the truck to allow for a safe recovery of the vehicle by the tow company.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020365</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

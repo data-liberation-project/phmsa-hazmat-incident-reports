@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 21:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 15:11:52 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021397</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021397&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
+                &lt;li&gt;City: GREENWOOD&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE ARRIVED IN THE QA AREA AND UPON INSPECTION DEEMED A FULLY REGULATED HAZMAT. FURTHER INSPECTION CONCLUDED METAL DRUM NOTICEABLY WET. CONTENTS OF 1 X 5 GALLON METAL PAIL &amp;quot;UN1263 PAINT&amp;quot; (FLAMMABLE LIQUIDS), FAILED AT TOP LID. LEAKAGE OF CONTENTS CAUSING ENTIRE PACKAGE TO FAIL. DEEMED DAMAGED AND UNUSABLE GOODS. DescribePack: FAILED AT TOP LID. DurationRel: 1 and MitigateEffect: ONCE PACKAGE WAS DEEMED A FULLY REGULATED HAZMAT, IT WAS SEGREGATED FROM ALL OTHER PACKAGES.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021397</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021271</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021271&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-03&lt;/li&gt;
+                &lt;li&gt;City: INDIANAPOLIS&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On February 3rd a package was found during the AM sort that was leaking.  The package contained 1805, Phosphoric acid, solution, 8, III, the inner glass receptacle broke, causing the entire contents to leak.   The package was placed into a steel salvage drum and will be sent for disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021271</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021396</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021396&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
+                &lt;li&gt;City: GREENWOOD&lt;/li&gt;
+                &lt;li&gt;State: IN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE ARRIVED IN THE QA AREA AND UPON INSPECTION DEEMED A FULLY REGULATED HAZMAT. FURTHER INSPECTION CONCLUDED PACKAGE NOTICEABLY WET DUE TO INTERNAL LEAKAGE. CONTENTS DEEMED AS; 2 X 1 US GALLON CANS OF RESIN SOLUTION (UN1866).   PACKAGE DID NOT HAVE INTERNAL PACKING MATERIAL, AND FAILED AT TOP LID. INTERNAL LEAKAGE FAILED PACKAGE ENTIRELY. PAINT CANS ARE DENTED, DAMAGED AND UNUSABLE GOODS. DescribePack: FAILED AT TOP LID. DurationRel: 1 and MitigateEffect: ONCE PACKAGE WAS DEEMED A FULLY REGULATED HAZMAT, IT WAS SEGREGATED FROM ALL OTHER PACKAGES.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021396</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024021291</title>
       <description>
@@ -196,48 +259,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020898</guid>
       <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020485</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020485&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: Indianapolis&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Damaged while loading&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020485</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020453</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020453&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: Elkhart&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020453</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

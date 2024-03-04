@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 21:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 15:11:52 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021168</title>
       <description>
@@ -28,69 +28,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021168</guid>
       <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020883</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020883&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-02&lt;/li&gt;
-                &lt;li&gt;City: THEODORE&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat was found in the unload leaking. Package handlers notified QA and hazmat was removed to the secure hazmat area. DescribePack: Inner caps were loose causing leakage. Box was found wet on one corner. DurationRel: 1 and MitigateEffect: The hazmat was removed from the unload area and placed in a hazmat container. It was then stored in the secure hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020883</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020757</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020757&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
-                &lt;li&gt;City: THEODORE&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat was found leaking in unload. QA removed package to hazmat secure cage DescribePack: Inner bottles were leaking from cap. Outer packaging was discolored from leak. DurationRel: 1 and MitigateEffect: Package was moved to hazmat cage&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020757</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020748</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020748&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-30&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was being unloaded when granular leakage was spotted. Package was placed in a bin to contain contents. DescribePack: Vertical crack from bottom to about 3/4 up the pail. Exterior box does not visually show signs of a drop/impact. Head of pail is secure. DurationRel: 1 and MitigateEffect: Majority of spill was contained by exterior box. The whole package was placed in a sorting bin to contain any further leakage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020748</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

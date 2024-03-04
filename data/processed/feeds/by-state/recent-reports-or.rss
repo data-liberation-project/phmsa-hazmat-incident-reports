@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 21:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 15:11:52 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021377</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021377&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-10&lt;/li&gt;
+                &lt;li&gt;City: SALEM&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: diver removed package from vehicle due to leakage and placed in plastic bag on dock. DescribePack: loose cap on 1 gal bottle with 64 oz leaked out DurationRel: 1 and MitigateEffect: HazMat was bagged and placed in damaged package tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021377</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021563</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021563&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
+                &lt;li&gt;City: HILLSBORO&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO A WET PACKAGE THAT NEEDED TO BE REWRAPPED. UPON INSPECTION OF THE CONTENTS DISCOVERED FIFTEEN DEVICES CONTAINING LITHIUM ION BATTERIES. AT LEAST ONE APPEARS VISIBLY WARPED OR DAMAGED. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS SHIPPED NEXT DAY AIR FROM OKLAHOMA USING UPS ACCOUNT NUMBER HH8169, GROVE TECHNOLOGY SERVICES LLC, 2230 PACIFIC AVE., FOREST GROVE OR 97116-2448.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021563</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021613</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021613&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
+                &lt;li&gt;City: PORTLAND&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021613</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024021304</title>
       <description>
@@ -280,69 +343,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020990</guid>
       <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021074</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021074&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-09&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO A NEXT DAY AIR UPS EXPRESS BOX THAT WAS LEAKING. UPON INSPECTION OF THE CONTENTS DISCOVERED TWO 15.5 OUNCE AEROSOL CANS OF FLAMMABLE CLEAN UP CHAIN CLEANER THAT WERE SLIGHTLY LEAKING FROM THEIR NOZZLES. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021074</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021580</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021580&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO LEAKING PACKAGE, FOLLOWED DECISION TREE, NOTIFIED RMP, SUSPECTED UNDECLARED, CONTENTS HELD AWAITING INSTRUCTIONS,&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021580</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021058</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021058&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: THE LEAKING CLASS 8 HAZMAT WAS FOUND BY RESPONDER AT THE SD1 HIGH VOLUME PICKOFF AND WAS RETURNED TO THE PSC FOR PROCESSING. THE CONTENTS OF THE PACKAGE, &amp;quot;SUBARU 12V BATTERY (UN2794 BATTERIES, WET, FILLED WITH ACID),&amp;quot; HAD SPILLED SULFURIC ACID. THE PACKAGE WAS PROCESSED THROUGH THE DMP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021058</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024020829</title>

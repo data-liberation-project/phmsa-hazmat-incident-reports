@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 21:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 15:11:52 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021207</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021207&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-09&lt;/li&gt;
+                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
+                &lt;li&gt;State: CT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Pkg was damaged and discovered at the destination/delivery terminal. A Damaged Package Report was filed that indicates 1 x 16 oz plastic bottle leaked and was discarded. Contents were then repacked and Return To Shipper. Contents were loosely packed in FedEx Ground repack box with no packing material to keep contents from moving during shipment. The wet leaking pkg with no Hazmat markings and no orientation arrows required for pkgs containing liquids was placed in an unlined unauthorized plastic bin and taken to the HMPA. DescribePack: Loose trigger spray heads in 3 x 16 ounces plastic bottles allowed liquid to leak staining and wetting the contents leaking through a thin plastic bag and wetting the repack box as well. DurationRel: 1 and MitigateEffect: Pkg was placed in a bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021207</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021415</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021415&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
+                &lt;li&gt;City: WILLINGTON&lt;/li&gt;
+                &lt;li&gt;State: CT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Wet and ripped pkg placed in plastic bin and taken to the HMPA upon arrival. DescribePack: Safety cap punctured actual cap and inner seal of 1 x 1 gallon plastic bottle allowing liquid to leak wetting and contaminating the contents of the pkg. One inner pkg containing 6 x 17 ounces metal aerosol cans packed in inner package with Ltd Qty diamonds printed on packaging. No Hazmat markings or orientation arrows on outer carton. DurationRel: 1 and MitigateEffect: Pkg placed in bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021415</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021364</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021364&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
+                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
+                &lt;li&gt;State: CT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVE FOR UNLOAD BY AN MANAGER PUT ON A CART THEN BROUGHT TO HAZMAT CAGE DescribePack: 5&amp;quot; CRACK IN THE SIDEWALL OF THE PAIL DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT IN TO A HAZMAT TOTE WITH BAG&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021364</guid>
+      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024021446</title>
       <description>
@@ -324,27 +387,6 @@
       <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024020847</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020847&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-01&lt;/li&gt;
-                &lt;li&gt;City: SOUTH WINDSOR&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Wet, damaged package was unloaded from trailer and removed from workflow. Package was brought to QA cage for inspection. Package was placed in a plastic tote. DescribePack: Both five-liter bottles have loose caps, leaked. DurationRel: 0 and MitigateEffect: Package was placed in a plastic tote to prevent further release or seepage of oxidizing/corrosive liquid.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020847</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024020742</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020742&lt;/a&gt;&lt;/h3&gt;
@@ -427,27 +469,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020750</guid>
       <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021325</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021325&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-26T15:11:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-05&lt;/li&gt;
-                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVE FOR UNLOAD BY AN MANAGER PUT ON A CART THEN BROUGHT TO HAZMAT CAGE DescribePack: THE CAPS LOOSENED SEALS FAILED NO HOLES OR CRACKS DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT IN TO A HAZMAT TOTE WITH BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021325</guid>
-      <pubDate>Mon, 26 Feb 2024 15:11:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
