@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2024 00:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 15:11:11 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024021869</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021869&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA was called to the unload and pail was inside trailer 17782 leaking out a solid on ground and QA placed inside a lined tote and took to hazmat cage to get inspected. DescribePack: Closure came loose on pail which caused a solid to leak out of carton. DurationRel: 13 and MitigateEffect: Pkg. was taken to hazmat cage to get inspected.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021869</guid>
+      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021669</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021669&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
+                &lt;li&gt;City: COMMERCE CITY&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: A LEAKING PACKAGE WAS CALLED IN AT THE UNLOAD. USING THE PROPER MATERIALS, THE PACKAGE WAS CLEANED UP BY RESPONDER AND BROUGHT BACK TO THE HAZMAT PROCESSING AREA FOR FURTHER PROCESSING. RESPONDER DISCOVERED A CAP WAS LOOSE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021669</guid>
+      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024021599</title>
       <description>
@@ -385,6 +427,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020962</guid>
       <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021343</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021343&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-24&lt;/li&gt;
+                &lt;li&gt;City: AURORA&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Damage was discovered in the unload. The unload manager called out for an Admin&amp;#x27;s assistance in containing the shipment. DescribePack: The metal pail is badly dented, and there appears to be a small puncture mark within the denting. The leaked contents came from that puncture mark. DurationRel: 1 and MitigateEffect: The responding Admin contained the shipment in a hazardous materials spill tote and transported it to the hazmat cage for processing.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021343</guid>
+      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
