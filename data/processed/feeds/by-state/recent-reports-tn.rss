@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2024 18:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 21:10:45 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021864</title>
       <description>
@@ -513,111 +513,6 @@
       <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024020882</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020882&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-01&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020882</guid>
-      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020943</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020943&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
-                &lt;li&gt;City: KNOXVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package found at the 400 line wet from leaking can of spray net aerosol DescribePack: Failure occurred at the side of the can that had a puncture in it DurationRel: 1 and MitigateEffect: Package placed in a spill kit and taken to HazMat cage to isolate and await processing&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020943</guid>
-      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020984</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020984&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Leaking fiberboard box with DOT labels found on unload. Removed from operations and taken to HMPA DescribePack: One of four 5 Liter plastic bottles lost 0.7 Liter. Leakage through the vented cap despite the &amp;quot;vented cap warning&amp;quot; printed on the outer pack, due to package not being oriented correctly while unloading. All caps were tight on the bottles when inspected. DurationRel: 1 and MitigateEffect: PPE donned and ventilation used.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020984</guid>
-      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020985</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020985&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS BROUGHT TO QA ATTENTION DUE TO BOX BEING WET. PACKAGE WAS REMOVED FROM THE BELT LINE. DescribePack: THE RAPICIDE PART A BLUE CAPS HAS A HOLE ON EACH CAP THAT IS POSSIBLY SEALED, HOWEVER, ON 1 OF THE JUGS, THE LIQUID WAS LEAKING FROM THE HOLE WHEN TILTED. DurationRel: 1 and MitigateEffect: DAMAGED ITEM WAS PLACED IN HAZMAT BAG AND DRUM.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020985</guid>
-      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020955</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020955&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Leaking fiberboard box with DOT labels found on unload. Removed from operations and taken to HMPA. DescribePack: One of four 5 Liter plastic bottles lost 0.2 Liter. Leakage through the vented cap despite the &amp;quot;vented cap warning&amp;quot; printed on the outer pack, due to package not being oriented correctly while unloading. All caps were tight on the bottles when inspected. DurationRel: 1 and MitigateEffect: PPE donned and ventilation used.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020955</guid>
-      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024021368</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021368&lt;/a&gt;&lt;/h3&gt;
@@ -721,27 +616,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020858</guid>
       <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020827</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020827&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-27T18:13:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Leaking fully regulated hazmat in fiberboard box found. Package was removed from operations. DescribePack: Two of two 2.5 gallon plastic jerricans lost 0.2 gallon of fluid from failed safety seals (under the cap closure) due to internal corrosion. DurationRel: 1 and MitigateEffect: PPE donned.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020827</guid>
-      <pubDate>Tue, 27 Feb 2024 18:13:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
