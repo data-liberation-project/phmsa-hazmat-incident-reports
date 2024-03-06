@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2024 18:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 21:10:45 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021726</title>
       <description>
@@ -240,27 +240,6 @@
       <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024021525</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021525&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: A package handler was unloading a trailer when they noticed that there was a wet spot on it and informed a manager who then alerted a hazmat team member. It was then placed inside a yellow drum and then placed in the hazmat cage sealed under ventilation. DescribePack: All four of the caps were loose on the products. DurationRel: 1 and MitigateEffect: the package was put in a yellow hazmat drum and put into the hazmat cage under ventilation&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021525</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024021342</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021342&lt;/a&gt;&lt;/h3&gt;
@@ -301,27 +280,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021330</guid>
       <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020850</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020850&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
-                &lt;li&gt;City: LAWRENCE&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE COVER OF THE BOTTLES WAS CAUSING IT TO LEA\K OUT DescribePack: THE TOP WAS CRACKED OPEN DurationRel: 3 and MitigateEffect: PUTING IN SIDE BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020850</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

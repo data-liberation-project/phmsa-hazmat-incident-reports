@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2024 18:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 21:10:45 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021652</title>
       <description>
@@ -891,69 +891,6 @@
       <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024020513</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020513&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
-                &lt;li&gt;City: LAURELDALE&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: DURING PRESSIRIZING CARGO TANK FOR UNLOADING. PRODUCT ESCAPED FROM DOME COVER. INVESTIGATION CONFIRMED GASKET AND LID NOT PROPERLY MARRIED CAUSING RELEASE. ADJUSTMENT TO LID RESULTED IN LEAK BEING REPAIRD. UNLOADING COMPLETED WITHOUT ADDITIONAL INCIDENT. SPILL WAS CLEANED BY CONSIGNEE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020513</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020508</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020508&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: LAURELDALE&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: DURING PRESSURIZING CARGO TANK FOR UNLOADING. INCREASED PRESSURE FORCED MATERIAL OUT OF MANWAY COVER. INVESTIGATION CONFIRMED DAMAGED LOCKING DEVICE ON DOME COVER CAUSED RELEASE. LOADING COMPLETED WITHOUT ADDITIONAL INCIDENT AFTER REPAIR. SPILLED CLEANED UP BY CONSIGNEE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020508</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021107</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021107&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-02&lt;/li&gt;
-                &lt;li&gt;City: BREINIGSVILLE&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND IN UNLOAD LEAKING. QA CLEANED SPILL AND UPON RESEARCHING THE SDS IT WAS DISCOVERED TO BE A HAZMAT. QA SECURED PACKAGE IN YELLO DRUM AND PUT INTO HAZMA CAGE DescribePack: THE LID OF ONE OF THE CONTAINERS HAD COMPLETELY FALLEN OFF AND SOILED THE OTHER PAINT DurationRel: 1 and MitigateEffect: PACKAGE WAS SEALED IN YELLOW DRUM&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021107</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024021332</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021332&lt;/a&gt;&lt;/h3&gt;
@@ -1015,27 +952,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021335</guid>
       <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021104</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021104&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
-                &lt;li&gt;City: BREINIGSVILLE&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND LEAKING IN TRAILER. QA WAS CALLED OVER FOR INSPECTION AND QA DETERMINED THE PAINT TO BE HAZARDOUS AS STATED ON THE SDS. THE PAINT WAS PLACED IN A YELLOW SALVAGE DRUM AND PUT IN THE CAGE DescribePack: BOTH CANS HAD LOOSE LIDS CAUSING PAINT TO LEAK OUT DurationRel: 1 and MitigateEffect: PACKAGE WAS CONTAINED IN A SEALED DRUM AND PLACED IN HAZ CAGE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021104</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

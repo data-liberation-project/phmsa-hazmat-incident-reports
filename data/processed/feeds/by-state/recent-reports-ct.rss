@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2024 18:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 21:10:45 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021792</title>
       <description>
@@ -385,69 +385,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021498</guid>
       <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020497</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020497&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
-                &lt;li&gt;City: SOUTH WINDSOR&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Two 5 gallon plastic pails were punctured during loading, released 0.5 gallons.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020497</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021527</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021527&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVE FOR UNLOAD BY AN MANAGER PUT ON A CART THEN BROUGHT TO HAZMAT CAGE DescribePack: THE CAPS LOOSENED SEALS FAILED NO HOLES OR CRACKS DurationRel: 0 and MitigateEffect: THE PACKAGE WAS PUT IN TO A HAZMAT TOTE WITH BAG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021527</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021537</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021537&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-17&lt;/li&gt;
-                &lt;li&gt;City: WALLINGFORD&lt;/li&gt;
-                &lt;li&gt;State: CT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was discovered to have leaked when it was unloaded from the trailer. DescribePack: bottom of package was wet DurationRel: 2 and MitigateEffect: the package was segregated and brought to QA&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021537</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

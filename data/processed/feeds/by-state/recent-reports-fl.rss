@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Mar 2024 18:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 21:10:45 +0000</lastBuildDate>
     <item>
       <title>Report X-2024021737</title>
       <description>
@@ -954,90 +954,6 @@
       <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024020907</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020907&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-03&lt;/li&gt;
-                &lt;li&gt;City: ORLANDO&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on the unload area. After a further inspection, found the package was wet with a leakage caused by a loose cap. DescribePack: Loose cap. DurationRel: 1 and MitigateEffect: Absorbent.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020907</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020500</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020500&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
-                &lt;li&gt;City: Lakeland&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Other fell&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020500</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020506</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020506&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-23&lt;/li&gt;
-                &lt;li&gt;City: OCALA&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon metal pail was punctured, released 4.5 gallons in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020506</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020914</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020914&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-03&lt;/li&gt;
-                &lt;li&gt;City: ORLANDO&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The box was found wet in the load and moved to the hazmat cage for reports. DescribePack: 2 of the jugs in the box were leaking contents from loose caps.  All 4 of the jugs in the box were upside down. DurationRel: 3 and MitigateEffect: The box was placed upright into a hazbag lined tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020914</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024021363</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021363&lt;/a&gt;&lt;/h3&gt;
@@ -1078,48 +994,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021103</guid>
       <pubDate>Thu, 29 Feb 2024 18:14:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020818</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020818&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
-                &lt;li&gt;City: COCOA&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2024020818: SequenceEvent: Package was found wet, immediately placed in a double lined hazmat bin in a well ventilated area. DescribePack: Loose caps/spillage from another hazmat package. DurationRel: 1 and MitigateEffect: Package was immediately placed in a double lined hazmat bin and placed in a well ventilated area.  X-2024020819: SequenceEvent: While the package was being unloaded from the trailer, it was discovered that it was leaking. The package was immediately placed in a double-lined hazmat bin and moved to a well-ventilated area. DescribePack: Loose child-proof cap DurationRel: 1 and MitigateEffect: The package was immediately placed in a double-lined hazmat bin and moved to a well-ventilated area.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020818</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024020852</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024020852&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-02-28T18:14:16+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-31&lt;/li&gt;
-                &lt;li&gt;City: ORLANDO&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The box was found wet and moved the hazmat cage for reports. DescribePack: Contents leaked from under the cap on 1 jug in the box.  It looks like the box was loaded on its side, with the weight on top forcing contents to leak out. DurationRel: 1 and MitigateEffect: The box was placed into a hazbag lined tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024020852</guid>
-      <pubDate>Wed, 28 Feb 2024 18:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
