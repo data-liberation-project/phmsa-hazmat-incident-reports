@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 18:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 21:10:47 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030077</title>
       <description>
@@ -513,90 +513,6 @@
       <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024021286</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021286&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-10&lt;/li&gt;
-                &lt;li&gt;City: LAWNSIDE&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: DESIGNATED RESPONDED CALLED FOR A LEAKING PACKAGE. SHE DISCOVERED THIS PACKAGE AND BROUGHT IT BACK TO BE PROCESSED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021286</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021169</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021169&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVED AT THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON INSPECTION ONE (1) OF FOUR (4) BOTTLE OF DIVERSY PRESOAK WAS FOUND ELEAKING. THE CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE RETURN TO THE SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF THE DIVERSY PRESOAK CAUSED FROM THE PACKAGE BEING DROPPED OR MISHANDLED. DurationRel: 2 and MitigateEffect: THE CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021169</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020572</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020572&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
-                &lt;li&gt;City: MONMOUTH JUNCTION&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020572</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021134</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021134&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-10&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Contents arrived at hazmat area in fiberboard box inside another plastic container with signs of internal and external damages. The contents were inspected, and one was missing with signs of leakage from two (2) of the three (3) that remain. It was evident that leakage was due to loosen caps. The caps were tightened, and contents were placed in a lined salvage drum to await disposition. DescribePack: The failure of the package was due to loosen caps on of its contents. An estimated amount of 1/4 of two (2) of the remaining three (3) bottles were leaked out. There were no signs of punctures on the bottles. DurationRel: 4 and MitigateEffect: The loose caps that were found on inspection were tightened, and contents were placed in a lined salvage drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021134</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030113</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030113&lt;/a&gt;&lt;/h3&gt;
@@ -616,27 +532,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030113</guid>
       <pubDate>Fri, 08 Mar 2024 18:13:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021346</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021346&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-27&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package arrived at hazmat during the sunrise sort in a plastic bin. DescribePack: Inspection showed package to be wet with internal leakage. 1 of 4 items broken. Damage most likely from being dropped or mishandled. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless otherwise stated.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021346</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

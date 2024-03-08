@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 18:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 21:10:47 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030132</title>
       <description>
@@ -112,48 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021656</guid>
       <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021454</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021454&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: BATON ROUGE&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat package was found sitting in the unload area damaged and leaking on pallet. Package was placed into a red hazardous tote; and moved to the hazmat cage for inspection. DescribePack: While inspecting the hazmat there was no inner packing materials inside; and the plastic bottle cap was missing causing liquid to spill out into box. DurationRel: 0 and MitigateEffect: Hazmat package was placed into a red hazardous tote and moved to hazmat cage for inspection. After inspecting. Damaged items were placed in a white drum for preparation to next hub for disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021454</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021471</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021471&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: COVINGTON&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Potassium hydroxide solution bottle found,  box was damaged placed wrong area DescribePack: loose cap DurationRel: 1 and MitigateEffect: Placed inside hazmat tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021471</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 18:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 21:10:47 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030103</title>
       <description>
@@ -406,111 +406,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030001</guid>
       <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020523</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020523&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO notified ERTS regarding (2) torn/punctured bags containing (UN1749) hazardous product. Approximately 1-gallon of product released onto the concrete dock floor. A Contractor cleaned the release and containerized  the damaged product for waste disposal. No storm-drains, waterways, or soil were impacted by the spill.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020523</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021457</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021457&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat shipped as fully regulated. Leaking, torn fiberboard box transferred to HMPA staging pallet for reporting. Two additional Ecolab hazmat packages (TRK 270953931151 and TRK 270953931173) appear to be impacted by spillage from this incident; all three contain the same material.     UNPOP RATING IS FULLY OBSCURED BY BARCODE. PACKAGING HAS NO &amp;quot;OVERPACK&amp;quot; OR &amp;quot;INNER PACKAGES COMPLY WITH PRESCRIBED SPECIFICATIONS&amp;quot; LABELS/MARKINGS. HAZMAT PACKAGE IS NON-COMPLIANT AND DID NOT RECEIVE A 97 (HAP FAILURE) AT ORIGIN MESQ. PLEASE NOTE THIS INCIDENT HAS BEEN ENTERED AS UNPROCESSED AT DISCOVERY FACILITY NASH.    PLEASE ADVISE IF 49 CFR 178.3(a)(1) AND 49 CFR 178.503(a) AND 49 CFR 178.503(f) NO LONGER APPLY. DescribePack: One of four 1 gallon plastic bottles lost 0.6 gallon in fluid due to a puncture scarcely 0.25&amp;quot; in size; Caused by impact with an unknown sharp object. DurationRel: 1 and MitigateEffect: PPE donned and ventilation used.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021457</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021239</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021239&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
-                &lt;li&gt;City: MURFREESBORO&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RETURN SERVICE PACKAGE FROM USA TO GERMANY WAS INSPECTED FOR AN INVOICE. UPON INSPECTION OF THE CONTENTS DISCOVERED AN INNER BOX WITH A UN3481 LITHIUM-ION BATTERY MARKING. THERE ARE FIVE MOTO G9/LENOVO K12 CELL PHONES WITH ERT ECOA HANDHELD POWERED BY LITHIUM ION BATTERIES INSIDE THE BOX. THE PACKAGE ALSO CONTAINED ONE CLARIO TABLET POWERED BY A LITHIUM ION BATTERY. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE HAS NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SERVICE CO. THIS PACKAGE WAS SHIPPED FROM TENNESSEE USING UPS ACCOUNT NUMBER 4A2199, ERT ERESEARCH TECHNOLOGY GMBH, 3 SIEBOLDSTRASSE, ESTENFELD GERMANY 97230.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021239</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021472</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021472&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-19&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PKG DAMAGED DURING SORTATION. PKG PLACED INSIDE A LINED HAZMAT TOTE INSIDE THE HAZMAT CAGE FOR EVALUATION DescribePack: ONE OF THE CANS WAS DENTED AND PUNCTURED ON THE BOTTOM WHICH CAUSED INTERNAL LEAKAGE. DurationRel: 0 and MitigateEffect: TURNED UPRIGHT&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021472</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021438</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021438&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: MURFREESBORO&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package came down the chute open and busted open, QA was called to pick up the mess, QA put the package in a plastic bag and a black tote to bring to the hazmat processing area. DescribePack: Broken lids and improper shipment through the building. DurationRel: 1 and MitigateEffect: absorbent clean up and putting the package in a plastic bag and black tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021438</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024021368</title>

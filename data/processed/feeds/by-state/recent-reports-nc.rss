@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 18:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 21:10:47 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030130</title>
       <description>
@@ -679,111 +679,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020619</guid>
       <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020552</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020552&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
-                &lt;li&gt;City: GREENSBORO&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020552</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020527</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020527&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: China Grove&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Unsecured freight&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020527</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021456</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021456&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: WHITSETT&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was unloaded from trailer. Box appeared to be leaking and was quickly put into a hazardous materials tote. DescribePack: After further inspection the inner jug appeared to be leaking from the top. Loose caps caused the leak DurationRel: 1 and MitigateEffect: The lid was secured and hazardous materials were put into the hazmat cage for further processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021456</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021162</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021162&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Steel drum leaking through closure area dented DescribePack: closure area dented at rim of drum DurationRel: -1 and MitigateEffect: Drum was immediately placed in lined tote and taken to hazmat processing cage&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021162</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021160</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021160&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Steel drum was found dented, top opened and empty upon trailer opening. No spill signs in trailer. DescribePack: Drum was dented at closure area DurationRel: -1 and MitigateEffect: N/A no spill, drum was found empty upon opening trailer&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021160</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024021340</title>

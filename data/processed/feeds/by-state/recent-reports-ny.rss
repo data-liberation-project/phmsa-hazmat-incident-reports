@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 18:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 21:10:47 +0000</lastBuildDate>
     <item>
       <title>Report I-2024030018</title>
       <description>
@@ -217,69 +217,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020616</guid>
       <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020530</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020530&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: ROCHESTER&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On February 21, 2024, five (5) 5-gallon pails of UN3265 had loose caps and released approximately one (1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from EnviroServe (ES) to remediate the impacted site. ES wiped up the released product with Simple Green and absorbent pads. Once crews confirmed none of the containers were damaged, they restacked and repalletized all jugs of UN3265 corrosive liquid for return to the Buffalo terminal. One (1) 35-gallon drum of spent absorbent pads, PPE, and any cleanup debris and one (1) 55-gallon containing the damaged containers were taken for transport back to the Buffalo terminal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020530</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021342</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021342&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-24&lt;/li&gt;
-                &lt;li&gt;City: BINGHAMTON&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: found in auto Dim  and it was leaking  before but in the belt. I put it in a hazmat bag in a bin, brought it over to the hazmat cage, put it on the fumes hud with the fan on. DescribePack: It was dented and it had a small hole in the bottom. DurationRel: 1 and MitigateEffect: It was put in a hazmat bag in a bucket and brought over to the hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021342</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021330</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021330&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-01T18:14:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-12&lt;/li&gt;
-                &lt;li&gt;City: NEWBURGH&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was brought to belt two where the package handler informed the attending QA and the package was removed to be inspected and processed DescribePack: One of the lids was loose and spilled a bit DurationRel: 1 and MitigateEffect: The package was removed and the area was ventilated.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021330</guid>
-      <pubDate>Fri, 01 Mar 2024 18:14:57 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024021746</title>
