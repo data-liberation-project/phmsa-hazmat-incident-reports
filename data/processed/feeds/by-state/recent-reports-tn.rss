@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2024 12:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 15:13:18 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030103</title>
       <description>
@@ -28,6 +28,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030103</guid>
       <pubDate>Fri, 08 Mar 2024 18:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030153</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030153&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-11T15:13:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
+                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: It was reported a spill of less than 10 pounds of &amp;quot;Provox C&amp;quot; onto the trailer floor when (1) 55lb paper bag of the product was discovered damaged due to poor loading at NDE. The SDS for the product was reviewed with the terminal and it was determined that the terminal personnel could safely clean the spill with the PPE available so long as much caution was taken to avoid dust formation. The waste will be contained in a 55-gallon DF and left in the waste area for the terminal to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030153</guid>
+      <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024021622</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021622&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-11T15:13:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-06&lt;/li&gt;
+                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1 of 4 glass bottles UN1851 broken/leaked inside fibreboard outer package.  UN spec marks unable to read.  cleaned locally. secured in salvage drum pending further disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021622</guid>
+      <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030094</title>
@@ -280,153 +322,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021674</guid>
       <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021272</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021272&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-03&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On February 3rd, a package was found during the PM sort that was leaking a black liquid from the bottom.   The package contained UN3265, CORROSIVE LIQUID, ACIDIC, ORGANIC, N.O.S., 8, II.   the inner receptacle shattered allowing all contents to leak out.   The package was placed into a steel salvage drum pending disposition from the shipper.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021272</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020610</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020610&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020610</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021245</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021245&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-04&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 02/4/2024 at approximately 1030, Dangerous Goods Administration received a call from Employee 658069 at the hub facilty in Memphis, reporting a corrosive spill.  The shipment consisted of one plastic jerrican.  A small hole was discovered at the bottom of the drum, resulting in spillage.  drum was placed in a steel salvage package and awaits an amended shipper&amp;#x27;s declaration for further disposition.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021245</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021411</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021411&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: UNPOP IS FULLY OBSCURED BY BARCODE. PACKAGING HAS NO &amp;quot;OVERPACK&amp;quot; OR &amp;quot;INNER PACKAGES COMPLY WITH PRESCRIBED SPECIFICATIONS&amp;quot; LABELS/MARKINGS. HAZMAT PACKAGE IS NON-COMPLIANT AND DID NOT RECEIVE A 97 (HAP FAILURE) AT ORIGIN MESQ. PLEASE NOTE THIS INCIDENT HAS BEEN ENTERED AS UNPROCESSED AT DISCOVERY FACILITY NASH.    PLEASE ADVISE IF 49 CFR 178.3(a)(1) AND 49 CFR 178.503(a) AND 49 CFR 178.503(f) NO LONGER APPLY.    Leaking, dented, torn fiberboard box (max capacity 4x1 gallon) with hazmat paperwork, and DOT Class 8 Label removed from operations and taken to HMPA. DescribePack: One of four 1 gallon plastic bottles lost 0.1 gallon of fluid from excess weight applied to package, resulting in dent and pinhole puncture to body. DurationRel: 1 and MitigateEffect: PPE donned and ventilation used.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021411</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021405</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021405&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: LEBANON&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Found inside trailer 569390 that came from ELOU at 12:45am. Upon Inspection box was loaded upside down leaking isopropyl alcohol caused by a punctured seal and loose cap causing internal leakage. DescribePack: one of the seals was punctured and loose cap on one of the gallon containers. DurationRel: 1 and MitigateEffect: QA identified the leaking hazmat package and immediately responded with appropriate materials and procedures to mitigate release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021405</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030001</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030001&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A plastic jerrycan was dropped during the loading process at the MEMH facility. The jerrycan struck the edge of the catwalk causing a puncture on the bottom. It was placed into steel salvage package and a new declaration will be obtained for movement.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030001</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021368</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021368&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-26&lt;/li&gt;
-                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found wet in the unload. Package was place on pallet and brought to QA work area. DescribePack: Loose cap. DurationRel: 1 and MitigateEffect: Bottles were stood upright and caps tightened.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021368</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

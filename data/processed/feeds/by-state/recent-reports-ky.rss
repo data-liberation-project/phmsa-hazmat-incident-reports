@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2024 12:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 15:13:18 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030143</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030143&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-11T15:13:15+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
+                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO A WET PACKAGE THAT WAS COLD TO THE TOUCH AND HAD A SMALL AMOUNT OF DRY ICE VAPOR COMING FROM THE BOTTOM CORNER OF THE BOX. UPON FURTHER INSPECTION DISCOVERED APPROXIMATELY 40 LBS OF DRY ICE PELLETS COOLING TWO BIOHAZARD BAGS CONTAINING SPECIMENS. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX TO INDICATE DRY ICE WAS BEING SHIPPED IN THE AIR NETWORK. THERE IS A RUSH, PERISHABLE INSULATED STICKER AFFIXED TO ONE SIDE OF THE BOX. THIS PACKAGE WAS SHIPPED FROM MARYLAND USING THE CONSIGNEE UPS ACCOUNT NUMBER 442F01, AXIS CLINICALS, 1711 CENTER AVE W, DILWORTH MN 56529-1342.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030143</guid>
+      <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
     <item>
       <title>Report I-2024030008</title>
       <description>
@@ -301,132 +322,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021629</guid>
       <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021371</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021371&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was brought to QA because it was leaking, once it was inspected it was found that the jerrican inside the package was leaking from the spout and it was a suspected undeclared hazmat so it was taken back to the hazmat cage for further processing. DescribePack: Cap on jerrican came loose during transit. DurationRel: 1 and MitigateEffect: An attempt was made to tighten cap on jerrican, but it would not tighten. Package was kept in an upright position in a lined tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021371</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021213</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021213&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package came down the QAT slide with a wet spot on it. It was given to QA for inspection. Package was put into a lined tote immediately and was inspected. DescribePack: When package was inspected it was found that one bottle had a loose cap that allowed internal leakage. DurationRel: 1 and MitigateEffect: Cap was tightened and package was kept upright in a lined tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021213</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021427</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021427&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on trailer leaking. PAckage was put into a lined tote. DescribePack: Cap came loose during transit. DurationRel: 1 and MitigateEffect: Cap was tightened and put up right in a lined tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021427</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020611</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020611&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020611</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020618</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020618&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-13&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020618</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020612</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020612&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-04T15:11:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-15&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020612</guid>
-      <pubDate>Mon, 04 Mar 2024 15:11:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
