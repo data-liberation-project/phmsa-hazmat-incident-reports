@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Mar 2024 12:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 15:28:46 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030379</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030379&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
+                &lt;li&gt;City: ROCK ISLAND&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: While unloading trailer 557169 from SCHG the haz mat was discovered wet and had leaked onto another haz mat package. Both haz mats were put in totes and taking to the Haz Mat cage for inspection. DescribePack: Found a crack on the damaged bottle. On the inside of the handle the seam is cracked about an inch or more. Hard to see the crack initially. The outer package was so damaged from the leak that the top half of the box was gone. DurationRel: 4 and MitigateEffect: There was no more leaking once package was found. Cleaned up any mess leftover and put all bottles upright in totes and put in hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030379</guid>
+      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030111</title>
       <description>
@@ -49,6 +70,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030112</guid>
       <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030147</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030147&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-02&lt;/li&gt;
+                &lt;li&gt;City: CHICAGO&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: DAMAGE WAS FOUNDAT THE LOADING AREA AFTER INSPECTED WE REALZED  HAD INTERNAL LEAKAGE ONE OF THE CONTENTS OF PHOSPHORIC ACID HAS CRACKED BROKENALL CONTENTS ARE SMEARED OF ACID. DescribePack: THE CONTENTS HAS CRACKED UNDERNEATH CAUSE THE LEAK. DurationRel: 22 and MitigateEffect: QA WAS NEAR BY TO HELPED CLEAN UPTHE SPILLED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030147</guid>
+      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030127</title>
@@ -616,90 +658,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021606</guid>
       <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021849</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021849&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
-                &lt;li&gt;City: CHAMPAIGN&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found wet and torn open from leaking contents. Package was placed into a haz bag and tote. Tote was taken to a QA area. DescribePack: 1 lead acid battery was leaking from top seams. Box had deflated air bags and insufficient packing material resulting in battery moving around inside box. DurationRel: 1 and MitigateEffect: Battery was adjusted to prevent further leakage and placed into a second haz bag.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021849</guid>
-      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021313</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021313&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-17&lt;/li&gt;
-                &lt;li&gt;City: KIRKLAND&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: A fiberboard box with signs of a release was discovered at the MDTR facility during sort operations. The fiberboard box contained four 1 gallon metal jerrycans each jerrycan was inside of a plastic bag. One of the jerrycans was damaged on the bottom chime causing a spill inside of the fiberboard box. All contents were placed into a steel salvage package. Shipper was contacted for a new declaration but requested that the shipment be destroyed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021313</guid>
-      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021678</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021678&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
-                &lt;li&gt;City: ADDISON&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: LOADER NOTICED PACKAGE COMING DOWN LEAKING. NOTIFIED SUPERVISOR. RESPONDER ARRIVED AT THE SPILLAGE WHERE IT WAS SITTING ON THE GRATING. RESPONDER PLACED IN A SPILL TRAY AND TRANSPORTED TO DMP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021678</guid>
-      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021641</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021641&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: HODGKINS&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER FOLLOWED DT AND RS THAT LED TO CORROSIVE. RESPONDER TOOK IT BACK TO THE DMP CAGE FOR PROPER DISPOSAL.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021641</guid>
-      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024030143</title>

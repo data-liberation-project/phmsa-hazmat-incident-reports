@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Mar 2024 12:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 15:28:46 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030393</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030393&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
+                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: VENTED CAP LEAKING DURING TRANSIT, UNLOADED, PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: VENTED CAP LEAKING CORROSIVE LIQUID INSIDE A WET TORN OPENED DTERIATED SOILED BOX SOILING ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030393</guid>
+      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030114</title>
       <description>
@@ -49,6 +70,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030097</guid>
       <pubDate>Thu, 07 Mar 2024 15:11:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030018</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030018&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-23&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030018</guid>
+      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030017</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030017&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-23&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: THE HAZMAT WAS DISCOVERED BY THE UNLOADER AFTER BEING UNLOADED. RESPONDER CONTAINED AND PROCESSED THROUGH DMP.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030017</guid>
+      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030132</title>
@@ -238,48 +301,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021700</guid>
       <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021643</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021643&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: WEARING FULL PPE AND FOLLOWING DECISION TREE AND FLAMMABLE LIQUID RESPONSE SHEET, RESPONDER RESPONDED TO TRAILER, PLACED PACKAGE IN LINED SPILL TRAY AND RETURNED TO PROCESSING CENTER FOR FURTHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021643</guid>
-      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021600</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021600&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021600</guid>
-      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

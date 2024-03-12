@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Mar 2024 12:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 15:28:46 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030130</title>
       <description>
@@ -301,27 +301,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021553</guid>
       <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021843</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021843&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-05T15:11:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-24&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: both cans dented and punctured both cans clearly labeled as hazmats out box not labeled as a hazmat package found in damages repack area put in a spill proof bin moved to hazmat cage DescribePack: both cans dented and punctured both cans clearly labeled as hazmats out box not labeled as a hazmat DurationRel: 1 and MitigateEffect: package found in damages repack area put in a spill proof bin moved to hazmat cage&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021843</guid>
-      <pubDate>Tue, 05 Mar 2024 15:11:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

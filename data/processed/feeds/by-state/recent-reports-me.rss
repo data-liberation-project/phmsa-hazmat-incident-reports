@@ -7,6 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Mar 2024 12:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 15:28:46 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030392</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030392&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
+                &lt;li&gt;City: SACO&lt;/li&gt;
+                &lt;li&gt;State: ME&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: TRAILER ARRIVED FROM HUB PACKAGE WAS TAKEN OFF TRAILER AS DAMAGED. DescribePack: PACKAGE WAS WET AND APPEARED AT ONE BOTTLE HAD LEAKED APPROX. 4 LIQUID OUNCES INSIDE AND OUTSIDE OF SHIPPING BOX. DurationRel: 4 and MitigateEffect: AT UNLOAD, PACKAGE WAS PUT IN A DAMAGE BIN AND BROUGHT TO QA FOR INSPECTION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030392</guid>
+      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
+    </item>
   </channel>
 </rss>
