@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Mar 2024 12:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 18:16:40 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030119</title>
       <description>
@@ -133,69 +133,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021766</guid>
       <pubDate>Thu, 07 Mar 2024 15:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021765</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021765&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: BRAINERD&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found leaking on a delivery truck at 7:30 am and was removed from the delivery and was sent to QA. DescribePack: Plastic pail inside the box had a very large crack on the left side of the plastic pail. DurationRel: 1 and MitigateEffect: Hazmat was put in a Plastic lined bin to prevent further spillage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021765</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021823</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021823&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-23&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Drum was discovered by driver on van leaking.  QA was informed and drum was placed in a lined tote and brought to drain mats DescribePack: Cap came loose and contents spilled out DurationRel: 1 and MitigateEffect: QA was informed and drum was placed in a lined tote and brought to drain mats&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021823</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021722</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021722&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
-                &lt;li&gt;City: SAINT PAUL&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: METAL PAIL DROPPED ONTO CONCRETE FLOOR. DescribePack: DEVELOPED A PUNCTURED HOLE AT BOTTOM OF PAIL. DurationRel: 1 and MitigateEffect: LEAKED LIQUID OUT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021722</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Mar 2024 12:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 18:16:40 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030103</title>
       <description>
@@ -217,69 +217,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021920</guid>
       <pubDate>Thu, 07 Mar 2024 15:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021734</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021734&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Wet fiberboard box with gasoline odor found on loadside. No DOT Class 3 or Ltd Qty label, no UN number or Proper Shipping Name marked on packaging, no hazmat paperwork attached. Package transferred to HMPA for reporting. DescribePack: One partially disassembled 61lb Hoover Heart Gas Mini Chopper Bike, Model DB004 within package. This model has a 0.79 gallon capacity gas tank. It lost 0.2 gallon of gas due to a loose cap closure on the gas tank. Inadequate preparation for transportation. DurationRel: 1 and MitigateEffect: PPE donned and ventilation used.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021734</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021686</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021686&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER CALLED TO PS TENDER FOR A LEAKING HAZMAT. RESPONDER CONTAINED AND PROCESSED THROUGH DMP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021686</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021787</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021787&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-23&lt;/li&gt;
-                &lt;li&gt;City: KINGSPORT&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Trailer was being unloaded when package handlers noticed the leaking hazmat. The area was cleared and management obtained the package and relocated it to the hazmat cage. Upon inspection I found two 2.5L bottles of hydrochloric acid both having loose caps causing internal leakage. DescribePack: Loose closures allowing some content to spill DurationRel: 3 and MitigateEffect: We tightened loose caps.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021787</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Mar 2024 12:17:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 18:16:40 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030445</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030445&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-13T18:16:37+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
+                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found on a cart in the Hazmat cage facing down.  No leakage was visible on the outside.  Styrofoam shards were falling out. DescribePack: When inspected.  2 2.5 liter glass bottles were inside.  There are slots for 6 but only 2 are indicated on packing list.  Molded Styrofoam is broken.  1 of the 2 bottles had a slow drip coming from near the cap but was still mostly full.  Small wet stains could be seen inside the box. DurationRel: 0 and MitigateEffect: Box was contained in a Hazmat bag when found.  Leakage was not visible on the outside.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030445</guid>
+      <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030367</title>
       <description>
@@ -175,6 +196,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030093</guid>
       <pubDate>Thu, 07 Mar 2024 15:11:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030182</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030182&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-13T18:16:37+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
+                &lt;li&gt;City: LAREDO&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: LANDSTAR INWAY, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On February 5, 2024 at 1213 ET, Emergency Response and Training Solutions (ERTS) was contacted by Landstar personnel in Laredo, Texas regarding the release of approximately (2) gallons KEROPUR AP 205-20, UN1307 3, III from (1) 55-gallon DM.  Contractors were dispatched to the site to perform all onsite clean-up activities. Upon arrival, contractors confirmed the release was caused by a puncture from a nail and was contained to a small area on the trailer floor and a 2’ x 2’ area of asphalt beneath the trailer. Contractors were able to clean the release with absorbents and the proper PPE. The damaged drum with product was placed in an 85-gallon overpack DM. All waste generated from addressing this release, was containerized in (1) 5-gallon poly drum, and (1) 85-gallon overpack DM, which was then staged onsite by the contractors for proper disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030182</guid>
+      <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024030166</title>
@@ -721,153 +763,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021750</guid>
       <pubDate>Thu, 07 Mar 2024 15:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021816</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021816&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-23&lt;/li&gt;
-                &lt;li&gt;City: MISSOURI CITY&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The hazmat was not loaded properly. The orientation arrows were not facing upwards which helped the leak escape from the bad closure. At discovery, the are was cleared of pkg handlers and the hazmats were transported in a lined hazardous tote to the hazmat processing area. DescribePack: The closure is not properly secured. DurationRel: 1 and MitigateEffect: Pkg handlers were told of the correct way to load hazmats.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021816</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021741</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021741&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: HUTCHINS&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was punctured at some point on the IC belt heading to the A wing. Nobody knew it was leaking until it got to the A4 side. I was then called to come clean up the spill. DescribePack: The jerrican was leaking through a small hole on the side. The amount it would leak out depend whether or not the package is being move. Small amount if it is sitting still and large amount if it is moving. DurationRel: 1 and MitigateEffect: I use some absorbents to clean up the spill and placed the leaking package inside a hazmat bag and placed it in a yellow drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021741</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021825</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021825&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-25&lt;/li&gt;
-                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2024021825 SequenceEvent: package was found leaking and was placed in a red damaged tote upside down by an OPS admin to avoid further leaking. package was then taken to the damaged hazmat cage for processing. DescribePack: package has a crack running along the radius of the bottom of the drum. DurationRel: 1 and MitigateEffect: Package was placed in a red damaged tote upside down to avoid leaking further.   2. X-2024021827 SequenceEvent: Package was found leaking and was placed in a red damage tote by a manager. Package was then placed in hazmat cage for processing. DescribePack: crack running along a quarter of the circumference of the bottom of the drum. DurationRel: 1 and MitigateEffect: package was placed inside a red damaged tote upside down to prevent further leaking.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021825</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021831</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021831&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-25&lt;/li&gt;
-                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: a manager discovered the package and alerted and OPS admin who placed the package inside a salvage tote and the tote was placed outside the damaged hazmat cage. DescribePack: package was punctured causing one of the bottles inside to leak. DurationRel: 1 and MitigateEffect: Package was placed in a red salvage drum&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021831</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021731</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021731&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: CORPUS CHRISTI&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Admin was walking dock and saw  loose bottles spilt from package container. Attempted to put bottles back in box. Liquid contents started to seep out from plastic bottle and leaked into leak prevention bags but ended up going through the bag. Liquid contents spilt within box and on the Admin&amp;#x27;s leg. Admin had to go to medical location to have leg reviewed for injury as per nurse line call. Remaining contents were able to put back into the original box container. DescribePack: Reinforced tape shows a tear from the inside out which caused the contents to spill out under the belt while still in the plastic bottles. DurationRel: 3 and MitigateEffect: Contents were put into a tote with hazmat liner to contain the corrosive contents that were leaking from the bottles.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021731</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021714</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021714&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
-                &lt;li&gt;City: PFLUGERVILLE&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Driver reported spill of hydrochloric acid package out for delivery. At 1302ET, station employee notified ERTS of a cargo release in Austin, TX. It was reported that an unknown amount of hydrochloric acid released (hazmat spill) for unknown reasons. DescribePack: presumed leak due to cap failure DurationRel: 3 and MitigateEffect: ERTS neutralized hydrochloric acid, and disposed of debris.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021714</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021739</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021739&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-06T18:13:31+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
-                &lt;li&gt;City: SPRING&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The Hazmat was processed then moved by a Tugger cart to be loaded. once it arrived at the trailer, the manager noticed a leak coming from the bottom of the pail. Pail was placed in a plastic Uline bag then placed in a hazmat tote to contain the leak. DescribePack: crack is around the base of the plastic drum. DurationRel: 1 and MitigateEffect: Afomage was placed around the base of the drum to neutralize the leak. leak contained by doing this.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021739</guid>
-      <pubDate>Wed, 06 Mar 2024 18:13:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
