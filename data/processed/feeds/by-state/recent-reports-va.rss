@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Mar 2024 15:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 18:15:05 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030231</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030231&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
+                &lt;li&gt;City: ROANOKE&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: When the contents were discovered being coded for a refusal at the station for being damaged, we discovered that the contents (Which were 2 2.5-gallon jugs of liquid machine detergent which was a hazmat under UN 1760 Corrosive liquids N.O.S. Technical name Sodium Hydroxide) have leaked a small amount of the contents out of the package. Some of the box is wet due on the exterior but that is rain that has soaked a portion of the packaging. Upon closure inspection the caps were loose, and the corrosive liquids were observed to originate at the affected area. None of the liquid contents from inside of the package has been released out of the box, but still leaked from the inner jugs. No inner packing was found inside of the package. DescribePack: The Jugs were observed to have no leaks upon discovery, but some of the liquid inside of the container was out of the container and was at the time of discovery staining the inner exterior box. The caps enclosing the jugs containing the corrosive solution were observed to be loose with the most recently escaped liquid appearing right below the cap. The caps on the containers were promptly tightened and no leaks were observed after test and observing for a leak. DurationRel: 3 and MitigateEffect: Upon awareness of the damaged hazmat, the caps were tightened prevent any further leaks.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030231</guid>
+      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030117</title>
       <description>
@@ -49,6 +70,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030118</guid>
       <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2024030030</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024030030&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-02&lt;/li&gt;
+                &lt;li&gt;City: Charlottesville&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: BUCKINGHAM BRANCH RAILROAD&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Please see attachment&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024030030</guid>
+      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2024030014</title>

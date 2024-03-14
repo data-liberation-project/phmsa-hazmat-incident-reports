@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Mar 2024 15:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 18:15:05 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030252</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030252&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
+                &lt;li&gt;City: OCALA&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found wet &amp;amp; torn. Upon inspection found 1 Duralast Proven Tough 24F-DL battery was leaking out of sides in plastic bag due to being defective. Package was undeclared hazmat due to outer package didn&amp;#x27;t had any hazmat markings or labels display. DescribePack: Battery was leaking out of sides due to being defective. DurationRel: 1 and MitigateEffect: Placed in hazmat bag lined tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030252</guid>
+      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030398</title>
       <description>
@@ -112,6 +133,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030108</guid>
       <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030039</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030039&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-02&lt;/li&gt;
+                &lt;li&gt;City: JACKSONVILLE&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: KAG SPECIALTY PRODUCTS GROUP, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 1&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: The KAG Specialty Products Group, LLC driver had completed his delivery of sulfuric acid into the customer&amp;#x27;s storage tank. The driver was rinsing the delivery equipment with water when a small amount of product was able to get inside his safety gloves. The driver sought medical treatment where he was treated and released.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030039</guid>
+      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030199</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030199&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
+                &lt;li&gt;City: MIAMI&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package handler was unloading in door 15 and dropped package on the floor. DescribePack: Package handler didn&amp;#x27;t use hand to surface which caused the package to fall to the floor. DurationRel: 1 and MitigateEffect: We placed the package inside a bag and then inside hazmat material tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030199</guid>
+      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024030174</title>
