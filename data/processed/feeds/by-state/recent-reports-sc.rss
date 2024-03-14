@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Mar 2024 12:17:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 15:11:22 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030057</title>
       <description>
@@ -28,48 +28,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030057</guid>
       <pubDate>Fri, 08 Mar 2024 18:13:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021788</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021788&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-07T15:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS DISCOVERED WET, SITTING ON A PLASTIC SHEET IN THE UNLOAD UNDERNEATH THE ROLLERS. PACKAGE WAS THEN IMMEDIATELY PLACED INTO A LINED HAZARDOUS MATERIALS RED TOTE. DescribePack: FAILURE WITH BOTH GALLON BOTTLES, LEAKING FROM THE CAPS. DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED ONTO A PLASTIC SHEET IN THE UNLOAD UNTIL IT WAS DISCOVERED BY MANAGEMENT WHO THEN PLACED IT INTO A RED HAZARDOUS MATERIALS TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021788</guid>
-      <pubDate>Thu, 07 Mar 2024 15:11:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021760</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021760&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-07T15:11:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: LEXINGTON&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered damaged in a trailer by a package handler. Admin on duty was alerted and placed the damaged hazmat into a lined hazmat bin. The bin was then relocated to the hazmat cage and was place in the locked cage for further processing. DescribePack: The lid on the bucket was loose. DurationRel: 0 and MitigateEffect: The hazmat package was place in a lined hazmat bin and placed in a locked hazmat cage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021760</guid>
-      <pubDate>Thu, 07 Mar 2024 15:11:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
