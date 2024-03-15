@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Mar 2024 12:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:11:15 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030293</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030293&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-04&lt;/li&gt;
+                &lt;li&gt;City: LEWISBERRY&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: shipment taken out of system flow due to external carton wet and leaking upon inspection of inner contents 2 x 2.5gallon plastic bottles of convo clean forte one 2.5gallon plastic bottle had a loose cap allowing .50 gallons to release no slotted partitions bags or absorbent was found. facility procedures for damaged hazardous materials followed contents contained and awaiting disposition. DescribePack: one 2.5gallon plastic bottle of convo clean forte had a loose cap allowing .50gallons to release. DurationRel: 1 and MitigateEffect: leaking package was placed in a hazmat bag lined tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030293</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030324</title>
       <description>
@@ -217,6 +238,69 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030104</guid>
       <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030202</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030202&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-28&lt;/li&gt;
+                &lt;li&gt;City: PITTSTON&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Inadequate tape on the bottom of package, loose cap caused internal leakage. Orientation arrows were not respected. Protective equipment was used when hazmat was discovered, hazmat was then placed into hazardous bin. DescribePack: Failure due to loose cap, inadequate tape on bottom. DurationRel: 1 and MitigateEffect: Protective equipment was used. Placed package with orientation arrows facing in the correct direction. Used absorbent mats to mitigate spill. Package was placed into hazmat bin for further assessment.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030202</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030209</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030209&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
+                &lt;li&gt;City: NORTHAMPTON&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Found the damaged Hazmat in damaged area in QA. Grabbed my PPE to inspect the damage. DescribePack: I did not see any visible damage to the container. Found the cap at the bottom of the bag that the damaged hazmat was placed into, instead of on the container. DurationRel: 16 and MitigateEffect: Kept the plastic drum upright&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030209</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030237</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030237&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
+                &lt;li&gt;City: GREENCASTLE&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: It was reported that approximately 1 gallon of Husqvarna 2-stroke fuel and oil (UN1203) was released from 2 boxes containing (4) 1-gallon metal cans per box due to improper loading. The release impacted the cardboard packaging only. The SDS was reviewed with the terminal and it was determined that terminal personnel were capable of cleaning the release with PPE available on site.  (1) 30 gallon DM containing Cardboard and (8) 1-gallon cans of the product were containerized and left onsite as waste for the terminal to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030237</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024030175</title>

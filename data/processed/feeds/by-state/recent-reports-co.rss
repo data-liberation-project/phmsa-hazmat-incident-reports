@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Mar 2024 12:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:11:15 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030285</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030285&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-03&lt;/li&gt;
+                &lt;li&gt;City: DENVER&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package came to QA wet and smelling strongly, QA put package in bag and tote to contain the spill. Inspected to find 5 gal plastic jerrican had leaked through loose top. Put package and all contents into salvage drum. DescribePack: Leaked through loose cap DurationRel: 1 and MitigateEffect: Spill contained in bag and tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030285</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030351</title>
       <description>
@@ -49,6 +70,69 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030350</guid>
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030196</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030196&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-28&lt;/li&gt;
+                &lt;li&gt;City: HENDERSON&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Leaking package discovered during sortation. Package placed in lined hazmat tote and sent to QA. DescribePack: Plastic jugs in corrugated carton. Loose caps on all jugs. Defective seal under one cap allowed leakage that damaged carton. DurationRel: 1 and MitigateEffect: Package placed in lined hazmat tote and sent to QA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030196</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030188</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030188&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-28&lt;/li&gt;
+                &lt;li&gt;City: AURORA&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was placed in a bag and container as soon as box was identified with as spill and that it was a Hazmat. It was then taken over to the Hazmat cage and placed in a secured area for further processing. DescribePack: The Package had 4 Gallons of lime way. 1 bottle had a loose cap causing the spill to the package. DurationRel: 1 and MitigateEffect: Package was placed in a hazmat bag and tote to prevent any further human contact. It was taken to the proper location to be processed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030188</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030184</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030184&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
+                &lt;li&gt;City: AURORA&lt;/li&gt;
+                &lt;li&gt;State: CO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was being unloaded when it was noticed that it was wet. It was placed in a lined hazmat tote and brought to the designated damaged hazmat area. DescribePack: Upon opening it was discovered that one of the bottles had a loose cap causing the liquid to leak. DurationRel: 1 and MitigateEffect: The package was placed upright to stop the leaking. After opening the package, the loose cap was tightened.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030184</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024030179</title>

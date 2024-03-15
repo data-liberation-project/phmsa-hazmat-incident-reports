@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Mar 2024 12:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:11:15 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030270</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030270&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-04&lt;/li&gt;
+                &lt;li&gt;City: OCALA&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND WET/DAMAGED. PLACED IN TOTE FOR QA. DescribePack: INSPECTION FOUND A DEPRESSED COLLAR/LOOSE CAP THAT ALLOWED LEAKAGE. DurationRel: 1 and MitigateEffect: PACKAGE PLACED IN TOTE, REMOVED FROM AREA OF OTHER PACKAGES.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030270</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030268</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030268&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-04&lt;/li&gt;
+                &lt;li&gt;City: MIAMI&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was coming up the NC inductor on 1300 belt when the package handlers noticed it was leaking on the side. QA was quickly altered about the hazmat then removed from the loaders. DescribePack: The plastic side wall on the right side was punctured and caused leakage. DurationRel: 1 and MitigateEffect: Removing the package away from the vanline loaders&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030268</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030252</title>
       <description>
@@ -133,6 +175,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030108</guid>
       <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030221</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030221&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
+                &lt;li&gt;City: OCALA&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Corrosive hazmat package was found wet. Upon inspection found 1 bottle of Meritech Self Clean 1-gallon had a small crack hole along seam on side of bottle, below the handle which resulted to leakage. DescribePack: Bottle had a small crack hole along seam on side of bottle, below the handle which resulted to leakage. DurationRel: 1 and MitigateEffect: Placed in hazmat bag lined tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030221</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024030039</title>
@@ -385,6 +448,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030036</guid>
       <pubDate>Fri, 08 Mar 2024 18:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030288</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030288&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-10&lt;/li&gt;
+                &lt;li&gt;City: JACKSONVILLE&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: WET BOX DISCOVERED DURING PRELOAD SORT. BOX BAGGED AND TAKEN TO HAZMAT CAGE. UPON INSPECTION, DISCOVERED THAT BOTTLES INSIDE BOX WERE LEAKINBG DUE TO LOOSE CAPS. BOX PLACED IN PLASTIC BAG AND SALVAGE DRUM AND PLACED INSIDE HAZMAT CAGE. DescribePack: LOOSE CAPS ON PLASTIC BOTTLES DurationRel: 1 and MitigateEffect: BOX PALACED INSIDE PLASTIC BAG AND TAKEN TO HAZMAT CAGE FOR INSPECTION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030288</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

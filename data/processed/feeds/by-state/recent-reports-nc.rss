@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Mar 2024 12:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 15:11:15 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030590</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030590&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
+                &lt;li&gt;City: GREENSBORO&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO A WET PACKAGE THAT NEEDED TO BE REWRAPPED. UPON INSPECTION OF THE CONTENTS DISCOVERED THE PACKAGE WAS WET DUE TO BAGS OF ICE INSIDE THE BOX THAT HAD MELTED COMPROMISING THE INTEGRITY OF THE BOX. THE REGULAR ICE WAS COOLING 24 X 13 OUNCE AEROSOLS CANS OF FAVORITE DAY WHIPPED DAIRY TOPPING. THE CAN INDICATES THE CONTENTS ARE UNDER PRESSURE. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030590</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030239</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030239&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
+                &lt;li&gt;City: Kernersville&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: AVERITT EXPRESS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030239</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030526</title>
       <description>
@@ -112,6 +154,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030106</guid>
       <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030167</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030167&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
+                &lt;li&gt;City: KERNERSVILLE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was located on the unload side. Package was placed in a lined hazmat bag and placed inside of tote. Package was brought to the QA area for further investigation. DescribePack: Upon further investigation, it was discovered that the bottom of the bottles was leaking and leaked inside of the package DurationRel: 1 and MitigateEffect: Package was placed inside a lined hazmat bag and placed inside of a tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030167</guid>
+      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024030195</title>
