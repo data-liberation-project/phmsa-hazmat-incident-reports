@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Mar 2024 15:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 18:13:00 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030269</title>
       <description>
@@ -156,27 +156,6 @@
       <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030105</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030105&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-11T15:13:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
-                &lt;li&gt;City: LANDOVER&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER CALLED FOR SPILL. IRREG CHUTE/SLIDE IRREG PACKAGE FELL ONTO THE FLOOR. USING BOOTS, APRON, GOGGLE AND GLOVES) ON AND SPILL CART, RESPONDER WENT TO RESPOND TO THE SPILL. USING DECISION TREE AND RESPONDSE SHEET. RESPONDER USED ZEPZORBENT AND CONTAINERIZED THE SPILL INTO THE SPILL TRAY. RESPONDER TRANSPORTED TO DMP AREA FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030105</guid>
-      <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024030178</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030178&lt;/a&gt;&lt;/h3&gt;
@@ -196,27 +175,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030178</guid>
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030145</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030145&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-11T15:13:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-16&lt;/li&gt;
-                &lt;li&gt;City: CUMBERLAND&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: PITT OHIO GROUND LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Upon arrival at the destination terminal, this drum was discovered to be leaking on the trailer floor. Investigation released that this drum was punctured by a protruding nail head in the trailer floor. The drum was immediately placed into an overpack to minimize further release. The released material was neutralized and containerized for disposal. Due to the hazard of material, the package specifications were not able to be safely obtained.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030145</guid>
-      <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

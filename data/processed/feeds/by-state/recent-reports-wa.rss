@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Mar 2024 15:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 18:13:00 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030489</title>
       <description>
@@ -72,27 +72,6 @@
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030116</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030116&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-11T15:13:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
-                &lt;li&gt;City: REDMOND&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WAS CALLED TO DOOR. THE RESPONDER USED THE DECISION TREE AND RESPOND SHEETS TO CLEAN THE AREA. THE RESPONDER THEN MOVE THE PACKAGE AND DEBRIS TO THE PSC TO FINNISH PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030116</guid>
-      <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024030605</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030605&lt;/a&gt;&lt;/h3&gt;
@@ -133,27 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030272</guid>
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030139</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030139&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-11T15:13:15+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
-                &lt;li&gt;City: TACOMA&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: KAG LEASING, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: The KAG Energy, LLC driver overfilled the storage tank resulting in approximately 10 gallons of diesel fuel being released. Graymar Environmental responded to the scene and handled the remediation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030139</guid>
-      <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
