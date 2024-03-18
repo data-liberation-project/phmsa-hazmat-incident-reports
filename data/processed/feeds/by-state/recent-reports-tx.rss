@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Mar 2024 12:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 15:10:52 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030263</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030263&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-04&lt;/li&gt;
+                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024030263 SequenceEvent: Package was found in Hazmat cage.  Closures of box were open on the bottom.  Drum was outside of the box. DescribePack: Upon close examination, no severe damage was seen on the drum but a small amount of spilled powder was seen inside of the plastic bag containing the drum. DurationRel: 0 and MitigateEffect: Leakage was not spreading.  Only a small amount of powder was seen next to the drum.   2. X-2024030264 SequenceEvent: Package was found in Hazmat cage.  Bottom closure was coming open on box.  A small amount of powder was seen next to the open closure. DescribePack: Upon inspection, the plastic bucket was cracked at the bottom causing leakage. DurationRel: 0 and MitigateEffect: Bucket was placed into a salvage drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030263</guid>
+      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030498</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030498&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
+                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found on conveyor belt near a load door with small wet spots, then moved to Hazmat cage for inspection. DescribePack: Upon inspection, one of the four bottles of Result 100 Dish Machine Detergent had a loose cap and all 4 had spilled liquid on them.  Cap was tightened but this bottle continued to exhibit a small drip when turned sideways. DurationRel: 0 and MitigateEffect: Leakage was not spreading.  Package was placed in a carrying tote lined with a Hazmat bag and moved to Hazmat cage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030498</guid>
+      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030491</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030491&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
+                &lt;li&gt;City: MISSOURI CITY&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Pkg leaked small amounts of product during transit. Pkg was loaded correctly, but the closure was loose so small amounts of product was able to be released. At discovery, the hazmat6 was transported to the hazmat processing area in a lined hazardous tote. DescribePack: Close on one bottle was super loose. DurationRel: 1 and MitigateEffect: The hazardous material was immediately moved from the area so pkg handlers could continue the sort in a safely manner.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030491</guid>
+      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030265</title>
       <description>
@@ -490,6 +553,69 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030120</guid>
       <pubDate>Mon, 11 Mar 2024 15:13:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030253</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030253&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
+                &lt;li&gt;City: EL PASO&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: One 5 gallon plastic pail was crushed during transit, released 1 ounce.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030253</guid>
+      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030003</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030003&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-24&lt;/li&gt;
+                &lt;li&gt;City: DALLAS&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030003</guid>
+      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030245</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030245&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-27&lt;/li&gt;
+                &lt;li&gt;City: LANCASTER&lt;/li&gt;
+                &lt;li&gt;State: TX&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: One 1 gallon metal pail was crushed in transit, released 0.25 gallons in trailer.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030245</guid>
+      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2024030035</title>
