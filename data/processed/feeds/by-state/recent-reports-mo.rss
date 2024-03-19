@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 15:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 18:13:17 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030478</title>
       <description>
@@ -133,69 +133,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030322</guid>
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030373</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030373&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
-                &lt;li&gt;City: SAINT LOUIS&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Unknown / placed in red tote. DescribePack: leaked from cap. DurationRel: 1 and MitigateEffect: unknow&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030373</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030369</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030369&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
-                &lt;li&gt;City: SAINT LOUIS&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Something poked a hole in the bottom of the bottle. DescribePack: pinhole in the bottom of the bottle DurationRel: 1 and MitigateEffect: PLACED IN RED TOTE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030369</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030374</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030374&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
-                &lt;li&gt;City: SAINT LOUIS&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: unknown/ placed in red tote. DescribePack: leaked from cap. DurationRel: 1 and MitigateEffect: unknown&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030374</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

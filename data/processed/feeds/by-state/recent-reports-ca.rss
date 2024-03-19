@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 15:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 18:13:17 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030474</title>
       <description>
@@ -534,27 +534,6 @@
       <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030389</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030389&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
-                &lt;li&gt;City: SACRAMENTO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME FROM LOADSIDE WET, TORN AND LEAKING.  DAMAGED DURING SORTATION, CRUSHED AT PINCHPOINT. DescribePack: ONE BOTTLE OF DETERGENT WITH 3 INCH CRACK BEHIND THE HANDLE WITH 2 TENTHS OF A GALLON LOSS. DurationRel: 1 and MitigateEffect: SPILL COLLECTED AND NEUTRALIZED WITH PH9 AND DUSTPAN.  PACKAGE PLACED IN HAZMAT BAG LINED DRUM.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030389</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024030190</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030190&lt;/a&gt;&lt;/h3&gt;
@@ -994,69 +973,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030172</guid>
       <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030158</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030158&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
-                &lt;li&gt;City: OCEANSIDE&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Exterior packaging was covered with grey paint-like liquid. Inside were 4 qty of 1 gallon plastic container of epoxy primer A-component. DescribePack: 1 of the plasctic container had its lid popped open spilling the content and soiled the rest of the package. DurationRel: 3 and MitigateEffect: The package was placed in a plastic lined container and any spill was wiped with an absorbent pad.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030158</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030153</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030153&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: SAN DIEGO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was placed in a hazmat bag the pkg was leaking. DescribePack: the package was dropped by the loader DurationRel: 1 and MitigateEffect: the package was process and placed in a hazmat drum&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030153</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030146</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030146&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-26&lt;/li&gt;
-                &lt;li&gt;City: BLOOMINGTON&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Damage in transit DescribePack: Medium sized box 12&amp;#x27; cube DurationRel: 2 and MitigateEffect: Package was retrieved by QA and placed in the hazmat cage&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030146</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

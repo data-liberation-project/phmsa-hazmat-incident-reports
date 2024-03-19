@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 15:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 18:13:17 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030524</title>
       <description>
@@ -345,48 +345,6 @@
       <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030390</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030390&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
-                &lt;li&gt;City: READING&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was loaded onto the van on its side with orientation arrows facing the wrong direction. This was caused by improper loading onto the van. Item leaked some of contents. In house cleanup. DescribePack: There is no damage to the items itself other than leakage from improper orientation. DurationRel: 1 and MitigateEffect: Item reoriented after discovery. Item ceased to leak afterwards.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030390</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030371</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030371&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
-                &lt;li&gt;City: NEWVILLE&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: qa was called to leaking hazmat in the unload, upon discovery we found that the substance was a corrosive and leaking from the lid, looks as though the seal on the lid is faulty, Hazmat process was then started, hazmat was placed into a hazmat tote lined with a hazardous bag. Then all reports were submitted and hazmat was placed in Hazardous material cage. DescribePack: cap on the top of the bottle is loose and causing product to leak. DurationRel: 1 and MitigateEffect: spill was cleaned up and hazmat was placed in a lined tote and stored in the hazardous materials storage area.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030371</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024021927</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021927&lt;/a&gt;&lt;/h3&gt;
@@ -490,69 +448,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030175</guid>
       <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024030020</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024030020&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
-                &lt;li&gt;City: Pottstown&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: RSI LEASING INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: FOLLOWING THE RAIL-TO-TRUCK TRANSLOADING OF BUTYL ACRYLATE, THE OPERATOR WAS MOVING THE PRODUCT HOSE AWAY FROM THE TOP OF THE TRAILER ON THE SWING ARM THAT SUPPORTS THE HOSE. AT SOME POINT THE CAP ON THE HOSE CAME LOOSE AND FELL OFF THE HOSE ALLOWING A SPILL OF RESIDUAL PRODUCT FROM THE HOSE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024030020</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030155</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030155&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: LEWISBERRY&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: shipment was taken out of system flow due to external carton wet and leaking package found on trailer number 807734 already wet and leaking upon inspection of inner content 2. x 2.5 plastic bottles of chem - aqua 1 x 2.5 gallon plastic bottle of chem-aqua had a loose cap allowing .25 gallon to release from bottle. package had no slotted partition, bags, or adsorbent. Facility procedures for damaged hazardous materials followed contents contained and awaiting disposition. DescribePack: 1 x 2.5-gallon plastic bottle of chem-aqua had a loose cap allowing .25 gallon to release from bottle. DurationRel: 1 and MitigateEffect: leaking package was placed in a hazmat bag lined tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030155</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030157</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030157&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
-                &lt;li&gt;City: HUNKER&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Driver had the package inside the truck when a larger box from an upper shelf fell onto the hazmat package. Driver Left package up front at VSA, at which time QA responded and placed package inside red tote for transfer back to the cage. DescribePack: Box was wet on the outside. After inspection to figure out what fail, it came to the conclusion of a bad screw thread for one of the blue screw top bottles. DurationRel: 2 and MitigateEffect: Package was placed on the side to prevent further leaking, than placed into a red tote and resealed the bottles on inspection&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030157</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2024030037</title>

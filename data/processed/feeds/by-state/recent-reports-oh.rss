@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 15:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 18:13:17 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030443</title>
       <description>
@@ -555,27 +555,6 @@
       <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030378</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030378&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
-                &lt;li&gt;City: GROVE CITY&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.  Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: the seam under the cap failed allowing leakage despite having been tightened. DurationRel: 0 and MitigateEffect: Pads were used soak up the liquid and placed in a lined red tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030378</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030248</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030248&lt;/a&gt;&lt;/h3&gt;
@@ -721,48 +700,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030193</guid>
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030164</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030164&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
-                &lt;li&gt;City: PERRYSBURG&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: pkg was found during the unload process on 2-26 at 23:00 and taken to qa for inspection. DescribePack: carton was leaking powder from a broken plastic pail inside. DurationRel: 1 and MitigateEffect: ppe used to place carton in a hazmat bag and then into a plastic tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030164</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024030019</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024030019&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-14&lt;/li&gt;
-                &lt;li&gt;City: Cincinnati&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNIVAR SOLUTIONS USA INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Driver arrived at customer to fill a Ammonia Tank. He verified everything on the BulldMiniBulk Checklist to verify all connections and tank was ready to complete off load. Customer signed off before the off load. Customer and driver gave each other thumbs up from a distance. The driver thought that was an indication good to start the pump off. Shortly after driver started the pump, he heard a boom noise, exited the truck and noticed the product Ieaking from the pump. He imniediately turned off the pump. The customer notified his team and the product was contained and cleaned on site immediately. The cause of the release was determined to be the customer had not released the internal valve and water in the dyke area causing deadhead back to the pump. Univar maintenance and Vendor maintenance determined the vibration and stress caused a crack in suction pipe into pump causing the leak. The crack was welded and further tests on pipe and pump resulted in no further leaks or releases.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024030019</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
     </item>
     <item>
       <title>Report I-2024030016</title>

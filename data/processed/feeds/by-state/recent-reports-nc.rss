@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2024 15:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 18:13:17 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030459</title>
       <description>
@@ -366,27 +366,6 @@
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030391</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030391&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: KERNERSVILLE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Member of our management team went to our unloads where the leaking hazmat was discovered. DescribePack: The box was wet from the leaking contents, The label itself was starting to fade away due to the strong chemical inside. DurationRel: 1 and MitigateEffect: Immediately placed the package inside of a lined tote and took it to our hood vent to help stop the horrible smell to stop spreading.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030391</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024030197</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030197&lt;/a&gt;&lt;/h3&gt;
@@ -448,48 +427,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030195</guid>
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020262</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020262&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-10&lt;/li&gt;
-                &lt;li&gt;City: AURORA&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: CSX CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 2/10/2024, at 02:34 hours, personnel at the CSX Public Safety Coordination Center, were advised that the L23409 had derailed fourteen cars on the Norfolk Southern’s railroad in Aurora, NC.  As a result of the derailment, SUJX 80046 a tank car load of Sulfur, Molten, sustained a breach to the tank head and released approximately one thousand pounds of Sulfur.  Per operating agreement, Norfolk Southern personnel, and their emergency response contractors, responded to the incident and remediated the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020262</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030154</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030154&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-12T15:28:43+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: DURHAM&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The damaged package was placed in a hazardous materials tote and taken to the hazardous materials staging area away from personnel and other packages. DescribePack: Upon inspection found the plastic cracked bottom of the container leading to powder leakage. DurationRel: 1 and MitigateEffect: The damaged package was placed in a hazardous materials pail awaiting disposition.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030154</guid>
-      <pubDate>Tue, 12 Mar 2024 15:28:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
