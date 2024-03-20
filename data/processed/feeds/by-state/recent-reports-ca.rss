@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2024 18:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 21:11:49 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030301</title>
       <description>
@@ -597,27 +597,6 @@
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024030178</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030178&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-13T18:16:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
-                &lt;li&gt;City: BAKERSFIELD&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal UBF experienced a UN2680 Lithium Hydroxide release from (2) 50-pound poly bags. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 25 pounds of product released to a 2’ x 2’ area of the wooden trailer floor due to a forklift accident. The damaged bags and released material were collected and containerized into a 55-gallon poly drum. The remaining bags were re-stacked and secured for shipment on. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030178</guid>
-      <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030346</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030346&lt;/a&gt;&lt;/h3&gt;
@@ -1078,27 +1057,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030340</guid>
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030172</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030172&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-13T18:16:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
-                &lt;li&gt;City: BREA&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On February 29, 2024, one (1) 5-gallon jug of UN1789 was crushed in transit and released approximately four (4) gallons of product to the trailer interior, tires, and asphalt parking lot. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Patriot Environmental Services (PES) to remediate the impacted site. The damaged drum was collected and containerized into one (1) 55-gallon drum. PES crews utilized a neutralizing solution and absorbent pads on the impacted trailer and tires. The deployed granular absorbents were collected and containerized into one (1) additional 55-gallon drum. Crews deployed a neutralizing solution onto the impacted asphalt and worked them in with hand tools. All UN1789-impacted material was collected and containerized into the previously generated 55-gallon drum for transport and disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030172</guid>
-      <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

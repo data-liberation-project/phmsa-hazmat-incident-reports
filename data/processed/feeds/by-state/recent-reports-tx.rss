@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2024 18:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 21:11:49 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030639</title>
       <description>
@@ -660,27 +660,6 @@
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030445</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030445&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-13T18:16:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
-                &lt;li&gt;City: FORT WORTH&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on a cart in the Hazmat cage facing down.  No leakage was visible on the outside.  Styrofoam shards were falling out. DescribePack: When inspected.  2 2.5 liter glass bottles were inside.  There are slots for 6 but only 2 are indicated on packing list.  Molded Styrofoam is broken.  1 of the 2 bottles had a slow drip coming from near the cap but was still mostly full.  Small wet stains could be seen inside the box. DurationRel: 0 and MitigateEffect: Box was contained in a Hazmat bag when found.  Leakage was not visible on the outside.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030445</guid>
-      <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030348</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030348&lt;/a&gt;&lt;/h3&gt;
@@ -1036,27 +1015,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030176</guid>
       <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030182</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030182&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-13T18:16:37+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
-                &lt;li&gt;City: LAREDO&lt;/li&gt;
-                &lt;li&gt;State: TX&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: LANDSTAR INWAY, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On February 5, 2024 at 1213 ET, Emergency Response and Training Solutions (ERTS) was contacted by Landstar personnel in Laredo, Texas regarding the release of approximately (2) gallons KEROPUR AP 205-20, UN1307 3, III from (1) 55-gallon DM.  Contractors were dispatched to the site to perform all onsite clean-up activities. Upon arrival, contractors confirmed the release was caused by a puncture from a nail and was contained to a small area on the trailer floor and a 2’ x 2’ area of asphalt beneath the trailer. Contractors were able to clean the release with absorbents and the proper PPE. The damaged drum with product was placed in an 85-gallon overpack DM. All waste generated from addressing this release, was containerized in (1) 5-gallon poly drum, and (1) 85-gallon overpack DM, which was then staged onsite by the contractors for proper disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030182</guid>
-      <pubDate>Wed, 13 Mar 2024 18:16:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
