@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 18:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 21:13:41 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030371</title>
       <description>
@@ -198,69 +198,6 @@
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030297</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030297&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: PADUCAH&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was on van line when it was found wet, after inspecting, one bottle of Isopropanol Alcohol was found with broken seal and cap completely off causing internal leakage. DescribePack: 1 gallon of 99% Isopropanol Alcohol, seal and cap came off. DurationRel: 1 and MitigateEffect: Rough handling/ Cap may have already been loose before shipping and with liquid weight shifting, seal became damaged.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030297</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030196</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030196&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: Louisville&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030196</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030339</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030339&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
-                &lt;li&gt;City: PADUCAH&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was found in the trailer laying sideways with the package orientation arrows facing sideways and the side of the box being wet. The hazmat package was put in a hazmat tote and brought to the QA cage for damage processing. DescribePack: The failure looks to have occurred with the cap on the bag which wound up leaking due to the package being loaded incorrectly into the trailer, which was from the package being laid on the side with the orientation arrows facing sideways instead of upwards. DurationRel: 2 and MitigateEffect: The hazmat package was put in a hazmat tote lined with a hazmat bag.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030339</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030323</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030323&lt;/a&gt;&lt;/h3&gt;
@@ -385,48 +322,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030222</guid>
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030169</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030169&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-27&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called due to a leaking hazmat, hazmat was immediately put into a lined tote when admin arrived to spill. Nuetralizer was used on spilled product, nuetralizer was cleaned up. DescribePack: Cap came loose on one bottle of product inside package causing leakage. DurationRel: 1 and MitigateEffect: Cap was tightend and package was kept in an upright postion in a lined tote to prevent further leakage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030169</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030198</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030198&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Caps on bottles came loose causing inner leakage, package was put into a hazmat bin to conceal the leakage. DescribePack: Caps on bottles loosened, and package was wet from spillage. DurationRel: 1 and MitigateEffect: put the package into a spill tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030198</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

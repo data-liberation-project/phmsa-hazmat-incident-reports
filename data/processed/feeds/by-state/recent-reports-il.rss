@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 18:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 21:13:41 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030663</title>
       <description>
@@ -807,69 +807,6 @@
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030222</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030222&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
-                &lt;li&gt;City: CHAMPAIGN&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found leaking and on its side. Package was opened and a LQ item was inside. Package was placed into a haz bag and tote. Tote was taken to a QA area. DescribePack: 2 plastic bottles emptied inside inner box from caps coming off. Package leaked out the bottom and side of box. Box had no outside marking/labels. DurationRel: 1 and MitigateEffect: Package was placed inside a 2nd haz bag to prevent further leakage. Bottles were adjusted to be upright.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030222</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030201</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030201&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-09&lt;/li&gt;
-                &lt;li&gt;City: LA SALLE&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Approx 5 Gallons of material was released from (1) a 275-gallon plastic IBC tote as a result of a loose lid impacting Trailer. No Drains, Soils or waterways were impacted.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030201</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030311</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030311&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: LA GRANGE&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on a cart near the hazmat cage DescribePack: 1 loose cap DurationRel: 1 and MitigateEffect: Package was put on a cart and moved near the hazmat cage&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030311</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024030051</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030051&lt;/a&gt;&lt;/h3&gt;
@@ -1015,69 +952,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030226</guid>
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021690</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021690&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: HODGKINS&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: DURING CLEAN UP AND INSPECTION RESPONDER DISCOVERED PACKAGE CONTAINED 1 5 GL PLASTIC BUCKET RENOCLEAN SUPER 844 WHICH LEAKED AT THE BOTTOM. THE ENTIRE CONTENTS WAS PROCESSED THRU DMP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021690</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021691</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021691&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-21&lt;/li&gt;
-                &lt;li&gt;City: HODGKINS&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: X-2024021691: RESPONDER RESPONDED TO LEAKING HAZMAT ON BAY, UTILIZED DT RS, CONTAINERIZED MATERIAL, AND BROUGHT BACK TO DMP CAGE FOR FURTHER PROCESSING  X-2024021692: RESPONDER RESPONDED TO LEAKING HAZMAT OB 2 BAY 367, UTILIZED DT RS, CONTAINERIZED MATERIAL, AND BROUGHT BACK TO DMP CAGE FOR FURTHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021691</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030192</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030192&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-28&lt;/li&gt;
-                &lt;li&gt;City: MARION&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030192</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

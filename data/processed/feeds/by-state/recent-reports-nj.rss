@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 18:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 21:13:41 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030376</title>
       <description>
@@ -429,48 +429,6 @@
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030355</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030355&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: DAYTON&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: WHILE PACKAGE WAS BEING UNLOADED PACKAGE HANDLER NOTICED BOX WAS WET AND PUT THE PACKAGE IN A HAZMAT TOTE. THEN BROUGHT PACKAGE TO QA FOR FURTHER INSPECTION. DescribePack: CAP WAS LOOSE TO PRODUCT CAUSING CONTENTS TO LEAK. DurationRel: 1 and MitigateEffect: PACKAGE HANDLER PLACE PACKAGE IN A HAZMAT TOTE AND BROUGHT TO QA. THEN QA BROUGHT PACKAGE TO HAZMAT CAGE AND PLACED IN A LINED HAZMAT DRUM FOR FURTER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030355</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030326</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030326&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: IT APPEARS THE SHIPMENT WAS REMOVED FROM THE SYSTEM FLOW, DUE TO THE EXTERNAL CARTON BEING TORN AND WET DURING THE DAY SORT. DescribePack: UPON INSPECTION IT WAS DISCOVERS FISHER SCIENTIFIC ACTETIC ACID, GLARICAL 20 LITERS PLASTIC DRUM HAD A LEAK THAT APPEARED TO BE CAUSED BY A SPILT IN THE SEEM OF THE DRUM UNDER THE DRUM HANDLE. DurationRel: 12 and MitigateEffect: FACILITY PROCEDURES FOR DAMAGED HAZARDOUS MATERIAL FOLLOWED, CONTENTS CONTAINED AND AWAITING DISPOSITION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030326</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030381</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030381&lt;/a&gt;&lt;/h3&gt;
@@ -637,27 +595,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030206</guid>
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030194</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030194&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
-                &lt;li&gt;City: DOVER&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During sort package leaking white paint. On inspection, identified one of two inner cans of paint was bent significantly enough to force lid to open and cause leak. Additionally paint is a hazmat however it was shipped undeclared with no hazmat decal markings. DescribePack: Paint can bent causing paint to leak throughout box. No inner packing used to minimize shipping impact DurationRel: 1 and MitigateEffect: once identified, package was separated from other sort packages and placed in a hazmat bag in bin for further processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030194</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

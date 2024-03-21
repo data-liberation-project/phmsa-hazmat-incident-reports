@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 18:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 21:13:41 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030674</title>
       <description>
@@ -72,27 +72,6 @@
       <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024030184</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030184&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-04&lt;/li&gt;
-                &lt;li&gt;City: Houma&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Load shift&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030184</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030271</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030271&lt;/a&gt;&lt;/h3&gt;
@@ -133,48 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021661</guid>
       <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030189</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030189&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
-                &lt;li&gt;City: SHREVEPORT&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 55 gallon metal drum was punctured during loading, released 15 gallons on dock.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030189</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030180</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030180&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-14T18:15:01+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-28&lt;/li&gt;
-                &lt;li&gt;City: COVINGTON&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: HAZMAT WAS DISCOVERED IN FRONT OF BELTS 6 &amp;amp; 7 ABOUT 3:30AM DescribePack: LOOSE CAP ON ONE OF THE BOTTLES OF ODORLESS DRAIN MAINTAINER &amp;amp; OPENER DurationRel: 1 and MitigateEffect: HAZMAT WAS PLACED IN HAZMAT BAG AND BIN&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030180</guid>
-      <pubDate>Thu, 14 Mar 2024 18:15:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
