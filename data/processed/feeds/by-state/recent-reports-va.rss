@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Mar 2024 12:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:14:01 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030702</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030702&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
+                &lt;li&gt;City: ASHLAND&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS BROUGHT TO THE QA CAGE FROM THE UNLOAD. THE CONTENTS WAS MISSING A TOP AND ANOTHER HAD A HOLE AT THE TOP. DescribePack: NOT CLOSURE AND A PUNCTURED DurationRel: 1 and MitigateEffect: PLACED IN A SALVAGE DRUM AND MOVED TO HAZMAT CAGE FOR STORAGE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030702</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030912</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030912&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-14&lt;/li&gt;
+                &lt;li&gt;City: SOUTH CHESTERFIELD&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Packages were found on the trailer by qa and were leaking paint. All three of the packages were immediately pulled off the trailer and placed in hazmat totes. The team then proceeded to clean all of the paint off the trailer and packages. DescribePack: The lids on the drums were popped off while in transit. DurationRel: 1 and MitigateEffect: All three of the packages were immediately pulled off the trailer and placed in hazmat totes. The team then proceeded to clean all of the paint off the trailer and packages.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030912</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030706</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030706&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
+                &lt;li&gt;City: MANASSAS&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was a repack from the night before in which the original box got wet from another damaged package. It was found after 4 a.m. inside of TZ trailer 830664 by the unload manager in which was then given to QA&amp;#x27;s attention. 1 of the 4 jugs of concentrated driveway and concrete pressure wash had its lid come off, resulting in the liquid spilling out and soiling the packaging. DescribePack: The admin found the cap of one of the four jugs had come off and the liquid inside gone. DurationRel: 4 and MitigateEffect: Made sure the rest of the lids were closed tightly.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030706</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030485</title>
       <description>
@@ -28,6 +91,48 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030485</guid>
       <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030390</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030390&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
+                &lt;li&gt;City: LYNCHBURG&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: EAGLE TRANSPORT CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: While driver was unloaded fuel she was using coaxle fitting with no cap on top. Driver overfilled tank due to not referring to Eagle conversion booklet for fit. Gas spilled out of the top of the coaxle fitting. CDG was contacted and managed the response/cleanup.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030390</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030691</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030691&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-29&lt;/li&gt;
+                &lt;li&gt;City: WINCHESTER&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The hazmat package was found already broken by package handlers who were unloading a trailer around 6:30AM. They immediately noticed a smell and notified hazmat trained personnel to come and contain the hazmat. DescribePack: One 16 Oz glass bottle was broken in the box with its contents spilled all over the rest of the package. DurationRel: 1 and MitigateEffect: The package was immediately removed from the unloading area and brought to the hazmat cage by trained personnel.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030691</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
     </item>
     <item>
       <title>Report E-2024030383</title>

@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Mar 2024 12:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:14:01 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024030389</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030389&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
+                &lt;li&gt;City: MILWAUKEE&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: One 55 gallon metal drum was leaking due to faulty packaging, released 1 tablespoon.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030389</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030696</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030696&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-04&lt;/li&gt;
+                &lt;li&gt;City: MADISON&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Found the drum in the hazmat cage. DescribePack: The drum looks to be leaking due to many dents. The dents are located on the sides and both the top and bottom of the drum. DurationRel: 1 and MitigateEffect: The drum was put into a plastic spill bag and then into the hazmat cage in a black tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030696</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024030362</title>
       <description>
@@ -51,27 +93,6 @@
       <pubDate>Tue, 19 Mar 2024 15:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030579</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030579&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
-                &lt;li&gt;City: OAK CREEK&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: PACKAGE WAS FOUND WITH A WET CORNER. PROPER STEPS WERE TAKEN TO RESPOND TO THE INCIDENT. RESPONDER CONDUCTED DAMAGE INSPECTION; REWRAP; NO LEAK. RESPONDER DISCOVERED THAT THE PACKAGE CONTAINED AEROSOL CANS WITHOUT LIMITED QUANTITY LABELING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030579</guid>
-      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024021664</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021664&lt;/a&gt;&lt;/h3&gt;
@@ -91,48 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021664</guid>
       <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024020522</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024020522&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-08&lt;/li&gt;
-                &lt;li&gt;City: LA CROSSE&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: AT START OF UNLOADING OPERATION PRODUCT WAS UNDER PRESSURE AND UNIT WAS ON A SLOPE. PRODUCT RELEASED FROM DOME COVER DUE TO LOSE CONNECTION AT LOCKING DEVICES. DOME SECURED AND UNLOADING COMPLETED WITHOUT ADDITIONAL INCIDENT. SPILL WAS CLEANED BY THE CONSIGNEE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024020522</guid>
-      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030219</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030219&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-12&lt;/li&gt;
-                &lt;li&gt;City: TOMAH&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: It was reported that approximately 2 liters of Curene 442 (UN3077) released from 70kg fiber drum due to a forklift accident (XTM responsible). The release impacted the dock. The SDS was reviewed with the caller and determined that terminal personnel were capable of cleaning the release with PPE available on site. (1) 85-gallon DF, contains damaged poly drum, product, and PPE was created as waste and left onsite for the terminal to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030219</guid>
-      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

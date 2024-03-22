@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Mar 2024 12:18:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:14:01 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030711</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030711&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
+                &lt;li&gt;City: FLORENCE&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Extinguisher package has no orientation arrows. Package was set down upside down. Flimsy plastic used instead of metal blocking pin on discharge handle. Package was set right-side up and dispersion ceased. DescribePack: no metal pin in discharge handle DurationRel: -1 and MitigateEffect: Immediate area was cleared until vapor dispersed and vented.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030711</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030746</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030746&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
+                &lt;li&gt;City: COLUMBIA&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was received from trailer leaking contents. Package was then move to safety bin. QA was called to investigate package. Package was then moved to hazmat cage for further inspection. Upon further inspection it was discovered that the bucket was damaged by a crack at the bottom. DescribePack: crack at bottom of bucket DurationRel: 1 and MitigateEffect: placing in bin and removed from area&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030746</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030527</title>
       <description>
@@ -30,67 +72,25 @@
       <pubDate>Tue, 19 Mar 2024 15:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024030215</title>
+      <title>Report E-2024030386</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030215&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030386&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
-                &lt;li&gt;City: Piedmont&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
+                &lt;li&gt;City: Columbia&lt;/li&gt;
                 &lt;li&gt;State: SC&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: EAGLE TRANSPORT CORPORATION&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+                &lt;li&gt;Description: Rodrick White had an approximate 20 gallon spill of regular e10. He left the compartment open and then charged the belly valve resulting in product spilling. Rodrick cleaned up the spill prior to the Environmental crew showing up. A small amount of product went into the storm drain. The environment crew left out a boom over night to capture the product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030215</guid>
-      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030320</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030320&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE DROPPED WHILE LOADING. HAZMAT-CERTIFIED ADMIN NOTIFIED OF DAMAGED HAZMAT PACKAGE. DescribePack: CAN LEAKED FROM UNDER CAP. DurationRel: 1 and MitigateEffect: HAZMAT-CERTIFIED ADMIN USING PROPER PPE PLACED THE PACKAGE INSIDE A LINED HAZMAT TOTE AND SECURED THE TOTE INSIDE THE HAZMAT CAGE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030320</guid>
-      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030315</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030315&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-15T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-04&lt;/li&gt;
-                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE DROPPED WHILE LOADING. HAZMAT-CERTIFIED ADMIN NOTIFIED OF DAMAGED HAZMAT PACKAGE. DescribePack: BOTTLE LEAKED FROM UNDER CAP. DurationRel: 1 and MitigateEffect: HAZMAT-CERTIFIED ADMIN USING PROPER PPE REORIENTED THE PACKAGE INSIDE A LINED HAZMAT TOTE AND SECURED THE TOTE INSIDE THE HAZMAT CAGE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030315</guid>
-      <pubDate>Fri, 15 Mar 2024 15:11:11 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030386</guid>
+      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
