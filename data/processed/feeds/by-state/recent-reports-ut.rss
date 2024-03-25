@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Mar 2024 12:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:12:38 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024030453</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030453&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
+                &lt;li&gt;City: WEST VALLEY CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: On March 19, 2024, one (1) 300-gallon tote of UN2810 was crushed by falling freight and released approximately seventy-five (75) gallons of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from GrayMar Environmental Services (GES) to remediate the impacted site. GES personnel completed a tote transfer into one (1) new tote that was staged onsite. The crew deployed absorbents to the release and worked them in utilizing hand tools. All UN2810-impacted materials were containerized in four (4) 55-gallon drums and staged onsite.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030453</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030996</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030996&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: WEARING FULL PPE AND FOLLOWING DECISION TREE AND FLAMMABLE LIQUID RESPONSE SHEET, RESPONDER RESPONDED TO TRAILER, PLACED PACKAGE IN LINED SPILL TRAY AND RETURNED TO PROCESSING CENTER FOR FURTHER PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030996</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
+    </item>
     <item>
       <title>Report I-2024030054</title>
       <description>
@@ -154,27 +196,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030462</guid>
       <pubDate>Tue, 19 Mar 2024 15:11:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030600</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030600&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-09&lt;/li&gt;
-                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: USING PROPER PPE AND FOLLOWING DECISION TREE, RESPONDER REPONDED TO LEAKING HAZMAT ON DOOR 18 UNLOAD AND RETURNED TO CLEARKS FOR FURTHER PROCESSING&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030600</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

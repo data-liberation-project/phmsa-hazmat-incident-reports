@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Mar 2024 12:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:12:38 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030702</title>
       <description>
@@ -72,27 +72,6 @@
       <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030485</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030485&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-06&lt;/li&gt;
-                &lt;li&gt;City: ASHLAND&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Upon unloading a trailer the OPS Manager noticed the Hazmat package laying on it&amp;#x27;s side and discoloration on packaging due to it being wet. OPS Manager called for QA and QA placed the pkg in a hazmat container and into the hazmat cage. Upon inspection of the hazmat it was found that because of the package laying on it&amp;#x27;s side it caused pressure on one of the bottles causing it to leak slowly through the packaging. DescribePack: Closure of the bottle loosened a little due to pressure from being lain on it&amp;#x27;s side. DurationRel: 15 and MitigateEffect: QA Hazmat personnel placed the package into a hazmat container right side up to stop leaking.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030485</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030390</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030390&lt;/a&gt;&lt;/h3&gt;
@@ -154,27 +133,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030383</guid>
       <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021322</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021322&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
-                &lt;li&gt;City: HAMPTON&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 2/6/2024 at approximately 1830, Dangerous Goods Administration received a call from Employee 4346935 is the station location in Hampton, reporting an undeclared dangerous goods shipment.  The package consisted of one fiberboard box, containing an inner fiberboard box with a glass bottle inside.  The attached paperwork identifies the commodity as &amp;quot;Hydrogen Sulfide&amp;quot;, prompting the opening of the shipment for verification.  The package was not prepared with the required DG markings, labeling, or paperwork, in accordance with IATA regulations and is being held, pending an FAA investigation.  UPDATE:  Further review revealed a misclassification of the commodity.  The commodity appears to be identified as &amp;quot;fuel oil&amp;quot; and as requesting that test be conducted using &amp;quot;hydrogen sulfide&amp;quot;.  The spill incident is being resubmitted with the updated classification.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021322</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

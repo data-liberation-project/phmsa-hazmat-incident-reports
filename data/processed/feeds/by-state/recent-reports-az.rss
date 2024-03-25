@@ -7,7 +7,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Mar 2024 12:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:12:38 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030932</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030932&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-14&lt;/li&gt;
+                &lt;li&gt;City: PHOENIX&lt;/li&gt;
+                &lt;li&gt;State: AZ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND INSIDE OF VAN WITH THE BOX OPEN AND THE BOTTOM OF THE PLASTIC DRUM SPLIT IN THE SEAM AT THE BASE CAUSING THE POWDERED CHLORINE TO SPILL DescribePack: THE BOTTOM OF THE 5GAL PLASTIC DRUM BUSTED OPEN AT THE SEAM AS IF TOO FULL. THE CHLORINE WAS IN A PLASTIC BAG THAT  TORE OPEN. DurationRel: 1 and MitigateEffect: THE CHLORINE WAS SWEPT UP AND EVERYTHING WAS PLACD IN A PLASTIC HAZMAT BAG AND THEN PLACED IN A HAZMAT TOTE. EVERYTHING WAS THEN MOVED TO THE QA REPACK STATION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030932</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030728</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030728&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
+                &lt;li&gt;City: TEMPE&lt;/li&gt;
+                &lt;li&gt;State: AZ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: X-2024030728: SequenceEvent: Package was found in a truck leaking, QA was notified and was moved to a lined HazMat tote with orientation labels up. DescribePack: Loose caps caused the inner containers to leak and damage the outer packaging. DurationRel: 6 and MitigateEffect: Package was taken out of the truck and placed into a lined HazMat tote with orientation label up to stop and further leaking.  X-2024030731: SequenceEvent: Package was found leaking in a truck, QA was notified and placed into a lined HazMat tote with orientation labels up. DescribePack: Loose caps caused the inner containers to leak and damage the outer container. DurationRel: 6 and MitigateEffect: Package was placed into a lined HazMat tote with orientation labels up to prevent further leaks.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030728</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030929</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030929&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
+                &lt;li&gt;City: TUCSON&lt;/li&gt;
+                &lt;li&gt;State: AZ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PKG BROUGHT TO QA WET AND LEAKING UPON INSPECTION FOUND ONE BOTTLE INSIDE PACKAGE LEAKING FROM LOOSE CAP DescribePack: LOOSE CAP CAUSE LEAKAGE DurationRel: 1 and MitigateEffect: IN HOUSE CLEAN UP&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030929</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030732</title>
       <description>
@@ -198,111 +261,6 @@
       <pubDate>Tue, 19 Mar 2024 15:11:49 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030601</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030601&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-09&lt;/li&gt;
-                &lt;li&gt;City: GOODYEAR&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030601</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030253</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030253&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-03&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was sent through the overhead sorters where the top of one of the bottles became loose and started to leak. The package was placed in a hazmat bag lined tote and brought to the QA area for processing. DescribePack: One of the bottle tops came loose and leaked. DurationRel: 1 and MitigateEffect: The package was placed in the upright position and the bottle top was tightened down&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030253</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030255</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030255&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-03&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was coming from the unload area when it was noticed that the bottom of the box was wet. The lids of two bottles came loose during the shipping process causing the bottles to leak. DescribePack: The tops of 2 bottles leaked DurationRel: 1 and MitigateEffect: The bottle tops were tightened down&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030255</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030254</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030254&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-03&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was being unloaded when it toppled off the rollers and onto the dock upside down causing one of the tops to completely come off the plastic bottle and all of the liquid spilled out. The top may have become loose during the shipping process. DescribePack: One bottle top came off DurationRel: 1 and MitigateEffect: The wet package was placed in a hazmat bag lined tote and brought to the QA area for processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030254</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030256</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030256&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-03&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE CAME TOO QA IN A HAZMAT LINED TOTE. IT WAS SECURED USING PROPER PPE TOLLS AND ATTIRE. DescribePack: THE PACKAGE WAS CRACKED ON BOTTOM OF THE PLASTIC BUCKET AND LEAKING SMALL AMOUNTS OUT. DurationRel: 1 and MitigateEffect: WHEN PACKAGE WAS NOTICE PACKAGE WAS PUT INSIDE A HAZMAT LINED TOTE TO STOP THE SPILLAGE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030256</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024030686</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030686&lt;/a&gt;&lt;/h3&gt;
@@ -364,27 +322,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030337</guid>
       <pubDate>Wed, 20 Mar 2024 15:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030250</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030250&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-28&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon pail was crushed during transit, released 2 gallons in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030250</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

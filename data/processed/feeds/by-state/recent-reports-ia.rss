@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Mar 2024 12:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:12:38 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024030440</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030440&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
+                &lt;li&gt;City: DES MOINES&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Approximately 2 cups of Flash Clene 1414, which released from a 275 gallon poly tote due to a broken/loose lid on the tote, causing it to slosh about during transit leak out. No Drains, Soils, or waterways were reported impacted.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030440</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024030417</title>
       <description>
@@ -91,27 +112,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030349</guid>
       <pubDate>Wed, 20 Mar 2024 15:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030251</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030251&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-18T15:10:48+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
-                &lt;li&gt;City: WATERLOO&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Environmental Works was dispatched to the site. Upon the contractor’s arrival, personnel observed that the released material impacted a 40ft-by-20ft area of the concrete terminal floor and estimated that one hundred and fifty (150) gallons of material was released due to forklift damaging one (1) poly tote. Environmental Works personnel deployed a neutralizer and then a granular absorbent to the impacted area. The remaining material was transferred to a new poly tote. The spent material was recovered and placed into three (3) 30-gallon poly drums, one (1) 55-gallon metal drum and one (1) 55-gallon poly drum along with the cut-up damaged poly tote. Environmental Works personnel then pressure washed the impacted area and collected the impacted water and containerized the recovered material into one (1) 330-gallon poly tote. The generated waste was staged onsite at the terminal in a secure location prior to the contractor demobilization. The generated waste will remain onsite for the ESTES DGRM team to coordinate disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030251</guid>
-      <pubDate>Mon, 18 Mar 2024 15:10:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
