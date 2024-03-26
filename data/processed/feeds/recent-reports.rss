@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Mar 2024 21:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 00:37:28 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030927</title>
       <description>
@@ -12250,6 +12250,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030964</guid>
       <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030722</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030722&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-26T00:36:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-13&lt;/li&gt;
+                &lt;li&gt;City: CITY OF INDUSTRY&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: at load side area two door twenty-two management was alerted of a leaking package and qa was called to secure the item and removed any hazardous material DescribePack: the cans have multiple dents in different areas, on one can the dent is close to the lid. DurationRel: 1 and MitigateEffect: item was place in a hazmat bag and removed from the area and secured at the hazmat cage under ventilator&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030722</guid>
+      <pubDate>Tue, 26 Mar 2024 00:36:03 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030225</title>
