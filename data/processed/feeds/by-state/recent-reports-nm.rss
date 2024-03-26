@@ -7,7 +7,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Mar 2024 12:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 15:11:02 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030840</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030840&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-26T15:10:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
+                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
+                &lt;li&gt;State: NM&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was damaged and leaking, Manager brought package to QA. Leaking package was inspected and placed in a plastic bag inside a hazmat drum. DescribePack: Package was leaking from a puncture in one of the bottles. Side of package was wert from the leak. DurationRel: 1 and MitigateEffect: Package was immediately brought to QA by a manager and was inspected right away. Using gloves, package was placed in a plastic bag inside a hazmat drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030840</guid>
+      <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024030940</title>
       <description>
