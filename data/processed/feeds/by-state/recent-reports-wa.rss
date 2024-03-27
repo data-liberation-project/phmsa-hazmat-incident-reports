@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Mar 2024 12:21:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 15:12:44 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030448</title>
       <description>
@@ -114,46 +114,25 @@
       <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024030302</title>
+      <title>Report I-2024020037</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030302&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-20T15:11:12+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020037&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
-                &lt;li&gt;City: FIFE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-02-05&lt;/li&gt;
+                &lt;li&gt;City: TUKWILA&lt;/li&gt;
                 &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: TFORCE FREIGHT, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: One 55 gallon metal drum was punctured during unloading, released 1 gallon on the dock.&lt;/li&gt;
+                &lt;li&gt;Description: Boxes crushed in transit due to heavy freight stacked on top. no release, only damaged outer containers.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030302</guid>
-      <pubDate>Wed, 20 Mar 2024 15:11:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030645</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030645&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-20T15:11:12+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-12&lt;/li&gt;
-                &lt;li&gt;City: REDMOND&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO A LEAKING PACKAGE. OUTER BOX IS MARKED WITH ARROWS, FRAGILE, AND STICKER:&amp;quot; CONTAINS ISOPROPYL ALCOHOL&amp;quot;. JUG INSIDE IS ONE GALLON OF 99% ISOPROPYL ALCOHOL. LOOSE LOCKING CAP, LIQUID LEAKING OUT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030645</guid>
-      <pubDate>Wed, 20 Mar 2024 15:11:12 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020037</guid>
+      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030006</title>
