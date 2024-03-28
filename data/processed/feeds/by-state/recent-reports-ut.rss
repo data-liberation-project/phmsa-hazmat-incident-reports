@@ -7,7 +7,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Mar 2024 12:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 15:13:12 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024031041</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031041&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-28T15:13:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-25&lt;/li&gt;
+                &lt;li&gt;City: OREM&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO (2) PACKAGES THAT WERE COLD TO THE TOUCH. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY TWO POUNDS OF DRY ICE COOLING MEAT PRODUCTS. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOXES TO INDICATE DRY ICE WAS BEING SHIPPED IN THE AIR NETWORK.  ADDITIONAL TRACKING NUMBER TO ANOTHER CONSIGNEE IN THE USA IS 1Z85E85Y0217815894. THE OUTER BOXES ARE PREPRINTED WITH ORIENTATION ARROWS AND PERISHABLE. THESE PACKAGES HAVE NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SEVICE CO. THESE PACKAGES WERE SHIPPED FROM UTAH USING UPS ACCOUNT NUMBER 85E85Y, WASATCH WAGYU, 30661 OLD LINCOLN HWY, COALVILLE UT 84017-9611.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031041</guid>
+      <pubDate>Thu, 28 Mar 2024 15:13:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030521</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030521&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-28T15:13:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
+                &lt;li&gt;City: WEST VALLEY CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: One 1 gallon metal pail was crushed during transit, released 1 pint in trailer.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030521</guid>
+      <pubDate>Thu, 28 Mar 2024 15:13:06 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024031003</title>
       <description>
@@ -112,6 +154,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024030054</guid>
       <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030498</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030498&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-28T15:13:06+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-26&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO Logistics&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: It was reported that approximately 5 gallons of KEM 400 Enamel Omaha Orange High Gloss released from a 5-gallon metal pail due to improper loading (it was double stacked, and freight crushed it). The release impacted the trailer floor and one other 5-gallon metal pail of product. ERTS reviewed the SDS with the caller and determined that terminal personnel are capable of cleaning the release with PPE available on site.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030498</guid>
+      <pubDate>Thu, 28 Mar 2024 15:13:06 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024031036</title>
