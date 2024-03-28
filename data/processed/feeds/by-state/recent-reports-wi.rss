@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Mar 2024 21:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:35:57 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031030</title>
       <description>
@@ -112,6 +112,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030362</guid>
       <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023120064</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120064&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-28T00:34:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-13&lt;/li&gt;
+                &lt;li&gt;City: NELSON&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: EAU CLAIRE CO OPERATIVE OIL COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Tank vehicle was traveling 35 mph in a 55 mph zone, on a rural paved road. Driver was pealing a banana when the vehicle left the paved portion of the roadway, entered the soft fhoulder of the road, was pulled into the ditch and rolled. As time passed and the vehicle lay on its passenger side, diesel fuel began to trickel from the releif vents on the fill port covers. Approximately two gallons of fuel was released from the cargo tank of which approximately 2 cups reached the enviorment. Two shovels full of contaminated soil were removed from the scene and placed in a diesel fuel waste barrel for proper disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120064</guid>
+      <pubDate>Thu, 28 Mar 2024 00:34:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

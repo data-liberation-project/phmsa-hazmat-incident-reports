@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Mar 2024 21:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:35:57 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030490</title>
       <description>
@@ -217,6 +217,27 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020038</guid>
       <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2024020031</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020031&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-28T00:34:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
+                &lt;li&gt;City: ELIZABETHTOWN&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: LEWIS TRANSPORT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Description: Driver pulled into rack to deliver product. While making turn, the driver caught a piece of angled iron from the rack right at the top of compartment #4 of the trailer. He did no realize what had happened and continued to position truck and trailer for delivery. This movement caused a rip in the inner and outer shell of the trailer allowing product to run out of the trailer. The fire dept. was called and they were able to put down booms immediately upon arrival and contain the product to the concrete apron and the oil/water separator/retention area under the trailer. The NRC was called, KY EPA was contacted along with, a spill response team for remediation and clean up. Lewis personnel responded as well to help coordinate delivery of product still in trailer and make sure clean up was done in timely manner.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020031</guid>
+      <pubDate>Thu, 28 Mar 2024 00:34:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
