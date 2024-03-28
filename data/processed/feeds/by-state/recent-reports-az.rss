@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Mar 2024 15:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 18:13:29 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030497</title>
       <description>
@@ -240,27 +240,6 @@
       <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030611</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030611&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-21T15:13:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-14&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: ABF stated as they were breaking the trailer and noticed the carton was wet and noticed what was on the trailer floor had been there for a while. ABF thinks this was punctured when being loaded at 165/SNB. The spill is contained in the trailer and Cura is being called for dispatch.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030611</guid>
-      <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Report E-2024030485</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030485&lt;/a&gt;&lt;/h3&gt;
@@ -322,27 +301,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030686</guid>
       <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024021918</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024021918&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-21T15:13:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: PHOENIX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: BNSF Mechanical identified a possible release from top of car while switching. Graymar Env was mobilized to inspect and identified two man way swing bolts requiring 4 full rotations to secure. Shipper notified once release was confirmed. Release has been secured for continued movement.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024021918</guid>
-      <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

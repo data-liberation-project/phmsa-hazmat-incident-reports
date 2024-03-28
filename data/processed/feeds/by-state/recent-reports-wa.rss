@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Mar 2024 15:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 18:13:29 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030448</title>
       <description>
@@ -72,48 +72,6 @@
       <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030607</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030607&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-21T15:13:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-14&lt;/li&gt;
-                &lt;li&gt;City: SPOKANE&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: On 3/14/2024 at approximately 2158, Dangerous Goods Administation received a call from Employee 240946 at a station location in Spokane, reporting an undeclared deisel spill.  The shipment consists of what appears to be a diesel fuel pump containing fuel residue.  The shipment was discovered leaking during sort.  The package was not prepared in accordance with IATA Regulations, being void of the required markings, labeling, packaging, and paperwork.   The shipment is being held, pending an FAA investigation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030607</guid>
-      <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030667</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030667&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-21T15:13:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
-                &lt;li&gt;City: TUKWILA&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: PLASTIC JERRICAN WAS DISCOVERED BY AN AUDITOR WHO THEN NOTIFIED A RESPONDER. ALL PPE (GLOVES, GOGGLES, BOOTS, APRON, SILVER LINING) WAS PUT ON AND JERRICAN WAS PLACED INTO A YELLOW TUB/DMP BAG. JERRICAN WAS THEN TRANSFERRED TO THE DMP FOR FURTHER PROCESSING. ALL TUBS/PPE WERE THEN DECONTAMINATED AND JERRICAN WAS FURTHER PROCESSED INTO ETT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030667</guid>
-      <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Report I-2024020037</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020037&lt;/a&gt;&lt;/h3&gt;
@@ -133,27 +91,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020037</guid>
       <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030006</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030006&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-21T15:13:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-20&lt;/li&gt;
-                &lt;li&gt;City: PROSSER&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: Tank Car SHPX 224090 found releasing propane from a slightly open liquid line valve and loose plug also found on same liquid line.  BNSF HMERT personnel closed the valve and scurred the vale to stop the release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030006</guid>
-      <pubDate>Thu, 21 Mar 2024 15:13:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
