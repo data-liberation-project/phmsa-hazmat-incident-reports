@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031306</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: FOUND AT HAZMAT DescribePack: LOOSE LIDS DurationRel: 1 and MitigateEffect: PACKAGE WAS IN A LINED HAZMAT TOTE ON CONTAINMENT PALLET&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND AT HAZMAT DescribePack: LOOSE LID DurationRel: 1 and MitigateEffect: PACKAGE WAS LEFT ON CONTAINMENT PALLET&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Box was found in QA damage area and moved to Hazmat cage for inspection. DescribePack: Wet spots were found inside the box on the top and bottom.  Bottles were mostly dry.  Each was examined carefully and no active leakage could be found.  A wet spot was seen on the bottom of one bottle.  A test strip was applied and part of the strip indicated a pH12 color. DurationRel: 0 and MitigateEffect: Box was placed in a tote for transport to Hazmat cage and then in a drum for inspection.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found to be leaking on van line 1 by the IC rollers. QA hazmat was called. Upon arrival the package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. DescribePack: The package appears to have been dropped, which caused the bottom of the bucket to crack and start leaking. DurationRel: 1 and MitigateEffect: The package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -107,6 +115,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The damaged package was already in QA when I arrive. DescribePack: The cap for the the bottle came loose and spilled the flammable liquid inside the box. Then the box split open due due to the box being wet and the weight of the liquid. DurationRel: 1 and MitigateEffect: The package was double bagged and place in a black tub for hazmat.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -128,6 +138,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Box was found in Hazmat cage with wet spots on outside and was wrapped in a Hazmat bag. DescribePack: Content is 2 one gallon bottles of Zep Industrial Purple Degreaser.  Both were mostly full and did not leak when turned sideways but one side of the box was wet and tested as a pH12. DurationRel: 0 and MitigateEffect: Box was wrapped in a Hazmat bag when found and placed in a tote during inspection.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -149,6 +161,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Hazmat was found in the trailer leaking. Package was then sent to the QA hazmat area for further inspection. On inspection 1 of the tops was not on the bottle which caused package to leak DescribePack: Failed due to loose caps on the bottle DurationRel: 1 and MitigateEffect: Package was taken off the dock and sent to the QA hazmat area&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -170,6 +184,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: package found at hazmat DescribePack: crushed package DurationRel: 1 and MitigateEffect: package was placed in a lined hazmat tote and put on containment pallet&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -191,6 +207,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: A driver brought the package back to the station from their route. One of our admin team members put the package in a hazmat damage tote and brought it to the damaged hazmat cag. DescribePack: Contents spilling from a crack on the bottom of the drum. DurationRel: 1 and MitigateEffect: The package was separated from others to prevent the spread of damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -212,6 +230,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found leaking white granules on the IC belt near belt 4. The belt was stopped and the package was transfered to a hazmat bag lined hazmat tote, and the ic belt was cleaned with latex gloves and a dust pan. Upon inspection the plastic drum had cracked along the side and leaked around 5lbs of the calcium hypochlorite granules. DescribePack: The drum cracked along the side at around 7 inches. the crack was thin and in a straight line from the top to middle area of the drum. DurationRel: 0 and MitigateEffect: The release was mitigated by the IC belt being stopped and the hazmat being contained in a hazmat bag to catch any further leakage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -233,6 +253,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was found to be leaking on van line 2 on the IC rollers. QA hazmat was called. Upon arrival the package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. DescribePack: One of the bottles inside the package was missing the lid/cap. DurationRel: 1 and MitigateEffect: The package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -254,6 +276,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND AT HAZMAT CAGE DescribePack: LOOSE LID WITH MINIMAL CLIPS DurationRel: 1 and MitigateEffect: PLACED IN LINED TOTE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -275,6 +299,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Pkg was unloaded from trailer. Pkg was already leaking from corner indicating package was damaged. Pkg was given to QA to further process DescribePack: Corner side of box was disintegrated, leaking from gallon inside DurationRel: 2 and MitigateEffect: Pkg was quickly handled and put in a Hazmat bag&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -296,6 +322,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The pkg was loaded correctly, but no inner packaging. No inner packaging allowed a continuously small leak. At time of discovery, the pkg was removed immediately from work areas and transported in a lined hazardous tote to the hazardous material processing area. DescribePack: one bottle had a very loose closure and was bent and crushed a bit. DurationRel: 2 and MitigateEffect: The pkg was immediately removed from working areas.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -317,6 +345,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND AT HAZMAT DescribePack: LOOSE CAPS DurationRel: 1 and MitigateEffect: PLACED IN LINED TOTE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -338,6 +368,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -359,6 +391,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: A manager noticed that contents were falling out of the package. They then placed the package in a damaged hazmat tote. it was taken to the damaged hazmat cage. DescribePack: The product is spilling out of a large crack at the base of the drum. DurationRel: 1 and MitigateEffect: The package was separated from others to prevent further damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -380,6 +414,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: PACKAGE WAS FOUND AT HAZMAT CAGE DescribePack: AN ENTIRE CORNER OF THE OUTER PACKAGING WAS SOILED AND TORN. DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED IN A LINED TOTE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -401,6 +437,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found to be leaking on van line 10 on spot 1046 inside the van. QA hazmat was called. Upon arrival the package was placed into a clear hazmat bag in a red hazmat tote and brought back to the hazmat cage. The particulates were swept up and gathered into the clear hazmat bag in the red hazmat tote to prevent further issues. No one was harmed. DescribePack: The package was dropped on its side and cracked along that side, causing it to leak. DurationRel: 1 and MitigateEffect: The package was placed into a clear hazmat bag in a red hazmat tote and brought back to the hazmat cage. The particulates were swept up and gathered into the clear hazmat bag in the red hazmat tote to prevent further issues.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -422,6 +460,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND AT HAZMAT CAGE DescribePack: LOOSE CAP CAUSED LEAKAGE DurationRel: 1 and MitigateEffect: PLACED IN LINED TOTE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -443,6 +483,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: package was noticed by a package handler and an OPs admin was alerted where it was placed in a red salvage tote and the bag was tied off and placed in the damaged hazmat cage.. DescribePack: lid had a loose seal causing an internal leakage. DurationRel: 1 and MitigateEffect: it was placed in a red salvage tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -464,6 +506,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Pkg was handled properly but closure was not sturdy. Cap was able to come completely off, so it was the bad closure that allowed the minimum leak. DescribePack: 1 can entire cap was off and could not be reattached. DurationRel: 1 and MitigateEffect: the pkg was removed immediately from working areas.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -485,6 +529,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found wet coming down the conveyor belt on load side of hub.  Package was then moved to Hazmat cage for inspection. DescribePack: Jerrican is still mostly full and no significant leakage was found, only small streaks coming down the side.  A small drip comes from the closure when the container is turned sideways. DurationRel: 0 and MitigateEffect: Package was placed into a salvage drum when removed from loading dock.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -506,6 +552,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was already in QA when I arrive but I was told it came form the load side. DescribePack: One bottle had a crack near the handle. Due to the cracked bottle, corrosive liquid had spilled inside the box. The top of the box was damaged but none of the other bottles were damage. DurationRel: 1 and MitigateEffect: Package was double bagged and placed inside a black tub in QA.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -527,6 +575,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 16600&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Load shift&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -548,6 +598,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was already placed inside a bag when it came off the IC belt. DescribePack: The jerrican is leaking from the cap. The cap was not closed correctly and will still leak corrosive liquid if jerrican is tilt to the side. DurationRel: 1 and MitigateEffect: Package was place in a bag then brought to QA.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -569,6 +621,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package unloaded from trailer 888035 leaking sticky liquid. Leaking package was isolated by QA and moved to processing area for inspection. DescribePack: Bottom of outer carton has a puncture that goes through the cardboard and into the metal pail inside containing the liquid. DurationRel: 3 and MitigateEffect: Isolated in hazmat tote with bag and absorbent material.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -590,6 +644,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was found to be leaking on load side 3 by door 151. QA hazmat was called. Upon arrival the package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. Spill pads were placed down to prevent injury. DescribePack: The package appears to have been dropped onto something sharp/pointy which punctured the bottom of the item. DurationRel: 1 and MitigateEffect: The package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. Spill pads were placed down to prevent injury.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -611,6 +667,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -632,6 +690,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Tugger delivered to the vanline where QA noticed the box was wet. DescribePack: Upon inspection, one of the caps was loose and leaked out. DurationRel: 1 and MitigateEffect: Inhouse cleanup.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -653,6 +713,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found in trailer wet, moved to the damage package process to isolate it from other packages DescribePack: Small leak on the outside of the box about the size of a baseball DurationRel: 1 and MitigateEffect: Package was moved to the damage package process to isolate it from other packages&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -674,6 +736,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Parcel was being unloaded from trailer. Damage done while handling the package. packaging contained the spill, parcel was moved to the hazmat cage for inspection and processing. DescribePack: cracked around the base of the plastic drum. DurationRel: 1 and MitigateEffect: drum was set in a tote to contain any spill escaping the package.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -695,6 +759,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: a manager noticed that the package was losing contents from the bottom of the external packaging. The package was then placed in a hazmat damage tote. It was then brough to the Damaged hazmat cage. DescribePack: A crack in the bottom of the drum is the damage source. DurationRel: 1 and MitigateEffect: The package was separated from other packages so as to prevent further damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -716,6 +782,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: THE PACKAGE WAS BEING LOADED AND AND THE BOX WAS WET SO QA WAS CALLED TO GET THE BOX DescribePack: ONE OF THE CAPS ON THE BOTTLES CAME OFF AND THE LIQUID LEAKED OUT INSIDE THE PACKAGE DurationRel: 1 and MitigateEffect: PLACED INSIDE A SALVAGE DRUM&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -737,6 +805,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Box was leaking powder in tr 840458, ph noticed and called unload manager over. she placed it into a red lined hazmat tote with googles and gloves on for further processing DescribePack: lid failed DurationRel: 1 and MitigateEffect: placed leaking haz mat into lined red tote&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -758,6 +828,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package developed an odor and had some evidence of leakage after being transported to van line 1. The package was contained by the qa working van line 1 and the leakage was confined to the cardboard box. DescribePack: the twistable cap located on the top of the 5 gallon metal drum had been bent and can no longer contain the acetone liquid inside. there is no longer a seal with the cap DurationRel: 1 and MitigateEffect: due to the strong odor of the acetone liquid the hazmat was found quickly and placed in a hazmat bag before the liquid escaped the cardboard overpack&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -779,6 +851,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: package was discovered inside trailer 553978, by using property equipment place in hazmat toat and into proper work area for procedures DescribePack: one of the gallon of coil cleaner had loose caps leaked on sides DurationRel: 1 and MitigateEffect: place package in hazmat toat and put into proper work area&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -800,6 +874,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: A Manager noticed contents spilling out of the Box. They placed the package in a Hazmat damage tote which they dropped off at damages. I picked the package up and moved it to the damaged hazmat cage. DescribePack: A large Crack along the bottom of the drum is where the product started leaking from. DurationRel: 1 and MitigateEffect: The Package was separated from other packages to prevent the spread of damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -821,6 +897,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Box was found in QA damage area wrapped in a plastic bag with grey paint stains on interior and was moved to Hazmat cage for inspection. DescribePack: 2 one gallon cans and 2 quart sized cans were in the box, all soiled by grey paint.  Packing listed the following 3 part numbers, SUM-LVSP422G, SUM-LVSP314G, and SUM-LVSH320Q. DurationRel: 0 and MitigateEffect: Leakage was not spreading.  Box was wrapped in a bag when found and was moved to Hazmat cage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -842,6 +920,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found in QA damage area wrapped in a bag with wet spots on outer box.  Package was placed in a tote and moved to Hazmat area for inspection. DescribePack: Upon inspection, 2 of the 4 one gallon bottles were bubbling near the cap.  Both felt more than half full.  Others were partly wet due to the leakage. DurationRel: 0 and MitigateEffect: Box was upright when found.  Leakage was not spreading.  Box was placed in a tote lined with a Hazmat bag when moved to Hazmat cage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -863,6 +943,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: A Manager noticed that the package was losing contents. Top of the box was then taped and placed in a hazmat damage tote. Afterwards it was brought to the hazmat processing area. DescribePack: Contents are falling out of a crack along the sidewall of the inner drum. DurationRel: 1 and MitigateEffect: Package was separated from other packages.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -884,6 +966,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3200&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Valve was open on the tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -905,6 +989,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Internal leak noticed during the unloading process. package was inadequately packed for Trasport.  package was removed from sortation for inspection and processing. DescribePack: loose cap/ packed upside-down counter to the orientation arrows. DurationRel: 1 and MitigateEffect: caps tightened, positioned upright.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -926,6 +1012,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was brought back from driver. and the outer packaging was wet from the loose caps of the bottles. the inside was damaged due to the release of the loose cap. And then were put into hazmat tubs. DescribePack: the bottle was one gallon and had a loose cap that was not sealed all the way around. two of the four bottles. DurationRel: 1 and MitigateEffect: was put in a hazmat tub to minimize damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -947,6 +1035,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package began emitting an odor after being transported to van line 1 around 6:00 AM. The qa for van line 1 contained the hazmat package in a hazmat bag and hazmat tote. Upon inspection it was found that the cap had been bent and could no longer form a complete seal. DescribePack: the cap of the metal drum had been bent and could no longer form a complete seal and the methyl ethyl ketone liquid was able to leak from it DurationRel: 1 and MitigateEffect: due to the strong odor of the methy ethyl ketone liquid contained inside, the package was found quickly and transfered to a hazmat bag and tote before the liquid could escape the cardboard outer pack&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -968,6 +1058,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: FOUND IN HAZMAT CAGE DescribePack: CRACK IN BUCKET DurationRel: 1 and MitigateEffect: LEFT IN LINED HAZMAT TOTE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -989,6 +1081,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: FOUND AT THE HAZMAT CAGE DescribePack: VISIBLE LEAKAGE FROM CORNER OF THE BOX CRACK IN THE BUCKET DurationRel: 1 and MitigateEffect: WAS IN A LINED HAZMAT TOTE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1010,6 +1104,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was brought back from driver and brought to door 83. and the outer packaging was wet from the loose caps of the bottles. The inside was damaged due to the release of the loose cap. And then were put into hazmat tubs. DescribePack: the bottle was one gallon and had a loose cap that was not sealed all the way around. one of four bottles. DurationRel: 1 and MitigateEffect: was put in a hazmat tub to minimize damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1031,6 +1127,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Unknown. Package was left at hazmat cage with no information provided. Package was placed into a clear hazmat bag in a red hazmat tote. Minor incident when opening package, contents were inhaled by Hazmat personnel. Safety team was notified, and incident was noted in system. No hospital visit was required as yet. Employee will be monitored to ensure health and safety. SDS was checked and proper steps were taken as per instructions. DescribePack: The package was dropped and cracked along the bottom of the bucket. DurationRel: 1 and MitigateEffect: Unknown. Package was left at hazmat cage with no information provided. Package was placed into a clear hazmat bag in a red hazmat tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1052,6 +1150,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found wet and inspected by a certified hazmat employee. The jug inside had a loose cap that was causing the leak. DescribePack: The jug inside had a loose cap that was causing the leak. DurationRel: 0 and MitigateEffect: Package was taken to the hazmat cage and placed upright in a red hazmat bin.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1073,6 +1173,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found to be leaking on load side 2 by door 134. QA hazmat was called. Upon arrival the package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. DescribePack: Unknown. There are no visible cracks, punctures or dents and the cap is properly seated and tightened. The body of the bottle is still slowly leaking under the label on the bottle. DurationRel: 1 and MitigateEffect: The package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1094,6 +1196,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was left in hazmat damaged, cracked, and spilled. DescribePack: the entire bottle cracked. DurationRel: 1 and MitigateEffect: it was placed in a red liner tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1115,6 +1219,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package handler was inbound scanning trailer 571968 when she found the leaking hazmat 4 walls into the 53ft trailer. Upon discovery she informed management which called for a damaged hazmat over the radio. QA arrived and placed the leaking package into a hazardous materials only tote and removed it from the unload to the hazmat cage for further inspection. Upon inspection it was found that 1 of the gallon glass jugs had shattered in shipping causing the box to be completely saturated. DescribePack: 1 gallon glass jug completely shattered due to inadequate bracing inside of the package. The only bracing protection was cardboard slotted partitions above and below the glass jugs. Hazmat package was incorrectly loaded into trailer, being located 4 walls into it. DurationRel: 1 and MitigateEffect: Hazmat was placed into a hazardous materials only tote and removed from unload to prevent further leakage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1136,6 +1242,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: PACKAGE FOUND AT HAZMAT CAGE DescribePack: LOOSE CAP ON 1 BOTTLE DurationRel: 1 and MitigateEffect: PACKAGE PLACED IN LINED TOTE AND FORWARDED TO HUB HAZMAT CAGE FOR PROCESSING&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1157,6 +1265,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1178,6 +1288,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3200&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift strike&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1199,6 +1311,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift strike&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1220,6 +1334,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1241,6 +1357,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: One 5 gallon metal pail was crushed in transit, released 3 ounces in trailer.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1262,6 +1380,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1283,6 +1403,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Packaging failure&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1304,6 +1426,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Unknown. Package was left at hazmat cage with no information provided. Package was placed into clear plastic hazmat bag in a red hazmat tote. DescribePack: Upon further inspection it was determined that the package was dropped and the bucket inside cracked along the bottom, causing the contents to leak. DurationRel: 1 and MitigateEffect: Unknown. Package was left at hazmat cage with no information provided. Package was placed into clear plastic hazmat bag in a red hazmat tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1325,6 +1449,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1346,6 +1472,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: EMPLOYEE WAS INSIDE THE TRAILER UNLOADING, WHEN HE CAME ACROSS THE PACKAGE SEATING IN THE FLOOR AND IMMEDIATELY NOTIFY HIS SUPERVISOR. NOTIFIED OUR FACILITY HAZMAT RESPONDER TO RESPOND TO THE HAZARDS PACKAGE. HE THEN FOLLOWED PROTOCOL AND CARRIED THE PACKAGE TO OUR DMP AREA FOR PROCESS.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1367,6 +1495,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found on a trailer in the unload leaking. The package was moved to the QA damage area to isolate it from other packages. DescribePack: One of the caps was loose and caused internal leakage. One side of the box was wet DurationRel: 1 and MitigateEffect: The package was moved to the QA damage area to isolate it from other packages.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1388,6 +1518,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found on the trailer leaking and brought to the damage area to isolate it from other packages. DescribePack: Package was  wet on one side of the package DurationRel: 1 and MitigateEffect: Package was brought to the damage area to isolate it from other packages.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1409,6 +1541,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: package was left in hazmat in red liner tube. DescribePack: it is cracked at the bottom. DurationRel: 1 and MitigateEffect: It was placed in a red liner tube.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1430,6 +1564,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1451,6 +1587,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package loaded onto van was found to be leaking. DescribePack: Seal on bottle was not strong enough to hold in liquid DurationRel: 1 and MitigateEffect: Spill was contained.  Leakage that had gotten outside of box was neutralized using pH neutralizer powder.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1472,6 +1610,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Box was found upside down contained in a Hazmat bag in QA damage area, then placed in a tote and moved to Hazmat area. DescribePack: Upon inspection, one cap was loose causing spillage.  Cap on another bottle was tight but this bottle exhibited a slower drip when turned sideways.  All 4 were still mostly full. DurationRel: 0 and MitigateEffect: Package was placed in tote lined with an additional Hazmat bag when moved to Hazmat cage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1493,6 +1633,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found leaking in QA damage area.  Absorbent was placed on spilled liquid.  Package was moved to Hazmat area. DescribePack: Upon inspection, no active leakage was observed but one bottle felt slightly less full than the other.  Both bottles were soiled by spilled liquid. DurationRel: 0 and MitigateEffect: Absorbent powder  was placed on spill.  Package was placed in a tote lined with a Hazmat bag.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1514,6 +1656,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: I was called on the radio that a corrosive package was at the end of the belt leaking. I put neutralizer on it, put on gloves, and put a liner in a drum and loaded it bringing it to the hazmat cage. DescribePack: two of the three bottles were leaking at the cap. You can compare to the other non leaker and see the amount that is gone. DurationRel: 1 and MitigateEffect: Put neutralizer on the spilled portion and put all three jugs along with the box in a lined hazmat drum.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1535,6 +1679,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1556,6 +1702,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1577,6 +1725,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was found to be leaking on load side 1 by door 106. QA hazmat was called. Upon arrival the package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. Spill pads were placed down to prevent injury. DescribePack: The package was dropped onto its base hard enough to crack the bottle, causing it to leak. DurationRel: 1 and MitigateEffect: The package was placed into a clear hazmat bag in a red hazmat tote and returned to the hazmat cage. Spill pads were placed down to prevent injury.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1598,6 +1748,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1619,6 +1771,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package and spill was cleaned up by another admin and brought it to QA from the unload. DescribePack: The hazardous maternal was leaking out form the crack at the bottom of the bottle. The bottom of the package is wet and the bottle is completely empty. DurationRel: 1 and MitigateEffect: A admin cleaned up the spill, bagged the package, and place it in a black tub for hazmat.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1640,6 +1794,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Hazmat was offloaded from the trailer. during this process the contents were dropped cracking the base of the drum. spill was mostly contained inside the packaging. package was moved tot he hazmat processing area for inspection. DescribePack: cracked around the base of the plastic drum. DurationRel: 1 and MitigateEffect: placed in a plastic lined hazmat drum to contain and leak/ spill.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1661,6 +1817,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: On March 15, 2024, one (1) 1-gallon pail of UN3149 was punctured by a nail in transit and released approximately one (1) teaspoon of product to a cardboard box. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Lone Star Hazmat (LSH) to remediate the impacted site. All impacted materials were collected and containerized into one (1) 5-gallon bucket for disposal purposes. The damaged one-gallon jug was collected and containerized into one (1) additional 5-gallon bucket for disposal purposes. The buckets were properly labeled and possession of the material was taken by RLC to be disposed of through their bulk waste stream.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1682,6 +1840,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Hazmat was removed from the sortation. Package was unloaded from the trailer, unload noticed that the top of the box was wet. The parcel was placed in a tote then moved to the hazmat storage cage for inspection. DescribePack: loose cap, inoperable seal. the seal failed to operate as intended. even when the cap is tightened, a leak occurs. DurationRel: 1 and MitigateEffect: cap tightened, left in upright position.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1703,6 +1863,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: THE HAZARDOUS PACKAGE WAS CALLED IN AS DAMP. THE RESPONDER DONNED FULL PPE AND COLLECTED THE PACKAGE FROM THE LOAD AREA AND BROUGH IT TO DMP TO PROCESS.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1724,6 +1886,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: A package handler noticed that the Package was wet. They notified their manager who put the Package in a hazmat damage tote. The package was then brought to the damaged hazmat cage for processing. DescribePack: Loose caps led to leakage resulting in the box beginning to corrode and fall apart. DurationRel: 1 and MitigateEffect: The Package was separated from other packages to prevent the spread of damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1745,6 +1909,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was leaking in tr 553676. oh noticed when unloading and called manager over, leaking hazmat was being crushed by ICs on top of it. Mngers Kat and Melissa removed all ics safely with PPE mask, gloved and protective glasses. Placed leaking haz mat into red lined tote and damages out the packages contaminated, DescribePack: Improper loading, Heavy packages were stacked on hazmat DurationRel: 1 and MitigateEffect: load packages properly&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1766,6 +1932,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: XPO Logistics terminal LAB experienced a UN1789 Blue Whale Muriatic Acid pH Reducer release from a box containing (2) 1-gallon poly jugs. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 0.5-gallons of product released to a 4’ x 8’ area of the trailer floor due to a forklift puncture. Two damaged 1-gallon poly jugs were placed into a 5-gallon poly pail. Twelve impacted but not damaged jugs were placed into an 85-gallon poly overpack. Sodium bicarb was then deployed and utilized to neutralize the impacted areas. All impacted neutralized absorbents and cardboard were placed into a 55-gallon poly drum. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1787,6 +1955,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: A member of our admin team noticed that the package was wet. He then brought the package to the damaged hazmat cage. DescribePack: Loose caps led to leakage. As well as another hazmat leaking on top of the package within this incident. DurationRel: 1 and MitigateEffect: The Package was separated from other packages to prevent the further spread of damage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1808,6 +1978,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 253000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
                 &lt;li&gt;Description: Vehicle Rollover&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1829,6 +2001,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: At approximatly 1551 crew reported that the car was leaking from the manway when moved (Slosher) the car was immediately isolated and shipper was contacted. Shipper approved the use of PTRA contract Haz-Mat team to repair and remediate.  Cause reported was loose manway bolts and no gasket., car was repaired, cleaned and released by Haz-Mat Special Services at 11 :21 AM on 01/06/24.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1850,6 +2024,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Flight 854 returned to IAH due to customer in seat 9L laptop fell behind sidewall. The captain did not feel safe continuing with potential of lithium ion battery fire.  The laptop was retrieved and given back to the passenger.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1871,6 +2047,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Flight 854 returned to IAH due to customer in seat 9L laptop fell behind sidewall. The captain did not feel safe continuing with potential of lithium ion battery fire. The laptop was retrieved and given back to the passenger.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1892,6 +2070,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: PVS Transportation driver was unloading the product into the customer&amp;#x27;s tank while a customer&amp;#x27;s employee was monitoring the gauge on the tank {because the gauge was not visible from the truck). The customer&amp;#x27;s employee did not notify our driver to stop the flow of product until the tank started overflowing. The tank was overflowing into containment for approximately 8 seconds. The driver and operator at the facility cleaned up the spill by using spill pads to soak up and vinegar to neutralize the caustic soda. The gauge on the tank was stuck on 3/4 full.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -1913,6 +2093,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: When employee went to palletize drum for outbound transportation from an lngenium 10-day transfer station, the drum seeped out from under lid retained by lock-ring.  It is not known if this was a defect from the drum reconditioner or if the customer removed the lid to fill drum then did not ensure gasket was seated properly which caused the material to leak when tipping drum.  Drum was set up straight on pallet and wipes were used to wipe residual on drum then locking ring and lid were removed to verify gasket was seated improperly and it was so wipes were placed into drum and gasket was seated properly while retaining ring was tightened.  Manifest: 000485988DA T&lt;/li&gt;
             &lt;/ul&gt;
             </description>

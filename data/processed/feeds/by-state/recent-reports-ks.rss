@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031218</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: MANAGER NOTICED THE PACKAGE WAS LEAKING ON THE IC BELTAND NOTIFIED QA. QA PLACED THE PACKAGE IN A LINED TOTE AND THEN TOOK THE PACKAGE TO THE PROCESSING CAGE. DescribePack: ONE BOTTLE WAS LEAKING OUT FROM AROUND THE CAP AND SOILED THE BOX. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was discovered while unloading a trailer. It was reported to QA by the manager. It was recovered and brought to the processing cage. DescribePack: The liquids leaked through a loose cap DurationRel: 1 and MitigateEffect: The spill was cleaned with absorb-all and the package was placed in a tote with a liner.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: MANAGER NOTICED THE PACKAGE WAS LEAKING IN THE CHUTE AND NOTIFIED QA. QA PLACED THE PACKAGE IN A LINED TOTE AND CLEANED UP THE SPILL. THE PACKAGE WAS THEN TAKEN TO THE PROCESSING CAGE. DescribePack: BOTH OF THE BOTTLES WERE LEAKING OUT FROM AROUND THE CAPS AND SOILED THE BOX. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: A LEAKING HAZMAT WAS FOUND ON THE UNLOAD AREA. THE RESPONDER REFERED TO THEIR DECISION TREE AND PLACED THE LEAKING PACKAGE IN A LINED SPILL TUB. CLEANED UP THE SPILL AND MOVED THE PACKAGE TO THE DMP AREA FOR FURTHER PROCESSING.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -107,6 +115,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was discovered inside plastic tote on a pallet. Directional arrows were pointed up DescribePack: Loose cap on 1 gallon jug DurationRel: 1 and MitigateEffect: PPE was used, box was isolated from other packages.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -128,6 +138,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: While a package handler was unloading a trailer, he noticed that a package was leaking and he told his manger. DescribePack: the contents got loose cap and spilled out like one gallon in total. DurationRel: 1 and MitigateEffect: The manage called QA, QA went to the area and clean the spilled and brought the packaged in a tote line with a hazmat bag.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -149,6 +161,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -170,6 +184,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Other fell&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -191,6 +207,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: XPO Logistics terminal XKC experienced a UN3266 Flash Clene 1414 release from a 330-gallon poly tote. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 0.5 cup of product released to a 1’ x 1’ area of the poly tote body due to a crack on the top corner of the tote. The material was transferred from the damaged tote into a new one. The  damaged tote was then cut up and containerized along with absorbents, pads, and PPE into a 55-gallon poly drum. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -212,6 +230,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Our truck and trailer was getting washed at Blue Beacon in Salina, KS. During the wash, one of the valves must have been accidentally turned or hit causing the line to fill up with vapor and then come out of the top of the trailer. After the release was noticed the employees stepped outside as the driver moved the truck and trailer outside. When the driver got outside he went back to trying to fix the trailer until the release had stopped.&lt;/li&gt;
             &lt;/ul&gt;
             </description>

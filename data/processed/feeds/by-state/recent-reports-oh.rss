@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031399</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Unsecure freight&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: pkg was found during the unload process on 3-19 at 18:30 and taken to qa for inspection. DescribePack: carton was wet due to a broken glass bottle inside that leaked out. DurationRel: 1 and MitigateEffect: ppe used to place carton in a hazmat bag and then into a plastic tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: shipment removed from unload trailer due to noted puncture and liquid release. shipment placed in red lined hazmat tote. DescribePack: metal pail with a puncture on the bottom DurationRel: 1 and MitigateEffect: shipment placed in lined tote to prevent further release&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -107,6 +115,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was being unloaded and the bottom was wet and came open.  The entire package was put into a tote. DescribePack: One bottle had the cap come loose and spilled into the package. DurationRel: 1 and MitigateEffect: The package was put in a bag and tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -128,6 +138,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: pkg was found during the unload process on 3-21 at 22:00 and taken to qa for inspection. DescribePack: carton was wet and torn due to a leaking bottle inside that had a loose cap. DurationRel: 1 and MitigateEffect: ppe used to place carton in a hazmat bag and then into a plastic tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -149,6 +161,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3200&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift strike&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -170,6 +184,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.   Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: Jerrican has a crack in the bottom of it allowing leakage DurationRel: 0 and MitigateEffect: Can was placed upside down with the crack facing up&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -191,6 +207,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: CERTIFICATED PERSONNEL INFORMED OF DISTRESSED PACKAGE.   SHIPMENT TAKEN OUT OF SYSTEM FLOW, NOTED LIQUID RELEASE   CONTAINED TO PACKAGE. DISTRESSED PACKAGE CONTAINED IN   A LINED HAZMAT TOTE. DescribePack: PACKAGE WAS DISCOVERED WET AND UPON INSPECTION, THE CAP WAS    LOOSE WHICH ALLOWED LEAKAGE TO HAPPEN DurationRel: 0 and MitigateEffect: CAP WAS TIGHTENED TO MITIGATE FURTHER SPILLAGE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -212,6 +230,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.   Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: Package was discovered wet and upon inspection, the cap was found loose   allowing for leakage. DurationRel: 0 and MitigateEffect: Caps were tightened to stop further leaking&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -233,6 +253,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3100&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift strike&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -254,6 +276,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Hazmat package was found on the truck with the bottom completely wet and the whole truck smelled of acetone. Package was placed in a lined tote and brought to QA where it was discovered that 1 out of the 4 gallon containers had a puncture in the bottom of it causing it to slowly leak all over the inside of the box. DescribePack: It appears there was a malfunction with the bottle containing the hazardous fluid, a puncture hole in the bottom. DurationRel: 1 and MitigateEffect: Package was placed in a lined tote to prevent further leakage&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -275,6 +299,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: CERTIFIED PERSONNEL CALLED ABOUT WET DISTRESSED PACKAGE. BOX WAS PLACED IN A LINED TOTE AND TAKEN HMPA FOR PROCESSING. DescribePack: AEROSOLS CANS MISSING COVER CAPS. INSUFFICIENT INNER AND OUTTER PACKAGING ALLOWING MOVEMENT OF AEROSOL CAN ALLOWED SPRAY TRIGGERS TO BREAK OFF AND LIQUID RELEASE TO OCCUR. OUTER CARTON WAS MISSING PROPER MARKINGS. DurationRel: 0 and MitigateEffect: WET BOX WAS PLACED IN A LINED TOTE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -296,6 +322,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Unsecured freight&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -317,6 +345,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -338,6 +368,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: PACKAGE TAKEN OUT OF SYSTEM FLOW DUE TO NOTED SPILL, ALL CONTENTS CONTAINED IN LINED TOTE DescribePack: CUT/ PUNCTURE HOLE NEAR BOTTOM OF GAL CONTAINER DurationRel: 0 and MitigateEffect: ALL CONTENTS CONTAINED IN LINED TOTE, PLACED IN PROCESSING AREA&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -359,6 +391,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3800&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift strike&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -380,6 +414,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: CERTIFICATED PERSONNEL INFORMED OF DISTRESSED PACKAGE.   SHIPMENT TAKEN OUT OF SYSTEM FLOW, NOTED LIQUID RELEASE   CONTAINED TO PACKAGE. DISTRESSED PACKAGE CONTAINED IN   A LINED HAZMAT TOTE. DescribePack: PACKAGE WAS DISCOVERED WET AND UPON INSPECTION, THE CAP WAS    LOOSE WHICH ALLOWED LEAKAGE TO HAPPEN DurationRel: 0 and MitigateEffect: CAP WAS TIGHTENED TO MITIGATE FURTHER SPILLAGE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -401,6 +437,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.   Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: Package was discovered wet and upon inspection, a few of the   press and twist caps were loose allowing liquid to leak out. DurationRel: 0 and MitigateEffect: Caps were tightened to stop further leaking&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -422,6 +460,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.   Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: the seal around the cap failed allowing leakage. DurationRel: 0 and MitigateEffect: Cap was tightened to stop further leaking&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -443,6 +483,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: CERTIFICATED PERSONNEL INFORMED OF DISTRESSED PACKAGE.   SHIPMENT TAKEN OUT OF SYSTEM FLOW, NOTED LIQUID RELEASE   CONTAINED TO PACKAGE. DISTRESSED PACKAGE CONTAINED IN   A LINED HAZMAT TOTE. DescribePack: PACKAGE WAS DISCOVERED WET AND UPON INSPECTION,             THE CAN WAS CRUSHED CAUSING SEAL TO FAIL THAT   ALLOWED LEAKAGE TO HAPPEN. DurationRel: 0 and MitigateEffect: CAN WAS PLACED UPRIGHT TO MITIGATE SPILLAGE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -464,6 +506,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3850&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Other fell&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -485,6 +529,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 4200&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Improper blocking &amp;amp; bracing&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -506,6 +552,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: RESPONDER WITH ALL REQUIRED PPE CONTAINED SPILL AND REMOVED TO PROCESSING AREA. FOLLOWED DECISION TREE AND CORROSIVE RESPONSE SHEET. PROCESSED THROUGH THE UPS DMP PROGRAM.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -527,6 +575,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: One 5 gallon plastic pail crushed in transit, released 1 gallon in trailer.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -548,6 +598,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: pkg was found during the unload process on 3-13 at 02:30 and taken to qa for inspection. DescribePack: carton was wet due to a leaking bottle inside that had a loose cap. DurationRel: 1 and MitigateEffect: ppe used to place carton in a hazmat bag and then into a plastic tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -569,6 +621,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: loose cap caused internal leakage.  Package put into plastic tote to contain leak. DescribePack: loose cap caused internal leakage. DurationRel: 1 and MitigateEffect: Package put into plastic tote&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -590,6 +644,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: CERTIFICATED PERSONNEL INFORMED OF DISTRESSED PACKAGE.  SHIPMENT TAKEN OUT OF SYSTEM FLOW, NOTED LIQUID RELEASE  CONTAINED TO PACKAGE. DISTRESSED PACKAGE CONTAINED IN  A LINED HAZMAT TOTE. DescribePack: THE TWIST TURN CAP WAS LOOSE WHICH ALLOWED LEAKAGE TO HAPPEN DurationRel: 0 and MitigateEffect: CAP WAS TIGHTENED TO MITIGATE FURTHER SPILLAGE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -611,6 +667,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: On March 14, 2024, two (2) 55-gallon drums of UN3098 were punctured by a forklift and released approximately twenty (20) gallons of product to the trailer floor. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Thin Line Environmental (TLE) to remediate the impacted site. Crews utilized duct tape to patch the damaged drums to prevent additional release. TLE crews collected and containerized the damaged drums into two (2) 95-gallon overpack drums for disposal purposes. Soda ash was deployed worked in with hand tools.  A granular absorbent and a degreasing agent were deployed and worked in with hand tools. All undamaged cargo was wiped with absorbent pads to remove any residual product and repalletized for continued processing and shipping. All impacted materials were collected and containerized in one (1) 35-gallon drum for disposal purposes. Soda ash was deployed to neutralize the impacted outside the concrete ground and worked in with hand tools. All impacted materials were collected and containerized in one (1) additional 35-gallon drum for disposal purposes.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -632,6 +690,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: CERTIFICATED PERSONNEL INFORMED OF DISTRESSED PACKAGE.  SHIPMENT TAKEN OUT OF SYSTEM FLOW, NOTED LIQUID RELEASE  CONTAINED TO PACKAGE. DISTRESSED PACKAGE CONTAINED IN  A LINED HAZMAT TOTE. DescribePack: PACKAGE WAS DISCOVERED WET AND UPON INSPECTION HAZ DRUM    HAD DENT ON SIDE CAUSING LID TO LOOSEN ALLOWING SPILLAGE DurationRel: 0 and MitigateEffect: DRUM WAS PLACED UPRIGHT TO MITIGATE SPILLAGE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -653,6 +713,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift strike&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -674,6 +736,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Damaged while loading&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -695,6 +759,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: CERTIFICATED PERSONNEL INFORMED OF DISTRESSED PACKAGE.  SHIPMENT TAKEN OUT OF SYSTEM FLOW, NOTED LIQUID RELEASE  CONTAINED TO PACKAGE. DISTRESSED PACKAGE CONTAINED IN  A LINED HAZMAT TOTE. DescribePack: THE TWIST TURN CAP WAS LOOSE WHICH ALLOWED LEAKAGE TO HAPPEN DurationRel: 0 and MitigateEffect: CAP WAS TIGHTENED TO MITIGATE FURTHER SPILLAGE&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -716,6 +782,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -737,6 +805,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Packaging failure&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -758,6 +828,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.  Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: One of the press and twist caps was loose allowing leakage DurationRel: 0 and MitigateEffect: Caps were tightened to stop further leaking&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -779,6 +851,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift driver was operating the forklift on the dock near door 226 and struck a bag of Calcium Peroxide and Calcium Hydroxide causing a puncture.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -800,6 +874,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: On March 13, 2024, one (!) 275-gallon tote of UN3266 was punctured in transit and released approximately one (1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from First Call Environmental (FCE) to remediate the impacted site. FCE personnel deployed granular absorbents to the impacted trailer and swept them in with hand tools. All spent absorbents and debris were collected and containerized into two (2) 55-gallon drums. FCE personnel transferred the product from damaged tote into a new one to be shipped off to its destination.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -821,6 +897,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5200&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Norfolk Southern personnel reported a hiss coming from top of GATX 212015 Employees cleared area by 330 feet per ERG NS HazMat notified and Dispatched Contractor (SPSI)  Investigation found Vapor line valve 1/4 turn open with closure plug not installed. The valve was closed and the closure plug was installed tool tight.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -842,6 +920,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: While at the TSA security screening, a TSA Agent noticed some smoke coming from customers bag. opened to investigate and found a laptop with the battery swollen. Smoking only and no evidence of scorching, melting or charring.&lt;/li&gt;
             &lt;/ul&gt;
             </description>

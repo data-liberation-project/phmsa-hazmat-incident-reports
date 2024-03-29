@@ -113,6 +113,8 @@ def convert_entry(row: dict[str, typing.Any]) -> dict[str, typing.Any]:
                 <li>Hazmat Fatalities: {row["Total Hazmat Fatalities"]}</li>
                 <li>Hazmat Injuries: {row["Total Hazmat Injuries"]}</li>
                 <li>Non-Hazmat Fatalities: {row["Non Hazmat Fatalities"]}</li>
+                <li>Total Amount Of Damages: {row["Total Amount Of Damages"]}</li>
+                <li>Serious Incident Ind: {row["Serious Incident Ind"]}</li>
                 <li>Description: {html.escape(row["Description Of Events"])}</li>
             </ul>
             """,

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031078</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: RESPONDER CALLED FOR LEAKING PACKAGE. RESPONDER ARRIVED, CLEANED UP SCENE, TRANSPORTED LEAKING PACKAGE BACK TO DMP AREA.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: RESPONDER CALLED TO DOOR 126 FOR A LEAKING HAZMAT PACKAGE. RESPONDER TRANSPORTED PACKAGE TO DMP CAGE FOR PROCESSING.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Discovered red hazmat tub upon daily hazmat cage inspection DescribePack: Cap top came loose causing liquid to leak DurationRel: 1 and MitigateEffect: Placed box in red hazmat tub and wrapped in plastic bag&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: box was placed in red hazmat bin covered with plastic bag DescribePack: cap came loose and caused liquid to leak DurationRel: 1 and MitigateEffect: box was placed in red hazmat bin covered with plastic bag&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -107,6 +115,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package handler was not following proper handling of hazardous materials. Package handler attempted to lift the metal pail over his head to place onto the van line when he dropped the pail. As a result, the pail dented causing a puncher hole where liquid was leaking from.  Ops Manager on the van line immediately contacted the quality assurance team and the spill was quickly contained. DescribePack: Metal pail has a dent on the side with a small puncher hole. DurationRel: 1 and MitigateEffect: The metal pail was quickly placed in a hazmat bag with loose absorb material and placed in a hazardous spill drum and kept in the hazmat cage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -128,6 +138,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Placed in a lined hazmat tote for QA DescribePack: Loose caps DurationRel: 3 and MitigateEffect: Placed in lined hazmat tote&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -149,6 +161,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3300&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift strike&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -170,6 +184,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was either handled incorrectly that led to spillage or the package was loaded incorrectly and leaked due to the ignoring of arrow orientation. DescribePack: Loose cap that caused the entire bottle to leak out. DurationRel: 1 and MitigateEffect: Liquid was soaked up using absorbent pads.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -191,6 +207,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -212,6 +230,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Unsecured freight&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -233,6 +253,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -254,6 +276,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Six 1 gallon cartons were crushed during transit, released 6 gallons in trailer.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -275,6 +299,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: On 03/20/2024, at 0712, personnel in the CSXT Lafayette Yard reported CTCX731986, a loaded tank car of Alcohols, N.O.S. (Denatured Fuel Ethanol), leaking from the top of the car. The car was isolated and the shipper Poet Bioprocessing, was contact via PERS (Report #02787.  RMS, a CSXT emergency response contractor, was dispatched to the scene and found 1 of 6 manway cover bolts less than tool tight.  RMS personnel properly secured the manway cover and stopped the release.  The issue identified and corrective actions were communicated to the shipper’s representative- Sierra Torr (765-712-1696, sierra.torr@poet.com).  The car was released for transportation.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -296,6 +322,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Dayton Freight terminal personnel observed that the released material impacted the concrete terminal floor and estimated that two (2) cups of material was released due to a damage BIB container. Dayton Freight terminal personnel cleaned the impacted area and placed the cleanup debris into one (1) 10-gallon metal pail. The generated waste was staged onsite at the terminal in a secure location. The generated waste will remain onsite for the Dayton Freight team to coordinate disposal.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -317,6 +345,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Pulled wet damage hazmat off the trailer in unload. placed it into the red damage tote. Did an inspection and 1 of 2 items had a loose cap. Then placed everything into a yellow salvage drum. DescribePack: loose cap on the gallon bottle DurationRel: 1 and MitigateEffect: vibration from  the truck might have made it loose&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -338,6 +368,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Hazmat found during the unload process. When found hazmat was placed in a hazmat lined tote and taken to QA. DescribePack: Loose cap DurationRel: 2 and MitigateEffect: Placed in lined hazmat tote and caps tightened&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -359,6 +391,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: RESPONDER CALLED TO LEAKING PACKAGE AT DOOR. RESPONDER CLEANED UP SPILL AND RETURNED PACKAGE TO DMP CAGE FOR PROCESSING.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -380,6 +414,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Improper blocking &amp;amp; braxcing&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -401,6 +437,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: According to the information obtained, the following occurred. While transported on drum, on a pallet, with a forklift, the pallet broke, causing the drum to fall onto the ground. Approximately 2.5 gallons of free product were released onto the asphalt surface and an undetermined amount impacted a storm drain. Linde Inc. personnel performed the cleanup using absorbent pads. The waste was placed into drums for disposal.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -422,6 +460,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: &lt;/li&gt;
             &lt;/ul&gt;
             </description>

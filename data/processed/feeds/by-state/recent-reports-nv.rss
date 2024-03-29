@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031118</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was removed from belt slipped and dropped. The box was placed in a lined hazmat tote.  Delivered to QA by manager. DescribePack: The plastic bucket in the Box split down the length of the bucket. DurationRel: 1 and MitigateEffect: Taped the seams of the box.  Contained in the plastic lined tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package Handler notice HazMat box was wet and notified manager.  Manager while wearing gloves secured box in Hazmat lined tote and delivered it to the QA. DescribePack: 1 - 4 liter glass jug broken open. DurationRel: 1 and MitigateEffect: Secured the Box in a hazmat lined tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 10500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: XPO Logistics terminal URE experienced a UN1830 Sulfuric Acid ACS release from a 275-gallon poly tote. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 50-gallons of product released to a 23’ x 10’ area of the wooden/metal trailer floor and walls along with a 35’ x 10’ area of the asphalt lot below the trailer. The release was caused due to a forklift puncture. The material was transferred from the damaged tote into a new one for shipment on. Absorbents &amp;amp; sodium bicarb were deployed and worked into the impacted areas to clean and neutralize the release. The impacted absorbents were collected into (11) 55-gallon poly drums. The damaged tote was cut up and containerized along with the impacted pallets into 4 supersacks. All waste was staged onsite for terminal personnel to manage&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: HAZMAT WAS FOUND IN A OB PALLET. DescribePack: HAZMAT HAS A LOOSE CAP  CAUSING TO SPILL OUT. DurationRel: 1 and MitigateEffect: HAZMAT WAS PLACES IN HAZMAT TOTE AND BOUGHT TO QA .&lt;/li&gt;
             &lt;/ul&gt;
             </description>

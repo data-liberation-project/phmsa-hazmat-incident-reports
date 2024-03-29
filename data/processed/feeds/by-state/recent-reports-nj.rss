@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030562</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERIGHT SORT THE PACKAGE ARRIVED AT THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON INSPECTION ONE OF FOUR BOTTLES OF REAGENT ALCOHOL 200 PROOF WAS FOUND TO BE 100% LEAKED OUT. THE REMAINING CONTENTS WERE PLACED IN SALVAGE DRUM TO BE RETURN TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF REAGENT ALCOHOL 200 PROOF COULD CAUSE FROM PACKAGE BEING DROPPED OR MISHANDLED. DurationRel: 34 and MitigateEffect: CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION UNLESS OTHERWISE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: 1.X-2024031353 SequenceEvent: Package arrived at hazmat during sunrise sort in a plastic bin. DescribePack: Inspection showed most of package lost, with 2 of 4 items missing. Damage most likely caused from falling during transit and items becoming scattered before found. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless othewise stated.   2. X-2024031405 SequenceEvent: DURING THE OVERNIGHT SORT BOX WAS BROUGHT TO THE HAZMAT CAGE, UPON INSPECTION BOTTLES OF ZEP CALCIUM LIME AND RUST STAIN REMOVER WAS MISSING FROM THE BOX. THE PACKAGE WAS WET AND TORN IT WAS PLACED IN THE HAZMAT CAGE INSIDE A CLEAR HAZMAT BOX. THIS PACKAGE WILL BE SCRAPPED UNLESS OTHERWISE. DescribePack: FAILURE OF ZEP CALCIUM LIME AND RUST STAIN REMOVER COULD CAUSE FROM THE PACKAG BEING DROPPED OR MISHANDLED. DurationRel: 24 and MitigateEffect: CONTENT WAS PLACED IN A CLEAR HAZMAT BAG TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVED AT THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE, UPON INSPECTION 1 OF 4  BOTTLES  OF RAPICIDE WAS FOUND TO BE LEAKED OUT (PART A). THE REMAINING CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE RETURNED TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF RAPICIDE CAUSED FROM PACKAGE BEING MISHANDLED OR DROPPED. DurationRel: 12 and MitigateEffect: CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -107,6 +115,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Upon inspection; inside an overpacked box there are four 5 Liter bottles of Rapicide PA. Two are Rapicide PA Part B and the other two are Rapicide PA part A. One of the caps were loose on the Rapicide part B bottles causing leakage throughout the box. Due to the leakage the box was wet and tore apart. DescribePack: The cap was loose on one of the Rapicide PA Part B bottles. DurationRel: 12 and MitigateEffect: bottles were placed inside a hazardous materials plastic bag and packed inside a yellow salvage drum.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -128,6 +138,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: the hazmat was processed on 3/20/24 and found damaged today 3/21/24 with a hole at the bottom of the jerrican the hazmat was placed in the hazmat cage DescribePack: the hazmat was misjhandled/.dropped causing a puncture at the bottom of it causing the leakage DurationRel: 5 and MitigateEffect: the hazmat was takewn tob the hazmat cage put in a red tote&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -149,6 +161,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Remains of box arrived at hazmat during sunrise sort in a plastic bin. DescribePack: Inspection showed entire box and its contents missing. Damage most likely caused from being place on wrong conveyor belt. DurationRel: 12 and MitigateEffect: No contents were found to return to shipper or dispose of.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -170,6 +184,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package arrived at hazmat during the sunrise sort in a plastic bin. DescribePack: Inspection showed package to be wet with internal leakage, torn, and 1 of 4 items with a loose cap. Damage most likely caused from being placed on the wrong conveyor belt. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless otherwise stated.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -191,6 +207,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Label arrived at hazmat during sunrise sort. DescribePack: Inspection showed only the label was retrieved. Label was torn from rest of the box and all contents missing. Damage most likely caused from being placed on wrong conveyor belt. DurationRel: 12 and MitigateEffect: Missing items are impossible to return to shipper, because there&amp;#x27;s no information to connect them to the label.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -212,6 +230,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package arrived at hazmat cage during sunrise sort in a plastic bin. DescribePack: Inspection showed package to be wet, torn, with internal leakage, 3 items missing, and 1 item with a loose cap. Damage most likely caused from being placed on wrong conveyor belt. DurationRel: 12 and MitigateEffect: Remaining content will be disposed of, due to missing cap and loss of content.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -233,6 +253,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVED AT THE HZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON INSPECTION FOUR (4) CANS OF TOUGH COAT RUST BARRIER (PAINT) WAS FOUND FULLY LEAKED OUT. THE CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE SCRAPPED UNLESS OTHERWISE. DescribePack: FAILURE OF TOUGH COAT RUST BARRIER (PAINT) CAUSED FROM THE PACKAGE BEING MISHANDLED OR DROPPED. DurationRel: 32 and MitigateEffect: CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -254,6 +276,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE UNLOAD THE MANAGER NOTICED THE PACKAGE WAS WET AND IMMEDIATELY TOOK THE PKG TO THE HAZMAT CAGE AND CONTACTED ME. I THEN REPACKED THE 3 GOOD BOTTLES INTO A YELLOW SALVAGE DRUM AND THE OTHER 4TH BOTTLE INTO A WHITE SALVAGE DRUM. APPROXIMATELY 1 CUP LEAKED FROM ONE OF THE PART B BOTTLES DUE TO A LOOSE CAP. AWAITING THE DISPOSITION FROM PGH. DescribePack: ONE OF THE FOUR BOTTLES HAD A LOOSE CAP CAUSING APPROXIMATELY 1 CUP OF LIQUID TO LEAK OUT. DurationRel: 1 and MitigateEffect: IMMEDIATELY TAKING PACKAGE TO THE HAZMAT CAGE AND THEN HAVING ME REPACK IT INTO SALVAGE DRUMS IN A TIMELY AND SAFE MANNER.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -275,6 +299,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVED AT THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON  INSPECTION ONE (1) OF FOUR (4) BOTTLES OF CIDECON II WAS FOUND TO BE SLIGHTLY LEAKING (5%) FROM A LOOSE CAP. THE REMAINING CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO BE RETURN TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF CIDECON II CAUSED FROM THE PACKAGE BEING DROPPED OR MISHANDLED. DurationRel: 32 and MitigateEffect: CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -296,6 +322,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE, UPON INSPECTION THREE (3) OF FOUR (4) BOTTLES OF 70% ISOPROPYL ALCOHOL WAS FOUND TO BE MISSING. THE REMAINING CONTENT WAS PLACED IN A SALVAGE DRUM TO BE RETURN TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF 70% ISOPROPYL ALCOHOL COULD CAUSE FROM PACKAGE BEING MISHANDLED OR DROPPED. DurationRel: 24 and MitigateEffect: CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -317,6 +345,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 4000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Forklift strike&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -338,6 +368,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVED AT THE HAZMAT CAGE. UPON INSPECTION ONE GALSS BOTTLE OF ETHYL ACETATE WAS FOUND CRACKED AND CONTENTS LEAKED OUT COMPLETELY. THE REMAINS WERE PLACED IN A SALVAGE DRUM TO BE SCRAPPED UNLESS OTHERWISE. DescribePack: FAILURE OF ETHYL ACETATE CAUSED FROM PACKAGE BEING DROPPED. DurationRel: 4 and MitigateEffect: CONTENTS WERE PLACED IN A LINED SALVAGE TO AWAIT DISPOSITION&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -359,6 +391,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVED AT THE HAZMAT CAGE, UPON INSPECTION 5 BOTTLES OF PART B RAPICIDE WAS FOUND INSIDE THE TOTE ON THE HAZMAT CART. THEY WERE PLACED IN SALVAGE DRUM TO BE SCRAPPED UNLESS OTHERWISE. DescribePack: FAILURE OF RAPICIDE CAUSED FROM THE PACKAGE BEING DROPPED OR MISHANDLED DurationRel: 32 and MitigateEffect: CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -380,6 +414,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING UNLOAD, IT WAS NOTICED THAT THE PACKAGE WAS WET. DescribePack: THE CAP TO THE BOTTLE WAS COMPLETELY OFF AND THE BOTTLE WAS DENTED. DurationRel: 1 and MitigateEffect: A MANAGER WAS NOTIFIED, THEN IT WAS PLACED IN A HAZMAT BAG AND A HAZMAT TOTE.  IT WAS THEN TAKEN DOWN TO THE HAZMAT CAGE WHERE IT WAS PROCESSED.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -401,6 +437,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVED AT THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. UPON INSPECTION 1 OF 4 BOTTLES OF ECOLAB ECOTEMP PHASE 1 DETERGENT WAS FOUND TO BE LEAKING, THE CAP WAS TIGHTHEN. ALL OF 4 BOTTLES WERE THEN PLACED IN A SALVAGE DRUM TO BE RETURNED TO THE SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF  ECOLAB ECOTEMP PHASE 1 DETERGENT COULD CAUSE FROM PACKAGE BEING DROPPED OR MISHANDLED. DurationRel: 4 and MitigateEffect: CONTENTS WERE PLACED IN A SLAVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -422,6 +460,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was discovered leaking during transport and immediately placed in red tote and secured in hazmat cage DescribePack: Loose lid caused leakage DurationRel: 1 and MitigateEffect: immediately placed in red tote and secured in hazmat cage&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -443,6 +483,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: RESPONDER WAS DISPATCHED TO A SPILL ON THE IRREGULAR BELT. UPON ARRIVAL RESPONDER USED DECISION TREE AND APPROPRIATE RESPONSE SHEET IN ORDER TO DEAL WITH THE SPILL. PACKAGE WAS THEN BROUGHT BACK TO DMP AREA FOR PROPER PROCCESSING&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -464,6 +506,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE WAS BROUGHT TO THE HAZMAT CAGE, UPON INSPECTION 1 JERRICAN OF AQUA ORG PLUS WAS FOUND WITH BOTTOM CRACKED AND THE CONTENTS LEAKING OUT. IT WAS HURRIEDLY PLACED IN A SALVAGE DRUM TO BE SCRAPPED UNLESS OTHERWISE. DescribePack: FAILURE OF AQUA ORG PLUS CAUSE FROM THE PACKAGE BEING DROPPED OR MISHANDLED. DurationRel: 4 and MitigateEffect: CONTENTS WERE PLACED IN A LINE SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -485,6 +529,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 6500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: First Call Environmental was dispatched to the site. Upon the contractor’s arrival, personnel observed that the released material impacted an 8ft-by-3ft area of the asphalt lot and two (2) areas of the trailer floor measuring 8ft-by-15ft and 8ft-by-4ft and estimated that twenty-five (25) gallons of material was released due to forklift damaging one (1) 275-gallon poly tote. First Call Environmental personnel neutralized the impacted areas and the impacted wooden pallet and used absorbents to collect the material. The wooded pallet was broken down and placed into one (1) 55-gallon poly drum. The impacted absorbents were recovered and containerized into two (2) 55- gallon poly drums. The remaining product in the damaged poly tote was transferred to a new tote and the damaged tote was cut up and placed into one (1) 55-gallon poly drum. The generated waste was staged onsite at the terminal in a secure location prior to the contractor demobilization. The generated waste will remain onsite for the ESTES DGRM team to coordinate disposal.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -506,6 +552,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: IN THE DMP AREA THE BOX WAS ON THE TABLE IN A TOTE WITH A LINER IN UNDER IT, RESPONDER OBSERVED THAT THE BOTTLE WAS CRACKED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -527,6 +575,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: WET FIBERBOARD BOX WAS DISCOVERED IN THE QA AREA, CONTAINS 2 PLASTIC BOTTLES WITH METHANOL FLAMMBLE LIQUID WITH LOOSE CAP. ISF WAS DONE, DPR WAS DONE AND THE PACKAGE WAS CODED 105. OP-951 REPORT WAS DONE ALSO THE HESS REPORT. PACKAGE IS NOW WAITING ON DISPOSITION IN A HAZMAT BIN LOCKED AWAY IN THE HAZARDOUS CAGE. DescribePack: LOOSE CAP. CAP WAS NOT TIGHTLY CLOSED DurationRel: 3 and MitigateEffect: N/A&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -548,6 +598,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -569,6 +621,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: IT APPEARS THE SHIPMENT WAS REMOVED FROM THE SYSTEM FLOW, DUE TO THE EXTERNAL CARTON BEING TORN AND WET DURING THE DAY SORT DescribePack: UPON INSPECTION IT WAS DISCOVERED TWO PLASTIC JERRICAN OF HERCULES ADVANCED UN 2735 AMINES, LIQUID, CORROSIVE, N.O.S 2.5 X 2 GALLONS. ONE BOTTLE HAD A PUNCTURE IN THE BODY OF THE CONTAINER AND CAUSED LEAKAGING ALLOWING 20% SPILLAGE. DurationRel: 12 and MitigateEffect: FACILITY PROCEDURES FOR DAMAGED HAZARDOUS MATERIAL FOLLOWED, CONTENTS CONTAINED AND AWAITING DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -590,6 +644,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: 1. X-2024030925 SequenceEvent: Package arrived at hazmat during sunrise sort in a plastic bin. DescribePack: Inspection showed package to be wet with internal leakage, and 1 of 4 items with a loose cap. Damage most likely caused from being placed on wrong conveyor belt. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless otherwise stated.   2. X-2024030972 SequenceEvent: Package arrived at hazmat during the sunrise sort in a plastic bin. DescribePack: Inspection showed package to be wet with internal leakage, torn open, and 1 of 4 had a loose cap. Damage most likely caused from being placed on wrong coveyor belt. DurationRel: 12 and MitigateEffect: Remaining contents will be returned to shipper in a salvage drum, unless otherwise stated.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -611,6 +667,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: DURING THE OVERNIGHT SORT THE PACKAGE ARRIVED AT THE HAZMAT CAGE SHOWING OBVIOUS SIGNS OF INTERNAL LEAKAGE. ONE BOTTLE OF FOUR ADVANAGE CHEMICALS DELIMER WAS FOUND TO BE 10% LEAKING. THE REMAINING CONTENTS WERE PLACED IN A SALVAGE DRUM TO BE RETURNED TO SHIPPER UNLESS OTHERWISE. DescribePack: FAILURE OF ADVANAGE CHEMICALS DELIMER CAUSED FROM THE PACKAGE BEING DROPPED OR MISHANDLED. DurationRel: 4 and MitigateEffect: THE CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO AWAIT DISPOSITION.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -632,6 +690,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: On 02/07/2024 this shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL NJS Service Center, 1240 Forest Parkway, Suite 400, West Deptford, NJ 08066.  Transportation by road has been confirmed.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -653,6 +713,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: BOXES FELL OVER AND LEAKED IN TRANSIT.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -674,6 +736,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Customer approached aft F As with their vape placed in a blue cold cup Customer advised the vape had exploded in their bag during the flight Customer claimed they were not using the device when it malfunctioned FAs witnessed vape smoke slowly leaking out of the device though it was not on FAs stated the device did not appear to be hot as the customer was holding it their hands FAs placed vape device in TCB using the thermal gloves as they did not want to risk burning themselves FAs then poured water in the TCB, on the vape device, out of an abundance of caution.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -695,6 +759,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: On Thursday, September 7, 2023, Carteret Disposal received a call from a customer, Lind Line, LLC (from Bill LNU), for the delivery of an additional 30 yard container, to their warehouse. Land Line has an arrangement with DNG Transport that they (Land Line) are in charge of ordering containers for the property. DNG Transport is a repeat customer that routinely orders 30 yard containers for what is historically Type-13 waste. Bill requested that the container be placed adjacent to the CDI container that was already on the property. On Friday, September 8th, CDI delivered the container requested, and placed the container were instructed, which was next to the dock door on the property. On Monday, September 11th, Land Line called for a switch of a container, without specifying exactly which container was to be swapped. That evening, a Roll-Off tractor was dispatched to the Land Line address for the switch. The Driver of our Truck informed me that upon arrival, he viewed two containers, one filled 100% with neatly stacked pallets, and another that was approximately only 75% filled with waste. Based on the past practice with this customer, the Driver instinctively removed the container that was 100% filled. Our records indicate that at 8:46 pm, the container was delivered/dumped at the Waste Management, Inc., Front Street facility. The next day, Tuesday, September 12th, I received a call from a manager at the WMI Front Street facility, who indicated that the load from the night before consisted of flammable hand sanitizer, which was prohibited from being accepted at the facility. This was the first that I or anyone else at CDI was advised or made aware of the actual contents of the, container, as we were led to believe that the contents of the container contained exclusively Type-13&lt;/li&gt;
             &lt;/ul&gt;
             </description>

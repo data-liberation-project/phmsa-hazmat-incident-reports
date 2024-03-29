@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031369</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: LOOSE CAP LEAKING DURING TRANSIT, UNLOADED, PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: LOOSE CAP LEAKING DURING TRANSIT INSIDE A WET SOILED BOX. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: AT THE UPS FACILITY IN OREM, UTAH, AN AIR PACKAGE WAS INSPECTED DUE TO THERMAL TRACKING LABEL BEING PARTIALLY TORN AND ILLEGIBLE WITH SIGNS OF PREVIOUS MARKS REMOVED. PACKAGE OPENED TO FIND NINE IPADS IN OTTER BOXES WITH CHARGING CORDS. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THERE IS A RED FRAGILE STICKER APPLIED. THIS PACKAGE HAS NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SERVICE CO.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3800&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Other fell&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Brought to QA as a leaking package and placed in bucket and placed in cage DescribePack: Loose caps DurationRel: 2 and MitigateEffect: Placed in bucket and cleaned up&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -107,6 +115,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: UNLOADED AND SENT OVERHEAD SORTER, DAMAGED OUTTER BOX CAUSING THE LID TO BECOME LOOSE AND LEAK CORROSIVE SOLID. PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: LOOSE CAP CAUSED BY SENDING IT OVER HEAD SORTER DAMAGING THE OUTTER BOX SOILING ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -128,6 +138,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: LOOSE CAP LEAKING DURING TRANSIT, UNLOADED, PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: LOOSE CAP LEAKINGCORROSIVE LIQUID INSIDE A WET TORN SOILED BOX SOILING ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -149,6 +161,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: RESPONDED TO (2) PACKAGES THAT WERE COLD TO THE TOUCH. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY TWO POUNDS OF DRY ICE COOLING MEAT PRODUCTS. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOXES TO INDICATE DRY ICE WAS BEING SHIPPED IN THE AIR NETWORK.  ADDITIONAL TRACKING NUMBER TO ANOTHER CONSIGNEE IN THE USA IS 1Z85E85Y0217815894. THE OUTER BOXES ARE PREPRINTED WITH ORIENTATION ARROWS AND PERISHABLE. THESE PACKAGES HAVE NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SEVICE CO. THESE PACKAGES WERE SHIPPED FROM UTAH USING UPS ACCOUNT NUMBER 85E85Y, WASATCH WAGYU, 30661 OLD LINCOLN HWY, COALVILLE UT 84017-9611.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -170,6 +184,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: One 1 gallon metal pail was crushed during transit, released 1 pint in trailer.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -191,6 +207,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: RESPONDED TO (2) PACKAGES THAT WERE COLD TO THE TOUCH. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY TWO POUNDS OF DRY ICE COOLING MEAT PRODUCTS. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOXES TO INDICATE DRY ICE WAS BEING SHIPPED IN THE AIR NETWORK. ADDITIONAL TRACKING NUMBER TO ANOTHER CONSIGNEE IN THE USA IS 1Z85E85Y0232506412. THE OUTER BOXES ARE PREPRINTED AS PERISHABLE WITH ORIENTATION ARROWS. THESE PACKAGES HAVE NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SERVICE CO. THESE PACKAGES WERE SHIPPED FROM UTAH USING UPS ACCOUNT NUMBER 85E85Y, WASATCH WAGYU, 30661 OLD LINCOLN HWY, COALVILLE UT 84017-9611.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -212,6 +230,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: LOOSE CAPS LEAKING DURING TRANSIT, UNLOADED, PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: LOOSE CAPS LEAKING FLAMMABLE LIQUID INSIDE A WET SOILED OPENED BOX SOILING ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -233,6 +253,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: On March 19, 2024, one (1) 300-gallon tote of UN2810 was crushed by falling freight and released approximately seventy-five (75) gallons of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from GrayMar Environmental Services (GES) to remediate the impacted site. GES personnel completed a tote transfer into one (1) new tote that was staged onsite. The crew deployed absorbents to the release and worked them in utilizing hand tools. All UN2810-impacted materials were containerized in four (4) 55-gallon drums and staged onsite.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -254,6 +276,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: WEARING FULL PPE AND FOLLOWING DECISION TREE AND FLAMMABLE LIQUID RESPONSE SHEET, RESPONDER RESPONDED TO TRAILER, PLACED PACKAGE IN LINED SPILL TRAY AND RETURNED TO PROCESSING CENTER FOR FURTHER PROCESSING.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -275,6 +299,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: It was reported that approximately 5 gallons of KEM 400 Enamel Omaha Orange High Gloss released from a 5-gallon metal pail due to improper loading (it was double stacked, and freight crushed it). The release impacted the trailer floor and one other 5-gallon metal pail of product. ERTS reviewed the SDS with the caller and determined that terminal personnel are capable of cleaning the release with PPE available on site.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -296,6 +322,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 1500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Shipping container EMHU 643693 leaking in the rail yard. Inspection showed 2 5 gallon buckets leaked a total of .5 gallon each of material. No blocking and bracing present. Crew decontaminated container and over packed the two breached 5 gallon buckets then repackaged and blocked the remaining buckets.&lt;/li&gt;
             &lt;/ul&gt;
             </description>

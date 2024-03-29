@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031286</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was found leaking in the unload. The package handler found a red hazmat bin and transferred the leaking Jerrican to the hazmat bin. The hazmat bin was brought to a QA area and immediately taken to the hazmat cage. DescribePack: Upon further inspection the Jerrican appeared to be leaking from the seam along the bottom. The seam seems to have failed. DurationRel: 2 and MitigateEffect: Upon discovery the hazmat was immediately removed from the dock and brought to the hazmat cage area for further inspection.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package handler removed package from belt and found the package to be leaking a white powder. Package handler put item in red hazmat bucket and delivered to QA area. I found the package and began inspecting it immediately. It was quickly discovered the package was leaking white powder from the bottom seam of the pail. The loose powder was cleaned up and put in the hazmat bucket that the pail was contained in. Immediately took box and pail to the Hazmat cage area. DescribePack: The bottom of the pail was found to have a crack along the seam, it is estimated the crack goes around the outer circumference of the pail about half way. DurationRel: 2 and MitigateEffect: Immediate removal of the container, red hazmat bucket and outer box. These items were moved to the Hazmat cage. The spilled/leaked out white powder substance was cleaned out of the pallet and off of the floor immediately and dumped into the red hazmat bin that the pail is contained in.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was found leaking in the unload. The package handler found a red hazmat bin and transferred the leaking Jerrican to the hazmat bin. The hazmat bin was brought to a QA area and immediately taken to the hazmat cage. DescribePack: Upon further inspection the Jerrican appeared to be leaking from the seam along the bottom. The seam seems to have failed. DurationRel: 2 and MitigateEffect: Upon discovery the hazmat was immediately removed from the dock and brought to the hazmat cage area for further inspection.&lt;/li&gt;
             &lt;/ul&gt;
             </description>

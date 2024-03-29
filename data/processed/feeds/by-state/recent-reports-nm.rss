@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024030840</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was damaged and leaking, Manager brought package to QA. Leaking package was inspected and placed in a plastic bag inside a hazmat drum. DescribePack: Package was leaking from a puncture in one of the bottles. Side of package was wert from the leak. DurationRel: 1 and MitigateEffect: Package was immediately brought to QA by a manager and was inspected right away. Using gloves, package was placed in a plastic bag inside a hazmat drum.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Plastic drum was damaged in transit. Drum was found on delivery vehicle leaking profusely. DescribePack: Plastic drum had a hairline crack on the bottom of the drum causing the leak. DurationRel: 5 and MitigateEffect: Package was immediately put into a plastic bag and bin to prevent any further spillage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031144</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: preload discovered package was leaking granules out side and package was placed in tote.   spillage was cleaned up in house and placed in tote with package. DescribePack: bucket containing material is cracked on seam at bottom about 2-3 inches in length.  when bucket was pulled out of box to inspect it is pouring granule material out of bottom and filling packing box bucket was shipped in.  all contents and bucket in tote waiting disposition but entire contents will have to either be shipped back to shipper, picked up by consignee or disposed of with disposal vendor as bucket is leaking and can&amp;#x27;t repack in bucket or keep from leaking. DurationRel: 0 and MitigateEffect: placed box in tote to capture leaking material&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Faulty lid seal or package may have been on its side at one point unable to determine which is the case. Package placed in red hazmat tote DescribePack: Leakage from lid seal. DurationRel: 4 and MitigateEffect: Placed in red hazmat tote and stored on designated corrosive hazmat pallet.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -107,6 +115,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: package was found in unload and after inspection was determined that product was leaking inside box due to cracked inner container DescribePack: 1 inch crack in plastic bucket DurationRel: 0 and MitigateEffect: placed in tote bin to keep leakage from getting outside container&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -128,6 +138,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: EMPLOYEE NOTICED THE CARTON HAD A WET SPOT AT THE TOP FROM THE BOTTLE LEAKING INSIDE. HE LEFT THE TRAILER AND CALLED FOR A RESPONDER. RESPONDER CLEANED UP THE SPILL AND REMOVED IT SAFELY.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -149,6 +161,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: LEAKAGE FROM LID SEAL. UNABLE TO DETERMINE IF IT WAS FROM DEFECTIVE LID SEAL OR PACKAGE BEING PLACED ON ITS SIDE AT ONE POINT. pLACED IN RED HAZMAT TOTE. DescribePack: LEAKAGE FROM LID SEAL DurationRel: 4 and MitigateEffect: placed IN RED HAZMAT TOTE AND PLCED ON DESIGNATED CORROSIVE PALLET.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -170,6 +184,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SMALL LEAK FROM A PACKAGE IN PACKAGE CAR, DRIVER BROUGHT PACKAGE TO FACILITY TO BE PROCESSED THROUGH DMP, ALL MATERIAL CLEANED UP AND PROCESSED THROUGH THE DMP.&lt;/li&gt;
             &lt;/ul&gt;
             </description>

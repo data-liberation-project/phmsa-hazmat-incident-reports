@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031063</title>
       <description>
@@ -23,6 +23,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: RESPONDER RESPONDED TO A LEAKER INSIDE A TRAILER. WHEN RESPONDER ARRIVED, NOTICED THE BOX WAS CRACKED. RESPONDER TOOK BACK TO THE DAMAGE CAGE FOR PROCESSING&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -44,6 +46,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found in the van at WA 676 at NOKC 732 wet and leaking from a bottle of cleaning concentrate that had a loose cap. Package was placed into a red tote with a hazmat bag. DescribePack: Box was wet. DurationRel: 1 and MitigateEffect: Package was placed into a red tote with a hazmat bag.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -65,6 +69,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Found in the unload with container soiled. Internal contents have loose caps causing internal leakage. DescribePack: top and side of box wet and loose caps DurationRel: 1 and MitigateEffect: I quickly cleaned up surrounding area. Then I placed materials into a clear hazardous waste bag and inside a red hazmat tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -86,6 +92,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was found in the unload. Upon discovery, the package had been placed in a red hazmat tote. The container had been wet. The contents had leaked from loose caps due to not having paint clips. The package should not have left 0755 MESQ. The SPIDR search on the package shows that the package had been damaged before going through the scan tunnel. DescribePack: The contents had leaked from loose caps due to not having paint clips. DurationRel: 1 and MitigateEffect: Upon discovery, the package had been placed in a red hazmat tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -107,6 +115,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -128,6 +138,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: Package was found at the back of belt 5 at NOKC 732 wet from a can of solid film lubricant that had been dented. Package was placed into a red tote with a hazmat bag. DescribePack: Box was wet. DurationRel: 1 and MitigateEffect: Package was placed into a red tote with a hazmat bag.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -149,6 +161,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -170,6 +184,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5200&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Load shift&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -191,6 +207,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: AUDITOR WAS AUDTING A PACKAGE CAR AND NOTICE A BOX THAT HAD A PACKING SLIPE AND READ THE CONTENTS OF SAID BOX AND LOOKED UP THE ITEMS AND FOUND OUT THEY WERE A HAZARDOS MATERIALS. SHE THEN CALLED THE HAZARDOUS HELP LINE WHO TOLD HER TO OPEN TO CONFIRM THE CONTENTS THEY SAID IT WAS A SUSPECTED UNDECLARED. PACKAGE AUDIT DUE TO PACKING LIST DESCRIPTION; NO LEAK. CORROSIVE LIQUID, BASIC, ORGANIC, N.O.S.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -212,6 +230,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -233,6 +253,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: As the package was being unloaded, a package handler noticed that the bottom of the box was leaking. It was then brought to QA for further inspection. DescribePack: The can/bottle was clearly being punctured throughout it&amp;#x27;s trip here due to inadequate protection. The puncture on the bottom caused the can to crack, allowing liquid to come through. DurationRel: 1 and MitigateEffect: The package was immediately placed in the Hazardous material tote, then wrapped in a hazardous material bag away from other employees/package handlers.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -254,6 +276,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: contents leaked due to having loose caps and were placed in a hazmat tote DescribePack: caps had been loose DurationRel: 1 and MitigateEffect: placed in a hazmat tote with bag&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -275,6 +299,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: SequenceEvent: The package was found in the unload. Upon discovery, the package was placed in a red hazmat tote. The container had been wet with closures open. The Contents had leaked due to loose caps. DescribePack: The Contents had leaked due to loose caps. DurationRel: 1 and MitigateEffect: Upon discovery, the package was placed in a red hazmat tote.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -296,6 +322,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: No comments provided&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -317,6 +345,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: PACKAGE WAS FOUND LEAKING DURING UNLOADING OF TRAILER. RESPONDER PROCESSED THROUGH DMP.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -338,6 +368,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: undeclared UN3363 in plastic inside fibreboard non un specification outer package.  odor and visible leak observed.  held onsite for FAA inspection.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -359,6 +391,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: X-2024030796, X-2024030797, X-2024030798: SequenceEvent: CONTENTS ARE AN UNDECLARED HAZMAT AND WERE DICOVERED LEAKING DescribePack: CAPS WERE LOOSE AND BOTTLES WERE LEAKING DurationRel: 1 and MitigateEffect: CONTENTS PLACED IN A TOTE WITH BAG&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -380,6 +414,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: AT 20:00 WHILE PERFORMING A HAZMAT AUDIT ON A PACKAGE CAR UPS HAZMAT AUDITOR PULLED AN UN MARKED BOX AND OPENED THE PACKING SLIP LOCATED ON THE OUTSIDE OF THE BOX. SHE THEN LOOKED UP THE SDS FOR THE PRODUCT LISTED ON THE PACKING SLIP AND NOTICED IT SAID THE ITEM WAS REGULATED FOR TRANSPORTATION. SHE THEN CALLED THE HAZMAT SUPPORT CENTER WHO INSTRUCTED HER TO OPEN THE BOX TO CONFIRM THE CONTENTS. THE CONTENTS WERE CONFIRMED AND THE HAZMAT SUPPORT CENTER SAID THE BOX WAS A SUSPECTED UNDECLARED HAZMAT AND TO GIVE IT TO A DESIGNATED RESPONDER.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
@@ -401,6 +437,8 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
                 &lt;li&gt;Description: product expanded due to increased temperature (Canada vs Oklahoma) and once &amp;quot;shell full&amp;quot; released from the PRD.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
