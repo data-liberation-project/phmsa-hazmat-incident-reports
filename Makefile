@@ -31,7 +31,7 @@ discover-dates:
 	venv/bin/python scripts/01-get-discovery-dates.py
 
 publish-feed:
-	venv/bin/python scripts/02-generate-rss.py
+	venv/bin/python scripts/03-generate-rss.py
 
 ensure-unstaged:
 	@git diff --cached --quiet || (echo "Cannot run while files staged" && false)

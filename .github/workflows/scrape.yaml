@@ -57,7 +57,7 @@ jobs:
         run: python scripts/01-get-discovery-dates.py --num-months $FETCH_NUM_MONTHS
 
       - name: Write RSS
-        run: python scripts/02-generate-rss.py
+        run: python scripts/03-generate-rss.py
 
       - name: Commit changes
         run: git add data/processed && (git diff --cached --quiet || git commit -m "Generate discovery dates and RSS")
