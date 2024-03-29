@@ -3,7 +3,7 @@ import pathlib
 import pandas as pd
 
 
-def filter_rows(df, cost_min=0):
+def filter_rows(df: pd.DataFrame, cost_min: int = 0) -> pd.DataFrame:
     return df.loc[
         (df["Total Amount Of Damages"] >= cost_min)
         & (
@@ -20,11 +20,11 @@ def filter_rows(df, cost_min=0):
     ]
 
 
-def read_csv(path):
+def read_csv(path: pathlib.Path) -> pd.DataFrame:
     return pd.read_csv(path, dtype=str).astype({"Total Amount Of Damages": int})
 
 
-def main():
+def main() -> None:
     # Collect all of the CSVs in the fetched folder
     paths = sorted(pathlib.Path("data/fetched").glob("*.csv"))
 
