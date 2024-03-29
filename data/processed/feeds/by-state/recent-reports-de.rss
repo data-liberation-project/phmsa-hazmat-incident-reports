@@ -7,15 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 15:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 18:14:14 +0000</lastBuildDate>
     <item>
-      <title>Report X-2024030714</title>
+      <title>Report X-2024031257</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030714&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-22T18:13:56+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031257&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
-                &lt;li&gt;City: NEW CASTLE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
+                &lt;li&gt;City: SEAFORD&lt;/li&gt;
                 &lt;li&gt;State: DE&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -23,11 +23,11 @@
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Customer loaded trailer pickup to 181 station, pkg arrived at 197 wand was unloaded following non-haz procedures, due to pkg not being marked as HAZ. pkg was conveyed. PKG Handler discovered pkg on conveyor that was releasing vapors and contacted mgmt. QA team collected and isolated. Began spill containment procedures. Drummed and placed under fume hood. DescribePack: Inner bottle lacking cap, contents compromised fiberboard box, box disintegrated. DurationRel: 6 and MitigateEffect: fume hood, and Haz drum containment, corrosive fluid neutralization powder.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package Handler opened truck door and package was sitting there damaged. Package was face down with the arrows facing proper direction. DescribePack: came from the lid. DurationRel: 1 and MitigateEffect: package was put into a bin&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030714</guid>
-      <pubDate>Fri, 22 Mar 2024 18:13:56 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031257</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
