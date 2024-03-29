@@ -30,6 +30,9 @@ fetch-data:
 discover-dates:
 	venv/bin/python scripts/01-get-discovery-dates.py
 
+filter-data:
+	venv/bin/python scripts/02-filter.py
+
 publish-feed:
 	venv/bin/python scripts/03-generate-rss.py
 

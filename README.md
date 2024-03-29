@@ -16,6 +16,8 @@ This repository, developed by the [Data Liberation Project](https://www.data-lib
     - Status: 🔵 In progress
 - Generate one file that contains a subset of fields (to keep size within GitHub's limits) for *all* reports
     - Status: 🟠 Not yet started
+- Generate filtered data focusing just on the most *serious* reports
+    - Status: 🟢 Completed, now available [here](data/processed/filtered/)
 - Provide RSS feeds with the latest available incidents, nationally and by state
     - Status: 🟢 Completed, now available [here](data/processed/feeds/)
 - Provide RSS feeds listing incident [updates](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.16#p-171.16\(c\))
@@ -31,6 +33,7 @@ You can clone or [download](https://sites.northwestern.edu/researchcomputing/res
 
 The files are split into months to stay within GitHub's file size limits. You can combine them with your preferred toolset. For example, using [`xsv`](https://github.com/BurntSushi/xsv#installation), you could run `xsv cat rows data/fetched/*.csv > combined.csv`.
 
+A set of *all years* incidents *filtered* to just the most “serious” are available in the [`data/processed/filtered/`](data/processed/filtered/) directory.
 
 ### Resources
 
@@ -56,6 +59,7 @@ Many thanks to the volunteers who have contributed to this repository:
 - [@gcappaert](https://github.com/gcappaert)
 - [@m-nolan](https://github.com/m-nolan)
 - [@rjintu](https://github.com/rjintu)
+- [@medievalmadeline](https://github.com/medievalmadeline)
 
 ## Licensing
 

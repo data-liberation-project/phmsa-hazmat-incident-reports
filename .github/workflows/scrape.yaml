@@ -56,6 +56,9 @@ jobs:
       - name: Get discovery dates
         run: python scripts/01-get-discovery-dates.py --num-months $FETCH_NUM_MONTHS
 
+      - name: Create filtered datasets
+        run: python scripts/02-filter.py
+
       - name: Write RSS
         run: python scripts/03-generate-rss.py
 
