@@ -200,18 +200,31 @@ def main() -> None:
         num_months=args.num_months, discovered_days=args.discovered_days
     )
 
-    main_feed = convert_to_feed(entry_data, state=None)
-    with open("data/processed/feeds/recent-reports.rss", "wb") as f:
-        main_feed.rss_file(f, pretty=True)
+    serious_incidents = pd.read_csv(
+        "data/processed/filtered/serious-incidents.csv", usecols=["Report Number"]
+    )
 
-    for state in STATE_ABBRS:
-        state_entry_data = entry_data.loc[lambda df: df["Incident State"] == state]
+    for version in ["recent", "serious"]:
+        if version == "serious":
+            entries = entry_data.loc[
+                lambda df: df["Report Number"].isin(serious_incidents["Report Number"])
+            ]
+        else:
+            entries = entry_data
 
-        state_feed = convert_to_feed(state_entry_data, state=state)
-        with open(
-            f"data/processed/feeds/by-state/recent-reports-{state.lower()}.rss", "wb"
-        ) as f:
-            state_feed.rss_file(f, pretty=True)
+        main_feed = convert_to_feed(entries, state=None)
+        with open(f"data/processed/feeds/{version}-reports.rss", "wb") as f:
+            main_feed.rss_file(f, pretty=True)
+
+        for state in STATE_ABBRS:
+            state_entry_data = entries.loc[lambda df: df["Incident State"] == state]
+
+            state_feed = convert_to_feed(state_entry_data, state=state)
+            with open(
+                f"data/processed/feeds/by-state/{version}-reports-{state.lower()}.rss",
+                "wb",
+            ) as f:
+                state_feed.rss_file(f, pretty=True)
 
 
 if __name__ == "__main__":

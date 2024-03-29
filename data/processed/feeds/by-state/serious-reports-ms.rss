@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest PHMSA Hazardous Materials Incident Reports, for MS</title>
+    <link>https://github.com/data-liberation-project/phma-hazmat-incident-reports</link>
+    <description>The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation and posted online by the Pipeline and Hazardous Materials Safety Administration, for MS</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Mar 2024 19:38:19 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024030522</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030522&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-18&lt;/li&gt;
+                &lt;li&gt;City: VICKSBURG&lt;/li&gt;
+                &lt;li&gt;State: MS&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Circle K&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 8500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: It was reported that approximately 150-gallons of gasoline were released impacting concrete and nearby soil. The spill occurred when the driver opened the drop head on his tanker trailer and accidentally overfilled it, causing approximately 150-gallons of gasoline to spill out. The driver deployed boom while waiting for assistance. The police and the fire department were notified and in route. The Fire Department responded and put down absorbents. The state of Mississippi was notified of the incident, but no report number could be provided by Catherine Bell. E3 Environmental arrived on site and swept-in absorbents solidifying released material on the impacted concrete. E3 Environmental scraped the surface of the impacted soil area and sprayed with microblaze. the impacted absorbents and soil were containerized into one (1) 55-gallon metal drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030522</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

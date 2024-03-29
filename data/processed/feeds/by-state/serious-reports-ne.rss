@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest PHMSA Hazardous Materials Incident Reports, for NE</title>
+    <link>https://github.com/data-liberation-project/phma-hazmat-incident-reports</link>
+    <description>The latest Form 5800.1 hazardous material reports submitted to the Department of Transportation and posted online by the Pipeline and Hazardous Materials Safety Administration, for NE</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Mar 2024 19:38:19 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024030980</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030980&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-28T00:34:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-09-14&lt;/li&gt;
+                &lt;li&gt;City: NORTH PLATTE&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Union Pacific Railroad&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 2&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 791418&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
+                &lt;li&gt;Description: Liquid product released from unknown cause came into contact with wooden container floor resulting in an exothermic reaction within the closed space.  Container exploded causing a release and burning of all product in 56 drums.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030980</guid>
+      <pubDate>Thu, 28 Mar 2024 00:34:32 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
