@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:38:19 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024030559</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030559&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
+                &lt;li&gt;City: COUNCIL BLUFFS&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030559</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024031096</title>
       <description>
@@ -32,27 +55,50 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024030559</title>
+      <title>Report X-2024031124</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030559&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031124&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
-                &lt;li&gt;City: COUNCIL BLUFFS&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
+                &lt;li&gt;City: GRIMES&lt;/li&gt;
                 &lt;li&gt;State: IA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The leaking can was discovered during unload. It was brought to QA. We immediately placed it in a salvage drum. DescribePack: The bottom seal is dented in at least two places. DurationRel: 2 and MitigateEffect: Kitty litter was used to soak-up the spill.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030559</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031124</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030549</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030549&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
+                &lt;li&gt;City: WATERLOO&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Chicago Central and Pacific Railroad&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 20000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 02-22-2024 a CN mechanical performing an inspection observed that the bottom outlet valve appeared to be wet around the valve of tank car # PROX 45654 along with a strong Ethanol type odor in the area. The employee notified the Transportation Manager who in turn notified the CN Dangerous Goods Team. The tank car was set out to an isolation track for inspection by a CN emergency response contractor. A CN emergency response contractor, was dispatched to the location for mitigation. Contractor performed an inspection of the tank car and found the bottom outlet valve to be leaking from the threads of the bottom outlet valve cap as a result of the BOV not creating a proper seal and the BOV cap not tight enough to contain the leak. (The BOV cap was found to be less than tool tight and the BOV valve in the closed position and pinned upon initial inspection). HMR did observe cable seals to be correctly in place. The BOV valve handle was cycled several times to the open and closed position to free any debris that may have been trapped in the BOV sealing surface potentially causing the leak. The BOV cap was then removed and observed for 20 minutes to ensure there was no further leakage from the valve. It was noted that the BOV cap gasket was deformed and was replaced. The bottom outlet valve cap was then re-installed and tightened with a 36&amp;quot; pipe wrench. Upon tightening the BOV cap, Contractor proceeded to place new cable seals on the BOV / Cap.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030549</guid>
+      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030973</title>
@@ -99,52 +145,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030440</guid>
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030549</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030549&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-22&lt;/li&gt;
-                &lt;li&gt;City: WATERLOO&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Chicago Central and Pacific Railroad&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 20000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 02-22-2024 a CN mechanical performing an inspection observed that the bottom outlet valve appeared to be wet around the valve of tank car # PROX 45654 along with a strong Ethanol type odor in the area. The employee notified the Transportation Manager who in turn notified the CN Dangerous Goods Team. The tank car was set out to an isolation track for inspection by a CN emergency response contractor. A CN emergency response contractor, was dispatched to the location for mitigation. Contractor performed an inspection of the tank car and found the bottom outlet valve to be leaking from the threads of the bottom outlet valve cap as a result of the BOV not creating a proper seal and the BOV cap not tight enough to contain the leak. (The BOV cap was found to be less than tool tight and the BOV valve in the closed position and pinned upon initial inspection). HMR did observe cable seals to be correctly in place. The BOV valve handle was cycled several times to the open and closed position to free any debris that may have been trapped in the BOV sealing surface potentially causing the leak. The BOV cap was then removed and observed for 20 minutes to ensure there was no further leakage from the valve. It was noted that the BOV cap gasket was deformed and was replaced. The bottom outlet valve cap was then re-installed and tightened with a 36&amp;quot; pipe wrench. Upon tightening the BOV cap, Contractor proceeded to place new cable seals on the BOV / Cap.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030549</guid>
-      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031124</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031124&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-11&lt;/li&gt;
-                &lt;li&gt;City: GRIMES&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The leaking can was discovered during unload. It was brought to QA. We immediately placed it in a salvage drum. DescribePack: The bottom seal is dented in at least two places. DurationRel: 2 and MitigateEffect: Kitty litter was used to soak-up the spill.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031124</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

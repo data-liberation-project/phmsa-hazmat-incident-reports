@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:38:19 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031300</title>
       <description>
@@ -55,52 +55,6 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031231</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031231&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
-                &lt;li&gt;City: BUFFALO&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During preload sort on 03/20/2023, a fully regulated Hazmat package was discovered to be leaking contents.  Package then taken to QA for further inspection DescribePack: Upon inspection of package, it was discovered that a five gallon bucket of Aqua-Org Plus Superior Quality Calcium Hypochlorite Granules was cracked and leaking and leaking contents from bottom of plastic bucket DurationRel: 1 and MitigateEffect: Damaged package placed in red plastic Fedex Ground Hazmat bin with plastic liner and staged in Hazmat cage on site for future processing by QA&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031231</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031249</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031249&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
-                &lt;li&gt;City: SCHENECTADY&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was found on trailer in the unload DescribePack: loose cap DurationRel: 1 and MitigateEffect: package brought to qa&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031249</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024031263</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031263&lt;/a&gt;&lt;/h3&gt;
@@ -124,13 +78,13 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031185</title>
+      <title>Report X-2024031231</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031185&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031231&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: BRONX&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
+                &lt;li&gt;City: BUFFALO&lt;/li&gt;
                 &lt;li&gt;State: NY&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -140,10 +94,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was brought from the unload and placed on the rollers. Package fell off the Hytro which bent the paint can the lid came loose and caused spillage. DescribePack: Package fell off the Hytro and bent the paint can which caused the cover to come loose, and paint leaked. DurationRel: 2 and MitigateEffect: Package was contained in a hazmat bin.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: During preload sort on 03/20/2023, a fully regulated Hazmat package was discovered to be leaking contents.  Package then taken to QA for further inspection DescribePack: Upon inspection of package, it was discovered that a five gallon bucket of Aqua-Org Plus Superior Quality Calcium Hypochlorite Granules was cracked and leaking and leaking contents from bottom of plastic bucket DurationRel: 1 and MitigateEffect: Damaged package placed in red plastic Fedex Ground Hazmat bin with plastic liner and staged in Hazmat cage on site for future processing by QA&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031185</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031231</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -170,6 +124,75 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2024031249</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031249&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
+                &lt;li&gt;City: SCHENECTADY&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package was found on trailer in the unload DescribePack: loose cap DurationRel: 1 and MitigateEffect: package brought to qa&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031249</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024031185</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031185&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
+                &lt;li&gt;City: BRONX&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was brought from the unload and placed on the rollers. Package fell off the Hytro which bent the paint can the lid came loose and caused spillage. DescribePack: Package fell off the Hytro and bent the paint can which caused the cover to come loose, and paint leaked. DurationRel: 2 and MitigateEffect: Package was contained in a hazmat bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031185</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023120066</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120066&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-28T00:34:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
+                &lt;li&gt;City: PRINCETOWN&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPRESS NATURAL GAS LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
+                &lt;li&gt;Description: CNG Module (Quantum) involved in off road accident. Twelve of the fifty one cylinders released product due to the impact of the accident. In order to recover equipment remaining thirty-nine cylinders, a controlled vent to atmosphere occurred on each intact cylinders&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120066</guid>
+      <pubDate>Thu, 28 Mar 2024 00:34:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2024031025</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031025&lt;/a&gt;&lt;/h3&gt;
@@ -190,6 +213,52 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031025</guid>
+      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030481</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030481&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-19&lt;/li&gt;
+                &lt;li&gt;City: BAY SHORE&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: 1-gallon release of UN1263, Wiping Wood™ Stain Dark Red Mahogany from a 1-gallon pail due to improper loading from terminal XNJ. The spill was contained to the dock floor.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030481</guid>
+      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2024020042</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020042&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
+                &lt;li&gt;City: JAMAICA&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: American Airlines Priority Parcel&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Shipment 001-57807886 was tendered by Sky Courier on 2/7. The airway bill commodity section was listed as aircraft part. The driver was asked if there were any batteries and he responded no, just an aircraft part. The security screener x-rayed the piece and saw what looked like batteries. He opened the package and saw that it was batteries for an Emergency locator transmitter ( EL T ). These Lithium Ion aircraft batteries are prohibited for carriage as cargo or COMA T on passenger aircraft.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020042</guid>
       <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
     </item>
     <item>
@@ -239,29 +308,6 @@
       <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030807</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030807&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-12&lt;/li&gt;
-                &lt;li&gt;City: NEWBURGH&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA WAS CALLED TO THE TRAILER TO CHECK ON PACKAGE UPON FURTHER INSPECTION QAS NOTICED THAT CAP WAS LOOSE AND LEAKING ITEM WAS PULLED FROM TRAILER DescribePack: THE CAP WAS LOOSE AND MIGHT HAVE BEEN DUE TO THE MISHANDLING OF THE PACKAGE MIGHT OF DROPPED DurationRel: 1 and MitigateEffect: PACKAGE WAS REMOVED FROM THE TRAILER AND PLACED IN A SALVAGE JUG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030807</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024030982</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030982&lt;/a&gt;&lt;/h3&gt;
@@ -282,6 +328,29 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030982</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024030807</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030807&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-12&lt;/li&gt;
+                &lt;li&gt;City: NEWBURGH&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA WAS CALLED TO THE TRAILER TO CHECK ON PACKAGE UPON FURTHER INSPECTION QAS NOTICED THAT CAP WAS LOOSE AND LEAKING ITEM WAS PULLED FROM TRAILER DescribePack: THE CAP WAS LOOSE AND MIGHT HAVE BEEN DUE TO THE MISHANDLING OF THE PACKAGE MIGHT OF DROPPED DurationRel: 1 and MitigateEffect: PACKAGE WAS REMOVED FROM THE TRAILER AND PLACED IN A SALVAGE JUG&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030807</guid>
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
     <item>
@@ -329,75 +398,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030742</guid>
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030481</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030481&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-19&lt;/li&gt;
-                &lt;li&gt;City: BAY SHORE&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: 1-gallon release of UN1263, Wiping Wood™ Stain Dark Red Mahogany from a 1-gallon pail due to improper loading from terminal XNJ. The spill was contained to the dock floor.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030481</guid>
-      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024020042</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020042&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-07&lt;/li&gt;
-                &lt;li&gt;City: JAMAICA&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: American Airlines Priority Parcel&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Shipment 001-57807886 was tendered by Sky Courier on 2/7. The airway bill commodity section was listed as aircraft part. The driver was asked if there were any batteries and he responded no, just an aircraft part. The security screener x-rayed the piece and saw what looked like batteries. He opened the package and saw that it was batteries for an Emergency locator transmitter ( EL T ). These Lithium Ion aircraft batteries are prohibited for carriage as cargo or COMA T on passenger aircraft.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020042</guid>
-      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023120066</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120066&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-28T00:34:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-05&lt;/li&gt;
-                &lt;li&gt;City: PRINCETOWN&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPRESS NATURAL GAS LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
-                &lt;li&gt;Description: CNG Module (Quantum) involved in off road accident. Twelve of the fifty one cylinders released product due to the impact of the accident. In order to recover equipment remaining thirty-nine cylinders, a controlled vent to atmosphere occurred on each intact cylinders&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120066</guid>
-      <pubDate>Thu, 28 Mar 2024 00:34:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

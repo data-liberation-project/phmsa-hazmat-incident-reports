@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:38:19 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031173</title>
       <description>
@@ -101,6 +101,52 @@
       <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2024030550</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030550&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-02-24&lt;/li&gt;
+                &lt;li&gt;City: GEISMAR&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ILLINOIS CENTRAL RAILROAD COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 21000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 02-24-2024 a CN transportation employee observed liquid dripping down the side of tank car # UTLX 125078 (Loaded - Spent Sulfuric Acid - UN ID - 1832 - Class 8) while performing switching operations at the CN Geismar Yard located in Geismar, LA. The employee notified the CN Transportation Manager who in turn notified the CN Dangerous Goods Team for an emergency response. The responding CN Dangerous Goods Officer performed an inspection of the tank car and noted spillage on the BL side of the car and liquid dripping the eduction line securement flange. Further inspection revealed: (1) of the (4) flange securement fasteners was not properly tightened and could be freely moved by hand. The 1&amp;quot; air valve was in the completely open position with its securement plug securely installed. The 2&amp;quot; liquid eduction line securement cap was less than tool tight (could be turned by hand. The loose liquid eduction line cap was the source of the leak. The tank car&amp;#x27;s internal pressure was relieved through the 1&amp;quot; air valve stopping the leak. The Liquid eduction line securement cap was properly tightened with an 18&amp;quot; pipe wrench. The 1&amp;quot; air valve was closed, and its securement plug was properly tightened with an 18&amp;quot; pipe wrench. The tank car was then decontaminated by a CN hired contractor. A contractor hired by the responsible party replaced all (4) liquid eduction line flange bolts and securement nuts. The tank car was then pressured up to 10 PSI with a standard air compressor and inspected for leaks. No leaks were discovered.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030550</guid>
+      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2024020039</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020039&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-23&lt;/li&gt;
+                &lt;li&gt;City: Bossier city&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SOUTHEASTERN FREIGHT LINES INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 2&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: At 03:38 pallet was pulled off trailer a drip was noticed, it was loaded back in the trailer. leak was contained to our trailer and the dock. It was noticed that the pallet seemed to be wedged under a load bar damaging a box of pool supplies. At 5:00 the odor was getting worse it was believed the amount Ieaking was more than first thought, hazmat one was called at 05:08 to come and clean up the material. Hazmat one arrived at 06:45 and completed at 11:02.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020039</guid>
+      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2024030978</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030978&lt;/a&gt;&lt;/h3&gt;
@@ -122,29 +168,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030978</guid>
       <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030750</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030750&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
-                &lt;li&gt;City: BATON ROUGE&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was sitting on roller in unload when QA noticed the box was wet from the top. Plus it had a strong smell coming from the box. QA immediately got a red tote and transported hazmat to cage to be processed properly. DescribePack: The cap on one of the bottles was loose. Despite the great packing from the shipper the cap still failed to be on tight and the product leaked eating through the box as well as the inner packing. DurationRel: 1 and MitigateEffect: Placed in red tote making sure nobody else touched the box and placed hazmat in cage to be processed properly.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030750</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030937</title>
@@ -193,50 +216,27 @@
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030550</title>
+      <title>Report X-2024030750</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030550&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030750&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-24&lt;/li&gt;
-                &lt;li&gt;City: GEISMAR&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ILLINOIS CENTRAL RAILROAD COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 21000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 02-24-2024 a CN transportation employee observed liquid dripping down the side of tank car # UTLX 125078 (Loaded - Spent Sulfuric Acid - UN ID - 1832 - Class 8) while performing switching operations at the CN Geismar Yard located in Geismar, LA. The employee notified the CN Transportation Manager who in turn notified the CN Dangerous Goods Team for an emergency response. The responding CN Dangerous Goods Officer performed an inspection of the tank car and noted spillage on the BL side of the car and liquid dripping the eduction line securement flange. Further inspection revealed: (1) of the (4) flange securement fasteners was not properly tightened and could be freely moved by hand. The 1&amp;quot; air valve was in the completely open position with its securement plug securely installed. The 2&amp;quot; liquid eduction line securement cap was less than tool tight (could be turned by hand. The loose liquid eduction line cap was the source of the leak. The tank car&amp;#x27;s internal pressure was relieved through the 1&amp;quot; air valve stopping the leak. The Liquid eduction line securement cap was properly tightened with an 18&amp;quot; pipe wrench. The 1&amp;quot; air valve was closed, and its securement plug was properly tightened with an 18&amp;quot; pipe wrench. The tank car was then decontaminated by a CN hired contractor. A contractor hired by the responsible party replaced all (4) liquid eduction line flange bolts and securement nuts. The tank car was then pressured up to 10 PSI with a standard air compressor and inspected for leaks. No leaks were discovered.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030550</guid>
-      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024020039</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020039&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-01-23&lt;/li&gt;
-                &lt;li&gt;City: Bossier city&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
+                &lt;li&gt;City: BATON ROUGE&lt;/li&gt;
                 &lt;li&gt;State: LA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SOUTHEASTERN FREIGHT LINES INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 2&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: At 03:38 pallet was pulled off trailer a drip was noticed, it was loaded back in the trailer. leak was contained to our trailer and the dock. It was noticed that the pallet seemed to be wedged under a load bar damaging a box of pool supplies. At 5:00 the odor was getting worse it was believed the amount Ieaking was more than first thought, hazmat one was called at 05:08 to come and clean up the material. Hazmat one arrived at 06:45 and completed at 11:02.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was sitting on roller in unload when QA noticed the box was wet from the top. Plus it had a strong smell coming from the box. QA immediately got a red tote and transported hazmat to cage to be processed properly. DescribePack: The cap on one of the bottles was loose. Despite the great packing from the shipper the cap still failed to be on tight and the product leaked eating through the box as well as the inner packing. DurationRel: 1 and MitigateEffect: Placed in red tote making sure nobody else touched the box and placed hazmat in cage to be processed properly.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020039</guid>
-      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030750</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

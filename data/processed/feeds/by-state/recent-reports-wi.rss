@@ -7,15 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:38:19 +0000</lastBuildDate>
     <item>
-      <title>Report X-2024031274</title>
+      <title>Report X-2024031394</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031274&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031394&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
-                &lt;li&gt;City: EAU CLAIRE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-26&lt;/li&gt;
+                &lt;li&gt;City: LA CROSSE&lt;/li&gt;
                 &lt;li&gt;State: WI&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -25,10 +25,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was inbound scanned at 06:30. By 06:34 package arrived in primary sort tower. Individual in primary sort tower communicated that a hazmat had been sent up, and that box had a strong smell to it. Upon inspection liquid was found within containment bag. DescribePack: Unable to determine exact size of opening, but damage was done to top rim of metal container, resulting in leakage. DurationRel: 1 and MitigateEffect: Tip package upright, liquid was leaking out of top.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Bucket containing UN1760 started leaking from bottom of drum due to small crack that formed in the center. DescribePack: Crack formed on bottom of drum in the center, crack is less than 1 millimeter DurationRel: 1 and MitigateEffect: QA used PPE to put leaking bucket in hazmat bin and put down ANPHOMAG Universal spill neutralizer on released liquid.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031274</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031394</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -55,13 +55,13 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031192</title>
+      <title>Report X-2024031274</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031192&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031274&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: CUDAHY&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
+                &lt;li&gt;City: EAU CLAIRE&lt;/li&gt;
                 &lt;li&gt;State: WI&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -71,10 +71,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: box left for QA leaking, falling apart DescribePack: Inside, 1 of 2 plastic bottles of liquid completely leaked ( 1 gallon) through unsecure cap, soaking all contents and box DurationRel: 1 and MitigateEffect: placed in tote under ventilator hood&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was inbound scanned at 06:30. By 06:34 package arrived in primary sort tower. Individual in primary sort tower communicated that a hazmat had been sent up, and that box had a strong smell to it. Upon inspection liquid was found within containment bag. DescribePack: Unable to determine exact size of opening, but damage was done to top rim of metal container, resulting in leakage. DurationRel: 1 and MitigateEffect: Tip package upright, liquid was leaking out of top.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031192</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031274</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -101,36 +101,13 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024030563</title>
+      <title>Report X-2024031192</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030563&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031192&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: MAUSTON&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030563</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031394</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031394&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-26&lt;/li&gt;
-                &lt;li&gt;City: LA CROSSE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
+                &lt;li&gt;City: CUDAHY&lt;/li&gt;
                 &lt;li&gt;State: WI&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
@@ -140,10 +117,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Bucket containing UN1760 started leaking from bottom of drum due to small crack that formed in the center. DescribePack: Crack formed on bottom of drum in the center, crack is less than 1 millimeter DurationRel: 1 and MitigateEffect: QA used PPE to put leaking bucket in hazmat bin and put down ANPHOMAG Universal spill neutralizer on released liquid.&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: box left for QA leaking, falling apart DescribePack: Inside, 1 of 2 plastic bottles of liquid completely leaked ( 1 gallon) through unsecure cap, soaking all contents and box DurationRel: 1 and MitigateEffect: placed in tote under ventilator hood&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031394</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031192</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -168,6 +145,52 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031191</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024030563</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030563&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
+                &lt;li&gt;City: MAUSTON&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030563</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2023120064</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120064&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-28T00:34:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2023-11-13&lt;/li&gt;
+                &lt;li&gt;City: NELSON&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: EAU CLAIRE CO OPERATIVE OIL COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 110010&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Tank vehicle was traveling 35 mph in a 55 mph zone, on a rural paved road. Driver was pealing a banana when the vehicle left the paved portion of the roadway, entered the soft fhoulder of the road, was pulled into the ditch and rolled. As time passed and the vehicle lay on its passenger side, diesel fuel began to trickel from the releif vents on the fill port covers. Approximately two gallons of fuel was released from the cargo tank of which approximately 2 cups reached the enviorment. Two shovels full of contaminated soil were removed from the scene and placed in a diesel fuel waste barrel for proper disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120064</guid>
+      <pubDate>Thu, 28 Mar 2024 00:34:32 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024031030</title>
@@ -214,29 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030441</guid>
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2023120064</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2023120064&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-28T00:34:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-11-13&lt;/li&gt;
-                &lt;li&gt;City: NELSON&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: EAU CLAIRE CO OPERATIVE OIL COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 110010&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Tank vehicle was traveling 35 mph in a 55 mph zone, on a rural paved road. Driver was pealing a banana when the vehicle left the paved portion of the roadway, entered the soft fhoulder of the road, was pulled into the ditch and rolled. As time passed and the vehicle lay on its passenger side, diesel fuel began to trickel from the releif vents on the fill port covers. Approximately two gallons of fuel was released from the cargo tank of which approximately 2 cups reached the enviorment. Two shovels full of contaminated soil were removed from the scene and placed in a diesel fuel waste barrel for proper disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2023120064</guid>
-      <pubDate>Thu, 28 Mar 2024 00:34:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

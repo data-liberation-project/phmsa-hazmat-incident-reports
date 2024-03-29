@@ -7,30 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
-    <item>
-      <title>Report X-2024031063</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031063&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
-                &lt;li&gt;City: TULSA&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO A LEAKER INSIDE A TRAILER. WHEN RESPONDER ARRIVED, NOTICED THE BOX WAS CRACKED. RESPONDER TOOK BACK TO THE DAMAGE CAGE FOR PROCESSING&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031063</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Mar 2024 19:38:19 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031398</title>
       <description>
@@ -52,52 +29,6 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031398</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031109</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031109&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Found in the unload with container soiled. Internal contents have loose caps causing internal leakage. DescribePack: top and side of box wet and loose caps DurationRel: 1 and MitigateEffect: I quickly cleaned up surrounding area. Then I placed materials into a clear hazardous waste bag and inside a red hazmat tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031109</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031169</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031169&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: EDMOND&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was found in the unload. Upon discovery, the package had been placed in a red hazmat tote. The container had been wet. The contents had leaked from loose caps due to not having paint clips. The package should not have left 0755 MESQ. The SPIDR search on the package shows that the package had been damaged before going through the scan tunnel. DescribePack: The contents had leaked from loose caps due to not having paint clips. DurationRel: 1 and MitigateEffect: Upon discovery, the package had been placed in a red hazmat tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031169</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -124,6 +55,52 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2024031063</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031063&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
+                &lt;li&gt;City: TULSA&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER RESPONDED TO A LEAKER INSIDE A TRAILER. WHEN RESPONDER ARRIVED, NOTICED THE BOX WAS CRACKED. RESPONDER TOOK BACK TO THE DAMAGE CAGE FOR PROCESSING&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031063</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024031169</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031169&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
+                &lt;li&gt;City: EDMOND&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The package was found in the unload. Upon discovery, the package had been placed in a red hazmat tote. The container had been wet. The contents had leaked from loose caps due to not having paint clips. The package should not have left 0755 MESQ. The SPIDR search on the package shows that the package had been damaged before going through the scan tunnel. DescribePack: The contents had leaked from loose caps due to not having paint clips. DurationRel: 1 and MitigateEffect: Upon discovery, the package had been placed in a red hazmat tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031169</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2024031145</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031145&lt;/a&gt;&lt;/h3&gt;
@@ -144,6 +121,29 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031145</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024031109</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031109&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
+                &lt;li&gt;City: EDMOND&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Found in the unload with container soiled. Internal contents have loose caps causing internal leakage. DescribePack: top and side of box wet and loose caps DurationRel: 1 and MitigateEffect: I quickly cleaned up surrounding area. Then I placed materials into a clear hazardous waste bag and inside a red hazmat tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031109</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -216,27 +216,27 @@
       <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
     </item>
     <item>
-      <title>Report E-2024030470</title>
+      <title>Report X-2024030050</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030470&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-26T15:10:57+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030050&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: OKLAHOMA CITY&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-02-24&lt;/li&gt;
+                &lt;li&gt;City: TULSA&lt;/li&gt;
                 &lt;li&gt;State: OK&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: BNSF Railway Company&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5500&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+                &lt;li&gt;Description: product expanded due to increased temperature (Canada vs Oklahoma) and once &amp;quot;shell full&amp;quot; released from the PRD.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030470</guid>
-      <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030050</guid>
+      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030976</title>
@@ -308,6 +308,29 @@
       <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
     </item>
     <item>
+      <title>Report E-2024030470</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030470&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-26T15:10:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
+                &lt;li&gt;City: OKLAHOMA CITY&lt;/li&gt;
+                &lt;li&gt;State: OK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030470</guid>
+      <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2024031006</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031006&lt;/a&gt;&lt;/h3&gt;
@@ -354,26 +377,26 @@
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031011</title>
+      <title>Report X-2024031014</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031011&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031014&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
                 &lt;li&gt;City: TULSA&lt;/li&gt;
                 &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: undeclared UN3363 in plastic inside fibreboard non un specification outer package.  odor and visible leak observed.  held onsite for FAA inspection.&lt;/li&gt;
+                &lt;li&gt;Description: AT 20:00 WHILE PERFORMING A HAZMAT AUDIT ON A PACKAGE CAR UPS HAZMAT AUDITOR PULLED AN UN MARKED BOX AND OPENED THE PACKING SLIP LOCATED ON THE OUTSIDE OF THE BOX. SHE THEN LOOKED UP THE SDS FOR THE PRODUCT LISTED ON THE PACKING SLIP AND NOTICED IT SAID THE ITEM WAS REGULATED FOR TRANSPORTATION. SHE THEN CALLED THE HAZMAT SUPPORT CENTER WHO INSTRUCTED HER TO OPEN THE BOX TO CONFIRM THE CONTENTS. THE CONTENTS WERE CONFIRMED AND THE HAZMAT SUPPORT CENTER SAID THE BOX WAS A SUSPECTED UNDECLARED HAZMAT AND TO GIVE IT TO A DESIGNATED RESPONDER.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031011</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031014</guid>
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
     <item>
@@ -400,50 +423,27 @@
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031014</title>
+      <title>Report X-2024031011</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031014&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031011&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
                 &lt;li&gt;City: TULSA&lt;/li&gt;
                 &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: AT 20:00 WHILE PERFORMING A HAZMAT AUDIT ON A PACKAGE CAR UPS HAZMAT AUDITOR PULLED AN UN MARKED BOX AND OPENED THE PACKING SLIP LOCATED ON THE OUTSIDE OF THE BOX. SHE THEN LOOKED UP THE SDS FOR THE PRODUCT LISTED ON THE PACKING SLIP AND NOTICED IT SAID THE ITEM WAS REGULATED FOR TRANSPORTATION. SHE THEN CALLED THE HAZMAT SUPPORT CENTER WHO INSTRUCTED HER TO OPEN THE BOX TO CONFIRM THE CONTENTS. THE CONTENTS WERE CONFIRMED AND THE HAZMAT SUPPORT CENTER SAID THE BOX WAS A SUSPECTED UNDECLARED HAZMAT AND TO GIVE IT TO A DESIGNATED RESPONDER.&lt;/li&gt;
+                &lt;li&gt;Description: undeclared UN3363 in plastic inside fibreboard non un specification outer package.  odor and visible leak observed.  held onsite for FAA inspection.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031014</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031011</guid>
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030050</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030050&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-24&lt;/li&gt;
-                &lt;li&gt;City: TULSA&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF Railway Company&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5500&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: product expanded due to increased temperature (Canada vs Oklahoma) and once &amp;quot;shell full&amp;quot; released from the PRD.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030050</guid>
-      <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

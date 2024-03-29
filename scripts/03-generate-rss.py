@@ -143,7 +143,7 @@ def convert_to_feed(rows: pd.DataFrame, state: typing.Optional[str]) -> FeedGene
         getattr(fg, k)(v)
 
     for _, row in rows.fillna("").iterrows():
-        entry = fg.add_entry()
+        entry = fg.add_entry(order="append")
         e = convert_entry(row)
         for k, v in e.items():
             method = getattr(entry, k)
@@ -178,10 +178,17 @@ def fetch_entry_data(num_months: int, discovered_days: int) -> pd.DataFrame:
         )
     )
 
-    rows = history.loc[
-        lambda df: pd.to_datetime(df["timestamp"])
-        > (NOW - timedelta(days=discovered_days))
-    ].merge(data, on=["report_number"], validate="1:1")
+    rows = (
+        history.loc[
+            lambda df: pd.to_datetime(df["timestamp"])
+            > (NOW - timedelta(days=discovered_days))
+        ]
+        .merge(data, on=["report_number"], validate="1:1")
+        .sort_values(
+            ["timestamp", "Date Of Incident", "Time Of Incident", "Report Number"],
+            ascending=False,
+        )
+    )
 
     return rows
 

@@ -7,14 +7,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 19:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 19:38:19 +0000</lastBuildDate>
     <item>
-      <title>Report X-2024031140</title>
+      <title>Report X-2024031372</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031140&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031372&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-17&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-25&lt;/li&gt;
                 &lt;li&gt;City: TROUTDALE&lt;/li&gt;
                 &lt;li&gt;State: OR&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -25,10 +25,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: WHEN PACKAGE ARRIVED IT WAS SOILED DUE TO BOX BEING CRUSHED DescribePack: BOTTELES INSIDE BOX HAD LOOSE CAPS CAUSEING CONTENTS TO LEAK SOAKING THE TOP HALF OF PACKAGE DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED INTO A HAZMAT DRUM FOR FURTHER INSPECTION&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: WHEN  PACKAGE ARRIVED IT WAS SOILED DUE TO BOX BEING CRUSHED DescribePack: WHEN PACKAGE ARRIVED CONTENTS HAD A LOOSE CAP CAUSING LIQUID TO LEAK DurationRel: 1 and MitigateEffect: CONTENTS WERE PLACED INTO A HAZMAT DRUM FOR FURTHER INSPECTION&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031140</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031372</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -55,12 +55,12 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031068</title>
+      <title>Report X-2024031061</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031068&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031061&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
                 &lt;li&gt;City: PORTLAND&lt;/li&gt;
                 &lt;li&gt;State: OR&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -71,10 +71,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE BROUGHT TO THE PSC FOR PROCESSING. PACKAGE DISCOVRED TO BE LEAKING.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031068</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031061</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -101,12 +101,12 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031061</title>
+      <title>Report X-2024031068</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031061&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031068&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
                 &lt;li&gt;City: PORTLAND&lt;/li&gt;
                 &lt;li&gt;State: OR&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -117,10 +117,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: PACKAGE BROUGHT TO THE PSC FOR PROCESSING. PACKAGE DISCOVRED TO BE LEAKING.&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031061</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031068</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -147,12 +147,12 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031372</title>
+      <title>Report X-2024031140</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031372&lt;/a&gt;&lt;/h3&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031140&lt;/a&gt;&lt;/h3&gt;
             &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-25&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-17&lt;/li&gt;
                 &lt;li&gt;City: TROUTDALE&lt;/li&gt;
                 &lt;li&gt;State: OR&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -163,10 +163,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: WHEN  PACKAGE ARRIVED IT WAS SOILED DUE TO BOX BEING CRUSHED DescribePack: WHEN PACKAGE ARRIVED CONTENTS HAD A LOOSE CAP CAUSING LIQUID TO LEAK DurationRel: 1 and MitigateEffect: CONTENTS WERE PLACED INTO A HAZMAT DRUM FOR FURTHER INSPECTION&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: WHEN PACKAGE ARRIVED IT WAS SOILED DUE TO BOX BEING CRUSHED DescribePack: BOTTELES INSIDE BOX HAD LOOSE CAPS CAUSEING CONTENTS TO LEAK SOAKING THE TOP HALF OF PACKAGE DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED INTO A HAZMAT DRUM FOR FURTHER INSPECTION&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031372</guid>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031140</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -193,6 +193,29 @@
       <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
     </item>
     <item>
+      <title>Report X-2024030841</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030841&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-26T15:10:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-12&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was discovered leaking. It was removed from sortation and brought to QA. DescribePack: Cap was loose. No hazardous markings on box. DurationRel: 1 and MitigateEffect: Package was placed upright in a lined spill bin and brought to the appropriate processing area.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030841</guid>
+      <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
+    </item>
+    <item>
       <title>Report X-2024030723</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030723&lt;/a&gt;&lt;/h3&gt;
@@ -216,12 +239,12 @@
       <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024030841</title>
+      <title>Report X-2024030958</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030841&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-26T15:10:57+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030958&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-12&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-03-18&lt;/li&gt;
                 &lt;li&gt;City: TROUTDALE&lt;/li&gt;
                 &lt;li&gt;State: OR&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
@@ -232,11 +255,11 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered leaking. It was removed from sortation and brought to QA. DescribePack: Cap was loose. No hazardous markings on box. DurationRel: 1 and MitigateEffect: Package was placed upright in a lined spill bin and brought to the appropriate processing area.&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024030958 SequenceEvent: box found soiled and bagged and placed in haz tote DescribePack: side of the box soiled, appears to have been loaded sideways causing minor leak DurationRel: 1 and MitigateEffect: all contents inspected then bagged and repacked in haz drum.   2. X-2024030959 SequenceEvent: package found soiled and bagged and placed in haz tote for inspection DescribePack: box soiled and falling apart one bottle lighter then other DurationRel: 1 and MitigateEffect: all contents inspected and bagged and repacked in haz drum&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030841</guid>
-      <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030958</guid>
+      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
     <item>
       <title>Report X-2024030954</title>
@@ -282,29 +305,6 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030766</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030958</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030958&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-18&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2024030958 SequenceEvent: box found soiled and bagged and placed in haz tote DescribePack: side of the box soiled, appears to have been loaded sideways causing minor leak DurationRel: 1 and MitigateEffect: all contents inspected then bagged and repacked in haz drum.   2. X-2024030959 SequenceEvent: package found soiled and bagged and placed in haz tote for inspection DescribePack: box soiled and falling apart one bottle lighter then other DurationRel: 1 and MitigateEffect: all contents inspected and bagged and repacked in haz drum&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030958</guid>
       <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
     <item>
