@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 00:38:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 03:13:57 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031286</title>
       <description>
@@ -25,33 +25,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was found leaking in the unload. The package handler found a red hazmat bin and transferred the leaking Jerrican to the hazmat bin. The hazmat bin was brought to a QA area and immediately taken to the hazmat cage. DescribePack: Upon further inspection the Jerrican appeared to be leaking from the seam along the bottom. The seam seems to have failed. DurationRel: 2 and MitigateEffect: Upon discovery the hazmat was immediately removed from the dock and brought to the hazmat cage area for further inspection.&lt;/li&gt;
+                &lt;li&gt;Description: X-2024031286, X-2024031289: SequenceEvent: The package was found leaking in the unload. The package handler found a red hazmat bin and transferred the leaking Jerrican to the hazmat bin. The hazmat bin was brought to a QA area and immediately taken to the hazmat cage. DescribePack: Upon further inspection the Jerrican appeared to be leaking from the seam along the bottom. The seam seems to have failed. DurationRel: 2 and MitigateEffect: Upon discovery the hazmat was immediately removed from the dock and brought to the hazmat cage area for further inspection.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031286</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031289</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031289&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
-                &lt;li&gt;City: LONDONDERRY&lt;/li&gt;
-                &lt;li&gt;State: NH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was found leaking in the unload. The package handler found a red hazmat bin and transferred the leaking Jerrican to the hazmat bin. The hazmat bin was brought to a QA area and immediately taken to the hazmat cage. DescribePack: Upon further inspection the Jerrican appeared to be leaking from the seam along the bottom. The seam seems to have failed. DurationRel: 2 and MitigateEffect: Upon discovery the hazmat was immediately removed from the dock and brought to the hazmat cage area for further inspection.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031289</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
