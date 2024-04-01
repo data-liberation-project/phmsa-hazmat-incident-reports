@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 15:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 18:13:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031439</title>
       <description>
@@ -329,98 +329,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030723</guid>
       <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030958</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030958&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-18&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2024030958 SequenceEvent: box found soiled and bagged and placed in haz tote DescribePack: side of the box soiled, appears to have been loaded sideways causing minor leak DurationRel: 1 and MitigateEffect: all contents inspected then bagged and repacked in haz drum.   2. X-2024030959 SequenceEvent: package found soiled and bagged and placed in haz tote for inspection DescribePack: box soiled and falling apart one bottle lighter then other DurationRel: 1 and MitigateEffect: all contents inspected and bagged and repacked in haz drum&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030958</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030954</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030954&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-17&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered by manager in unload. QA was notified and admin began cleanup before taking package to Hazmat Cage for processing. DescribePack: Bottom of plastic drum was split across the middle allowing granulated chemical to spill. DurationRel: 1 and MitigateEffect: Gloves, respirator, and hand brush used to sweep up spilled granules which were placed on lined hazmat tote with damaged package and immediately taken to hazmat cage for processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030954</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030766</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030766&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-10&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package loaded sideways causing leak and was bagged and placed in haz tote for inspection DescribePack: minor leak due to being loaded on its side DurationRel: 1 and MitigateEffect: all contents bagged and repacked in haz drum&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030766</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030446</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030446&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
-                &lt;li&gt;City: HERMISTON&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030446</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

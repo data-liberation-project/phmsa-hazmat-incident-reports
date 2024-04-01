@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 15:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 18:13:48 +0000</lastBuildDate>
     <item>
       <title>Report E-2024030609</title>
       <description>
@@ -191,98 +191,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030832</guid>
       <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030941</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030941&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: PORT SAINT LUCIE&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA received wet plastic pail from Tugger Dave off of load side.  The container was leaking from the edge of the bottom of the pail.  It contained a small hole which caused severe leakage of liquid.  I covered the pail and secured it inside a bucket and away from others. DescribePack: A small hole on the edge of the bottom rim.  Please note pail should have been properly placed inside a plastic bag and into a box. DurationRel: 1 and MitigateEffect: Secured hole with flex tape and bound with regular plastic tape.  Pail enclosed in plastic bag and kept inside a covered bucket.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030941</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030927</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030927&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was being transported by cart from trailer to van line. During transport, the cart turned and the box fell from the cart, landing upside down. Upon seeing leakage, package was reoriented right side up, then transferred into a postage container. DescribePack: 2 of the 4 bottles leaked via the caps, appearing visually less full than the others. The caps on the leaking bottles feel rough to twist and are slightly misaligned to the bottles. DurationRel: 1 and MitigateEffect: Majority of the leakage was absorbed by the external box itself, ruining it in the process. Bottles were removed from box and placed inside a postage bin along with the failed box. Neutralizing agent powder was spread on the spill site.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030927</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030435</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030435&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-14&lt;/li&gt;
-                &lt;li&gt;City: BIRMINGHAM&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On March 14, 2024, one (1) 20-gallon drum containing hydrogen peroxide was damaged by a load shift and released approximately one (1) gallon of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Hull&amp;#x27;s Environmental Services (HES) to remediate the impacted site. Crews placed the damaged 20-gallon drum into a 55-gallon drum and set aside for terminal disposal. HES personnel deployed granular absorbents and a neutralizer to the hydrogen peroxide-impacted trailer interior and swept them in with hand tools. All spent absorbents were collected and containerized into one (1) 55-gallon drum for terminal disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030435</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030445</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030445&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-05&lt;/li&gt;
-                &lt;li&gt;City: THEODORE&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030445</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

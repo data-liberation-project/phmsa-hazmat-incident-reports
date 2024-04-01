@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 15:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 18:13:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031410</title>
       <description>
@@ -812,121 +812,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030469</guid>
       <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030427</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030427&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-14&lt;/li&gt;
-                &lt;li&gt;City: Knoxville&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: AVERITT EXPRESS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Packaging failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030427</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030926</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030926&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
-                &lt;li&gt;City: MURFREESBORO&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was first brought to our attention as it needed further processing. As it was inspected, it was found that the lid of the drum was propped up enough to cause a spillage. The drum was then placed into a plastic bag and into a hazardous tote to mitigate any additional spillage. Tote was then transferred to the HazMat station for further inspection. DescribePack: The lid of the drum was propped up enough to cause a spillage. There was a minor leakage and the outside of the drum as covered in residue. DurationRel: 1 and MitigateEffect: Drum was placed into a plastic bag and then into a hazardous tote to mitigate any additional spillage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030926</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030783</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030783&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-11&lt;/li&gt;
-                &lt;li&gt;City: NASHVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Leaking fiberboard box found in tote on HMPA staging pallet. DescribePack: One of two 4L plastic bottles of Thermo Scientific T08204-K7 lost 5.6lb of fluid from a loose cap closure/compromised seal. DurationRel: 1 and MitigateEffect: PPE donned, ventilation used.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030783</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030755</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030755&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-09&lt;/li&gt;
-                &lt;li&gt;City: LEBANON&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Found on Unload Side at 12:50am inside a ELOU trailer FEDZ553423. Upon Inspection box was leaking Nu-Brite from a loose cap causing internal leakage. DescribePack: The cap on one of the containers was loose causing liquid to come out. Found in the beginning (next to the trailer door) of the trailer with a lot of space to move around. DurationRel: 1 and MitigateEffect: QA was on scene as package was being unloaded and took immediate action to mitigate release.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030755</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030708</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030708&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
-                &lt;li&gt;City: KNOXVILLE&lt;/li&gt;
-                &lt;li&gt;State: TN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package found at 100 van line wet and refused by customer DescribePack: Failure occurred at the lid that was loose creating leak DurationRel: 1 and MitigateEffect: Package placed in a spill kit and taken to HazMat cage to isolate and await processing&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030708</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

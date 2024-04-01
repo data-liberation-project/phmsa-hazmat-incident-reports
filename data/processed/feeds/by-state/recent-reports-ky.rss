@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 15:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 18:13:48 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031315</title>
       <description>
@@ -329,75 +329,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030471</guid>
       <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031009</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031009&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: AT THE UPS WORLDPORT FACILITY IN LOUISVILLE, KENTUCKY, WE RESPONDED TO AN AIR PACKAGE THAT NEEDED TO BE REWRAPPED. UPON INSPECTION OF THE CONTENTS DISCOVERED TWO INNER BOXES MARKED 9MM 147GR RN LOW RECOIL (900 FPS) 500 ROUNDS. THESE INNER BOXES CONTAINED LOOSE AMMUNITION WITH SOME POKING THROUGH ONE SIDE OF THE INNER BOXES. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX TO INDICATE AMMUNITION WAS BEING SHIPPED. THE PACKAGE HAD PREVIOUSLY FLOWN ON UPS AIRCRAFT FROM ATL TO SDF PRIOR TO THE DISCOVERY.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031009</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030956</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030956&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-17&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Hazmat was found wet and QA was called. We cleaned up the spilled product with spill pads and secured the package and soiled clean up equipment in a lined red tote. DescribePack: Cap became loose DurationRel: 1 and MitigateEffect: Package was placed in a lined red tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030956</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030953</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030953&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-25T15:12:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-16&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: While dock walking package was found in a red tote under roller line. Admin picked up package to inspect, found a wet corner and brought it to QA. DescribePack: Once package was opened it was found that one of the bottles had no lid on it and there was substantial amount of product that had leaked out of the bottle into the inside of the package. DurationRel: 1 and MitigateEffect: Package was kept up right in a tote before inspection and after inspection lid was put back on and tightened.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030953</guid>
-      <pubDate>Mon, 25 Mar 2024 15:12:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
