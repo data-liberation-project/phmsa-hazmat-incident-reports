@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2024 06:28:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 15:11:58 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024030626</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030626&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-02T15:11:03+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-18&lt;/li&gt;
+                &lt;li&gt;City: Salt Lake City&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Damaged while loading&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030626</guid>
+      <pubDate>Tue, 02 Apr 2024 15:11:03 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024031426</title>
       <description>
@@ -260,52 +283,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031036</guid>
       <pubDate>Wed, 27 Mar 2024 15:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031003</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031003&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-26T15:10:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: OREM&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO (2) PACKAGES THAT WERE COLD TO THE TOUCH. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY TWO POUNDS OF DRY ICE COOLING MEAT PRODUCTS. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOXES TO INDICATE DRY ICE WAS BEING SHIPPED IN THE AIR NETWORK. ADDITIONAL TRACKING NUMBER TO ANOTHER CONSIGNEE IN THE USA IS 1Z85E85Y0232506412. THE OUTER BOXES ARE PREPRINTED AS PERISHABLE WITH ORIENTATION ARROWS. THESE PACKAGES HAVE NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SERVICE CO. THESE PACKAGES WERE SHIPPED FROM UTAH USING UPS ACCOUNT NUMBER 85E85Y, WASATCH WAGYU, 30661 OLD LINCOLN HWY, COALVILLE UT 84017-9611.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031003</guid>
-      <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024030833</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024030833&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-26T15:10:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-08&lt;/li&gt;
-                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: LOOSE CAPS LEAKING DURING TRANSIT, UNLOADED, PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE. DescribePack: LOOSE CAPS LEAKING FLAMMABLE LIQUID INSIDE A WET SOILED OPENED BOX SOILING ALL CONTENTS INSIDE. DurationRel: 1 and MitigateEffect: PLACED INSIDE A HAZMAT BAG AND RED HAZMAT TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024030833</guid>
-      <pubDate>Tue, 26 Mar 2024 15:10:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
