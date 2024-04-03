@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2024 21:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 15:12:24 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040010</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040010&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-03T15:11:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
+                &lt;li&gt;City: WEST CHESTER&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS CARTAGE LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: PO notified ERTS of a cargo release at terminal XCN. It was reported that approximately 1 quart of BASECOAT BLACK was released from one 1-gallon metal pail due to a forklift puncture. The release impacted the concrete at dock door 99.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040010</guid>
+      <pubDate>Wed, 03 Apr 2024 15:11:30 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024031412</title>
       <description>
@@ -508,7 +531,7 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.   Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: Jerrican has a crack in the bottom of it allowing leakage DurationRel: 0 and MitigateEffect: Can was placed upside down with the crack facing up&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.  Leakage was contained to the box. Package was placed in a lined red tote. DescribePack: Jerrican has a crack in the bottom of it allowing leakage DurationRel: 0 and MitigateEffect: Can was placed upside down with the crack facing up&lt;/li&gt;
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031267</guid>

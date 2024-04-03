@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2024 21:11:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 15:12:24 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040010</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040010&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-03T15:11:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-25&lt;/li&gt;
+                &lt;li&gt;City: OAKLAND&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS FOUND, LEAKING OUTSIDE THE UNLOAD TRAILER. USING THE DECISION TREE AND APPROPRIATE RESPONSE SHEET, PACKAGE WAS CONTAINED, AREA WAS CLEANED, AND PACKAGE WAS BROUGHT TO DMP FOR FURTHER PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040010</guid>
+      <pubDate>Wed, 03 Apr 2024 15:11:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024040006</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040006&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-03T15:11:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-14&lt;/li&gt;
+                &lt;li&gt;City: SANTA FE SPGS&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: XPO terminal ULA contacted the call center to report a spill that occurred inside of a trailer in Santa Fe Springs, CA. The spill consists of 1-19 liter metal can of ERS Racing Fuels, which were found spilled out onto the trailer floor, approximately 1 liters worth was on the ground and already dried at the time of arrival due to being crushed by other freight. The terminal stated there may be more cans that were damaged but they will not know until they break the pallet down.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040006</guid>
+      <pubDate>Wed, 03 Apr 2024 15:11:30 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024030628</title>
       <description>
@@ -561,75 +607,6 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031243</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031243&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was located in the unload package was wet and ripped after a full inspection i notice that one cap was loose causing nitric acid to leak out DescribePack: loose cap DurationRel: 1 and MitigateEffect: used proper PPE to clean up liquid spill&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031243</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031242</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031242&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was located in the unload package was wet and ripped after a full inspection I notice that two caps was loose causing nitric acid to leak out DescribePack: loose cap DurationRel: 1 and MitigateEffect: used proper PPE to clean up liquid spill&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031242</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031241</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031241&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: TRACY&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was located in the unload package was wet and ripped after a full inspection i noticed that one cap was loose causing nitric acid to leak out DescribePack: loose cap DurationRel: 1 and MitigateEffect: used proper PPE to clean up liquid spill&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031241</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024031235</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031235&lt;/a&gt;&lt;/h3&gt;
@@ -646,7 +623,7 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was located in the unload package was wet and ripped after a full inspection i notice that two caps loose causing nitric acid to leak out DescribePack: loose cap DurationRel: 1 and MitigateEffect: used proper PPE to clean up liquid spill&lt;/li&gt;
+                &lt;li&gt;Description: 1.X-2024031235 SequenceEvent: package was located in the unload package was wet and ripped after a full inspection i notice that two caps loose causing nitric acid to leak out DescribePack: loose cap DurationRel: 1 and MitigateEffect: used proper PPE to clean up liquid spill.   2. X-2024031241 SequenceEvent: package was located in the unload package was wet and ripped after a full inspection i noticed that one cap was loose causing nitric acid to leak out DescribePack: loose cap DurationRel: 1 and MitigateEffect: used proper PPE to clean up liquid spill.   3. X-2024031242 SequenceEvent: package was located in the unload package was wet and ripped after a full inspection I notice that two caps was loose causing nitric acid to leak out DescribePack: loose cap DurationRel: 1 and MitigateEffect: used proper PPE to clean up liquid spill.  4. X-2024031243 SequenceEvent: package was located in the unload package was wet and ripped after a full inspection i notice that one cap was loose causing nitric acid to leak out DescribePack: loose cap DurationRel: 1 and MitigateEffect: used proper PPE to clean up liquid spill&lt;/li&gt;
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031235</guid>
@@ -814,29 +791,6 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031126</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031126&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: FRESNO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031126</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024031122</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031122&lt;/a&gt;&lt;/h3&gt;
@@ -853,33 +807,10 @@
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024031122 SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.   2. X-2024031123 SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.  3. X-2024031126 SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.   4. X-2024031127 SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.   5. X-2024031128 SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet&lt;/li&gt;
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031122</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031127</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031127&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: FRESNO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031127</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -903,75 +834,6 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031121</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031129</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031129&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: FRESNO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031129</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031123</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031123&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: FRESNO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031123</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031128</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031128&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: FRESNO&lt;/li&gt;
-                &lt;li&gt;State: CA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to head towards load side 3 and upon arrival QA was notified that the package was leaking. Once QA was notified of damaged hazmat they then quarantined the area ran to get the apropriate gear and items to bag the package. Once they bagged all the packages they then nutralized the spilled content and cleaned the area. DescribePack: Upon inspection the bottom was wet and when we opened the package we inspected all bottles inside and noticed that there was a crack at the bottom. DurationRel: 1 and MitigateEffect: quarantined the area and placed spill mats and then spreaded out nutrilizing agent.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031128</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
@@ -1211,11 +1073,11 @@
             &lt;h4&gt;Identified by scraper @ 2024-03-27T15:12:38+00:00&lt;/h4&gt;
             &lt;ul&gt;
                 &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
-                &lt;li&gt;City: SAN BERNARDINO&lt;/li&gt;
+                &lt;li&gt;City: FONTANA&lt;/li&gt;
                 &lt;li&gt;State: CA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF Freight&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
