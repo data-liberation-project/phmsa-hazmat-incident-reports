@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 18:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 21:12:41 +0000</lastBuildDate>
     <item>
       <title>Report X-2024031424</title>
       <description>
@@ -216,29 +216,6 @@
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
-      <title>Report X-2024031111</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031111&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
-                &lt;li&gt;City: SAINT PETERS&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: HazMat Leaked/exposed to water discoverd on dock with signs of corrosion moved to hazmat area for evaluation DescribePack: No clear signs of internal leakage only from moisture corrosion DurationRel: 1 and MitigateEffect: placed in hazmat tote moved to hazmat area&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031111</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
       <title>Report X-2024031115</title>
       <description>
             &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031115&lt;/a&gt;&lt;/h3&gt;
@@ -259,6 +236,29 @@
             &lt;/ul&gt;
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031115</guid>
+      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024031111</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031111&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
+                &lt;li&gt;City: SAINT PETERS&lt;/li&gt;
+                &lt;li&gt;State: MO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: HazMat Leaked/exposed to water discoverd on dock with signs of corrosion moved to hazmat area for evaluation DescribePack: No clear signs of internal leakage only from moisture corrosion DurationRel: 1 and MitigateEffect: placed in hazmat tote moved to hazmat area&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031111</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
     <item>
