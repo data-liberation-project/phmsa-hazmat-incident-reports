@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 21:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 15:14:24 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040023</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040023&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-04T15:13:28+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
+                &lt;li&gt;City: New Orleans&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3350&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Unsecured freight&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040023</guid>
+      <pubDate>Thu, 04 Apr 2024 15:13:28 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040004</title>
       <description>
@@ -19,7 +42,7 @@
                 &lt;li&gt;State: LA&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Union Pacific Railroad&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY INC&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
@@ -76,29 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030557</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030519</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030519&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-28T15:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-12&lt;/li&gt;
-                &lt;li&gt;City: BASTROP&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: OCCIDENTAL CHEMICAL CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: At approximately 8:30 am, a OxyChem truck driver was delivering Caustic Soda to a customer site (Morehouse BioEnergy) located in Bastrop, LA. The driver met with the customer site operator, completed the “In the Interest of Safety Form” (which is a form utilized by OxyChem truck drivers to ensure that enough space exists in a customer tank prior to unloading), hooked up offloading hoses, and began offloading. Near the end of the offloading process, product began to overflow from the customer&amp;#x27;s storage tank into the containment area. The OxyChem truck driver immediately shut down the offloading process. The customer site operator was present with the driver when the overflow occurred and made a comment that they would have to check the tank level indicator for accuracy because the calculation during the completion of the “In the Interest of Safety Form” showed that there was sufficient capacity available within the storage tank. Customer site personnel washed down the area. The spill was estimated to be approximately 75-gallons. No injuries, property damage, or environmental impact as a result of the incident.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030519</guid>
-      <pubDate>Thu, 28 Mar 2024 15:13:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

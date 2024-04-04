@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 21:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 15:14:24 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040044</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040044&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-04T15:13:28+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-30&lt;/li&gt;
+                &lt;li&gt;City: Calvert City&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: OLD DOMINION FREIGHT LINE INC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Other fell&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040044</guid>
+      <pubDate>Thu, 04 Apr 2024 15:13:28 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040001</title>
       <description>
@@ -214,52 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030553</guid>
       <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031042</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031042&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-28T15:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-26&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO AN AIR PACKAGE THAT HAD CONDENSATION FORMING ON THE OUTER FIBERBOARD BOX. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY 15 POUNDS OF DRY ICE COOLING ICE CREAM. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX TO INDICATE DRY ICE WAS BEING SHIPPED IN THE AIR NETWORK. THERE IS A DRY ICE CAUTION STATEMENT ON AN INNER FLAP OF THE BOX, NOT VISIBLE UNTIL AFTER OPENING THE BOX.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031042</guid>
-      <pubDate>Thu, 28 Mar 2024 15:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024020031</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024020031&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-28T00:34:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-21&lt;/li&gt;
-                &lt;li&gt;City: ELIZABETHTOWN&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: LEWIS TRANSPORT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 6310&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
-                &lt;li&gt;Description: Driver pulled into rack to deliver product. While making turn, the driver caught a piece of angled iron from the rack right at the top of compartment #4 of the trailer. He did no realize what had happened and continued to position truck and trailer for delivery. This movement caused a rip in the inner and outer shell of the trailer allowing product to run out of the trailer. The fire dept. was called and they were able to put down booms immediately upon arrival and contain the product to the concrete apron and the oil/water separator/retention area under the trailer. The NRC was called, KY EPA was contacted along with, a spill response team for remediation and clean up. Lewis personnel responded as well to help coordinate delivery of product still in trailer and make sure clean up was done in timely manner.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024020031</guid>
-      <pubDate>Thu, 28 Mar 2024 00:34:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
