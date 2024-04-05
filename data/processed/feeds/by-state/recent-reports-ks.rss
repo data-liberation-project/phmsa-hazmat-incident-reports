@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Apr 2024 15:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 18:14:29 +0000</lastBuildDate>
     <item>
       <title>Report X-2024040091</title>
       <description>
@@ -214,121 +214,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030617</guid>
       <pubDate>Mon, 01 Apr 2024 03:13:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031338</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031338&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-22&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: While a package handler was unloading a trailer, he noticed that a package was leaking and he told his manger. DescribePack: the contents got loose cap and spilled out like one gallon in total. DurationRel: 1 and MitigateEffect: The manage called QA, QA went to the area and clean the spilled and brought the packaged in a tote line with a hazmat bag.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031338</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031086</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031086&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: A LEAKING HAZMAT WAS FOUND ON THE UNLOAD AREA. THE RESPONDER REFERED TO THEIR DECISION TREE AND PLACED THE LEAKING PACKAGE IN A LINED SPILL TUB. CLEANED UP THE SPILL AND MOVED THE PACKAGE TO THE DMP AREA FOR FURTHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031086</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031218</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031218&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2024031218 SequenceEvent: MANAGER NOTICED THE PACKAGE WAS LEAKING ON THE IC BELTAND NOTIFIED QA. QA PLACED THE PACKAGE IN A LINED TOTE AND THEN TOOK THE PACKAGE TO THE PROCESSING CAGE. DescribePack: ONE BOTTLE WAS LEAKING OUT FROM AROUND THE CAP AND SOILED THE BOX. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE.   2. X-2024031268 SequenceEvent: MANAGER NOTICED THE PACKAGE WAS LEAKING IN THE CHUTE AND NOTIFIED QA. QA PLACED THE PACKAGE IN A LINED TOTE AND CLEANED UP THE SPILL. THE PACKAGE WAS THEN TAKEN TO THE PROCESSING CAGE. DescribePack: BOTH OF THE BOTTLES WERE LEAKING OUT FROM AROUND THE CAPS AND SOILED THE BOX. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A LINED TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031218</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031139</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031139&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was discovered while unloading a trailer. It was reported to QA by the manager. It was recovered and brought to the processing cage. DescribePack: The liquids leaked through a loose cap DurationRel: 1 and MitigateEffect: The spill was cleaned with absorb-all and the package was placed in a tote with a liner.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031139</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031105</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031105&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-12&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered inside plastic tote on a pallet. Directional arrows were pointed up DescribePack: Loose cap on 1 gallon jug DurationRel: 1 and MitigateEffect: PPE was used, box was isolated from other packages.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031105</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

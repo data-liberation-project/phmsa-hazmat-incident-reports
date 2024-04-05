@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Apr 2024 15:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 18:14:29 +0000</lastBuildDate>
     <item>
       <title>Report X-2024040069</title>
       <description>
@@ -99,52 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040051</guid>
       <pubDate>Thu, 04 Apr 2024 15:13:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031303</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031303&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-22&lt;/li&gt;
-                &lt;li&gt;City: DUPONT&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was placed into a bin in unload, Brought over to QA for inspection. Box was visibly wet, Upon inspection the containers of degreaser had loose caps causing them to leak out. DescribePack: Seals/Caps were loose causing the liquid to leak out. DurationRel: 2 and MitigateEffect: Caps were tightened, Spills were wiped up.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031303</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024031112</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024031112&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-03-29T18:14:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-01&lt;/li&gt;
-                &lt;li&gt;City: SPOKANE&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was found leaking and upside down was placed in a red hazmat tote and brought to QA repack DescribePack: the bottom of the box was wet and ripped out 2 of the bottles were loose and leaked inside the box do to being upside down DurationRel: 2 and MitigateEffect: it was placed in a red lined hazmat tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024031112</guid>
-      <pubDate>Fri, 29 Mar 2024 18:14:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
