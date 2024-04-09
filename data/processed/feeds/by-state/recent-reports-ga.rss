@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Apr 2024 12:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 15:12:30 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040109</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040109&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-09T15:11:35+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-13&lt;/li&gt;
+                &lt;li&gt;City: SAVANNAH&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: It was reported that due to the product being impacted by other freight, approximately .5 teaspoon of Tufcote 3.3 PR High Solids Fast Dry Alkyd Primer - White (hazardous - UN1263) was released. The caller stated that the released product was contained to the pallet and did not impact the trailer floor. The released product and 2 damaged cans were placed into a 30-gallon poly drum and staged in OS&amp;amp;D. There were no drains soils or waterways reported to have been impacted by the release.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040109</guid>
+      <pubDate>Tue, 09 Apr 2024 15:11:35 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040080</title>
       <description>
@@ -99,29 +122,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040003</guid>
       <pubDate>Wed, 03 Apr 2024 15:11:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024030623</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024030623&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-02T15:11:03+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: Calhoun&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Packaging failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024030623</guid>
-      <pubDate>Tue, 02 Apr 2024 15:11:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
