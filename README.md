@@ -13,13 +13,13 @@ This repository, developed by the [Data Liberation Project](https://www.data-lib
 - Automate the downloading of all data available through the portal
     - Status: 🟢 All data, going back to January 1971, has been fetched, and recent months' data is being [updated on a regular schedule](METHODOLOGY.md)
 - Develop documentation to aid in the interpretation of the reports
-    - Status: 🔵 In progress
-- Generate one file that contains a subset of fields (to keep size within GitHub's limits) for *all* reports
-    - Status: 🟠 Not yet started
-- Generate filtered data focusing just on the most *serious* reports
-    - Status: 🟢 Completed, now available [here](data/processed/filtered/)
+    - Status: 🟢 Completed, now available [here](https://docs.google.com/document/d/1dDkxB6yVKJLwlaV75wvx4Av-rm1YfUOAWXQbiwe-tLc/edit)
 - Provide RSS feeds with the latest available incidents, nationally and by state
     - Status: 🟢 Completed, now available [here](data/processed/feeds/)
+- Generate filtered data focusing just on the most *serious* reports
+    - Status: 🟢 Completed, now available [here](data/processed/filtered/)
+- Generate one file that contains a subset of fields (to keep size within GitHub's limits) for *all* reports
+    - Status: 🟠 Not yet started
 - Provide RSS feeds listing incident [updates](https://www.ecfr.gov/current/title-49/subtitle-B/chapter-I/subchapter-C/part-171/subpart-B/section-171.16#p-171.16\(c\))
     - Status: 🟠 Not yet started
 - Standardize/normalize the data
@@ -37,6 +37,7 @@ A set of *all years* incidents *filtered* to just the most “serious” are ava
 
 ### Resources
 
+- [The Data Liberation Project's documentation of the data](https://docs.google.com/document/d/1dDkxB6yVKJLwlaV75wvx4Av-rm1YfUOAWXQbiwe-tLc/edit)
 - [PHMSA's data dictionary for the report data](https://portal.phmsa.dot.gov/HIP_Help/DataDictionary.pdf)
 - [PHMSA's *Serious Incident Definition*](https://portal.phmsa.dot.gov/HIP_Help/serious_incident_new_def.pdf)
 
