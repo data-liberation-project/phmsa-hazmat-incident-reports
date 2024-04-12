@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Apr 2024 12:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 15:12:07 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040171</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040171&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-12T15:11:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-25&lt;/li&gt;
+                &lt;li&gt;City: FAYETTEVILLE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On March 25th two packages were found by a courier while loading a delivery vehicle that were leaking.  The package was marked as UN1830, Sulphuric Acid, 8, II.   The packages each contained one 2.5L bottle but we are unsure of how the inner receptacle failed.  The packages were placed into steel salvage drums and are pending disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040171</guid>
+      <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024040165</title>
       <description>
@@ -122,29 +145,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040119</guid>
       <pubDate>Tue, 09 Apr 2024 15:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040056</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040056&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-05T15:11:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
-                &lt;li&gt;City: MEBANE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040056</guid>
-      <pubDate>Fri, 05 Apr 2024 15:11:25 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Apr 2024 12:17:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 15:12:07 +0000</lastBuildDate>
     <item>
       <title>Report I-2024040041</title>
       <description>
@@ -99,52 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040019</guid>
       <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040077</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040077&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-05T15:11:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-25&lt;/li&gt;
-                &lt;li&gt;City: WARWICK&lt;/li&gt;
-                &lt;li&gt;State: RI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WAS CALLED FOR A WET PACKAGE ON THE SORT AISLE, RESPONDER FOLLOWED PROPER PROCEDURE THROUGH THE DECISION TREE AND RETURNED WITH PACKAGE TO DMP. UPON CLEAN UP AND INSPECTION RESPONDER DISCOVERED UNDERCLARED HYDROGEN PEROXIDE AND PEROXYACETIC ACID MIXTURES&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040077</guid>
-      <pubDate>Fri, 05 Apr 2024 15:11:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040075</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040075&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-05T15:11:25+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-23&lt;/li&gt;
-                &lt;li&gt;City: WARWICK&lt;/li&gt;
-                &lt;li&gt;State: RI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: DAMAGE INSPECTION; LEAKER. DISCOVERED UNDECLARED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040075</guid>
-      <pubDate>Fri, 05 Apr 2024 15:11:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
