@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Apr 2024 12:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 15:13:21 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040318</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040318&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
+                &lt;li&gt;City: MOSINEE&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The unload team were unloading a trailer when the package was notice and QA was notified. cleaned and concealed for further inspections. DescribePack: The problem for this package was lack of packing skills with liquids. There was no cap on my container and the container was put inside of the box sideways. so almost all the liquid spilled thru the box. DurationRel: 1 and MitigateEffect: separate the package from others and put in a better container&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040318</guid>
+      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040197</title>
       <description>
@@ -122,52 +145,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040155</guid>
       <pubDate>Wed, 10 Apr 2024 15:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040080</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040080&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-08T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
-                &lt;li&gt;City: MILWAUKEE&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: One 55 gallon metal drum was punctured during loading, released 1 pint on dock.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040080</guid>
-      <pubDate>Mon, 08 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040099</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040099&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-08T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-23&lt;/li&gt;
-                &lt;li&gt;City: BALDWIN&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: THIS PACKAGE WAS LEAKED ON AND AS OPENED IT WAS DETERMINED THAT IT CONTAINED UNDECLARED AEROSOL CANS. REWRAP; PACKAGE WAS LEAKED ON; NO LEAK TO AEROSOL&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040099</guid>
-      <pubDate>Mon, 08 Apr 2024 15:12:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

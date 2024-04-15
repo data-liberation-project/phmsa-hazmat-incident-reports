@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Apr 2024 12:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 15:13:21 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040215</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040215&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-09&lt;/li&gt;
+                &lt;li&gt;City: SPRINGFIELD&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO A PACKAGE THAT WAS COLD TO THE TOUCH. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY FIVE POUNDS OF DRY ICE COOLING ICE CREAM. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS SHIPPED FROM OREGON USING UPS ACCOUNT NUMBER 6029X7, DNA QUALITY, 1130 SHELLEY ST, SPRINGFIELD OR 97477-1916.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040215</guid>
+      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040327</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040327&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE HAD A LOOSE CAP DURING SORTATION AND NO PLASTIC BAG ALLOWING THE CONTENTS TO LEAK. DescribePack: LEAK CAME FROM CLOSURE ABOUT THE SIZE OF A STANDARD GALLON MILK JUG DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED IN TOTE AND BROUGHT TO QA FOR INSPECTION.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040327</guid>
+      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040227</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040227&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: THE PLASTIC PAIL FELL OFF THE ROLLERS IN THE UNLOAD DAMAGING THE PAIL THE PAIL WAS PUT I A HAZ TOTE AND TAKEN TO QA DescribePack: THE SIDE OF THE PLASTIC PAIL WAS PUSHED IN AND THE LID WAS LEAKING DurationRel: 1 and MitigateEffect: THE PAIL WAS PUT IN A HAZ TOTE AND TAKEN TO QA&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040227</guid>
+      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040204</title>
       <description>
@@ -53,29 +122,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040226</guid>
       <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040114</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040114&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-08T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-26&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: UNLOADER FOUND PACKAGE THAT WAS EXTERNAL SOURCE AFFECTED. RESPONDER RESPONDED. UPON OPENING PACKAGE, FOUND LITHIUM ION BATTERIES, BUT NO WARNING LABEL ON BOX. FLAGGED PACKAGE AS POSSIBLE UNDECLARED HAZMAT AS PER UPS POLICY AND NOTIFIED SUPERVISOR.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040114</guid>
-      <pubDate>Mon, 08 Apr 2024 15:12:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

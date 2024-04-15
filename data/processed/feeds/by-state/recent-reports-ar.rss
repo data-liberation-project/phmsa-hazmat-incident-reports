@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Apr 2024 12:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 15:13:21 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040301</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040301&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
+                &lt;li&gt;City: TEXARKANA&lt;/li&gt;
+                &lt;li&gt;State: AR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On April 3, 2024, one (1) 330-gallon tote of sodium hydroxide was damaged in transit due to a load shift and released approximately one (1) gallon of product to the trailer interior and pavement beneath. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from MidSouth Environmental Services (MSES) to remediate the impacted site. MSES personnel utilized a degreasing agent with absorbent wipes to collect any product on the trailer floor.  All sodium hydroxide-impacted material was collected and containerized in one (1) 55-gallon drum and MSES personnel took possession of the waste.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040301</guid>
+      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024040276</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040276&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-29&lt;/li&gt;
+                &lt;li&gt;City: WEST MEMPHIS&lt;/li&gt;
+                &lt;li&gt;State: AR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040276</guid>
+      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040294</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040294&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-27&lt;/li&gt;
+                &lt;li&gt;City: LOWELL&lt;/li&gt;
+                &lt;li&gt;State: AR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: SOMETIME DURING TRANSIT TO THE DESTINATION FACILITY, THE PACKAGE WAS ON ITS SIDE CAUSING PRESSURE TO THE LID SEAL. THIS CAUSED LEAKAGE. PACKAGE WAS PLACED IN HAZMAT BAG AND RED HAZMAT TORTE DescribePack: LEAKAGE FROM LID SEAL DUE TO PRESSURE DurationRel: 4 and MitigateEffect: PACKAGE WS PLACED UPRIGHT IN HAZMAT BAG AND TOTE.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040294</guid>
+      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024040188</title>
       <description>
@@ -30,29 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040188</guid>
       <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040083</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040083&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-08T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
-                &lt;li&gt;City: LITTLE ROCK&lt;/li&gt;
-                &lt;li&gt;State: AR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: WHILE CONDUCTING POST TRIP INSPECTION ENROUTE TO DELIVERY, DRIVER DISCOVERED RESIDUE ON TOP OF TRAILER CAUSED BY OPEN AIR INLET VALVE. VALVE CLOSED AND CAPPED. RELEASE CLEANED UP AND MATERIAL DELIVERED WITHOUT ADDITIONAL INCIDENT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040083</guid>
-      <pubDate>Mon, 08 Apr 2024 15:12:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
