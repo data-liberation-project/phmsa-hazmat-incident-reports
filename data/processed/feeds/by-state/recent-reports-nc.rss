@@ -7,7 +7,99 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Apr 2024 00:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 18:14:43 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040407</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040407&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-30&lt;/li&gt;
+                &lt;li&gt;City: DURHAM&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The damaged package was placed in a hazardous materials tote and taken to the hazardous materials staging area away from personnel and other packages. DescribePack: Upon inspection it was noted that the plastic pail of calcium bypochlorite was cracked at the bottom causing the contents to spill. There was no other packaging in the box. DurationRel: 1 and MitigateEffect: The damaged package was placed in a hazardous materials drum awaiting the letter of disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040407</guid>
+      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040360</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040360&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-29&lt;/li&gt;
+                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: When the door on the trailer was lifted. The package was crushed by another package that landed on top of this package. The impact caused the jug inside to be crushed and the liquid in the jugs shot off of the jug. Cap is missing. The liquid soiled the box it was packaged in. DescribePack: The cap shot off the top of the jug. All of the liquid leaked out of the hole in the top of the jug. It all poured out from the top. DurationRel: 7 and MitigateEffect: The package was placed in the yellow Haz Mat bucket along with the plastic bag for Haz Mats as well.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040360</guid>
+      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040359</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040359&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
+                &lt;li&gt;City: DURHAM&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: As package was being placed onto a tugger in the Unload to be taken out to the Van Lines, a package handler said they thought they smelled a strange scent coming from packages on the cart and alerted QA. QA detected the smell was coming from this package and noticed small amount of outer packaging appeared wet from something inside, despite no other packages on pallet being wet. Upon determination, package was placed in red, lined hazmat tote and transported to processing area. No other packages found to be affected and upon opening Hazmat package (outer packaging then internal packaging containing regulated contents) determined the internal leakage was very minimal at time, all confined within inner and outer packaging. DescribePack: A cap on one of the two regulated containers within the inner packaging came loose somehow, resulting in a small internal leak of contents inside inner packaging w/ some product eventually seeping into outer packaging as well; all leaking was determined to be confined within inner and outer packaging, none on other packages or employees. No punctures or other signs/causes of leakage on any containers in package. Amount of leakage overall was very minimal. DurationRel: 1 and MitigateEffect: The Unload team was quick to alert QA upon noticing the odor when package came off of trailer and on tugger cart. This enabled the responding QA to assess situation, place the hazmat in lined red tote, and get it moved from the sort to the hazmat processing area in a timely, safe, &amp;amp; efficient manner while being sure to follow necessary protocols and procedure. As such the release of product was confined to the package itself and outer spill/leakage was prevented.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040359</guid>
+      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040372</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040372&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
+                &lt;li&gt;City: FLETCHER&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package found wet on trailer placed in a plastic tub moved to QA Staging location DescribePack: . DurationRel: 1 and MitigateEffect: Moved from the QA Staging location to the hazmat Cage for processing.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040372</guid>
+      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040379</title>
       <description>
@@ -283,29 +375,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040141</guid>
       <pubDate>Wed, 10 Apr 2024 15:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040119</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040119&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-09T15:11:35+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
-                &lt;li&gt;City: CHARLOTTE&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 6500&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal NCH experienced a UN1824 Greasestrip Plus release from a box containing (4) 1-gallon poly jugs as well as a release of UN3264 Lime-A-Way from a box containing (4) 1-gallon poly jugs. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 2-gallons of each product, (4-gallons combined) released to a 4’ x 4’ area of the trailer floor due to a forklift puncture. Soda ash solution and oil dri were deployed to clean and neutralize the impacted area. All impacted absorbents, cardboard, PPE, and the two empty pails of UN3264 Lime-A-Way were placed into a 55-gallon poly drum. The two empty jugs, and two damaged jugs of UN1824 Greasestrip Plus were placed into a separate 55-gallon poly drum. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040119</guid>
-      <pubDate>Tue, 09 Apr 2024 15:11:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

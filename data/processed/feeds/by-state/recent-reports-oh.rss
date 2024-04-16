@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Apr 2024 00:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 18:14:43 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040394</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040394&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-30&lt;/li&gt;
+                &lt;li&gt;City: GROVE CITY&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Certified personnel were notified of a distressed package, which was pulled from the system.  Package was placed in a lined red tote. DescribePack: metal pail had a puncture near the bottom allowing leakage DurationRel: 0 and MitigateEffect: Pads were used soak up the liquid and placed in a lined red tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040394</guid>
+      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040383</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040383&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-29&lt;/li&gt;
+                &lt;li&gt;City: CINCINNATI&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found in Red Hazmat Bin lined with Hazmat Bag. Unknown cause of damage. DescribePack: Small crack on bottleneck on two bottles. Top of bottle appears to have been crushed causing small crack. DurationRel: 1 and MitigateEffect: Package was placed in Red Hazmat Bin lined with Clear Hazmat Bag&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040383</guid>
+      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040339</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040339&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
+                &lt;li&gt;City: RICHFIELD&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS ON A VAN FOR DELIVERY BUT RETURNED BACK DAMAGED. PACKAGE WAS PUT IN A LINED TOTE TO HELP THE LEAK. DescribePack: ONE OF THE BOTTLES HAS A LOOSE AND BROKEN CAP CAUING IT TO LEAK. DurationRel: 1 and MitigateEffect: PACKAGE WAS PUT IN A LINED TOTE TO HELP THE LEAK&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040339</guid>
+      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024040294</title>
       <description>
@@ -421,29 +490,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040160</guid>
       <pubDate>Wed, 10 Apr 2024 15:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040101</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040101&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-09T15:11:35+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-09&lt;/li&gt;
-                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO Logistics&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: It was reported that approximately 1-gallon of regulated UN1263 &amp;quot;Activator - Mid Temp&amp;quot; was released from a one-gallon metal pail due to being punctured by a forklift during dock operations impacting Dock #155. ERTS reviewed the SDS with the caller who felt comfortable completing the clean-up with terminal-issued PPE. The damaged metal pail, PPE, and impacted Oil Dri was containerized in one (1) 30-gallon metal drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040101</guid>
-      <pubDate>Tue, 09 Apr 2024 15:11:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
