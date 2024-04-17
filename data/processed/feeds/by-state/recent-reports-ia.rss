@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Apr 2024 12:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 15:17:05 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040421</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040421&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
+                &lt;li&gt;City: CEDAR RAPIDS&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package came down on the NC belt and leaked on the belt and the floor. Package handler and QA member cleaned Hazmat liquid with absorbent pads in house clear up was successful hazmat was then put in a red lined tote and brought to QA station to do proper hazmat disposal process. DescribePack: broken/loose cap on both bottles. one completely broke off and other bottle just lost its cap DurationRel: 1 and MitigateEffect: In house clean up. used absorbent pads to clean up spill&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040421</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040468</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040468&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-29&lt;/li&gt;
+                &lt;li&gt;City: OTTUMWA&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package handler was unloading a trailer and spotted a damp package. Package was put into a tote and sent to QA for inspection. During inspection, it was determined the the battery was leaking battery acid. DescribePack: The package seemed to be in good condition with sufficient packing material. This has lead station personnel to believe the battery was compromised before it was picked up. DurationRel: 5 and MitigateEffect: the package was put into a tote and the battery was set upright to reduce the leakage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040468</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024040246</title>
       <description>
@@ -99,29 +145,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040129</guid>
       <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040151</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040151&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-10T15:11:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
-                &lt;li&gt;City: DES MOINES&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040151</guid>
-      <pubDate>Wed, 10 Apr 2024 15:11:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

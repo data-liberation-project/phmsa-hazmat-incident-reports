@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Apr 2024 12:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 15:17:05 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040627</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040627&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
+                &lt;li&gt;City: BELLEVILLE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Parcel was found leaking paint from corner. Parcel was placed in a hazmat bin. DescribePack: Top of paint can body, by lid was bent, which allowed paint to leak out. DurationRel: 0 and MitigateEffect: Parcel was placed in a hazmat bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040627</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040528</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040528&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
+                &lt;li&gt;City: LAKE ORION&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: QA was made aware that there was leaking hazmat on the ground. QA was told that the driver had the package on their truck from the previous day and that when he opened up his side door the package fell out of his truck and onto the ground. The package was put into a plastic lined bin. QA stopped the continued downhill movement of the liquid with absorbent pads. The liquid was tested and came up acidic. Neutralizer was put onto the spill until it came up as non-acidic. Loose particulate was then placed on the spill area to absorb the liquid. DescribePack: The cap was loose on one of the jugs. The cap fell off after the package fell out of the drivers truck. DurationRel: 1 and MitigateEffect: Neutralizer was used to negate the acid in the liquid. Loose particulate was placed on the spill.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040528</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040464</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040464&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-02&lt;/li&gt;
+                &lt;li&gt;City: BELLEVILLE&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Parcel was placed in a hazmat bin after being brought in. Package was staged until inspection could be done. DescribePack: Lids on jerrycans were open and liquid leaked out through the space between the cap and opening. DurationRel: 0 and MitigateEffect: Parcel was placed in a hazmat bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040464</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040382</title>
       <description>
@@ -191,29 +260,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040050</guid>
       <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040127</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040127&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-10T15:11:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
-                &lt;li&gt;City: BATTLE CREEK&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon metal pail was punctured during unloading, released 2 ounces on dock.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040127</guid>
-      <pubDate>Wed, 10 Apr 2024 15:11:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

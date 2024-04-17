@@ -7,7 +7,168 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Apr 2024 12:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 15:17:05 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040486</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040486&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
+                &lt;li&gt;City: LEWISBERRY&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: shipment was taken out of system flow due to external carton wet and leaking upon inspection of inner content 2x 2.5-gallon plastic bottles of convo clean 1 x 2.5-gallon plastic bottle of convo clean had a loose cap allowing .25 gallons to release from bottle. Package had plastic bags no slotted partitions or absorbent was found. Facility procedures for damaged hazardous materials followed contents contained and awaiting disposition. DescribePack: 1 x 2.5-gallon plastic bottle of convo clean had a loose cap allowing .25 gallons to release from bottle. DurationRel: 1 and MitigateEffect: leaking package was placed in a hazmat bag lined tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040486</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040452</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040452&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
+                &lt;li&gt;City: MIDDLETOWN&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found in the unload, upon inspection one of the two bottles had a loose cap and leaked inside and outside of the package. DescribePack: 1 Gallon bottle had a loose cap, which leaked even though it had a plastic bag on it for extra security. DurationRel: 1 and MitigateEffect: Package was placed in a bin and taken to QA where it was contained in the QA hazmat cage and processed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040452</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040448</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040448&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
+                &lt;li&gt;City: NORTHAMPTON&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The hazmat pkg came down QA01 belt from the unload. Noticed a wet spot on the bottom of the box. I grabbed my PPE and put the damaged hazmat pkg in a red hazardous waste bin for inspection. DescribePack: One of the bottle have a puncture hole on the bottom of the bottle, it was leaking out slowly DurationRel: 12 and MitigateEffect: The bottle with the puncture hole on the bottom of the bottle had to be placed upside down to prevent any more liquid leaking out.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040448</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040470</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040470&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
+                &lt;li&gt;City: MUNCY&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package handler found the package while van was being unloaded. Package handler noticed it was wet, alerted manager, and manager brought to QA to be processed. DescribePack: The lids appeared ok on both bottles but the body of one bottle was dented. Could not be positive what caused the leak or where it was coming from. DurationRel: 1 and MitigateEffect: Package was placed in a hazmat bin and brought to Qa.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040470</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040422</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040422&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
+                &lt;li&gt;City: NORTHAMPTON&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: package unloaded from a trailer during the preload sort and arrived to vanline leaking. Package was placed in a hazmat bag. DescribePack: caps loosened off of bottles and liquid leaked out DurationRel: 0 and MitigateEffect: package was placed inside a hazardous materials bag to prevent liquid from leaking more onto the floor or other packages.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040422</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040433</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040433&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
+                &lt;li&gt;City: ZELIENOPLE&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The box was found by the load side manager. The box had a code 10 on it and it smelled really strong. Upon inspection,  one of the bottles cap was loose and its inner seal was broken causing it to leak. DescribePack: the cap was loose and inner seal broken. DurationRel: 0 and MitigateEffect: The box was placed in a hazmat tote and taken to the hazmat cage&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040433</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040491</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040491&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-29&lt;/li&gt;
+                &lt;li&gt;City: BREINIGSVILLE&lt;/li&gt;
+                &lt;li&gt;State: PA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: BOX WAS LEAKING IN UNLOAD TRAILER AND GIVEN TO QA. QA OPENED BOX FOR INSEPCTION AND DISCOVERED IT TO BE A LARGE BATTERY. THE BATTERY WAS WRAPPED IN PLASTIC BUT THERE WAS A HOLE IN THE PLASTIC CAUSING THE SPILL TO FUTHER LEAK. DUE TO THE HAZARDOUS NATURE OF A BATTERY THE PACKAGE WAS PUT IN A SAVAGE DRUM DescribePack: SMALL HOLE IN PLASTIC COVEREING BATTERY. BATTERY ITSELF WAS WET DurationRel: 1 and MitigateEffect: PACKAGE WAS SECURED IN DRUM IN THE CAGE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040491</guid>
+      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040654</title>
       <description>
@@ -467,52 +628,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040037</guid>
       <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040129</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040129&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-10T15:11:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-06&lt;/li&gt;
-                &lt;li&gt;City: NEW COLUMBIA&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 4500&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: XPO-XMI contacted ERTS regarding a punctured supersac containing 100Y Litharge Lead Monoxide. The  supersac was punctured by a forklift resulting in the release of approximately 1lb of product onto the wooden  trailer floor in a 2’x2’ area. A Contractor responded at a scheduled time to perform a supersac transfer and  clean-up the released product. A CUYD and a 55-gallon DF was generated for waste disposal. No storm-drains,  waterways, or soil were affected by this incident.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040129</guid>
-      <pubDate>Wed, 10 Apr 2024 15:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040137</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040137&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-10T15:11:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-22&lt;/li&gt;
-                &lt;li&gt;City: POCONO SUMMIT&lt;/li&gt;
-                &lt;li&gt;State: PA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040137</guid>
-      <pubDate>Wed, 10 Apr 2024 15:11:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
