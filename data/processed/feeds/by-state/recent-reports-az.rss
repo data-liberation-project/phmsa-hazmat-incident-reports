@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 12:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:15:12 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040535</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040535&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
+                &lt;li&gt;City: PHOENIX&lt;/li&gt;
+                &lt;li&gt;State: AZ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: An unloader was unloading a trailer when the package was leaking to which they put in a tote with a hazmat bag over the leaking package. DescribePack: The items cap was loose. DurationRel: 1 and MitigateEffect: Replace the old hazmat bag with a new one to cover up the package and put it in a hazmat drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040535</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040550</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040550&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
+                &lt;li&gt;City: PHOENIX&lt;/li&gt;
+                &lt;li&gt;State: AZ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: this package was unloaded leaking from side of package. DescribePack: package was damage due to lose lids. DurationRel: 1 and MitigateEffect: I place hazmat into a hazmat bag and into a hazmat drum.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040550</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040512</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040512&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
+                &lt;li&gt;City: PHOENIX&lt;/li&gt;
+                &lt;li&gt;State: AZ&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Product arrived already leaking, put hazmat in hazmat bag and processed the product DescribePack: crack at the bottom of the pail DurationRel: 1 and MitigateEffect: put hazmat in hazmat bag&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040512</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040642</title>
       <description>
@@ -283,29 +352,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040187</guid>
       <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040144</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040144&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-02&lt;/li&gt;
-                &lt;li&gt;City: GOODYEAR&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: UPON ARRIVAL THE DECLARED HAZMAT WAS ON THE FLOOR WITH THE BOTTOM EDGES OF THE BOX WET. RESPONDER APPROACHED THE DECLARED HAZMAT WEARING FULL PPE. ONCE THE PACKAGE WAS SAFELY PLACED ON THE PITO-CART, RESPONDER PROCESSED THROUGH DMP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040144</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

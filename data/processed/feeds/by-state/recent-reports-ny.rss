@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 12:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:15:12 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040549</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040549&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
+                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Package was found wet, immediately put into a black bin with a bag to prevent more leaking. DescribePack: Cap on one of the bottles came completely off. DurationRel: 1 and MitigateEffect: Package put into black bin with bag.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040549</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040489</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040489&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
+                &lt;li&gt;City: HOLBROOK&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The box was loaded onto the van for delivery. At this time the bottom of the box opened up and the product started leaking out. The manager was radioed immediately. The manager came over to the van with rubber gloves on and a red hazmat bin. The box and bucked were placed inside the hazmat bin. DescribePack: The tape had failed on the bottom of the box. Upon inspection saw the bottom of the bucket had a crack in it where the product was leaking out of. The crack was about 6 inches long. The bucket was inside the box without any cushioning on the bottom, sides and top. This left excess room inside the overpack fiberboard box the bucket was shipped in for movement of the bucket inside the box. DurationRel: 1 and MitigateEffect: The box and bucket were placed inside a red hazmat plastic bucket. This is containing the release of the product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040489</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040645</title>
       <description>
@@ -352,75 +398,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040228</guid>
       <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040173</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040173&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
-                &lt;li&gt;City: Tonawanda&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 3800&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Packaging failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040173</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024040055</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024040055&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-02&lt;/li&gt;
-                &lt;li&gt;City: Long Island City&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 04/02/2024 hidden dangerous goods were discovered during the shipment inspection process at the DHL Express LIC facility, located at 12-12 33rd Avenue, Long Island City, NY 11106.   Transportation by road has been confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040055</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040202</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040202&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
-                &lt;li&gt;City: BETHPAGE&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040202</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

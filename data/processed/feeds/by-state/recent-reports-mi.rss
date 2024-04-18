@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 12:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:15:12 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040621</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040621&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
+                &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The wet box was found in unload and was placed in a plastic lined damaged Hazmat tote and brought to QA for inspection. Upon inspection it was discovered that one of the glass bottles of the Honeywell Methanol was broken inside the shipping box. All the proper procedures were followed. DescribePack: The 4L glass bottle of Methanol was broken inside the shipping box. DurationRel: 1 and MitigateEffect: The wet box was put in a plastic lined Hazmat tote and brought to QA for inspection.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040621</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040627</title>
       <description>
@@ -168,98 +191,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040196</guid>
       <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040169</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040169&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
-                &lt;li&gt;City: Ypsilanti&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 3500&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Valve Damage/Failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040169</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040159</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040159&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: FLINT&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040159</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040175</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040175&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-02&lt;/li&gt;
-                &lt;li&gt;City: KENTWOOD&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: One 5 gallon metal pail was crushed in transit, released 0.5 cups in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040175</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024040050</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024040050&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-07&lt;/li&gt;
-                &lt;li&gt;City: Bridgeport&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: MARTIN TRANSPORT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 20712&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
-                &lt;li&gt;Description: Driver was traveling north bound on I-75 north of Flint, MI when he was pulled over by Michigan State Police at 16:15 ET for a lane restriction violation. Upon inspection of the tractor/trailer, the trooper detected a leak coming out from under the ss skin on the bottom of the trailer just in front of the rollover protection. A tub was placed underneath the leak to contain it until the cleanup crew from Michigan Spill Response arrived on scene. After a short period of time, the leak stopped and there was only residue on the trailer. At that time, the top of the trailer was visually inspected and right above the area of the leak, there was a 3&amp;quot; washout cap that had fresh residue in the area which indicated that it had leaked. When Michigan Spill Response arrived on scene, they went to the top of the trailer and determined that the front washout cap was loose. They removed the washout cap, inspected the gasket, and then secured the washout cap to the threaded connection. After replacing the cap, a surge test was conducted on site and the trailer showed no signs of of any further leakage. Michigan Spill Response cleaned the residue from the trailer and disposed of the product that was collected in the catch pan placed underneath the trailer. Once the residue was removed rom the trailer, the load continued on without further incident. L&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040050</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

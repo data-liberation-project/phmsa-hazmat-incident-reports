@@ -7,7 +7,191 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 12:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:15:12 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040344</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040344&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-09&lt;/li&gt;
+                &lt;li&gt;City: Tampa&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: AVERITT EXPRESS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040344</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040622</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040622&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
+                &lt;li&gt;City: MIAMI&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024040622 SequenceEvent: Package was loaded into 391 truck when the driver noticed the package was leaking. The driver immediately altered QA about the package. QA then removed the package from the loaders to be processed. DescribePack: Two of the caps of Zep Calcium, Lime &amp;amp; Rust Stain Remover was not tight enough and caused internal leakage. DurationRel: 1 and MitigateEffect: Removing the package immediately.   2. X-2024040624 SequenceEvent: Package was under the 400 belt when the package was found leaking. QA quickly found the package and removed it from the area. DescribePack: Both of the caps of Zep Industrial Purple Degreaser were not sealed tight enough and caused internal leakage. DurationRel: 1 and MitigateEffect: Removing the package away immediately from the PH.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040622</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040618</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040618&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-06&lt;/li&gt;
+                &lt;li&gt;City: ORLANDO&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024040618 SequenceEvent: The jerrican was found damaged in the load area and moved to the hazmat cage for reports. DescribePack: The 5-gallon plastic jerrican was cracked on the bottom corner, causing it&amp;#x27;s contents to leak out. DurationRel: 30 and MitigateEffect: The jerrican was placed into a hazbag lined tote.   2. X-2024040619 SequenceEvent: The 5-gallon plastic jerrican was found damaged in the unload and moved to the hazmat cage for reports. DescribePack: The jerrican was punctured on the bottom, causing contents to leak out. DurationRel: 1 and MitigateEffect: The jerrican was placed upside down into a hazbag lined tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040618</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2024040062</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024040062&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
+                &lt;li&gt;City: Doral&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 04/05/2024 hidden dangerous goods were discovered during the shipment inspection process at the DHL TMB Service Center, 8400 NW 25th Street, Doral, FL 33122   Transportation by road confirmed&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040062</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040547</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040547&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
+                &lt;li&gt;City: WEST PALM BEACH&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: due to inadequate inner packaging caps failed DescribePack: leak from caps DurationRel: 3 and MitigateEffect: put in black fedex hazmat container&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040547</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040511</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040511&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
+                &lt;li&gt;City: OCALA&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Corrosive hazmat package was found wet &amp;amp; torn. Upon inspection found 1 bottle of Advantage Chemicals Delimer 1-gallon was crushed &amp;amp; had loose lid resulted to leakage. DescribePack: Bottle was crushed &amp;amp; had loose lid resulted to leakage. DurationRel: 1 and MitigateEffect: Placed in hazmat bag lined tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040511</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040522</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040522&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
+                &lt;li&gt;City: ORLANDO&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: The box was found wet in the unload and moved to the hazmat cage for reports. DescribePack: The cap on one of the jugs in the box was loose, causing contents to leak out. DurationRel: 1 and MitigateEffect: The box was placed upright into a hazbag lined tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040522</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040488</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040488&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
+                &lt;li&gt;City: OCALA&lt;/li&gt;
+                &lt;li&gt;State: FL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Corrosive hazmat package was found wet. Upon inspection found 1 bottle of Ecolab Liquid Laundry Sour 2.5-gallon had loose lid resulted to leakage. DescribePack: Bottle had loose lid resulted to leakage. DurationRel: 1 and MitigateEffect: Placed in hazmat bag lined tote.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040488</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024040341</title>
       <description>
@@ -628,98 +812,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040242</guid>
       <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040155</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040155&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: LAKE WALES&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: PACKAGE WAS BEING UNLOADED AND DISCOVERED PACKAGE WAS LEAKING. EMPLOYEE CALLED SUPERVISOR. RESPONDER CONTAINED AND PROCESSED THROUGH DMP.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040155</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040153</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040153&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: JACKSONVILLE&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO LEAKING PACKAGE CALL, FOUND BOX WITH WET SPOT. RESPONDER PROCESSED PACKAGE AND FOUND THAT LIDS WERE LOOSE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040153</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040154</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040154&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: JACKSONVILLE&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: PACKAGE FOUND IN THE UNLOAD. ENTIRE BOTTOM OF BOX WAS WET AND IN A TOTE BOX. ALL BROUGHT TO DMP AREA FOR PROCEDDING&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040154</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024040056</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024040056&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: Delray Beach&lt;/li&gt;
-                &lt;li&gt;State: FL&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 04/03/2024 hidden dangerous goods were discovered during the shipment inspection process at the DHL BCT Service Center, 420 S. Congress Avenue, Delray Beach, FL 33445   Transportation by road confirmed&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040056</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>

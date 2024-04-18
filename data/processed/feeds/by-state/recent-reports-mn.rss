@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 12:17:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:15:12 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024040067</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024040067&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-10&lt;/li&gt;
+                &lt;li&gt;City: Minneapolis&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 04/10/2024, hidden dangerous goods were discovered during the shipment inspection process at the DHL STP Service Center, 1940 Cargo Road, Minneapolis, MN 55450,   Transportation by road has been confirmed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040067</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040539</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040539&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: damaged package was discovered this morning on the inbound. someone placed it in a lined tote, brought it to the damage area, and moved it to the drain mats in the incoming damaged hazmat/LQ area. DescribePack: the tape covering the bottom flaps was loose, allowing the bottles to fall out. one of them leaked a small amount of powder. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040539</guid>
+      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040429</title>
       <description>
@@ -214,29 +260,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040221</guid>
       <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040135</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040135&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-11T15:11:27+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-02&lt;/li&gt;
-                &lt;li&gt;City: MINNEAPOLIS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: AN UNLOADER ON B-UNLOAD ENCOUNTERED A WET PACKAGE IN TRAILER WITH HAZ MAT MARKINGS. A RESPONDER WAS CALLED AND THE PACKAGE WAS TRANSPORTED TO THE DMP FOR PROCESSING. UPON INSPECTION, IT WAS FOUND THAT THE BOX CONTAINED FOUR PLASTIC BOTTLES OF REAGENT GRADE ALCOHOL, ONE OF WHICH WAS CRACKED. THE PACKAGE WAS PROCESSED PER PROPER DMP PROCEDURES.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040135</guid>
-      <pubDate>Thu, 11 Apr 2024 15:11:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
