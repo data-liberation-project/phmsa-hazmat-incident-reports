@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Apr 2024 12:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 15:13:39 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040404</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040404&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-15&lt;/li&gt;
+                &lt;li&gt;City: SPARTANBURG&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: WHILE DRIVER PERFORMED A PRE-TRIP INSPECTION AT TERMINAL. DRIVER NOTICED A VERY SLIGHT   LEAK FROM UNDER THE TRAILER. INVESTIGATION SHOWED THE EXTERNAL PACKING NUT WAS LOOSE CAUSING THE LEAK. THE PACKING NUT WAS PROPERLY SECURED BY SITE MECHANIC.  SPILL WAS CLEANED UP BY PLANT PERSONNELL.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040404</guid>
+      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040608</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040608&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
+                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS DISCOVERED ON THE FLOOR AT THE 100 BELT ON THE CART SIDE, WITH THE BOTTOM OF THE BOX OPEN AND CONTENTS (GRANULES) LEAKING OUT. ERIC BEST REPORTED THE HAZMAT IMMEDIATELY AND THEN IMMEDIATELY PLACED IT INTO A LINED HAZMAT TOTE. DescribePack: BOTTOM OF THE BODY OF THE BUCKET CRACKED, APPROX. 2.5 TO 3 INCHES LONG. DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED INTO LINED HAZMAT BUCKET UPSIDE DOWN TO PREVENT FURTHER LEAKAGE&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040608</guid>
+      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024040400</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040400&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
+                &lt;li&gt;City: FLORENCE&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040400</guid>
+      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040506</title>
       <description>
@@ -122,29 +191,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040334</guid>
       <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040228</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040228&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-12T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-27&lt;/li&gt;
-                &lt;li&gt;City: FLORENCE&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040228</guid>
-      <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

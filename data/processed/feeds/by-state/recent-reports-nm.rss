@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Apr 2024 12:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 15:13:39 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040934</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040934&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
+                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
+                &lt;li&gt;State: NM&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: 1.X-2024040934 SequenceEvent: Package was found leaking on the belts and then immediately brought to QA. DescribePack: The lid to the bottle of liquid came loose causing it to leak. DurationRel: 2 and MitigateEffect: Package was placed in the spill containment area upon discovery.   2. X-2024040978 SequenceEvent: A leaking package was brought to QA, upon inspection it was found it has a loose cap. It was found that it was undeclared hazmat. DescribePack: The lid came loose causing leakage. DurationRel: 2 and MitigateEffect: Package was brought to containment container by QA.   3. X-2024040979 SequenceEvent: Package was found leaking on the belts and then immediately brought to QA. DescribePack: The lid to the bottle of liquid came loose causing it to leak. DurationRel: 2 and MitigateEffect: Package was placed in the spill containment area upon discovery.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040934</guid>
+      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040641</title>
       <description>
@@ -53,29 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040388</guid>
       <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040125</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040125&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-12T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-27&lt;/li&gt;
-                &lt;li&gt;City: BELEN&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 3525&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: TILX 102029 was identified as releasing the commodity from the top of the rail car during switching operations in the BNSF Railway Belen, NM Terminal on 3/27/2024.  Mechanical Hazmat Responder with a local hazmat contractor responded and identified the Syphon Pipe loose and requiring approximately    + turn to secure the release.  The total estimated amount released was approximately 3 gallons impacting the sides of the car, protective housing and minor impacts to the track/ties/ballast.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040125</guid>
-      <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Apr 2024 12:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 15:13:39 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040585</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040585&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
+                &lt;li&gt;City: ROGERS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: driver placed a code 10 on the package. either the driver left the package at the station (but no Removed From Vehicle scan) or returned to the station relatively soon with it, because less than an hour after the code 10, a QA admin placed a code 39 on the tracking ID. QA admin put the damaged package in a lined tote. he brought it back to the damage area and moved it to the drain mats in the incoming damaged hazmat/LQ area. DescribePack: one bottle leaked due to loose cap. DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040585</guid>
+      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
+    </item>
     <item>
       <title>Report I-2024040067</title>
       <description>
@@ -214,52 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040247</guid>
       <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040179</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040179&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-12T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
-                &lt;li&gt;City: EAGAN&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: PACKAGE HAD WET CORNERS, RESPONDER ARRIVED AND PLACED PACKAGE IN A GREEN BAGGED PLASTIC TOTE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040179</guid>
-      <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040221</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040221&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-12T15:11:11+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-02&lt;/li&gt;
-                &lt;li&gt;City: Roseville&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040221</guid>
-      <pubDate>Fri, 12 Apr 2024 15:11:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
