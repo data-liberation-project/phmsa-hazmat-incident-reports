@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Apr 2024 12:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 15:12:55 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040757</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040757&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
+                &lt;li&gt;City: PORTLAND&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: can has several dents one on the lid causing contents to leak out during transit, found on van put in spill proof bin moved to hazmat cage DescribePack: can has several dents one on the lid causing contents to leak out during transit DurationRel: 2 and MitigateEffect: found on van put in spill proof bin moved to hazmat cage&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040757</guid>
+      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040898</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040898&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-07&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: box noticed to be leaking powder. Placed into lined tote./ Inspection revealed large crak in bottom of inner plastic pail DescribePack: cvrack on bottom of pail. aproxx 8 inches DurationRel: 1 and MitigateEffect: placed in lined tote&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040898</guid>
+      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040717</title>
       <description>
@@ -191,75 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040345</guid>
       <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040215</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040215&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-09&lt;/li&gt;
-                &lt;li&gt;City: SPRINGFIELD&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDED TO A PACKAGE THAT WAS COLD TO THE TOUCH. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY FIVE POUNDS OF DRY ICE COOLING ICE CREAM. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS SHIPPED FROM OREGON USING UPS ACCOUNT NUMBER 6029X7, DNA QUALITY, 1130 SHELLEY ST, SPRINGFIELD OR 97477-1916.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040215</guid>
-      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040327</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040327&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE HAD A LOOSE CAP DURING SORTATION AND NO PLASTIC BAG ALLOWING THE CONTENTS TO LEAK. DescribePack: LEAK CAME FROM CLOSURE ABOUT THE SIZE OF A STANDARD GALLON MILK JUG DurationRel: 1 and MitigateEffect: PACKAGE WAS PLACED IN TOTE AND BROUGHT TO QA FOR INSPECTION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040327</guid>
-      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040227</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040227&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
-                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: THE PLASTIC PAIL FELL OFF THE ROLLERS IN THE UNLOAD DAMAGING THE PAIL THE PAIL WAS PUT I A HAZ TOTE AND TAKEN TO QA DescribePack: THE SIDE OF THE PLASTIC PAIL WAS PUSHED IN AND THE LID WAS LEAKING DurationRel: 1 and MitigateEffect: THE PAIL WAS PUT IN A HAZ TOTE AND TAKEN TO QA&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040227</guid>
-      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
     </item>
   </channel>
 </rss>

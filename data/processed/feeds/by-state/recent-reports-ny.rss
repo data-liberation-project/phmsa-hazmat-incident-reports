@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Apr 2024 12:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 15:12:55 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024040779</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040779&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-13&lt;/li&gt;
+                &lt;li&gt;City: BINGHAMTON&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Bucket on the inside of the box cracked and the contents were leaking DescribePack: Crack in the side of the bucket DurationRel: 1 and MitigateEffect: placed in a spill bins kept on loadsides, placed inside hazmat bag inside of a hazmat drum&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040779</guid>
+      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040920</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040920&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
+                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: BOX WAS DROPPED AND ONCE LEAK WAS DISCOVERED IT WAS PUT IN A HAZMAT BIN AND TAKEN TO QA DescribePack: LEAK THROUGH SIDE WALL OF BOX AND AT TOP EDGE DurationRel: 1 and MitigateEffect: BOX WAS PUT IN A HAZMAT BIN&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040920</guid>
+      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024040811</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040811&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-11&lt;/li&gt;
+                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: SequenceEvent: Box was dropped and side of inner canister was dented as a result. DescribePack: Box is dented at two of the top corners and wet due to inner leaking. There is no other damage to the box. DurationRel: 6 and MitigateEffect: Box was immediately placed in a bagged bin.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040811</guid>
+      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024040405</title>
       <description>
@@ -352,121 +421,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040392</guid>
       <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040275</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040275&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
-                &lt;li&gt;City: MONTGOMERY&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040275</guid>
-      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040309</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040309&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-27&lt;/li&gt;
-                &lt;li&gt;City: LONG ISLAND CITY&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During inbound unloading, the package was mishandled and loaded upside down, loosening the caps and causing a puncture of the seal inside the caps of 2 bottles. DescribePack: The caps were loosened and the seals underneath were punctured causing extensive leakage. DurationRel: 1 and MitigateEffect: Quick action was taken by bagging the hazmat package and covering the spillage with kitty litter.  Hazard markers were set for safe passage around the spillage area.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040309</guid>
-      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040290</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040290&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-27&lt;/li&gt;
-                &lt;li&gt;City: ELMSFORD&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was not loaded properly on trailer, once they opened the trailer door they found the package not facing the correct orientation arrows DescribePack: loose cap caused it to spill out. DurationRel: 1 and MitigateEffect: place soaked package in a hazmat drum to contain the spilling, also used absorbent material to clean the spill.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040290</guid>
-      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040289</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040289&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-27&lt;/li&gt;
-                &lt;li&gt;City: ELMSFORD&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: package was not loaded properly on trailer, once they opened the trailer door they found the package not facing the correct orientation arrows DescribePack: loose cap caused it to spill out. DurationRel: 1 and MitigateEffect: place soaked package in a hazmat drum to contain the spilling, also used absorbent material to clean the spill.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040289</guid>
-      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040228</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040228&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-15T15:12:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-21&lt;/li&gt;
-                &lt;li&gt;City: SYRACUSE&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found leaking on the 100-load side and was contained in a tote when found. DescribePack: One of the bottles was missing a cap. DurationRel: 1 and MitigateEffect: Package was contained in a tote and any spill was cleaned up using a combination of towels and chemical neutralizer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040228</guid>
-      <pubDate>Mon, 15 Apr 2024 15:12:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
