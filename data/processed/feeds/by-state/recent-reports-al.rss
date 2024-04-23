@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Apr 2024 15:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:14:06 +0000</lastBuildDate>
     <item>
       <title>Report X-2024040610</title>
       <description>
@@ -168,52 +168,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040546</guid>
       <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040673</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040673&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package had been unloaded from trailer and had gone overhead through conveyor system as normal. Package was loaded on van during sort. The driver of the van brought the now wet and leaking box to the Ops manager for the line and the QA for the line. Spillage was cleaned using oil dry and paper towels. Package and contents were placed in a smalls sortation bin on a spill pallet. QA completed DPR as normal. However, QA noticed corrosive labels on jugs and asked me for further clarification. Upon investigation of bottles and the SDS from the shipper&amp;#x27;s website for product, these were concluded to be undiluted jugs and needed special attention per SDS. DescribePack: One of the caps of the jug appears to have broken or come off in parts during handling, allowing all liquid contents to leak out. DurationRel: 2 and MitigateEffect: After consulting SDS, bottles, inner packing, and box were transferred to lined salvage been and transported to HMPA for further processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040673</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040643</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040643&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was unloaded from trailer and was being sent down IC belt when granules coming from bottom of box were observed. Package was taken off IC belt and placed on spill pallet. DescribePack: There is a ~8in crack spanning from the edge to the center point of the bottom of the drum. External box does not show signs of drop or impact damage. Contents flow through crack whenever drum is moved. DurationRel: 1 and MitigateEffect: Drum was removed from external box and transferred to lined salvage drum during processing. All contents were contained during transfer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040643</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

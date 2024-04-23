@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Apr 2024 15:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:14:06 +0000</lastBuildDate>
     <item>
       <title>Report X-2024040936</title>
       <description>
@@ -352,52 +352,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040464</guid>
       <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040382</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040382&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-29&lt;/li&gt;
-                &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on drivers van, taken off the van and placed in a hazmat tote with proper bag DescribePack: Loose/broken caps DurationRel: 1 and MitigateEffect: Package was placed in hazmat tote with proper bag&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040382</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040355</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040355&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
-                &lt;li&gt;City: LAKE ORION&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Packages appears to have been dropped. DescribePack: Outer packaging crushed. 1 of 2 gallons crushed and leaking DurationRel: 1 and MitigateEffect: Placed upright in a hazardous material been lined with a hazardous material leak-proof bag.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040355</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

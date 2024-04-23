@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Apr 2024 15:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:14:06 +0000</lastBuildDate>
     <item>
       <title>Report E-2024040465</title>
       <description>
@@ -536,52 +536,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040499</guid>
       <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040687</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040687&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-10&lt;/li&gt;
-                &lt;li&gt;City: TUCSON&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: pkg brought to qa leaking contents upon inspection found one container had cap cracked and contents leaked out from closure DescribePack: cap was cracked DurationRel: 1 and MitigateEffect: in house clean up&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040687</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040348</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040348&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-28&lt;/li&gt;
-                &lt;li&gt;City: CHANDLER&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was initially noticed on a van after it had been out for delivery. The smell of the liquid was noticeable immediately upon entering the van. The package was then taken to the damage cage. DescribePack: There are three wet spots on the package, about 4&amp;quot;x2&amp;quot; each. DurationRel: 1 and MitigateEffect: The package was brought to the damage cage and placed under the hood.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040348</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

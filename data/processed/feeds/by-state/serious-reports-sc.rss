@@ -7,29 +7,6 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Apr 2024 15:12:33 +0000</lastBuildDate>
-    <item>
-      <title>Report X-2024040353</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040353&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-29&lt;/li&gt;
-                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS DISCOVERED IN TRAILER TAIL ALREADY LEAKING, PACKAGE PLACED INTO LINED HAZMAT TUB IMMEDIATELY DescribePack: CRACK WAS DISCOVERED TO BE AT THE ENTIRE BASE OF THE CYLINDER IN DIAMETER AND APPROXIMATELY 2 INCHES UP THE SIDE WALL DurationRel: 1 and MitigateEffect: IMMEDIATELY CONTAINED INSIDE OF A LINED HAZMAT BIN&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040353</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Apr 2024 18:14:06 +0000</lastBuildDate>
   </channel>
 </rss>

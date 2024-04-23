@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Apr 2024 15:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 18:14:06 +0000</lastBuildDate>
     <item>
       <title>Report X-2024040738</title>
       <description>
@@ -30,52 +30,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040738</guid>
       <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040656</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040656&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
-                &lt;li&gt;City: CHARLESTON&lt;/li&gt;
-                &lt;li&gt;State: WV&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2024040656 SequenceEvent: The Hazmat was loaded on a van and before dispatch the driver informed the package of the leak. The package handler immediately notified QA given the close proximity to the QA cage. QA notified management and responded to the spill. The damage packages were removed and placed in lined hazmat totes. The leak was contained and the spilled liquid was neutralized. DescribePack: Loose caps. Bottles are in a spill containment bag(failed) used by the shipper so it is unsafe to do an inspection without the risk of spilling the amount still left in the bag. DurationRel: 1 and MitigateEffect: Absorbent pads and neutralizer was used on the spilled liquid. The leaking hazmat was placed inside a line hazmat tote.   2. X-2024040657 SequenceEvent: The Hazmat was loaded on a van and before dispatch the driver informed the package of the leak. The package handler immediately notified QA given the close proximity to the QA cage. QA notified management and responded to the spill. The damage packages were removed and placed in lined hazmat totes. The leak was contained and the spilled liquid was neutralized. DescribePack: Loose caps. Bottles are in a spill containment bag(failed) used by the shipper so it is unsafe to do an inspection without the risk of spilling the amount still left in the bag. DurationRel: 1 and MitigateEffect: Absorbent pads and neutralizer was used on the spilled liquid. The leaking hazmat was placed inside a line hazmat tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040656</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040351</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040351&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-16T18:13:46+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-29&lt;/li&gt;
-                &lt;li&gt;City: CHARLESTON&lt;/li&gt;
-                &lt;li&gt;State: WV&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The hazmat was loaded into the belly of a trailer and was placed on its side ignoring the orientation arrows. Package handler had discovered it and noticed that it was wet and notified management. QA responded to, contained, and neutralized the spill. The hazmat was contained in a lined hazmat tote. DescribePack: The cap had a slow leak when placed on its side. DurationRel: 1 and MitigateEffect: The spilled liquid was neutralized and the package was place into a lined hazmat tote by QA.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040351</guid>
-      <pubDate>Tue, 16 Apr 2024 18:13:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
