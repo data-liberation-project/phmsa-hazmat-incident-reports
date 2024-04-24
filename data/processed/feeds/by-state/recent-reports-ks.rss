@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 15:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:14:41 +0000</lastBuildDate>
     <item>
       <title>Report X-2024041094</title>
       <description>
@@ -214,52 +214,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040441</guid>
       <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040430</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040430&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
-                &lt;li&gt;City: OLATHE&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was found on its side at end of NC belt and when turned back up right it started to leak content. QA was called and secured the package for processing. DescribePack: bottles looked to have leaked and had loose caps on all four bottles. they were in a plastic bag were most of the leak content was contained until it was turned back over and leaked from a hole in bag, saturating the bottom of the box. DurationRel: 1 and MitigateEffect: most of it was contained inside package itself and was discovered pretty quickly&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040430</guid>
-      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040432</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040432&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-30&lt;/li&gt;
-                &lt;li&gt;City: LENEXA&lt;/li&gt;
-                &lt;li&gt;State: KS&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: WHILE THE PACKAGE HANDLER WAS UNLOADING THE TRAILER, THEY NOTICED THIS PACKAGE WAS WET AND LEAKING.  THEY INFORMED THEIR MANAGER OF THE SITUATION AND THEY IN TURN INFORMED QA OF THE PROBLEM.  QA GRABBED A TOTE LINED WITH A CLEAR, LARGE HAZMAT BAG AND FOLD ABSORB.  THEY RUSHED OVER TO THE AREA AND PLACED THE PACKAGE IN THE TOTE.  ONCE THE AREA WAS SECURE, THEY BROUGHT THE PACKAGE BACK TO QA AND USED A PH STRIP ON THE PACKAGE AND NOTICED IT WAS HAZARDOUS AND PLACED IN THE HAZMAT PROCESSING CAGE. DescribePack: THE PACKAGE WAS PLACED ON ITS SIDE FOR SHIPPING. DurationRel: 1 and MitigateEffect: THE PACKAGE WAS PLACED IN A TOTE WITH A LINED HAZMAT BAG AND A PH STRIP WAS USED TO DETERMINE TO SEE IF IT WAS HAZARDOUS. ONCE IT WAS DISCOVERED IT WAS, THE PACKAGE WAS PLACED IN THE HAZMAT CAGE FOR FURTHER PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040432</guid>
-      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

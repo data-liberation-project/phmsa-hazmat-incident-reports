@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 15:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:14:41 +0000</lastBuildDate>
     <item>
       <title>Report X-2024040982</title>
       <description>
@@ -283,52 +283,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040506</guid>
       <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040526</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040526&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: GREENVILLE&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: PACKAGE WAS REMOVED FROM TRAILER WITH VISIBLE LEAKAGE ON UPPER CORNER. IMMEDIATELY PLACED INTO LINED HAZMAT TUB AND PLACED INTO HAZMAT CAGE. DescribePack: UNABLE TO DETERMINE WHERE LEAKAGE IS OCCURING FROM- CAPS ARE TIGHT, NO VISIBLE CRACKS OR PUNCTURES IN THE SIDEWALL. LIQUID IN THE PLASTIC BAG CONTAINING THE BOTTLE. DurationRel: 1 and MitigateEffect: PACKAGE IMMEDIATELY PLACED INTO THE HAZMAT CAGE AND ORIENTATION ARROWS WERE RESPECTED IN THE TUB.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040526</guid>
-      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040462</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040462&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-02&lt;/li&gt;
-                &lt;li&gt;City: FORT MILL&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package handler loading van notified QA that there was a leaking hazmat in their work area.  Package was assessed and determined that product leaked internally due to a loose cap/broken seal. DescribePack: Package failure occurred at the seal on the lid of container.  Seal was broken and cap became loose which caused product to leak internally. DurationRel: 1 and MitigateEffect: Package was removed from belt line and place in a lined hazmat drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040462</guid>
-      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

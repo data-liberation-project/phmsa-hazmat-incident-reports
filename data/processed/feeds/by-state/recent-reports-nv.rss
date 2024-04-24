@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 15:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:14:41 +0000</lastBuildDate>
     <item>
       <title>Report X-2024040599</title>
       <description>
@@ -30,29 +30,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040599</guid>
       <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040471</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040471&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-02&lt;/li&gt;
-                &lt;li&gt;City: SPARKS&lt;/li&gt;
-                &lt;li&gt;State: NV&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package wet at top of box. 1 plastic bottle leaking fluid from broken lid. Around 12 fl oz of contents lost. Bottle unable to be resealed. DescribePack: Broken screw-on cap DurationRel: 1 and MitigateEffect: Package removed from loaded vehicle&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040471</guid>
-      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

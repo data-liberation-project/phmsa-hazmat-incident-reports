@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 15:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:14:41 +0000</lastBuildDate>
     <item>
       <title>Report X-2024041163</title>
       <description>
@@ -398,52 +398,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040482</guid>
       <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040334</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040334&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-13&lt;/li&gt;
-                &lt;li&gt;City: HENDERSON&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 6500&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics contacted ERTS regarding one bottle of Rooto Professional Liquid Drain Opener leaking onto the trailer floor as a result of improper loading / inadequate preparation for transportation. A Contractor was  dispatched and neutralized the release along with the damaged product using soda ash. The spill was cleaned-up  with oil-dry. Two 15-gallon DF’s were generated for waste disposal containing the neutralized product, spent  absorbents, and PPE. No storm-drains, waterways, or soil were impacted by this incident.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040334</guid>
-      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040437</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040437&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-17T15:16:09+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
-                &lt;li&gt;City: BROOMFIELD&lt;/li&gt;
-                &lt;li&gt;State: CO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: X-2024040437: SequenceEvent: This hazmat was discovered leaking during preload. The pkg was placed in red tote and plastic bag and stored in QA1. DescribePack: One of the caps leaked. There is some brown liquid of the label of the bottle. DurationRel: 1 and MitigateEffect: The hazmat was placed in a plastic bag and red tote.  X-2024040441: SequenceEvent: This hazmat was discovered leaking during preload. The hazmat was placed in a red tote and plastic bag and stored in QA1. DescribePack: I found yellowish brown residue on a tag on the glass bottle. DurationRel: 1 and MitigateEffect: The hazmat was placed in a red tote and plastic bag.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040437</guid>
-      <pubDate>Wed, 17 Apr 2024 15:16:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
