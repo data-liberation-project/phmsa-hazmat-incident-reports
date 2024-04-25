@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Apr 2024 15:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:15:06 +0000</lastBuildDate>
     <item>
       <title>Report X-2024041164</title>
       <description>
@@ -99,52 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040563</guid>
       <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040530</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040530&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
-                &lt;li&gt;City: NORTH SALT LAKE&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During transit package was placed on its side, not following orientation arrows.  Put in line tote and brought to designated QA area for processing. DescribePack: loose caps DurationRel: 0 and MitigateEffect: Placed in proper orientation and placed in tote&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040530</guid>
-      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040541</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040541&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: MAGNA&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Metal drum was dropped from transitional rollers and severely dented on top removable head. DescribePack: Drum head dented causing contents from spilling out of container DurationRel: 1 and MitigateEffect: Drum was taken to QA and placed into hazmat tote with liner to quarantine further spread of contents&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040541</guid>
-      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

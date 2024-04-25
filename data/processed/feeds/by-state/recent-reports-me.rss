@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Apr 2024 15:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:15:06 +0000</lastBuildDate>
     <item>
       <title>Report X-2024040860</title>
       <description>
@@ -30,29 +30,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040860</guid>
       <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040567</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040567&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-18T18:14:13+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
-                &lt;li&gt;City: LEWISTON&lt;/li&gt;
-                &lt;li&gt;State: ME&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was discovered at the re-pack area at this station. It was brought over to the QA dept for further inspection. The bottom edge was saturated and the closures were open where the package was wet. A search via Spidr indicated it was not in its original packaging and was repacked at the Hart HUB. The contents were researched and examined and found to be leaking. An SDS was obtained and found to be hazardous. The item and its packaging was then placed in a haardous tote and processed as a damaged hazmat. DescribePack: The bottom of the package was wet and open. Inside there were three plastic containers with plastic tape placed over the caps and all three were placed in a plastic bag within the package. The image on Spidr indicates the package was originally larger and totaling 49.00pounds and only had a label indicating it was fragile. One of the three containers conaining cyco platinum ph up had significant volumn missing due to a loose cap that was leaking when the container was flipped upside down. DurationRel: 4 and MitigateEffect: The package was placed in a hazmat tote once it was  discovered that it was hazardous. Proper PPE was donned, and the processing of a damaged hazmat was initiated.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040567</guid>
-      <pubDate>Thu, 18 Apr 2024 18:14:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
