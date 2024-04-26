@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 12:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:13:30 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024041153</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041153&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-15&lt;/li&gt;
+                &lt;li&gt;City: NEW ORLEANS&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: EMPLOYEE DISCOVERED LEAKING PACKAGE, LEFT AREA AND NOTIFIED SUPERVIOR. SUPERVISOR THEN NOTIFIED DMP RESPONDER AND RESPONDER PROCESSED THE PACKAGE ACCORDING TO THE CORRECT HAZRARD CLASS RESPONSE SHEET&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041153</guid>
+      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024041161</title>
       <description>
@@ -53,52 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040913</guid>
       <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040776</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040776&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
-                &lt;li&gt;City: SAINT ROSE&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: As the package was being offloaded a leakage was noticed from the package. The package was immediately placed inside a hazmat bin and brought to the hazmat cage for further inspection. DescribePack: Upon inspection a loose cap on one of the bottles was found that caused the leakage. DurationRel: 1 and MitigateEffect: to help mitigate the effects of the release the package was separated from the rest of the packages immediately after and placed inside a hazmat bin.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040776</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040454</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040454&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
-                &lt;li&gt;City: SULPHUR&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040454</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

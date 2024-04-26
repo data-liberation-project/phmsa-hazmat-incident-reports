@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 12:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:13:30 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040551</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040551&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
+                &lt;li&gt;City: BETHPAGE&lt;/li&gt;
+                &lt;li&gt;State: NY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040551</guid>
+      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
+    </item>
     <item>
       <title>Report I-2024040084</title>
       <description>
@@ -214,75 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040811</guid>
       <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040405</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040405&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-16&lt;/li&gt;
-                &lt;li&gt;City: NEW HYDE PARK&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 6000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics contacted ERTS regarding a roadside release at a customer’s site. Approximately 4-gallons of  product released in the trailer and onto the asphalt beneath the trailer. One jerrican containing Kleen AC9507  was punctured by a pallet during transit. A Contractor estimated that the trailer floor was impacted in a 5&amp;#x27;x3&amp;#x27;  area and that the asphalt was impacted in a 20&amp;#x27;x3&amp;#x27; area. The Contractor neutralized the release using baking soda  and containerized the spill debris, damaged product, and PPE into one 55-gallon poly drum for waste disposal.  No storm-drains, waterways, or soil were affected by this incident.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040405</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040921</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040921&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-04&lt;/li&gt;
-                &lt;li&gt;City: RENSSELAER&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: BOX WAS DROPPED DURING TRAILER LOAD AND PUT IN A HAZMAT BIN TO MINIMIZE SPILLING DescribePack: ENTIRE BOX IS SOAKED AND RIPPED INTO PIECES. TYPE OF BOX UNREADABLE DurationRel: 1 and MitigateEffect: BOX WAS PUT IN A HAZMAT BIN&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040921</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040413</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040413&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
-                &lt;li&gt;City: MONTGOMERY&lt;/li&gt;
-                &lt;li&gt;State: NY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040413</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

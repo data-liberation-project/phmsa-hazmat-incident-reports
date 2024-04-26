@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 12:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:13:30 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024041344</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041344&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-22&lt;/li&gt;
+                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
+                &lt;li&gt;State: NM&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:Hazmat- Damaged Haz Mat Package Disposition.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041344</guid>
+      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040756</title>
       <description>
@@ -30,29 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040756</guid>
       <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040934</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040934&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
-                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: 1.X-2024040934 SequenceEvent: Package was found leaking on the belts and then immediately brought to QA. DescribePack: The lid to the bottle of liquid came loose causing it to leak. DurationRel: 2 and MitigateEffect: Package was placed in the spill containment area upon discovery.   2. X-2024040978 SequenceEvent: A leaking package was brought to QA, upon inspection it was found it has a loose cap. It was found that it was undeclared hazmat. DescribePack: The lid came loose causing leakage. DurationRel: 2 and MitigateEffect: Package was brought to containment container by QA.   3. X-2024040979 SequenceEvent: Package was found leaking on the belts and then immediately brought to QA. DescribePack: The lid to the bottle of liquid came loose causing it to leak. DurationRel: 2 and MitigateEffect: Package was placed in the spill containment area upon discovery.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040934</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

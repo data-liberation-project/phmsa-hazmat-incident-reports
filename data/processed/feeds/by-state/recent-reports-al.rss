@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 12:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:13:30 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040562</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040562&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-11&lt;/li&gt;
+                &lt;li&gt;City: BESSEMER&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate punctured freight with forklift blades while loading / unloading causing product to leak&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040562</guid>
+      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024040953</title>
       <description>
@@ -76,98 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041055</guid>
       <pubDate>Wed, 24 Apr 2024 15:12:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040610</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040610&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package had been unloaded and was on van line ready to be loaded on van when the loading package handler saw that the box was wet. Package was set aside on a spill containment pallet, then placed in a lined container shortly after. DescribePack: 2 of the 4 jugs were packed in the box upside down, with the caps in contact with the bottom of the box. This allowed stress to be applied to caps, leading to them beginning to leak inside the plastic bags. The plastic bags then also began leaking, soiling the box and other contents. The caps had some tape wrapped around them, but this appears to have been ineffective at prevent leakage. DurationRel: 1 and MitigateEffect: The external box contained mostly all of the spillage, becoming wet in the process. There was no visible wetness on conveyor belt, and only a slightly damp spot of the spill pallet. Spill neutralizer was applied to the spot. Package was placed in a lined container during inspection and reporting. During this, contents began to leak more due to manipulation. All leakage was contained by liner.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040610</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040429</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040429&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040429</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040449</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040449&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-01&lt;/li&gt;
-                &lt;li&gt;City: MONTGOMERY&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040449</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040459</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040459&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: OPELIKA&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: KAG Energy, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 11850&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: The KAG Energy, LLC driver was delivering diesel fuel into the customer&amp;#x27;s storage tank. During the course of the delivery, the connection between the delivery hose and storage tank became compromised. Approximately 100 gallons of diesel fuel was released. Hepaco Environmental responded to the scene and handled the remediation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040459</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

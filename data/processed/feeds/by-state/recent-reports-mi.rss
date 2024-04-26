@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Apr 2024 12:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:13:30 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024041011</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041011&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-17&lt;/li&gt;
+                &lt;li&gt;City: OAK PARK&lt;/li&gt;
+                &lt;li&gt;State: MI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:sds.PDF&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041011</guid>
+      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024041082</title>
       <description>
@@ -191,121 +214,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040754</guid>
       <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040570</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040570&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
-                &lt;li&gt;City: SAGINAW&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Found box on floor next to outbound QA desk, observed small amount of white crystal like substance on floor by bottom of box. Using PPE placed box into red hazmat tote to take to QA area for inspection DescribePack: Using PPE, which included gloves, opened box and found 50 lb. plastic pail containing  Oxidizer  which upon further inspection found large crack on the bottom of the plastic pail which allowed approximately 4 ounces of oxidizer to leak into bottom of box. DurationRel: 1 and MitigateEffect: Immediately contained box and contents into red Hazmat tote and removed from area to QA cage for inspection, after QA inspection took red tote to the Hazmat cage to await disposition.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040570</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040566</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040566&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
-                &lt;li&gt;City: SAGINAW&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was found in the unload area wet and leaking. Proper PPE was used to remove the package and it was placed into a hazmat bin. Upon inspection I found that one of the bottles had a loose cap which led to the leakage. DescribePack: Upon inspection I found that one of the bottles had a loose cap which led to the leakage. DurationRel: 1 and MitigateEffect: Proper PPE was used to remove the package and it was placed into a hazmat bin.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040566</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040606</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040606&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-05&lt;/li&gt;
-                &lt;li&gt;City: SALINE&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Cap came loose on one bottle of 100% reagent alcohol, causing the contents to leak out. The package was placed in a plastic bag and bin and taken to QA for inspection when damage was discovered. DescribePack: 1 loose cap DurationRel: 1 and MitigateEffect: The package was placed in a plastic bag and bin and taken to QA for inspection when damage was discovered.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040606</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040583</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040583&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: SALINE&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Cap was loose on one bottle of DOWTHERM SR-1 heat transfer fluid, causing the contents to leak out. The package was placed in a plastic bag and brought to QA for inspection when damage was discovered. DescribePack: 1 loose cap DurationRel: 1 and MitigateEffect: The package was placed in a plastic bag and brought to QA for inspection when damage was discovered.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040583</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040575</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040575&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-19T15:12:40+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-03&lt;/li&gt;
-                &lt;li&gt;City: GRAND RAPIDS&lt;/li&gt;
-                &lt;li&gt;State: MI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: DAMAGED LEAKING HAZMAT PAIL WAS FOUND IN THE UNLOAD AND BROUGHT OVER FOR INSPECTION. UPON INSPECTION IT WAS FOUND TO BE A DAMAGED HAZMAT AND THE HAZMAT PROCESS WAS STARTED. DescribePack: THE TOP OF THE PAIL IS DENTED AND WHEN TIPPED ON ITS SIDE IT DOES LEAK. DurationRel: 1 and MitigateEffect: PAIL WAS TURNED UP RIGHT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040575</guid>
-      <pubDate>Fri, 19 Apr 2024 15:12:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
