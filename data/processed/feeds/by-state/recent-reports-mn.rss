@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 12:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:09 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024040607</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040607&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-19&lt;/li&gt;
+                &lt;li&gt;City: New Brighton&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ESTES EXPRESS LINES&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 7100&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040607</guid>
+      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024041340</title>
       <description>
@@ -76,29 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041047</guid>
       <pubDate>Tue, 23 Apr 2024 15:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040788</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040788&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
-                &lt;li&gt;City: ROGERS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: damaged hazmat was discovered during van pickups. The package had received a code 4 and been brought back to the station. It does not have a code 10 or code 15 to indicate when damage was initially discovered prior to return to station. The QA admin doing van pickups placed it in a lined tote, brought it to the damage area, and placed it atop the drain mats in the incoming damaged hazmat/LQ area. DescribePack: one bottle leaked from loose cap DurationRel: 1 and MitigateEffect: placed in lined tote, moved to drain mats&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040788</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

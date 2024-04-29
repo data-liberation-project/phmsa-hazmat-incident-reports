@@ -7,29 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 12:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:09 +0000</lastBuildDate>
     <item>
-      <title>Report X-2024040860</title>
+      <title>Report X-2024041107</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040860&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041107&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-04-19&lt;/li&gt;
                 &lt;li&gt;City: LEWISTON&lt;/li&gt;
                 &lt;li&gt;State: ME&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: During a.m. sort, the driver brought the package over to the QA dept and reported it was leaking. This QA personnel placed the item in a tote to contain further leaking outside the package. Further investigation and a SDS was researched. DescribePack: The corners of the package were wet. Upon inspection the inside of the package was saturated. Two bottles each containing 1/2 gallon of epoxy hardener and resin were wet and most of the liquid was around the cap. The bottle of hardener felt lighter than the other container. Unable to determine the cause, when tipped over and examined there were no puncture holes. The liquid had hardened around the cap. The label on the bottles indicated it was hazardous. DurationRel: 3 and MitigateEffect: The driver brought the package over to the QA dept once observed it was leaking. It was then placed in a tote to contain the leaking. Once identified it was hazardous, it was placed in a red hazmat tote and the processing of the hazmat was initiated.&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:thumbnail_IMG_7311.jpg&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040860</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041107</guid>
+      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

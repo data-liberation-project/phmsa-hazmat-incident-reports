@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 12:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:09 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024041351</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041351&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-22&lt;/li&gt;
+                &lt;li&gt;City: LEXINGTON&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: During Inbound sort aprox.6:15AM package handler opened trailer to find Hazardous material package that was saturated with leakage from the inside liquid, upon further inspection one of the caps of the containers(2x1 GAL plastic container) was loose causing the ZEP purple degreaser to leak internally, no Hazardous material leaked outside of outer packaging most likely do to poor loading from previous facility.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041351</guid>
+      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024040040</title>
       <description>
@@ -122,75 +145,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040810</guid>
       <pubDate>Tue, 23 Apr 2024 15:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040802</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040802&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-14&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The hazmat was dropped causing the bottom of the drum to crack. We cleaned the spill with absorbent pads. We secured the hazmat and soiled clean up materials in a lined red tote. DescribePack: The bottom of the drum cracked DurationRel: 1 and MitigateEffect: drum was placed upside down in a lined red tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040802</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040791</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040791&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: QA was called to a spill, once admin arrived it was found that a plastic pail with hazmat diamonds on it was crushed under packages and leaking onto dock floor causing the spill. DescribePack: Side of plastic pail was cracked due to too much weight being on the plastic pail allowing a crack to develop and contents to leak out. DurationRel: 1 and MitigateEffect: Plastic pail was immediately put into a lined tote.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040791</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040759</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040759&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-10&lt;/li&gt;
-                &lt;li&gt;City: LEXINGTON&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was discovered in its transport trailer with a large wet stain already on it. Package handlers were told to leave the truck and and package was properly relocated. DescribePack: 1 of the 4 gallon jugs inside did not have a fully screwed on top cap DurationRel: 2 and MitigateEffect: Package was moved to a safe location&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040759</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

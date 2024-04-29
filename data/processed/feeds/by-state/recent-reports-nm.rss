@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 12:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:09 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024041184</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041184&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-21&lt;/li&gt;
+                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
+                &lt;li&gt;State: NM&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Daniel Vallejos Operations Supervisor called to report a spill in trailer 84985 of a UN2880, CALCIUM HYPOCHLORITE,HYDRATED, 5.1, PG II,. Daniel stated when the crew open the roll up door to unload the trailer. Daniel stated two pallets had fell over and started to come out the bottom of the roll up door while opening. Daniel stated 1 pail of the product the top lid came off and spilled what looked to be tablets on the trailer floor. Daniel stated he had already recouped the pallets and put the product (tablets) back in the pail and secured the lid to the pail. Safety advised Daniel any time th ere is a Hazmat spill safety is to be notified immediately before any cleanup is to start. Daniel stated that he would call safety next time before cleaning any spill. Daniel stated the spill was cleaned and the pallets were recouped and already unloaded off the trailer.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041184</guid>
+      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024041344</title>
       <description>
@@ -30,29 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041344</guid>
       <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040756</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040756&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-08&lt;/li&gt;
-                &lt;li&gt;City: ROSWELL&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was was found on the floor on the driver side of nose. The orientation arrows were not followed. Package was removed from trailer 819655, The package handler that carried the package to the NC belt was not aware that the package was leaking. When the package handler that found the leaking hazmat had relayed that the package was leaking. The hazmat package was on the vertical belt being transfer to the NC belt. The package handler had carried the leaking hazmat to NC belt even though it was communicated. Operations were stopped while  in-house cleanup was preformed. DescribePack: The body of the container was cracked along the side with a 1cm line. DurationRel: 0 and MitigateEffect: Response from ops supervisor to perform inhouse cleanup.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040756</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

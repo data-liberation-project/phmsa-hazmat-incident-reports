@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 12:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:09 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024041357</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041357&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-22&lt;/li&gt;
+                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
+                &lt;li&gt;State: NC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:Hazmat- Damaged Haz Mat Package Disposition.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041357</guid>
+      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024041337</title>
       <description>
@@ -283,75 +306,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040852</guid>
       <pubDate>Tue, 23 Apr 2024 15:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040916</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040916&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
-                &lt;li&gt;City: WILMINGTON&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: The package was discovered damp and crushed upon being unloaded from the trailer.  QA was informed of its condition and location. DescribePack: The seal to one bottle was broken, causing some liquid to leak out and soak one corner of the outer box. DurationRel: 4 and MitigateEffect: The package was placed in a lined hazmat tote and taken to the nearest QA cage for further processing.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040916</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040923</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040923&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-10&lt;/li&gt;
-                &lt;li&gt;City: FLETCHER&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: FOUND WET IN TRAILER PLACED IN A PLASTIC TUB MOVED TO QA STAGING LOCATION DescribePack: . DurationRel: 1 and MitigateEffect: MOVED FROM THE QA STAGING LOCATION TO HAZMAT CAGE FOR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040923</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024040832</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040832&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-09&lt;/li&gt;
-                &lt;li&gt;City: CONCORD&lt;/li&gt;
-                &lt;li&gt;State: NC&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: Package was brought to QA on 4/9/24 by driver who stated that they could smell alcohol and noticed that the package was wet.  Once QA received package and opened it, they noticed that one of the bottles had a loose cap and that caused the product to spill out onto the box and other 3 bottles. No clean up due to it being isopropanol alcohol and it just spilled out onto the box and the other 3 bottles. DescribePack: Cap was loose.  Not fully secured. DurationRel: 1 and MitigateEffect: Once package was opened by QA the cap was tightened to prevent product from leaking any further.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040832</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

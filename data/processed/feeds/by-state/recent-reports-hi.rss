@@ -7,6 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 12:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:09 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024041393</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041393&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-24&lt;/li&gt;
+                &lt;li&gt;City: HONOLULU&lt;/li&gt;
+                &lt;li&gt;State: HI&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO A PACKAGE THAT LEAKED NON-REGULATED ARMOR ALL TIRE SHINE. UPON INSTECTION OF THE CONTENTS DISCOVERED (4) 1.5 OUNCE FLAMMABLE AEROSOL CANS OF ARMOR ALL FRESH FX RAPID ODOR ELIMINATOR. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE WAS SHIPPED FROM FLORIDA USING UPS ACCOUNT NUMBER 82V99Y, AMAZON.COM.KYDC, INC., 1760 COUNTY LINE RD, LAKELAND FL 33811-1808.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041393</guid>
+      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
+    </item>
   </channel>
 </rss>

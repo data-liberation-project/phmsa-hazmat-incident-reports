@@ -7,29 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Apr 2024 12:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:13:09 +0000</lastBuildDate>
     <item>
-      <title>Report X-2024040785</title>
+      <title>Report E-2024040593</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024040785&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-22T15:11:57+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040593&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
-                &lt;li&gt;City: BOISE&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2024-04-17&lt;/li&gt;
+                &lt;li&gt;City: MERIDIAN&lt;/li&gt;
                 &lt;li&gt;State: ID&lt;/li&gt;
                 &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Fedex Ground Package System, Inc.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SequenceEvent: AM QA discovered package leaking in unload. Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent. DescribePack: 2 of the lids of the paint cans were opened and all the gallon of paint for each spilled on the box and on the other 3 paint cans. DurationRel: 1 and MitigateEffect: Employee put on proper PPE. Package was contained and placed in a lined hazmat bin. Bin was then placed in Hazmat cage under the air vent.&lt;/li&gt;
+                &lt;li&gt;Description: It was reported that approximately 16 ounces of MasterSeal TC 299FS (UN1866) released from (1) 5-gallon metal pail due to the lid being pinched (unsure what caused it since it was protected by dunnage). The release impacted the trailer floor and dock floor. The SDS was reviewed with the caller and it was determined that terminal personnel were capable of cleaning the release with PPE available on site. (1) 10-gallon DM, Contains (1) metal pail, product, spent oil dri, shrinkwrap, and PPE was left onsite for the terminal to manage.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024040785</guid>
-      <pubDate>Mon, 22 Apr 2024 15:11:57 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040593</guid>
+      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
