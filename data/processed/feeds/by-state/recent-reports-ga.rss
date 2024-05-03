@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 May 2024 21:12:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 15:13:21 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024050071</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024050071&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-03T15:12:25+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-29&lt;/li&gt;
+                &lt;li&gt;City: POOLER&lt;/li&gt;
+                &lt;li&gt;State: GA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: found on van line leaking white granules&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050071</guid>
+      <pubDate>Fri, 03 May 2024 15:12:25 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024040649</title>
       <description>
@@ -283,98 +306,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040027</guid>
       <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024041005</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041005&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-18&lt;/li&gt;
-                &lt;li&gt;City: ATLANTA&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 4/17/2024 at approximately 2030, Dangerous Goods Administration received a call from Employee 768735 at the ramp facility in Atlanta, reporting a flammable liquid spill.  The shipment consisted of two plastic jerricans, packaged inside of a fiberboard box, then overpacked in a larger fiberboard box.  One of the jerricans appeared to spill due to a damaged closure.  Further inspection revealed that the shipment was not properly declared as a dangerous goods shipment.  The inner fiberboard was UN-rated and marked with hazard class 3 label, however, the outer packaging had no such marking or labeling, nor did the shipment have the proper documentation.  An online safety data sheet classified the commodity as a combustible liquid via highway transport; however, the flash point would classify it as a fully regulated flammable liquid air IATA.  The shipment is being held, pending further investigation by the FAA.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041005</guid>
-      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040544</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040544&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-17&lt;/li&gt;
-                &lt;li&gt;City: Cordele&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 3500&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Cap failure&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040544</guid>
-      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024041126</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041126&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
-                &lt;li&gt;City: DORAVILLE&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041126</guid>
-      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024040552</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024040552&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-26T15:12:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-19&lt;/li&gt;
-                &lt;li&gt;City: BUFORD&lt;/li&gt;
-                &lt;li&gt;State: GA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: GROENDYKE TRANSPORT INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: During a pump out from a previous cross drop about 20 gals of DEI overflowed the compartment due to the 2nd driver not stopping the flow in time.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024040552</guid>
-      <pubDate>Fri, 26 Apr 2024 15:12:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
