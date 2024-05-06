@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 May 2024 06:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:12:29 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024041557</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041557&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-06T15:11:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-27&lt;/li&gt;
+                &lt;li&gt;City: BELEN&lt;/li&gt;
+                &lt;li&gt;State: NM&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3525&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: TILX 102029 was identified as releasing the commodity from the top of the rail car during switching operations in the BNSF Railway Belen, NM Terminal on 3/27/2024.  Mechanical Hazmat Responder with a local hazmat contractor responded and identified the Syphon Pipe loose and requiring approximately    + turn to secure the release.  The total estimated amount released was approximately 3 gallons impacting the sides of the car, protective housing and minor impacts to the track/ties/ballast.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041557</guid>
+      <pubDate>Mon, 06 May 2024 15:11:32 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024041589</title>
       <description>
@@ -53,29 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041195</guid>
       <pubDate>Tue, 30 Apr 2024 18:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024041184</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041184&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-21&lt;/li&gt;
-                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Daniel Vallejos Operations Supervisor called to report a spill in trailer 84985 of a UN2880, CALCIUM HYPOCHLORITE,HYDRATED, 5.1, PG II,. Daniel stated when the crew open the roll up door to unload the trailer. Daniel stated two pallets had fell over and started to come out the bottom of the roll up door while opening. Daniel stated 1 pail of the product the top lid came off and spilled what looked to be tablets on the trailer floor. Daniel stated he had already recouped the pallets and put the product (tablets) back in the pail and secured the lid to the pail. Safety advised Daniel any time th ere is a Hazmat spill safety is to be notified immediately before any cleanup is to start. Daniel stated that he would call safety next time before cleaning any spill. Daniel stated the spill was cleaned and the pallets were recouped and already unloaded off the trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041184</guid>
-      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

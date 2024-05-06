@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 May 2024 06:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:12:29 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024050097</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024050097&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-06T15:11:32+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-26&lt;/li&gt;
+                &lt;li&gt;City: PULLMAN&lt;/li&gt;
+                &lt;li&gt;State: WA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: PACKAGE WAS SEEN WITH A SPOT OF LIQUID ON THE CORNER OF THE BOX- BROUGHT TO THE DMP- FOUND THAT IT WAS WD-40 WITH THE CAP NOT CLOSED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050097</guid>
+      <pubDate>Mon, 06 May 2024 15:11:32 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024041237</title>
       <description>
@@ -53,29 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041175</guid>
       <pubDate>Tue, 30 Apr 2024 18:16:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024041118</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024041118&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-04-29T15:12:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-11&lt;/li&gt;
-                &lt;li&gt;City: VANCOUVER&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SHIFTER OPENED THE TRAILER DOOR AND THE PACKAGE WAS ON THE FLOOR OF THE REAR OF THE TRUCK. IN HOUSE CLEANUP BY HAZMAT RESPONDER.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024041118</guid>
-      <pubDate>Mon, 29 Apr 2024 15:12:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
