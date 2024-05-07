@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 May 2024 12:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 15:14:22 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024050007</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024050007&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-07T15:13:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-20&lt;/li&gt;
+                &lt;li&gt;City: Seattle&lt;/li&gt;
+                &lt;li&gt;State: WA&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: WORLDWIDE FLIGHT SERVICES INC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: &amp;quot;11 packages were discovered in KSEA containing the following statement&amp;quot;Hazmat- Surface Transportation Only, Restricted E/ectronic Device.&amp;quot; These 11 packages(see image below) did not include any of the DG markings or labels we train associates to detect(per ROC), but WFS nonetheless spotted and sidelined them. Had the packages not been sidelined, they would have been loaded onto ATI flight ATN3313(KSEA-PANC). The packages were non-AFN cargo, tendered and packaged by the shipper, Pitney Bowes. The sidelined packages in KSEA were opened to determine the exact content/product. All 11 of them contained Section Il lithium batteries in equipment, such as an ear cleaner, headsets, desk lamp, diving lamp. Of the 11, three were not labeled correctly: they contained rriultiple battery powered products, exceeding the two battery cell allowance for labeling exception. As a result, we consider these three packages to be undeclared DG, despite that they were not ultimately flown. Additionally, five of the 11 packages were packaged incorrectly: they were in a poly bag, not the corrugate box required by IATA PI 967/970. In terms of DOT reporting, per § 171.16&amp;quot;&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024050007</guid>
+      <pubDate>Tue, 07 May 2024 15:13:26 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024050097</title>
       <description>
