@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 May 2024 12:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 15:13:15 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024050348</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024050348&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-20T15:12:17+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-05-16&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 12500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: XPO Logistics terminal USU experienced a UN1198 Formaldehyde Solution 37% 14% release from a 55-gallon poly drum. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately all 55-gallons of material released to the trailer and dock floor in a 1’ x 200’ area and a 10’ x 10’ area due to a forklift puncture. The damaged drum was placed into a 95-gallon poly overpack. Absorbents were then deployed to collect all free liquids. A pressure washer was utilized to further clean the impacted doc area and all wastewater was solidified with absorbents. The impacted absorbents and PPE used were then collected and containerized into (4) 55-gallon poly drums. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024050348</guid>
+      <pubDate>Mon, 20 May 2024 15:12:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024050684</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024050684&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-20T15:12:17+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-05-03&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: WEARING FULL PPE AND FOLLOWING DECISION TREE AND FLAMMABLE LIQUID RESPONSE SHEET, RESPONDER RESPONDED TO TRAILER, PLACED PACKAGE IN LINED SPILL TRAY AND RETURNED TO PROCESSING CENTER FOR FURTHER PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050684</guid>
+      <pubDate>Mon, 20 May 2024 15:12:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024050707</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024050707&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-20T15:12:17+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-05-03&lt;/li&gt;
+                &lt;li&gt;City: OGDEN&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050707</guid>
+      <pubDate>Mon, 20 May 2024 15:12:17 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024050646</title>
       <description>
@@ -30,29 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050646</guid>
       <pubDate>Fri, 17 May 2024 21:11:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024050160</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024050160&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-05-13T15:12:55+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-26&lt;/li&gt;
-                &lt;li&gt;City: SALT LAKE CTY&lt;/li&gt;
-                &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On April 26, 2024, four (4) damaged jugs of UN2014 were punctured by a forklift and released approximately one (1) gallon of product to the dock floor. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from EnviroServe (ES) to remediate the impacted site. Crews collected the damaged jugs for disposal. Crews then deployed granular absorbents and a neutralizing agent to the release and worked them in utilizing hand tools. All UN2014 impacted material was collected and containerized in one (1) 55-gallon drum for disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024050160</guid>
-      <pubDate>Mon, 13 May 2024 15:12:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
