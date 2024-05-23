@@ -7,6 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 May 2024 12:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 15:13:16 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024050061</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024050061&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-23T15:12:17+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-05-09&lt;/li&gt;
+                &lt;li&gt;City: Carolina&lt;/li&gt;
+                &lt;li&gt;State: PR&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 05/09/2024 shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL SJU service station, 30 Central Sector Rd Caribbean Airport Facility, Carolina, PR 00979. Transportation by road has been confirmed. Shipment also contains UN3481 Lithium ion batteries contained in equipment Class 9 Single Package or Inner Packaging(If any): Packaging Type: Receptacle Material of Construction: Metal Package Capacity: 16 g Amount in Package: 16 g Number in Shipment: 1,, Number Failed: 1&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024050061</guid>
+      <pubDate>Thu, 23 May 2024 15:12:17 +0000</pubDate>
+    </item>
   </channel>
 </rss>

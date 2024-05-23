@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 May 2024 12:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 15:13:16 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024050069</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024050069&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-23T15:12:17+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-04-26&lt;/li&gt;
+                &lt;li&gt;City: NEW ORLEANS&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: CSX TRANSPORTATION, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 208750&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On April 26th, 2024, at 05:57 hours, personnel in the CSX Gentilly Yard reported a derailment involving loaded tank cars of NA1993, Fuel Oil, Combustible Liquid, PGIII.  One of the five derailed tank cars, NATX 301139, was on its side and found to be leaking from the Vacuum Relief Valve.  All other derailed cars were found to be leak free.  SPSI, a CSX response contractor, and two CSX Managers of Hazardous Materials, responded the incident.  Response personnel partially plugged and fully contained the release upon arrival.  Once the car was rerailed to an upright the position, the release was stopped.  CSX subsequently transloaded, cleaned and purged this car in preparation for the car being dismantled onsite for scrap; repair costs exceeded the value of the car.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024050069</guid>
+      <pubDate>Thu, 23 May 2024 15:12:17 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024051158</title>
       <description>
@@ -214,52 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050580</guid>
       <pubDate>Fri, 17 May 2024 21:11:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024050293</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024050293&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-05-16T15:11:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-07&lt;/li&gt;
-                &lt;li&gt;City: Alexandria&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024050293</guid>
-      <pubDate>Thu, 16 May 2024 15:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024050027</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024050027&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-05-16T15:11:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-04-12&lt;/li&gt;
-                &lt;li&gt;City: Westlake&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: THE KANSAS CITY SOUTHERN RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 10000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: At 0140 on 4/12/24 it was reported that empty Ammonia Solution car GATX 71080 was making a venting/hissing noise while in the CPKC Mossville rail yard. CPKC Hazmat mobilized a railroad qualified response contractor to investigate and mitigate the release. Upon arrival, responders determined the tank car had 80psi of pressure within. Further inspection revealed that the Kelso re-closing pressure relief device(PRD), with a setting of 165psi, was the source of the leak and could not be repaired in the field. The pressure on the tank car was reduced by sparging the vapors through water to scrub the ammonia vapors until Opsi in GATX 71080 was met. Wet towels were placed around the PRD and a plastic bag was used around the towels to absorb any Ammonia vapors that might have been released. The car was subsequently purged and cleaned, and the shipper procured an OTMA-1 to move the car to home shop for repairs. File Note: Item 19-the quantity released was estimated based on the best information available at the time of filing. This shipment was offered as a&amp;#x27;bulk&amp;#x27; shipment, aka one car load, therefore the exact amount offered in this package is not known to the carrier. This carrier does not have access to mass balance data which can exactly quantify this value.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024050027</guid>
-      <pubDate>Thu, 16 May 2024 15:11:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
