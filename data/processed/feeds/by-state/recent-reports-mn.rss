@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 May 2024 12:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 15:17:25 +0000</lastBuildDate>
     <item>
       <title>Report E-2024050620</title>
       <description>
@@ -76,29 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050767</guid>
       <pubDate>Wed, 29 May 2024 15:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024050060</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024050060&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-05-23T15:12:17+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-10&lt;/li&gt;
-                &lt;li&gt;City: Minneapolis&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 05/10/2024 shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL STP service station, 1940 Cargo Road, Minneapolis, MN 55450 Transportation by road has been confirmed. &amp;#x27;&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024050060</guid>
-      <pubDate>Thu, 23 May 2024 15:12:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
