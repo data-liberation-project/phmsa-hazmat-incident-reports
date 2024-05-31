@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 May 2024 21:14:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 00:37:54 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024010029</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024010029&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-05-31T00:35:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-01-03&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: RI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: T FORCE FREIGHT&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 3000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: TOTE LEAKED FROM CAP IN TRANSIT i&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024010029</guid>
+      <pubDate>Fri, 31 May 2024 00:35:09 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024050801</title>
       <description>
@@ -30,29 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050801</guid>
       <pubDate>Wed, 29 May 2024 15:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024010026</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024010026&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-05-24T00:37:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2023-12-06&lt;/li&gt;
-                &lt;li&gt;City: Milan&lt;/li&gt;
-                &lt;li&gt;State: RI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: AMERICAN AIRLINES GROUP INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Shortly after pushback of American Airlines Flight 199 from the gate, passenger in seat 27L had a powerbank that began to overheat. The crew put the battery in the fire containment bag as a precaution and returned to the gate to remove the battery from the aircraft. The Captain dropped the powerbank out the Flight Deck window to the Ramp. No injuries or damages were reported by the crew. After the battery was removed the aircraft taxied out and departed MXP without further issue. Captain Sorenson wishes to extend thanks to MXP personnel for quick and efficient coordination in handling the Incident. 1&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024010026</guid>
-      <pubDate>Fri, 24 May 2024 00:37:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
