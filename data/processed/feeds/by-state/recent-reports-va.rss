@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jun 2024 12:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 18:16:10 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024060198</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060198&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-06-10T18:15:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-05-30&lt;/li&gt;
+                &lt;li&gt;City: WINCHESTER&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: 1. X-2024060198  attachment Name:ZEP.pdf   2. X-2024060259 attachment Name:processed-C4F63AAE-2DA8-4C69-AE5B-B6BD582B30B5[1].jpeg  3. X-2024060260 Package was discovered to be crushed and leaking on damage inspection area. A hazmat trained employee placed package in lined hazmat tote and moved to HWSA for inspection.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060198</guid>
+      <pubDate>Mon, 10 Jun 2024 18:15:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024051650</title>
       <description>
@@ -30,52 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024051650</guid>
       <pubDate>Fri, 07 Jun 2024 18:15:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024050957</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024050957&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-03T15:13:02+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-08&lt;/li&gt;
-                &lt;li&gt;City: ROANOKE&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER USED DT CORROSIVE HAZARD CLASS RESPONSE SHEET WASTE DISPOAL CHART AND DECONTAMINATION PROCEDURES&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050957</guid>
-      <pubDate>Mon, 03 Jun 2024 15:13:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024050956</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024050956&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-03T15:13:02+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-08&lt;/li&gt;
-                &lt;li&gt;City: RICHMOND&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: No comments provided.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024050956</guid>
-      <pubDate>Mon, 03 Jun 2024 15:13:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
