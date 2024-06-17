@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jun 2024 15:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 18:16:57 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024060876</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060876&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-06-17T18:16:00+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-06-08&lt;/li&gt;
+                &lt;li&gt;City: MINNEAPOLIS&lt;/li&gt;
+                &lt;li&gt;State: MN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: WHILE UNLOADING A TRAILER, AN UNLOADER ENCOUNTERED A WET PACKAGE WITH HAZ MAT MARKINGS THAT ALSO SMELLED OF ALCOHOL. A RESPONDER WAS CALLED AND THE PACKAGE WAS TRANSPORTED TO THE DMP FOR PROCESSING. UPON INSPECTION, THE BOX WAS FOUND TO CONTAIN 4 BOTTLES OF ISOPROPYL ALCOHOL. ONE OF THE BOTTLES HAD A LOOSE CAP. THE PACKAGE WAS PROCESSED PER PROPER DMP PROCEDURES.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060876</guid>
+      <pubDate>Mon, 17 Jun 2024 18:16:00 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024060744</title>
       <description>
@@ -191,52 +214,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060456</guid>
       <pubDate>Wed, 12 Jun 2024 15:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060106</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060106&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-10T18:15:13+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-28&lt;/li&gt;
-                &lt;li&gt;City: MINNEAPOLIS&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: No comments provided.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060106</guid>
-      <pubDate>Mon, 10 Jun 2024 18:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024060015</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024060015&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-10T18:15:13+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-28&lt;/li&gt;
-                &lt;li&gt;City: Farmington&lt;/li&gt;
-                &lt;li&gt;State: MN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 4650&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Other fell (puncture to the top of the tote)&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024060015</guid>
-      <pubDate>Mon, 10 Jun 2024 18:15:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
