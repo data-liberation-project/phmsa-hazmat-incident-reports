@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jun 2024 21:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 00:45:27 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024040078</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024040078&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-06-19T00:42:44+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-03-18&lt;/li&gt;
+                &lt;li&gt;City: MEMPHIS&lt;/li&gt;
+                &lt;li&gt;State: TN&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: TFORCE FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Pail was accidentally punctured with a forklift while being loaded.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024040078</guid>
+      <pubDate>Wed, 19 Jun 2024 00:42:44 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024060918</title>
       <description>
@@ -19856,52 +19879,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024051203</guid>
       <pubDate>Wed, 12 Jun 2024 15:12:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024060059</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024060059&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-12T00:36:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-03-15&lt;/li&gt;
-                &lt;li&gt;City: GREENWOOD&lt;/li&gt;
-                &lt;li&gt;State: IN&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Dayton Freight personnel observed approximately five (5) gallons of material released from one (1) 5-gallon metal pail. The released material impacted the concrete terminal floor. Dayton Freight personnel cleaned the impacted area and placed the clean up debris and the damaged metal pail into one 10-gallon metal drum. The generated waste was staged onsite at the terminal. The generated waste will remain onsite for Dayton Freight’s contracted hazardous waste vendor to coordinate disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024060059</guid>
-      <pubDate>Wed, 12 Jun 2024 00:36:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060175</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060175&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-12T00:36:30+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-02-10&lt;/li&gt;
-                &lt;li&gt;City: BOISE&lt;/li&gt;
-                &lt;li&gt;State: ID&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:Zep Degeaser SDS.pdf&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060175</guid>
-      <pubDate>Wed, 12 Jun 2024 00:36:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
