@@ -7,7 +7,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jun 2024 12:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 15:18:15 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024060031</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024060031&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-06-21T15:17:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-06-06&lt;/li&gt;
+                &lt;li&gt;City: West Deptford&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 06/06/2024 this shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL NJS Service Center, 1240 Forest Parkway, Suite 400, West Deptford, NJ 08066.   Transportation by road has been confirmed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024060031</guid>
+      <pubDate>Fri, 21 Jun 2024 15:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2024060009</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024060009&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-06-21T15:17:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-05-25&lt;/li&gt;
+                &lt;li&gt;City: Moonachie&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 05/25/2024 hidden dangerous goods were discovered during the shipment inspection process at the DHL TEB Service Center, 5 Garden Street, Moonachie, NJ 07074. Transportation by road has been confirmed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024060009</guid>
+      <pubDate>Fri, 21 Jun 2024 15:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2024060010</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024060010&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-06-21T15:17:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-05-25&lt;/li&gt;
+                &lt;li&gt;City: East Windsor&lt;/li&gt;
+                &lt;li&gt;State: NJ&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 05/25/2024 a shipment was discovered to contain hidden DG during inspection process at the DHL TTN service center, located at 80 Milford Road, East Windsor, NJ 08520 Transportation by road has been confirmed. Shipment also contains UN3481 Lithium ion batteries contained in equipment Class 9 Single Package or Inner Packaging(if any): Packaging Type: Case Material of Construction: Plastic Package Capacity: 56 g Amount in Package: 56 g&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024060010</guid>
+      <pubDate>Fri, 21 Jun 2024 15:17:18 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024060884</title>
       <description>
@@ -421,374 +490,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024060265</guid>
       <pubDate>Mon, 17 Jun 2024 18:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060709</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060709&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-06&lt;/li&gt;
-                &lt;li&gt;City: EDISON&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: SORTER NOTICED PACKAGE WAS LEAKING AND NOTIFIED SUPERVISOR.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060709</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060078</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060078&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-02&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:Hazmat- Damaged Haz Mat Package Disposition 04302024.pdf&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060078</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060077</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060077&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-02&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:ECOLAB SINK  SURFACE CLEANER SANITIZER (SMARTPOWER) (1).pdf&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060077</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060073</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060073&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-01&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Only 0.25 Liquid Gallon was spilled from one (1) of the four (4) contents. Damages were only done to the outer material. Contents were then placed in a lined salvage drum awaiting disposal information.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060073</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060071</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060071&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-01&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:ZEP INDUSTRIAL PURPLE DEGREASER.pdf&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060071</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060064</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060064&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-01&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:image2 (41).jpeg&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060064</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024060142</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024060142&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-01&lt;/li&gt;
-                &lt;li&gt;City: NEWARK&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Approximately 1 cup of PH UP MAX released from a 55-gallon plastic drum due to improper packing. The cap came loose and has dripped down the side and is pooling on top of the drum. No storm drains or waterways are reported to be impacted.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024060142</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060070</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060070&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-01&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:image3 (32).jpeg&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060070</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060354</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060354&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-31&lt;/li&gt;
-                &lt;li&gt;City: SECAUCUS&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER CALLED TO AREA WHERE PACKAGE WAS FOUND ON FLOOR ON ITS SIDE. AFTER REVIEWING DECISION TREE RESPONDER CONTAINERIZED PACKAGE AND TOOK IT TO DMP AREA FOR FURTHUR PROCESSING.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060354</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060353</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060353&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-31&lt;/li&gt;
-                &lt;li&gt;City: SECAUCUS&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: NO COMMENTS PROVIDED&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060353</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060016</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060016&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-31&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: UPON INSPECTION INNER CONTENTS OF THE PACKAGE WAS 1X 55 LBS KG PLASTIC PAIL OF Aqua-Org Plus - Calcium Hypochlorite Pool Shock. The was packed overpacked and the plastic pail cracked at the bottom which caused the graduals to spill out of the pail.  FACILITY PROCEDURES FOR DAMAGED HAZARDOUS MATERIAL FOLLOWED, CONTENTS CONTAINED AND AWAITING DISPOSITION.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060016</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060032</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060032&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-31&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:Fisher Scientific Disposition 04302024.pdf&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060032</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060012</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060012&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-31&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: THE PACKAGE OF ECOLAB TRUPOWER DISHMACHINE DETERGENT ARRIVED AT THE HAZMAT CAGE WITH OBVIOUS SIGNS OF LEAKAGE. ONE BOTTLE WAS FOUND TO BE 3/4 LEAKED THE REMAINING HAS NO VISIBLE DAMAGE THEY WERE PLACED IN A LINED SALVAGE DRUM TO BE RETURN TO SHIPPER UNLESS OTHERWISE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060012</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060052</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060052&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-31&lt;/li&gt;
-                &lt;li&gt;City: KEASBEY&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: THE PACKAGE OF TRI POW&amp;#x27;R HD ARRIVED AT THE HAZMAT CAGE, ONE BOTTLE WAS 1/4 LEAKED CAUSED FROM LOOSE CAP AND THIS MADE THE PKG DAMAGE. THE REMAINING CONTENTS WERE PLACED IN A LINED SALVAGE DRUM TO BE RETURN TO THE SHIPPER UNLESS OTHERWISE.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060052</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024060003</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024060003&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-28&lt;/li&gt;
-                &lt;li&gt;City: West Deptford&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 05/28/2024 this shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL NJS Service Center, 1240 Forest Parkway, Suite 400, West Deptford, NJ 08066.   Transportation by road has been confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024060003</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024060004</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024060004&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-28&lt;/li&gt;
-                &lt;li&gt;City: West Deptford&lt;/li&gt;
-                &lt;li&gt;State: NJ&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 05/28/2024 this shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL NJS Service Center, 1240 Forest Parkway, Suite 400, West Deptford, NJ 08066.   Transportation by road has been confirmed.   Shipment also contains   UN3481 Lithium ion batteries packed with equipment  Class 9 Single Package or Inner Packaging(if any): Packaging Type: Case Material of Construction: Plastic  Package Capacity: 56.1 g Amount in Package: 56.1 g Number in Shipment: 1 Number Failed: 1&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024060004</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jun 2024 12:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 15:18:15 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024060528</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060528&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-06-21T15:17:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-06-07&lt;/li&gt;
+                &lt;li&gt;City: EASTABOGA&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:Hazmat- Damaged Haz Mat Package Disposition 04302024.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060528</guid>
+      <pubDate>Fri, 21 Jun 2024 15:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024060409</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024060409&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-06-21T15:17:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-06-05&lt;/li&gt;
+                &lt;li&gt;City: THEODORE&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024060409</guid>
+      <pubDate>Fri, 21 Jun 2024 15:17:18 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024061060</title>
       <description>
@@ -168,29 +214,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024060167</guid>
       <pubDate>Mon, 17 Jun 2024 18:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060096</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060096&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-14T15:12:47+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-03&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: package was discovered while loading into a truck it was then investigated and it was found to not have all of the corners clamped down, when discovered that it was leaking it was then moved to an open space until the Manager was able to properly place it in a lined bin  and transported to the hazmat area to be processed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060096</guid>
-      <pubDate>Fri, 14 Jun 2024 15:12:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
