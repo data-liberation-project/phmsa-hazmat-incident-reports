@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Jun 2024 12:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 15:14:03 +0000</lastBuildDate>
     <item>
       <title>Report X-2024061202</title>
       <description>
@@ -260,29 +260,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060571</guid>
       <pubDate>Thu, 20 Jun 2024 15:13:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024060278</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024060278&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-06-18T15:12:21+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-03&lt;/li&gt;
-                &lt;li&gt;City: PHX&lt;/li&gt;
-                &lt;li&gt;State: AZ&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ALASKA AIRLINES, INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: X-2024060278, X-2024060279, X-2024060280: AWB 70185334 was tendered with undeclared DG. Shipment contained 4 boxes of shotgun ammunition, 1 package of lighters, and one Lithium Ion Battery Packed With Equipment (140Wh).    Items would have been transported on a passenger aircraft.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024060278</guid>
-      <pubDate>Tue, 18 Jun 2024 15:12:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
