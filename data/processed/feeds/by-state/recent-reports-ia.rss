@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jul 2024 12:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 18:17:18 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024070117</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070117&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-10T18:16:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-05&lt;/li&gt;
+                &lt;li&gt;City: SHELBY&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 4500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: XPO Logistics terminal XCF experienced a UN1824 Sodium Hydroxide 50% DIA release from a 55-gallon poly drum. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 2 cups of product released to a 1’ x 1’ area of the poly drum, wood pallet, and concrete dock due to loose bung caps. The drum and impacted areas were wiped down and neutralized. The caps were reseated and secured for shipment on. The impacted pads and PPE were placed into a 5-gallon poly pail. The waste was stored onsite for terminal personnel to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070117</guid>
+      <pubDate>Wed, 10 Jul 2024 18:16:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024070111</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070111&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-10T18:16:19+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-06-17&lt;/li&gt;
+                &lt;li&gt;City: Waterloo&lt;/li&gt;
+                &lt;li&gt;State: IA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DOHRN TRANSFER COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 8600&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Other fell&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070111</guid>
+      <pubDate>Wed, 10 Jul 2024 18:16:19 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024070098</title>
       <description>
@@ -122,29 +168,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070036</guid>
       <pubDate>Fri, 05 Jul 2024 18:14:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024070052</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024070052&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-03T15:13:24+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-30&lt;/li&gt;
-                &lt;li&gt;City: CEDAR RAPIDS&lt;/li&gt;
-                &lt;li&gt;State: IA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:MSDS UN1830 6-30-24.PDF&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024070052</guid>
-      <pubDate>Wed, 03 Jul 2024 15:13:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
