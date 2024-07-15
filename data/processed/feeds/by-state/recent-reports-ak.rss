@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jul 2024 09:19:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:16:52 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024070100</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070100&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-15T18:15:54+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-06-21&lt;/li&gt;
+                &lt;li&gt;City: ANCHORAGE&lt;/li&gt;
+                &lt;li&gt;State: AK&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: US ECOLOGY TRANSPORTATION SOLUTIONS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 50225&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: While offloading to an on-site storage tank, the hose that had been secured with a bungee cord came out of the tank discharging approximately 100 gallons of fuel oil onto the ground.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070100</guid>
+      <pubDate>Mon, 15 Jul 2024 18:15:54 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024070502</title>
       <description>
@@ -122,52 +145,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024070338</guid>
       <pubDate>Tue, 09 Jul 2024 15:13:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024070306</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024070306&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-08T18:15:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-02&lt;/li&gt;
-                &lt;li&gt;City: ANCHORAGE&lt;/li&gt;
-                &lt;li&gt;State: AK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: AT THE UPS FACILITY IN ANCHORAGE, ALASKA, ONE GROUND TO ALASKA PACKAGE WAS FOUND LEAKING AN UNKNOWN POWDERY GRANULAR SUBSTANCE. UPON INSPECTION OF THE CONTENTS DISCOVERED ONE ACDELCO NON-SPILLABLE BATTERY PACKED WITH ABSORBENT CAT LITER MATERIAL. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THE OUTER BOX IS UN SPECIFICATION PACKAGING. NON SPILLABLE BATTERY IS NOT INDICATED ON THE OUTER BOX.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024070306</guid>
-      <pubDate>Mon, 08 Jul 2024 18:15:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024070010</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024070010&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-08T18:15:44+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-21&lt;/li&gt;
-                &lt;li&gt;City: Anchorage&lt;/li&gt;
-                &lt;li&gt;State: AK&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 06/21/2024 hidden dangerous goods were discovered during the shipment inspection process at the DHL ANC Service Center, 6300 Boeing Ave, Anchorage, AK 99502 Transportation by road confirmed. Shipment also contains UN3481 Lithium ion batteries packed with equipment Class 9 Single Package or Inner Packaging(if any): Packaging Type: Case Material of Construction: Plastic Package Capacity: 388 g Amount in Package: 388 g Number in Shipment 1 Number Failed: 1&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024070010</guid>
-      <pubDate>Mon, 08 Jul 2024 18:15:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
