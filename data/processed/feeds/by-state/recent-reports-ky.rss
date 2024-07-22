@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jul 2024 15:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 18:16:44 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024070484</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070484&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-22T18:15:45+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-18&lt;/li&gt;
+                &lt;li&gt;City: WALTON&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Dayton Freight personnel observed approximately fifteen (15) gallons of material released from one (1) 55-gallon metal drum due to falling freight that punctured the drum resulting in the released material impacting the trailer floor. Dayton Freight cleaned the impacted area and containerized the recovered clean-up material into one (1) 55-gallon metal drum. The damaged drum was overpacked. The generated waste was staged at the terminal in a secure location. The generated waste will remain onsite for Dayton Freight’s contracted hazardous waste vendor to coordinate disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070484</guid>
+      <pubDate>Mon, 22 Jul 2024 18:15:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024071441</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024071441&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-22T18:15:45+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-17&lt;/li&gt;
+                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
+                &lt;li&gt;State: KY&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Package was brought to QA department for a tape up due to the bottom being belt burned and tape coming undone by someone other than a QA admin. Package was sat upside down on a metal cart and was later found to have leaked and damaged the top of the top of the package.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071441</guid>
+      <pubDate>Mon, 22 Jul 2024 18:15:45 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024070451</title>
       <description>
@@ -191,121 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024070015</guid>
       <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024070929</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024070929&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-15T18:15:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-11&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Package was found during an AM dock walk by a QA admin. Package was already in a red tote and had shown obvious signs of leakage. Unsure when damage or leakage had occurred or if other packages were affected.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024070929</guid>
-      <pubDate>Mon, 15 Jul 2024 18:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070272</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070272&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-15T18:15:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-05&lt;/li&gt;
-                &lt;li&gt;City: FORT THOMAS&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On July 5, 2024, eight (8) 5-gallon pails of UN1490 were dropped during loading and released approximately fifty (50) pounds of product to the pavement. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Thin Line Environmental (TLE) to remediate the impacted site. TLE utilized hand tools and a HEPA vacuum to recover the released product. All damaged pails and impacted debris were collected and containerized into three (3) 35-gallon vented poly drums and one (1) 55-gallon vented poly drum&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070272</guid>
-      <pubDate>Mon, 15 Jul 2024 18:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024070816</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024070816&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-15T18:15:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-29&lt;/li&gt;
-                &lt;li&gt;City: INDEPENDENCE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:thumbnail_IMG_6274.jpg&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024070816</guid>
-      <pubDate>Mon, 15 Jul 2024 18:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070258</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070258&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-15T18:15:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-22&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070258</guid>
-      <pubDate>Mon, 15 Jul 2024 18:15:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070260</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070260&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-15T18:15:54+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-22&lt;/li&gt;
-                &lt;li&gt;City: LOUISVILLE&lt;/li&gt;
-                &lt;li&gt;State: KY&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070260</guid>
-      <pubDate>Mon, 15 Jul 2024 18:15:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
