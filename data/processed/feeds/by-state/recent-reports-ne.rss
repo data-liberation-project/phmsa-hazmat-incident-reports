@@ -7,6 +7,52 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jul 2024 12:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 15:15:14 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024071467</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024071467&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-23T15:14:12+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-17&lt;/li&gt;
+                &lt;li&gt;City: OMAHA&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Upon opening truck for unloading there was a strong odor. Began to unload packages and noticed package on the bottom of a stack of packages was wet. There were no other packages that were wet only the one containing UN1090. Removed package from truck and placed in a HAZMAT drum. Inspected other packages and determined that the spill was isolated to the one package and no other packages were wet.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071467</guid>
+      <pubDate>Tue, 23 Jul 2024 15:14:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024071249</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024071249&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-23T15:14:12+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-15&lt;/li&gt;
+                &lt;li&gt;City: NORFOLK&lt;/li&gt;
+                &lt;li&gt;State: NE&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Package was discovered to have been wet during unload. It was loaded in a way that ignored the orientation arrows printed on the side of the package. I tested the pH and found it to be around 12. Upon inspection I found the cap was loose on one of the inner jugs causing it to leak. I secured the package in a lined HazMat tote and placed it in the HWSA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071249</guid>
+      <pubDate>Tue, 23 Jul 2024 15:14:12 +0000</pubDate>
+    </item>
   </channel>
 </rss>
