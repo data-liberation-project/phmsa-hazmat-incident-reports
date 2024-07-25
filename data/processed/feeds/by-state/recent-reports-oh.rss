@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jul 2024 09:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 15:14:20 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024070576</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070576&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-25T15:13:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-19&lt;/li&gt;
+                &lt;li&gt;City: PERRYSBURG&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DAYTON FREIGHT LINES, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Dayton Freight personnel observed approximately half a gallon (.5) due to a load shift that crushed one (1) 1-gallon metal pail. The released material impacted the trailer floor. Dayton Freight personnel clean the impacted area and containerized the cleanup debris into one (1) 5-gallon poly drum. The generated waste was staged onsite at the terminal in a secure location. The generated waste will remain onsite for Dayton Freight’s contracted hazardous waste vendor to coordinate disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070576</guid>
+      <pubDate>Thu, 25 Jul 2024 15:13:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024070575</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070575&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-25T15:13:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-11&lt;/li&gt;
+                &lt;li&gt;City: WEST JEFFERSON&lt;/li&gt;
+                &lt;li&gt;State: OH&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070575</guid>
+      <pubDate>Thu, 25 Jul 2024 15:13:18 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024070516</title>
       <description>
@@ -674,98 +720,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024060042</guid>
       <pubDate>Fri, 19 Jul 2024 18:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070337</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070337&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-18T15:13:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-16&lt;/li&gt;
-                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5500&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: XPO Logistics terminal BCO experienced a UN2924 Silquest A-1101 Silane release from a 330-gallon metal tote. ERTS dispatched contractors to conduct cleanup operations. Contractors arrived onsite and confirmed approximately 2 ounces of product released to the metal tote body only. The plug on the top of the tote was missing which caused the release. The hole was plugged and a slosh test was completed which determined there would be no further release. The tote was wiped down, confirmed neutral, and confirmed secured for shipment on. The impacted pads and PPE were placed into a 55-gallon poly drum. The waste was staged onsite for terminal personnel to manage.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070337</guid>
-      <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070320</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070320&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-18T15:13:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-09&lt;/li&gt;
-                &lt;li&gt;City: COLUMBIANA&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On July 9, 2024, three (3) 50-pound bags of UN3190 were torn and released approximately five (5) pounds of product to the trailer interior and loading dock floor. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from First Call Environmental (FCE) to remediate the impacted site. FCE personnel overpacked the damaged bags in one (1) 95-gallon drum. Crews utilized hand tools and absorbents to remediate teh site and collected all impacted material in one (1) 55-gallon drum.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070320</guid>
-      <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024071059</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024071059&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-18T15:13:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-06&lt;/li&gt;
-                &lt;li&gt;City: COLUMBUS&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER WORE REQUIRED PERSONAL PROTECTIVE EQUIPMENT (PPE), FOLLOWED THE DECISION TREE AND APPROPRIATE RESPONSE SHEET, CLEANED UP AND REMOVED THE SPILL SAFELY.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071059</guid>
-      <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024070004</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024070004&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-18T15:13:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-22&lt;/li&gt;
-                &lt;li&gt;City: GRAFTON&lt;/li&gt;
-                &lt;li&gt;State: OH&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FREEHOLD CARTAGE INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 2100&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Checking the transfer line, the associate noticed Van 53022 (FCI) was leaking onto the gravel. The associate notified the foreman and pulled the van onto the concrete roadway to get it off the gravel. We assessed the area and then we took the van to the CSF to be offloaded to find the leaking container. About halfway in the trailer we found the drum with a dime size hole in it and the contents had all leaked onto the trailer floor except for approx. 15 gal. We finished unloading the van and we processed the load. We cleaned the trailer floor with floor dry. We also cleaned the TL and the drive. The material that leaked onto the drive stained the concrete. The Transfer Line spill on the gravel was approx. 1 gal. it was contained in a 3 foot radius pot hole so we added floor dry to absorb the material.  We took a before and after sample to the lab with the cin. (519142) we used on the drum that leaked. All effected areas have been cleaned. We generated 1 (1/4 Full) Tote. Tote is labeled with a Haz. Label with the info. needed and placed in the on hold area.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024070004</guid>
-      <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jul 2024 09:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 15:14:20 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024071685</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024071685&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-25T15:13:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-06-23&lt;/li&gt;
+                &lt;li&gt;City: Harahan&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: ILLINOIS CENTRAL RAILROAD COMPANY&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 17700&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 06-23-2024 a CN Mechanical employee detected a strong foul odor emanating from tank car # GLNX 23299 containing UN 1993/Crude Sulfate Turpentine/Class 3/PG II while performing work on the repair track at the CN Mays Yard in Harahan, LA. The employee notified his supervisor who in turn made notification to the CN Dangerous Goods Team that initiated a response. The on-duty CN Dangerous Goods Officer dispatched an emergency response contractor to the location to investigate. The responding contractor noted a strong odor upon arrival to the rail car&amp;#x27;s location. There were no visible liquid leaks observed. The inspection of the top fittings revealed the manway cover gasket protruding from the manway cover. A 4-gas meter with a PID sensor detected 16 PPM of VOC&amp;#x27;s at the sealing surface of the manway cover. The shipper security seal was found to be intact upon arrival. The manway cover security seal was removed, and the cover opened for the purpose of inspecting the gasket. The inspection revealed the gasket to be torn preventing a proper seal allowing the product vapors to escape. The gasket was replaced followed by the re-securement of the swing bolts. The area was tested again with the gas meter which was non-detect for VOC&amp;#x27;s. A replacement security seal was applied to the manway cover. The liquid and air valves within the protective housing were also inspected for proper securement prior to deeming the rail car safe for continued transportation. The rail car was released back to the transportation department for continued transportation to destination.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071685</guid>
+      <pubDate>Thu, 25 Jul 2024 15:13:18 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024071350</title>
       <description>
@@ -53,75 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071314</guid>
       <pubDate>Mon, 22 Jul 2024 18:15:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070309</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070309&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-18T15:13:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-08&lt;/li&gt;
-                &lt;li&gt;City: Shreveport&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 4800&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070309</guid>
-      <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070332</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070332&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-18T15:13:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-25&lt;/li&gt;
-                &lt;li&gt;City: SHREVEPORT&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070332</guid>
-      <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070322</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070322&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-18T15:13:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-25&lt;/li&gt;
-                &lt;li&gt;City: SHREVEPORT&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070322</guid>
-      <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

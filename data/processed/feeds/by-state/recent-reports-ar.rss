@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jul 2024 09:14:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 15:14:20 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024070016</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024070016&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-25T15:13:18+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-05-28&lt;/li&gt;
+                &lt;li&gt;City: BENTONVILLE&lt;/li&gt;
+                &lt;li&gt;State: AR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: REPUBLIC AIRWAYS HOLDINGS INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Passenger purchased gas generator at a Lowes in New Jersey on 5/27/2024 in an effort to use for disaster relief in Northwest Arkansas. She was under the impression that the unit was new because it was packaged that way and she had no reason to believe otherwise. There were no fumes or noticeable stains on the box. She presented it to the American Airlines ticket counter in PHL for her AA 4602/4342 PHL-LGA-XNA flights operated by Republic Airways, Inc. TSA scanned the item in PHL before being loaded on the aircraft and no dangerous goods were present. Ground crew in PHL loaded it on the aircraft. The unit shipped to LGA and no noticeable spills or fumes were observed by LGA ground crew and the package continued to XNA. Once in XNA ground crew noticed approximately 1 qt leaked on the cargo floor and some luggage. Republic Ops, Maintenance and Dangerous Goods were contacted immediately. On call maintenance contractors for Republic Airways were called out and cleaned the aircraft quickly with several cleaning agents. The extent of gasoline spilled on the cargo floor was minimal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024070016</guid>
+      <pubDate>Thu, 25 Jul 2024 15:13:18 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024070482</title>
       <description>
@@ -30,29 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070482</guid>
       <pubDate>Mon, 22 Jul 2024 18:15:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024070376</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070376&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-18T15:13:38+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-06-26&lt;/li&gt;
-                &lt;li&gt;City: LITTLE ROCK&lt;/li&gt;
-                &lt;li&gt;State: AR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070376</guid>
-      <pubDate>Thu, 18 Jul 2024 15:13:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
