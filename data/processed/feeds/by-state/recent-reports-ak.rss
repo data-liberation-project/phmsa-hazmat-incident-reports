@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jul 2024 15:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 18:16:59 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024071975</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024071975&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-07-26T18:15:58+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-06-29&lt;/li&gt;
+                &lt;li&gt;City: ANCHORAGE&lt;/li&gt;
+                &lt;li&gt;State: AK&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: ONE AIR PACKAGE FROM THE USA TO HONG KONG WAS INSPECTED AT THE UPS ANCHORAGE, ALASKA FACILITY PRIOR TO EXPORT. UPON INSPECTION OF THE CONTENTS DISCOVERED 106 IPHONES CONTAINING LITHIUM ION BATTERIES. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. INVOICE DESCRIPTION IS IPHONE 7, 7 PLUS. THERMAL LABEL DESCRIPTION IS MOBILE PHONE. THIS PACKAGE WAS SHIPPED FROM ILLINOIS, USA USING UPS ACCOUNT NUMBER 78Y031, ZINGKAAI TELECOM LIMITED, RM B51, 12-F, MAI GAR IND BLDG, KWUN TONG, HONG KONG SAR CHINA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071975</guid>
+      <pubDate>Fri, 26 Jul 2024 18:15:58 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024071824</title>
       <description>
@@ -99,29 +122,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071535</guid>
       <pubDate>Thu, 25 Jul 2024 15:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024071031</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024071031&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-19T18:15:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-01&lt;/li&gt;
-                &lt;li&gt;City: ANCHORAGE&lt;/li&gt;
-                &lt;li&gt;State: AK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 7/1/2024 at approximately 1200, Dangerous Goods Administration received a call from Employee 261690 at the ramp faiility in Anchorage, reporting a dangeorus goods spill.  The shipment consisted one fiberboard box containig 4 plastic drums, individually packaged  inside of smaller fiberboard box.  One of the plastic drums leaked from the closure,  resulting in spillage.  This shipment was prepared under IATA Special Provision A197 and did not shipped as fully regulated DG. The shipper will be contacted for further disposition.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071031</guid>
-      <pubDate>Fri, 19 Jul 2024 18:15:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
