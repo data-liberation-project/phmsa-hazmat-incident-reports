@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Aug 2024 00:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 15:15:24 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024072333</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024072333&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-08-01T15:14:26+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-22&lt;/li&gt;
+                &lt;li&gt;City: LITTLE ROCK&lt;/li&gt;
+                &lt;li&gt;State: AR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER WAS CALLED FOR LEAKING HAZMAT PACKAGE ON BOXLINE# 2 SLIDE AT 19:47 MONDAY DURING THE TWILIGHT SORT. PACKAGE WAS WET ON BOTTOM OF CARDBOARD ON THE BOXLINE SLIDE. RESPONDER CLEANED UP AND PLACED LEAKING PACKAGE AND CONTENTS FOLLOWING DECISION TREE AND FLAMMABLE LIQUID RESPONSE SHEET WEARING PROPER PPE. DMN WAS TAKEN TO DMN PROCESSING AREA FOR FURTHER PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024072333</guid>
+      <pubDate>Thu, 01 Aug 2024 15:14:26 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024072198</title>
       <description>
@@ -53,29 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071917</guid>
       <pubDate>Fri, 26 Jul 2024 18:15:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024070016</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024070016&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-25T15:13:18+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-05-28&lt;/li&gt;
-                &lt;li&gt;City: BENTONVILLE&lt;/li&gt;
-                &lt;li&gt;State: AR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: REPUBLIC AIRWAYS HOLDINGS INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Passenger purchased gas generator at a Lowes in New Jersey on 5/27/2024 in an effort to use for disaster relief in Northwest Arkansas. She was under the impression that the unit was new because it was packaged that way and she had no reason to believe otherwise. There were no fumes or noticeable stains on the box. She presented it to the American Airlines ticket counter in PHL for her AA 4602/4342 PHL-LGA-XNA flights operated by Republic Airways, Inc. TSA scanned the item in PHL before being loaded on the aircraft and no dangerous goods were present. Ground crew in PHL loaded it on the aircraft. The unit shipped to LGA and no noticeable spills or fumes were observed by LGA ground crew and the package continued to XNA. Once in XNA ground crew noticed approximately 1 qt leaked on the cargo floor and some luggage. Republic Ops, Maintenance and Dangerous Goods were contacted immediately. On call maintenance contractors for Republic Airways were called out and cleaned the aircraft quickly with several cleaning agents. The extent of gasoline spilled on the cargo floor was minimal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024070016</guid>
-      <pubDate>Thu, 25 Jul 2024 15:13:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
