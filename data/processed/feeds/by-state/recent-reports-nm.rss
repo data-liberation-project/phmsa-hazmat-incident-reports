@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Aug 2024 00:41:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 18:17:08 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024070767</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024070767&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-08-02T18:16:11+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-07-19&lt;/li&gt;
+                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
+                &lt;li&gt;State: NM&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On July 19, 2024, two (2) 55-pound bags of UN1457 were torn in transit and released approximately two (2) cups of product to the trailer interior. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from Advanced Environmental Services (AES) to remediate the impacted site. AES personnel utilized absorbents and hand tools to remediate the site. All impacted materials were containerized in one (1) 55-gallon drum for disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070767</guid>
+      <pubDate>Fri, 02 Aug 2024 18:16:11 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024071627</title>
       <description>
@@ -53,29 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024070642</guid>
       <pubDate>Tue, 30 Jul 2024 12:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024071873</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024071873&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-07-26T18:15:58+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-07-20&lt;/li&gt;
-                &lt;li&gt;City: ALBUQUERQUE&lt;/li&gt;
-                &lt;li&gt;State: NM&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:1000004486.jpg&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024071873</guid>
-      <pubDate>Fri, 26 Jul 2024 18:15:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
