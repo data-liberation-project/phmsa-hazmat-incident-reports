@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Sep 2024 09:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 09:15:30 +0000</lastBuildDate>
     <item>
       <title>Report X-2024081927</title>
       <description>
@@ -168,52 +168,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024080441</guid>
       <pubDate>Wed, 28 Aug 2024 15:13:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024081608</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024081608&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-08-27T06:25:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-08-16&lt;/li&gt;
-                &lt;li&gt;City: DUPONT&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Package was brought to QA with visible leakage and a strong odor. Upon further inspection it is revealed that the drum had a loose lid/ seal failure leading to the spill, we believed it to be non hazardous at first. We had to reach out to the shipper to get the SDS which caused the initial delay in the DPR, however when provided the transport section did not have any information about it being hazardous, but we suspected it being hazardous because of the SDS chemical composition as well as the GHS classifications listed. We processed the DPR and ISF and asked for an updated SDS from the shipper and the delay from then to filling out an incident report was because the shipper sent us an SDS with the transport information today, however the SDS itself seems to have some conflicting items as it is classified as non hazardous but a UN#, class, as well as packing group were provided right below , it also has acute toxicity NFPA label and a skull and crossbones GHS label but no other information in the transport section about them. The proper shipping name I entered is what I found on the ERG however one was not provided on the SDS. I will include both SDS&amp;#x27;s for reference.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024081608</guid>
-      <pubDate>Tue, 27 Aug 2024 06:25:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024081524</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024081524&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-08-27T06:25:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-08-10&lt;/li&gt;
-                &lt;li&gt;City: SPOKANE&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: &lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024081524</guid>
-      <pubDate>Tue, 27 Aug 2024 06:25:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
