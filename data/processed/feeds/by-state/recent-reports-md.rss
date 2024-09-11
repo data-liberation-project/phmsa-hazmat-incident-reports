@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Sep 2024 06:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 09:15:25 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024090455</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024090455&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-09-11T09:14:27+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-09-01&lt;/li&gt;
+                &lt;li&gt;City: GAITHERSBURG&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:Hazmat- Damaged Haz Mat Package Disposition 04302024.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024090455</guid>
+      <pubDate>Wed, 11 Sep 2024 09:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2024090115</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024090115&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-09-11T09:14:27+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-08-29&lt;/li&gt;
+                &lt;li&gt;City: Hagerstown&lt;/li&gt;
+                &lt;li&gt;State: MD&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 4200&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Other fell&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024090115</guid>
+      <pubDate>Wed, 11 Sep 2024 09:14:27 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024090343</title>
       <description>
@@ -283,29 +329,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024090114</guid>
       <pubDate>Thu, 05 Sep 2024 09:13:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024082078</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024082078&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-09-04T09:14:19+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-08-17&lt;/li&gt;
-                &lt;li&gt;City: ELKRIDGE&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Clayton Kurth, 048 Service Center Manager, contacted Safety regarding a drum that has liquid on top of the lid. Clayton Kurth advised being unsure if the liquid on top of the metal drum is UN2790. Clayton Kurth also stated no marks or damages found on the drum. Safety advised contacting Cura for rem ediation, and asked if the spill was contained to clean on straight time. Clayton Kurth advised the spill is contained. Safety contacted Alex VerHagen with Cura for remediation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024082078</guid>
-      <pubDate>Wed, 04 Sep 2024 09:14:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
