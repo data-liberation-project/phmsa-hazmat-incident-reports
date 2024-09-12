@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Sep 2024 06:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 09:15:12 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024090137</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024090137&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-09-12T09:14:10+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-08-29&lt;/li&gt;
+                &lt;li&gt;City: HUNTSVILLE&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R &amp; L CARRIERS, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On August 29, 2024, one (1) 15-gallon drum of UN3267 was damaged by other freight and released approximately five (5) gallons of product to the trailer interior and pavement below. R+L Carriers retained Cura Emergency Services, LC who dispatched a crew from First Call Environmental (FCE) to remediate the impacted site. The crew overpacked the damaged drum into one (1) 95-gallon drum. FCE utilized absorbents and hand tools to remediate the impacted site. After all freight was neutralized, all impacted materials were containerized in one (1) 55-gallon drum for disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024090137</guid>
+      <pubDate>Thu, 12 Sep 2024 09:14:10 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024090300</title>
       <description>
@@ -30,52 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024090300</guid>
       <pubDate>Tue, 10 Sep 2024 09:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024090085</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024090085&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-09-05T09:13:49+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-08-23&lt;/li&gt;
-                &lt;li&gt;City: WHISTLER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: No comments provided.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024090085</guid>
-      <pubDate>Thu, 05 Sep 2024 09:13:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024090024</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024090024&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-09-05T09:13:49+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-08-03&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Approximately 7.5 gallons of Protionic acid UN3463 were released from 7.5-gallon Plastic jug due to other punctures. No Drains or soils were report impacted.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024090024</guid>
-      <pubDate>Thu, 05 Sep 2024 09:13:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
