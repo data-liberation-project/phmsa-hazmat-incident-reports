@@ -7,6 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Sep 2024 06:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 09:14:58 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024090647</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024090647&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-09-13T09:14:00+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-09-06&lt;/li&gt;
+                &lt;li&gt;City: AGUADILLA&lt;/li&gt;
+                &lt;li&gt;State: PR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 9/6/2024 at approximately 1115, Dangerous Goods Administration received a call from Employee 3962724 at the sort facility in Aguadilla, Puerto Rico, reporting undeclared dangerous goods.  The shipment consisted of several packages appearing to be processed through Amazon.   Spillage occurred among the packages, prompting FedEx to further investigate, resulting in the identification of the spilled package as nail polish remover, which was not prepared in accordance with IATA Regulations, missing the required markings, labeling, packaging and paperwork.  Dangerous Goods Administration obtained the safety data sheet of a similar product to verify indentification.   The other packages remain unopened and the contents unknown.   The spilled package was removed from the box and the remainder of the shipment is being held for package retreival.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024090647</guid>
+      <pubDate>Fri, 13 Sep 2024 09:14:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>
