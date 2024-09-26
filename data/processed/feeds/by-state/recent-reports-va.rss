@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Sep 2024 06:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 09:23:32 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024091566</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024091566&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-09-26T09:22:28+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-09-20&lt;/li&gt;
+                &lt;li&gt;City: Dulles&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On Sept 19th a package was found during the PM sort that was leaking.   The package contained twelve one quart cans of UN1263 Paint, 3, PGIII.  One of the cans had the lid come loose and the lock ring did not keep it sealed allowing the liquid to leak out of the can.  The package was placed into a steel salvage drum and is pending disposition.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024091566</guid>
+      <pubDate>Thu, 26 Sep 2024 09:22:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024091554</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024091554&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-09-26T09:22:28+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-09-10&lt;/li&gt;
+                &lt;li&gt;City: ASHLAND&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Package was wet and was taken to QA, Upon inspection one of the bottles in the shipment had a loose cap and leaked internally&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024091554</guid>
+      <pubDate>Thu, 26 Sep 2024 09:22:28 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024091456</title>
       <description>
@@ -99,29 +145,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024090396</guid>
       <pubDate>Sun, 22 Sep 2024 09:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024091058</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024091058&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-09-19T09:21:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-08-29&lt;/li&gt;
-                &lt;li&gt;City: MECHANICSVILLE&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: undeclared aerosols UN1950 x 12 metal cans packed in fibreboard outer package.  no release.  secured in salvage drum.  held onsite for FAA inspection.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024091058</guid>
-      <pubDate>Thu, 19 Sep 2024 09:21:33 +0000</pubDate>
     </item>
   </channel>
 </rss>

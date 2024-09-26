@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Sep 2024 06:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 09:23:32 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024091475</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024091475&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-09-26T09:22:28+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-09-11&lt;/li&gt;
+                &lt;li&gt;City: YAKIMA&lt;/li&gt;
+                &lt;li&gt;State: WA&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: During sort operations at the MSNR location a DG agent noticed haz warnings on the label of a five gallon plastic bucket. The bucket was taken to the spill office where the looked up the SDS and the product was classified as a UN2922. The bucket did not have any DG markings or paperwork needed for transportation. The bucket was placed into a steel salvage package and is being held for the FAA.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024091475</guid>
+      <pubDate>Thu, 26 Sep 2024 09:22:28 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024091460</title>
       <description>
@@ -145,52 +168,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024090418</guid>
       <pubDate>Sun, 22 Sep 2024 09:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024091111</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024091111&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-09-19T09:21:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-10&lt;/li&gt;
-                &lt;li&gt;City: TUKWILA&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: LEAKING PLASTIC DRUM WAS DISCOVERED BY AN AUDITOR WHO THEN NOTIFIED A RESPONDER. ALL PPE (GLOVES GOGGLES, BOOTS, APRON, SILVER LINING) WAS PUT ON AND DRUM WAS PUT INTO A YELLOW TUB/DMP BAG. DRUM WAS THEN TRANSFERRED TO THE DMP FOR FURTHER PROCESSING. ALL TUBS/PPE WERE THEN DECONTAMINATED AND DRUM WAS FURTHER PROCESSED INTO ETT.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024091111</guid>
-      <pubDate>Thu, 19 Sep 2024 09:21:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024091112</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024091112&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-09-19T09:21:33+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-10&lt;/li&gt;
-                &lt;li&gt;City: SEATTLE&lt;/li&gt;
-                &lt;li&gt;State: WA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: PRODUCT WAS PUT IN AT IRREG BELT WHEN IRREG SORTER NOTICED SMALL LEAK COMING FROM CAP&amp;#x27;S AIR VENT, RESPONDER CALLED, FOLLOWED PROCEDURE&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024091112</guid>
-      <pubDate>Thu, 19 Sep 2024 09:21:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
