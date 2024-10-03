@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2024 09:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 09:22:55 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024100007</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024100007&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-10-03T09:21:57+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-09-28&lt;/li&gt;
+                &lt;li&gt;City: LAS VEGAS&lt;/li&gt;
+                &lt;li&gt;State: NV&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:SDS - ZEP CONC IND PRPL DEGREASER 1GL_4CT.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024100007</guid>
+      <pubDate>Thu, 03 Oct 2024 09:21:57 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024091856</title>
       <description>
@@ -76,52 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024090041</guid>
       <pubDate>Fri, 27 Sep 2024 09:15:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024091486</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024091486&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-09-26T09:22:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-23&lt;/li&gt;
-                &lt;li&gt;City: LAS VEGAS&lt;/li&gt;
-                &lt;li&gt;State: NV&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: ABF FREIGHT SYSTEM, INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: The side of the 5-gallon pail was crushed inward and starting leaking during transit.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024091486</guid>
-      <pubDate>Thu, 26 Sep 2024 09:22:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024091493</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024091493&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-09-26T09:22:28+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-20&lt;/li&gt;
-                &lt;li&gt;City: SPARKS&lt;/li&gt;
-                &lt;li&gt;State: NV&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:620128 (1).pdf&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024091493</guid>
-      <pubDate>Thu, 26 Sep 2024 09:22:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
