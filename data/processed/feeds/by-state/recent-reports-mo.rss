@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Oct 2024 09:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 12:23:23 +0000</lastBuildDate>
     <item>
       <title>Report X-2024100944</title>
       <description>
@@ -99,29 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024100609</guid>
       <pubDate>Sat, 12 Oct 2024 21:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024100246</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024100246&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-10-10T09:22:34+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-14&lt;/li&gt;
-                &lt;li&gt;City: SAINT LOUIS&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: At 0316 ET, XPO notified ERTS of a cargo release at terminal XSL it was reported that approximately 1 gallon of Weld On #4 Clear was released from two 1-gallon metal pails due to improper loading by terminal XKC. The release impacted the concrete at dock door 29. The product has evaporated so no absorbents were needed. ERTS reviewed the SDS with the caller and they felt comfortable cleaning up the release with PPE available on-site.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024100246</guid>
-      <pubDate>Thu, 10 Oct 2024 09:22:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
