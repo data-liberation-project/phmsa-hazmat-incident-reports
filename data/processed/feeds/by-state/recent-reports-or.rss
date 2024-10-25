@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Oct 2024 06:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 09:23:25 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024101387</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024101387&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-10-25T09:22:20+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-10-21&lt;/li&gt;
+                &lt;li&gt;City: TROUTDALE&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:AQUA BALANCE MURIATIC ACID.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024101387</guid>
+      <pubDate>Fri, 25 Oct 2024 09:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024101520</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024101520&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-10-25T09:22:20+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-10-10&lt;/li&gt;
+                &lt;li&gt;City: PORTLAND&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: EXTERNAL PACKAGING FAILED, CONTENTS CAME LOOSE FROM CARTON. PACKAGE WAS NOT ADEQUATELY PREPAED FOR SHIPMENT OF HAZARDOUS MATERIALS, FLAMMABLE SOLID, INORGANIC, N.O.S. REWRAP; PACKAGE WAS LEAKED ON BY ANOTHER PACKAGE IN THE SORT; NO DAMAGE TO SPARKLERS&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024101520</guid>
+      <pubDate>Fri, 25 Oct 2024 09:22:20 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024101324</title>
       <description>
@@ -260,29 +306,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024100440</guid>
       <pubDate>Mon, 21 Oct 2024 12:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024100112</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100112&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-10-18T09:15:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-21&lt;/li&gt;
-                &lt;li&gt;City: ALBANY&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: TEAM LEGACY  INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Tank truck was being loaded with 45,000 lbs of formaldehyde distillate(13% concentration). Toward the end of loading, a high-level probe should have stopped the pump and prevented over-filling of the truck. The probe was tripped, but the automatic valve responded more slowly than optimal resulting in a spill of about 10 gallons(100-lbs) that flowed down the side of the truck on to the truck loading pad, and then toward the secondary&amp;#x27;containment ditch to the east of the pad. The truck and loading pad were washed down with water Into the containment ditch. From there, it drained into a sump and was conveyed by an in-place submersible pump to a recycle storage tank. Investigation found that the high-level probe triggered immediately on contact with the solution, but that the automatic valve closed slowly, and that the truck tank had a taller than usual dome-lid extension.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100112</guid>
-      <pubDate>Fri, 18 Oct 2024 09:15:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

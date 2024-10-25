@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Oct 2024 06:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 09:23:25 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024101502</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024101502&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-10-25T09:22:20+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-10-21&lt;/li&gt;
+                &lt;li&gt;City: SPRINGFIELD&lt;/li&gt;
+                &lt;li&gt;State: MO&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDED TO AN AIR PACKAGE THAT SOUNDED LIKE DRY ICE WAS ROLLING AROUND INSIDE THE BOX. UPON INSPECTION OF THE CONTENTS DISCOVERED APPROXIMATELY 1 KG OF DRY ICE COOLING FOOD. THERE ARE NO DANGEROUS GOODS MARKS OR LABELS ON THE OUTER BOX. THIS PACKAGE HAS NOT BEEN ACCEPTED FOR AIR OR TRANSPORTED IN THE AIR BY UNITED PARCEL SERVICE CO. THIS PACKAGE WAS SHIPPED USING UPS ACCOUNT NUMBER H48E35, TENDERGRASS, 158 PIONEER WAY NE, FLOYD VA 24091-1113.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024101502</guid>
+      <pubDate>Fri, 25 Oct 2024 09:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024101279</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024101279&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-10-25T09:22:20+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-10-16&lt;/li&gt;
+                &lt;li&gt;City: SAINT PETERS&lt;/li&gt;
+                &lt;li&gt;State: MO&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:Hazmat- Damaged Haz Mat Package Disposition 04302024.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024101279</guid>
+      <pubDate>Fri, 25 Oct 2024 09:22:20 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024101398</title>
       <description>
@@ -490,29 +536,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024101273</guid>
       <pubDate>Mon, 21 Oct 2024 12:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024100070</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100070&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-10-18T09:15:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-12&lt;/li&gt;
-                &lt;li&gt;City: KANSAS CITY&lt;/li&gt;
-                &lt;li&gt;State: MO&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: THE KANSAS CITY SOUTHERN RAILWAY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 10000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: At 17:03 on 9/12/2024, ISO tank CXTU 101946 was reported Ieaking at the Kansas City Southern(DBA CPKC) IFG intermodal ramp located in Kansas City, MO. CPKC Hazmat Department mobilized to the ramp, along with a response contractor, to mitigate the release. Upon arrival, responders found all security seals in place. A small stream of liquid was emanating from the bottom outlet valve secondary closure cap, which was found hand tight. The primary closure&amp;quot;butterfly&amp;quot; valve was found slightly open. Additionally, the Internal bottom outlet valve&amp;#x27;s security seal was applied in such a way as to prevent the valve from fully closing. The crew tightened the secondary closure cap on the bottom outlet valve and secured the primary closure&amp;quot;butterfly&amp;quot; valve to stop the release. Due to the nature of the product, responders elected to make shipper notification and request permission to remove the security seals in order to determine the extent of the product lost. On 9/13/2024, permission was received from the shipper to remove the security seals. The crew returned to IFG to complete investigation. Upon return, the manway was opened to inspect outage on CXTU101946. All manway bolts were found loose. The Iadlng outage was approximately 2 feet. Estimate for Iading release is 40 gallons. The secondary closure cap was removed and found with a defective gasket. Responders replaced the gasket. The cap was installed tool tight and security seal installed in the closed position. Also, the internal bottom outlet valve security seal that was holding the valve in the partially open position was removed and a new security seal was properly installed holding the valve In the closed position. No security seals were removed from the butterfly valve, but an additional security seal was properly installed to hold this valve in the closed position. Once secured, CXTU101946 was released back into transportation. Additional DOT Cause Code: What Failed: 121, How Failed: 308, Cause of Failure: 508. File Note: Item 19-the quantity released was estimated based on the best Information available at the time of filing. This shipment was offered as a&amp;#x27;bulk&amp;#x27; shipment, aka one car loads therefore the exact amount offered in this package is not known to the carrier. This carrier does not have access to mass balance data which can exactly quantify this value.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100070</guid>
-      <pubDate>Fri, 18 Oct 2024 09:15:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

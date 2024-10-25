@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Oct 2024 06:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 09:23:25 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024100607</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024100607&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-10-25T09:22:20+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-10-23&lt;/li&gt;
+                &lt;li&gt;City: MENOMONEE FALLS&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: VEOLIA ES TECHNICAL SOLUTIONS, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On October 23, 2024, an incident occurred at Veolia&amp;#x27;s ten-day in-transit facility located in Menomonee Falls, Wisconsin. During a routine unloading operation, a Veolia employee was using a forklift to remove a pallet from a trailer when the forklift&amp;#x27;s forks accidentally punctured a drum positioned behind the pallet being unloaded. As a result of this incident, less than one gallon of waste flammable liquid was released from the punctured drum. Immediate action was taken to address the situation by promptly overpacking the damaged drum to prevent further leakage. Hazmat-trained Veolia employees conducted a thorough remediation of the spilled material. The swift response and proper handling of the situation by trained personnel ensured that the environmental impact was minimized and safety protocols were followed.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024100607</guid>
+      <pubDate>Fri, 25 Oct 2024 09:22:20 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024100791</title>
       <description>
@@ -214,29 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024100454</guid>
       <pubDate>Mon, 21 Oct 2024 12:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2024100113</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100113&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-10-18T09:15:07+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-10&lt;/li&gt;
-                &lt;li&gt;City: Milwaukee&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: SOO LINE RAILROAD COMPANY(DBA CANADIAN PACIFIC KANSAS CITY RAILROAD)&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 10000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: File Note: Item 19-the quantity released was estimated based on the best information available at the time of filing. This shipment was offered as a&amp;#x27;bulk&amp;#x27; shipment, aka one car load, therefore the exact amount offered in this package is not known to the carrier. This carrier does not have access to mass balance data which can exactly quantify this value. On September 10, 2024, Daniel Perkins, FRA Hazmat Inspector, conducted an inspection at the CPKC Muskego Yard in Milwaukee, Wisconsin. During inspection of tank car TILX 318532, Mr. Perkins observed wetness inside the interior of the protective housing. The wetness evaporated instantly. Further examination revealed that that four of four liquid valve flange nuts were loose which allowed for vapor to release from the assembly. A CPKC Contractor responded to the incident and was able to tighten the fiange nuts, stopping the leak.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100113</guid>
-      <pubDate>Fri, 18 Oct 2024 09:15:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
