@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Oct 2024 06:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 09:24:56 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024100649</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024100649&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-10-29T09:23:52+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-10-03&lt;/li&gt;
+                &lt;li&gt;City: Portland&lt;/li&gt;
+                &lt;li&gt;State: OR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: SAIA MOTOR FREIGHT LINE, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Forklift strike&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024100649</guid>
+      <pubDate>Tue, 29 Oct 2024 09:23:52 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2024101568</title>
       <description>
@@ -214,52 +237,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024100517</guid>
       <pubDate>Wed, 23 Oct 2024 09:14:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024101173</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024101173&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-10-22T09:15:04+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-10-17&lt;/li&gt;
-                &lt;li&gt;City: SALEM&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:sds sherwood.pdf&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024101173</guid>
-      <pubDate>Tue, 22 Oct 2024 09:15:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024101125</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024101125&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-10-22T09:15:04+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-10-03&lt;/li&gt;
-                &lt;li&gt;City: KLAMATH FALLS&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 4000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: ODOT Hazmat Inspector C. Kuenzi found the CBTX 725571 with wetness on top of the BOV cap threads.  The car was isolated and BNSF contracted Graymar Env to respond and inspect the car.  The cap was found in a tool tight condition and valve was fully closed.  The cap was removed and styrene was found inside the cap and on the threads.  The responders cleaned and inspected the gasket and applied teflon tape on the nozzle threads and reinstalled the cap.  There was no release to the ground, all styrene residue remained on the car.  The shipper was notified to apply for an OTMA to allow the car to continue in transportation to be offloaded and inspected further for possible repairs to the BOV and cap.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024101125</guid>
-      <pubDate>Tue, 22 Oct 2024 09:15:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
