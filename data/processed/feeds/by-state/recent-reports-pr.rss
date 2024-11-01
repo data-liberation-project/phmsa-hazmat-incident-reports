@@ -7,6 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Nov 2024 00:58:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 09:16:06 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2024100147</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2024100147&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-11-01T09:15:08+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-10-14&lt;/li&gt;
+                &lt;li&gt;City: Carolina&lt;/li&gt;
+                &lt;li&gt;State: PR&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 10/14/2024 shipment was discovered during the shipment inspection process to contain hidden dangerous goods at the DHL SJU service station, 30 Central Sector Rd Caribbean Airport Facility, Carolina, PR 00979. Transportation by road has been confirmed. Shipment also contains UN1950 Aerosols, flammable UN1987 Alcohols, n.o.s.(Ethanol, Propan-2-ol) Class 2.1 Class 3 Single Package or Inner Packaging(if any): Single Package or Inner Packaging(if any): Packaging Type: Receptacle Packaging Type: Bottle Material ofConstruction: Metal Material of Construction: Plastic Package Capacity: 297 g Package Capacity: 30 mL Amount in Package: 297 g. Amount in Package: 30 mL Number in Shipment: 1 Number in Shipment 2 Number Failed: 1 Number Failed: 2&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2024100147</guid>
+      <pubDate>Fri, 01 Nov 2024 09:15:08 +0000</pubDate>
+    </item>
   </channel>
 </rss>
