@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Nov 2024 09:22:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 12:23:09 +0000</lastBuildDate>
     <item>
       <title>Report E-2024110005</title>
       <description>
@@ -76,29 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024100655</guid>
       <pubDate>Wed, 30 Oct 2024 09:14:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024101370</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024101370&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-10-29T09:23:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-09-30&lt;/li&gt;
-                &lt;li&gt;City: ENID&lt;/li&gt;
-                &lt;li&gt;State: OK&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF RAILWAY COMPANY&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 3000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: FRA inspector found product on top of the car on the manway nozzle. Contractor inspected the manway and found manway swing bolts loose and damaged manway gasket.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024101370</guid>
-      <pubDate>Tue, 29 Oct 2024 09:23:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
