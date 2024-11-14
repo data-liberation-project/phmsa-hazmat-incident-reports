@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Nov 2024 09:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 12:24:25 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024110444</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024110444&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-11-14T12:23:23+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-10-31&lt;/li&gt;
+                &lt;li&gt;City: SHREVEPORT&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: NO COMMENTS PROVIDED.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110444</guid>
+      <pubDate>Thu, 14 Nov 2024 12:23:23 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024110200</title>
       <description>
@@ -53,29 +76,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024110105</guid>
       <pubDate>Fri, 08 Nov 2024 12:22:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024110037</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024110037&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-11-07T12:22:36+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-11-03&lt;/li&gt;
-                &lt;li&gt;City: SHREVEPORT&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: RANGER LANDSTAR INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 8000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On November 3, 2024, at 0533 ET, Emergency Response and Training Solutions (ERTS) was contacted by Landstar personnel in Shreveport, Louisiana regarding the release of Phosphoric Acid Solution. Contractors were dispatched to the site to perform all onsite clean-up activities. Upon arrival, contractors confirmed the release of 30 gallons of Phosphoric Acid Solution (UN1805, 8, III) from (1) 60-gallon plastic drum onto the trailer floor and outside pavement. The release was reportedly due to a puncture from a pallet, impacting a 17’ x 8’ area in the trailer and 7’ x 100’ area on the pavement. No drains or waterways were impacted by the release. The release was neutralized then cleaned up with absorbents and the proper PPE. The damaged drum with the remaining product was placed into an overpack to move on with the client. Undamaged products were re-loaded and re-secured in the trailer. All waste generated from addressing this release was containerized in (7) 55-gallon DF, which were then staged onsite by the contractor for proper disposal.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024110037</guid>
-      <pubDate>Thu, 07 Nov 2024 12:22:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
