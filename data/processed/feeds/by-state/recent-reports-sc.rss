@@ -7,7 +7,53 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Nov 2024 09:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 12:40:50 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2024110392</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024110392&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-11-21T12:39:47+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-11-19&lt;/li&gt;
+                &lt;li&gt;City: PIEDMONT&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: One 55 gallon metal drum was leaking due to faulty packaging, released 1 pint in trailer.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024110392</guid>
+      <pubDate>Thu, 21 Nov 2024 12:39:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2024110681</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024110681&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-11-21T12:39:47+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-11-06&lt;/li&gt;
+                &lt;li&gt;City: MYRTLE BEACH&lt;/li&gt;
+                &lt;li&gt;State: SC&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: RESPONDER CALLED TO UNLOAD TO CONTAIN PACKAGE THEN TOOK TO DMP AREA FOR PROCESSING&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110681</guid>
+      <pubDate>Thu, 21 Nov 2024 12:39:47 +0000</pubDate>
+    </item>
     <item>
       <title>Report I-2024110025</title>
       <description>
@@ -122,29 +168,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110508</guid>
       <pubDate>Mon, 18 Nov 2024 12:24:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024110410</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024110410&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-11-14T12:23:23+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-11-01&lt;/li&gt;
-                &lt;li&gt;City: WEST COLUMBIA&lt;/li&gt;
-                &lt;li&gt;State: SC&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: During sort operations at the CAER location a dented drum was presented to the spill office as a possible undeclared shipment.  While investigating the shipment the spill agent found a SDS stating the product as UN1999 class3. There were no DG markings on the metal bucket are paperwork needed for transport. The shipment was placed into a steel salvage package and is being held at the location.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110410</guid>
-      <pubDate>Thu, 14 Nov 2024 12:23:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
