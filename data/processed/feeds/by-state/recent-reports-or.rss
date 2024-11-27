@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Nov 2024 12:25:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 15:15:39 +0000</lastBuildDate>
     <item>
       <title>Report E-2024110491</title>
       <description>
@@ -191,29 +191,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110671</guid>
       <pubDate>Thu, 21 Nov 2024 12:39:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024110649</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024110649&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-11-20T12:31:13+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-11-08&lt;/li&gt;
-                &lt;li&gt;City: PORTLAND&lt;/li&gt;
-                &lt;li&gt;State: OR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: BNSF Railway Company&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 11/7/24, BNSF Portland IMF notified LARS of destination container RNLU 100043 (billed hazardous), found to be actively leaking. Unit was d eramped and moved into the Safe Haven for containment. Upon inspection by US Ecology, it was confirmed to be a hazardous leak, observed approximately 5 gallons of Millwork Treatment (UN3082) leaked out the of a cracked IBC Tote. Leak was caused by a lack of securement and a heavier spool shifting on top of the tote creating a hole, causing the leak. US Ecology remediated everything on the concrete, including the wastewater in the Haz Pit.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110649</guid>
-      <pubDate>Wed, 20 Nov 2024 12:31:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
