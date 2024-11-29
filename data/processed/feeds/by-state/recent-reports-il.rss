@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 09:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 12:40:17 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2024111047</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024111047&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2024-11-29T12:39:13+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-11-25&lt;/li&gt;
+                &lt;li&gt;City: ROCKFORD&lt;/li&gt;
+                &lt;li&gt;State: IL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Federal Express Corporation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Package was found open with scorch marks on the inside.  Upon inspection, it appears that the 2 batteries on the inside connected and caused scorch marks on the inside of the box after some sort of reaction.  Package was not shipped with any hazmat markings or any limited quantity markings.  Upon inspection of the SDS, the batteries are required to be shipped under certain provisions and require certain markings and all of these were absent from the box.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024111047</guid>
+      <pubDate>Fri, 29 Nov 2024 12:39:13 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024110526</title>
       <description>
@@ -559,52 +582,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110871</guid>
       <pubDate>Mon, 25 Nov 2024 12:24:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024110722</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024110722&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-11-22T12:30:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-11-19&lt;/li&gt;
-                &lt;li&gt;City: CHAMPAIGN&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:Hazmat-Undeclared HazMat Package Disposition 04302024.pdf&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110722</guid>
-      <pubDate>Fri, 22 Nov 2024 12:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024110791</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024110791&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-11-22T12:30:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-11-08&lt;/li&gt;
-                &lt;li&gt;City: HODGKINS&lt;/li&gt;
-                &lt;li&gt;State: IL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: RESPONDER RESPONDED TO LEAKING HAZMAT UTILIZED DT   RS CONTAINERIZED MATERIAL BROUGHT BACK TO DMP CAGE FOR FUURTHER PROCESSING&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110791</guid>
-      <pubDate>Fri, 22 Nov 2024 12:30:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

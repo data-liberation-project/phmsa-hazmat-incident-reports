@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 09:16:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 12:40:17 +0000</lastBuildDate>
     <item>
       <title>Report X-2024111021</title>
       <description>
@@ -30,29 +30,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024111021</guid>
       <pubDate>Thu, 28 Nov 2024 06:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2024110756</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2024110756&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-11-22T12:30:52+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-11-08&lt;/li&gt;
-                &lt;li&gt;City: SHREWSBURY&lt;/li&gt;
-                &lt;li&gt;State: MA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: HAZARDOUS PACKAGE WAS FOUND IN THE UNLOAD. DAMAGE CONTAINED AND BROUGHT TO THE DMP USING THE DECISION TREE FOR FLAMMABLE LIQUIDS. CONTENTS OF PACKAGE WERE NOT DAMAGED. SHIPPER DOES NOT TAKE RETURNS IN SALVAGE DRUMS. PRODUCT PROCESSED USING THE DECISION TREE FOR FLAMMABLE LIQUIDS.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2024110756</guid>
-      <pubDate>Fri, 22 Nov 2024 12:30:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
