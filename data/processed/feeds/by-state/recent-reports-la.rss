@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jan 2025 21:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 01:01:42 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2025010032</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2025010032&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-01-07T00:58:33+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-12-19&lt;/li&gt;
+                &lt;li&gt;City: SHREVEPORT&lt;/li&gt;
+                &lt;li&gt;State: LA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Two 5 gallon metal pail was crushed during loading, released 2 gallons in trailer.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025010032</guid>
+      <pubDate>Tue, 07 Jan 2025 00:58:33 +0000</pubDate>
+    </item>
     <item>
       <title>Report E-2024120467</title>
       <description>
@@ -30,52 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024120467</guid>
       <pubDate>Wed, 01 Jan 2025 21:13:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024120313</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024120313&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-12-26T21:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-12-09&lt;/li&gt;
-                &lt;li&gt;City: NEW ORLEANS&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: One 55 gallon metal drum was punctured during loading, released 10 gallons in trailer.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024120313</guid>
-      <pubDate>Thu, 26 Dec 2024 21:13:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2024120370</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2024120370&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2024-12-26T21:13:06+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-11-20&lt;/li&gt;
-                &lt;li&gt;City: GARYVILLE&lt;/li&gt;
-                &lt;li&gt;State: LA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: KAG SPECIALTY PRODUCTS GROUP, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: The KAG Specialty Products Group, LLC driver failed to completely close a valve during the unloading process. This allowed approximately 15 gallons of zinc sulfate to be released. Customer personnel handled the clean-up.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2024120370</guid>
-      <pubDate>Thu, 26 Dec 2024 21:13:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
