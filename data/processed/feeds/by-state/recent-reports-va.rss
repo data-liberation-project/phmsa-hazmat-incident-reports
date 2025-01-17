@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jan 2025 12:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 06:19:43 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2025010608</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025010608&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-01-17T06:18:47+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-01-03&lt;/li&gt;
+                &lt;li&gt;City: RICHMOND&lt;/li&gt;
+                &lt;li&gt;State: VA&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: undeclared pallet with UN3091 lithium metal batteries contained in equipment discovered after shrinkwrap was torn.  Station was advised to hold for FAA inspection but failed to do so.   Shipper has retrieved shipment.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025010608</guid>
+      <pubDate>Fri, 17 Jan 2025 06:18:47 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2025010345</title>
       <description>
@@ -99,29 +122,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025010285</guid>
       <pubDate>Sun, 12 Jan 2025 03:40:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2025010142</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025010142&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2025-01-08T18:17:50+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-12-20&lt;/li&gt;
-                &lt;li&gt;City: RICHMOND&lt;/li&gt;
-                &lt;li&gt;State: VA&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE CO&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: 1. X-2025010142 CALLED TO INTERNATIONAL FOR LEAKING HAZMAT AND TOOK TO DMP FOR PROCESSING   2. X-2025010143 NO COMMENTS PROVIDED.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025010142</guid>
-      <pubDate>Wed, 08 Jan 2025 18:17:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
