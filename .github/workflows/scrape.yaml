@@ -28,9 +28,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Install VPN
-        run: |-
-          wget --quiet --content-disposition https://mullvad.net/media/app/MullvadVPN-2023.2_amd64.deb
-          sudo apt install -y ./MullvadVPN-2023.2_amd64.deb
+        run: wget --quiet --content-disposition https://github.com/mullvad/mullvadvpn-app/releases/download/2025.2/MullvadVPN-2025.2_amd64.deb && sudo apt install -y ./MullvadVPN-2025.2_amd64.deb
 
       - name: Connect to VPN
         run: |-
