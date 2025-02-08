@@ -7,29 +7,144 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Feb 2025 00:50:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 03:32:35 +0000</lastBuildDate>
     <item>
-      <title>Report E-2025010421</title>
+      <title>Report X-2025020087</title>
       <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2025010421&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2025-02-01T00:52:02+00:00&lt;/h4&gt;
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025020087&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-02-08T03:31:42+00:00&lt;/h4&gt;
             &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2025-01-21&lt;/li&gt;
-                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;Incident Date: 2025-02-03&lt;/li&gt;
+                &lt;li&gt;City: LOGAN&lt;/li&gt;
                 &lt;li&gt;State: UT&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
                 &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDEX FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
                 &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
                 &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
                 &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
                 &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: Associate did not block and/or brace freight properly for transport.  Freight was crushed causing release of product.&lt;/li&gt;
+                &lt;li&gt;Description: 1 Gallon bottle of hydrogen peroxide with no external packaging. No leak, cap does not have a seal, UNDECLARED. It was found at the end of our belt system.&lt;/li&gt;
             &lt;/ul&gt;
             </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025010421</guid>
-      <pubDate>Sat, 01 Feb 2025 00:52:02 +0000</pubDate>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025020087</guid>
+      <pubDate>Sat, 08 Feb 2025 03:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2025020156</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025020156&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-02-08T03:31:42+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-02-03&lt;/li&gt;
+                &lt;li&gt;City: VINEYARD&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: X-2025020156  attachment Name:SDS.pdf X-2025020157  attachment Name:Hazmat-Undeclared HazMat Package Disposition 04302024.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025020156</guid>
+      <pubDate>Sat, 08 Feb 2025 03:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2025020081</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025020081&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-02-08T03:31:42+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-01-31&lt;/li&gt;
+                &lt;li&gt;City: VINEYARD&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:purple sds.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025020081</guid>
+      <pubDate>Sat, 08 Feb 2025 03:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report X-2025020118</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025020118&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-02-08T03:31:42+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-01-28&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED PARCEL SERVICE&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: WEARING FULL PPE AND FOLLOWING DECISION TREE AND OXIDIZER AND CORROSIVE RESPONSE SHEETS, RESPONDED TO TRAILER, PLACED PACKAGE IN LINED SPILL TRAY AND RETURNED TO PROCESSING CENTER FOR FURTHER PROCESSING.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025020118</guid>
+      <pubDate>Sat, 08 Feb 2025 03:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2025020015</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2025020015&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-02-08T03:31:42+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-01-17&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: One 5 gallon metal pail was crushed during transit, released 0.5 cups in trailer.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025020015</guid>
+      <pubDate>Sat, 08 Feb 2025 03:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report E-2025020061</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2025020061&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-02-08T03:31:42+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-01-15&lt;/li&gt;
+                &lt;li&gt;City: SALT LAKE CITY&lt;/li&gt;
+                &lt;li&gt;State: UT&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS FREIGHT, INC.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 5000&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: Approximately 1 Gallon of Polycat 36 released due to improper loading. No Drains, Soils, or waterways were reported impacted.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025020061</guid>
+      <pubDate>Sat, 08 Feb 2025 03:31:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
