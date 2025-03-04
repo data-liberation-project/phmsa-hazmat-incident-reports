@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Mar 2025 21:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 15:16:04 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2025030025</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2025030025&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-03-04T15:15:09+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-02-14&lt;/li&gt;
+                &lt;li&gt;City: MILWAUKEE&lt;/li&gt;
+                &lt;li&gt;State: WI&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: R&amp;L CARRIERS SHARED SERVICES, L.L.C.&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: One 55 gallon metal drum was punctured during unloading, released 5 gallons on dock.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025030025</guid>
+      <pubDate>Tue, 04 Mar 2025 15:15:09 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2025021155</title>
       <description>
@@ -260,52 +283,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025020324</guid>
       <pubDate>Wed, 26 Feb 2025 06:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2025020028</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2025020028&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2025-02-23T00:59:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2025-02-12&lt;/li&gt;
-                &lt;li&gt;City: Oak Creek&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: DHL EXPRESS (USA), INC.&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: On 02/12/2025 hidden dangerous goods were discovered during the shipment inspection process at the DHL MKE Service Center, 305 East Mahn Court, Suite 400, Oak Creek, WI 53154 Transportation by road confirmed.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2025020028</guid>
-      <pubDate>Sun, 23 Feb 2025 00:59:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report E-2025020251</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report E-2025020251&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2025-02-23T00:59:57+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2025-01-20&lt;/li&gt;
-                &lt;li&gt;City: HUDSON&lt;/li&gt;
-                &lt;li&gt;State: WI&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: KAG Energy, LLC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 6540&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: The KAG Energy, LLC driver was attempting to drain the residual diesel fuel from the delivery hose after completing his delivery. Approximately 10 gallons of diesel fuel was released. Enivroserve responded to the scene and handled the remediation.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025020251</guid>
-      <pubDate>Sun, 23 Feb 2025 00:59:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
