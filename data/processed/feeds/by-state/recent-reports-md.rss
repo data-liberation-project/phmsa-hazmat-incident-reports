@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Mar 2025 21:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 03:32:38 +0000</lastBuildDate>
     <item>
       <title>Report X-2025030093</title>
       <description>
@@ -53,29 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025030090</guid>
       <pubDate>Wed, 05 Mar 2025 18:18:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report I-2025020067</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report I-2025020067&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2025-03-05T00:52:08+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2024-12-10&lt;/li&gt;
-                &lt;li&gt;City: BALTIMORE&lt;/li&gt;
-                &lt;li&gt;State: MD&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: QUALITY CARRIERS INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: During unloading operation facility personnel failed to verify all valves and closures on storage tank were closed and secured before unloading operation began. As unloading started, product was released from a closure which was not closed on the storage tank. Operations halted and closure sealed on storage tank. Unloading completed without additional ihcident. Facility personnel cleaned released material.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2025020067</guid>
-      <pubDate>Wed, 05 Mar 2025 00:52:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
