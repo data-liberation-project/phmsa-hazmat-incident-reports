@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 May 2025 15:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 03:43:18 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2025050107</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025050107&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-05-28T03:42:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-05-01&lt;/li&gt;
+                &lt;li&gt;City: MABELVALE&lt;/li&gt;
+                &lt;li&gt;State: AR&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: attachment Name:Hazmat- Damaged Haz Mat Package Disposition 04302024.pdf&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025050107</guid>
+      <pubDate>Wed, 28 May 2025 03:42:24 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2025041736</title>
       <description>
@@ -76,29 +99,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025040593</guid>
       <pubDate>Fri, 23 May 2025 00:57:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2025041283</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025041283&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2025-05-18T21:15:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2025-04-17&lt;/li&gt;
-                &lt;li&gt;City: PINE BLUFF&lt;/li&gt;
-                &lt;li&gt;State: AR&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Rail&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: UNION PACIFIC RAILROAD COMPANY INC&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 8000&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
-                &lt;li&gt;Description: Upon notification I was conferenced in with Mr. Ainsworth, who reported that the hump crew found the car leaking in the bowl.  Mechanical was contacted to assess and secure the door.  Mechanical found the door partially open with a slow steady stream coming from the door.  The door was secured, and the release stopped.  Code 3 was contacted and responded and found multiple small piles on the bowl track.  Track time was set up for 4/18/25 and two cubic yard bags was recovered by hand.  LSB Industries has agreed to accept the collected material.  The car is in HZ hold awaiting an OTMA-1 and then it will be shipped back to LSB in El Dorado.&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025041283</guid>
-      <pubDate>Sun, 18 May 2025 21:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

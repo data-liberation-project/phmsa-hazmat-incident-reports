@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 May 2025 15:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 03:43:18 +0000</lastBuildDate>
+    <item>
+      <title>Report E-2025040630</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report E-2025040630&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-05-28T03:42:24+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-04-09&lt;/li&gt;
+                &lt;li&gt;City: MONTGOMERY&lt;/li&gt;
+                &lt;li&gt;State: AL&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: XPO LOGISTICS, LLC&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 6500&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: At 20:40 PM ET, Alyssa Estes with NMO contacted the call center to report a spill that occurred on the dock in Montgomery, AL. The spill consists of approximately half a gallon of Sure Klean 600, which released from 1-1-gallon plastic jug due to a forklift puncture during dock operations. The spill has impacted the dock floor only.  The call center will dispatch a contractor to assist with cleanup as this is a corrosive release. Contractors arrived onsite and confirmed approximately (1) 5-gallon jug of UN3264 Sure Klean 600 product released to dock floor due to forklift puncture. The contractors used absorbents to dry up the spill and sprayed with soda ash solution to neutralize it. The impacted pallet was wrapped and was staged onsite for terminal personnel to manage.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:E-2025040630</guid>
+      <pubDate>Wed, 28 May 2025 03:42:24 +0000</pubDate>
+    </item>
     <item>
       <title>Report X-2025041882</title>
       <description>
@@ -30,29 +53,6 @@
             </description>
       <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025041882</guid>
       <pubDate>Sat, 24 May 2025 01:00:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Report X-2025041311</title>
-      <description>
-            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025041311&lt;/a&gt;&lt;/h3&gt;
-            &lt;h4&gt;Identified by scraper @ 2025-05-18T21:15:32+00:00&lt;/h4&gt;
-            &lt;ul&gt;
-                &lt;li&gt;Incident Date: 2025-04-21&lt;/li&gt;
-                &lt;li&gt;City: BESSEMER&lt;/li&gt;
-                &lt;li&gt;State: AL&lt;/li&gt;
-                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
-                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
-                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
-                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
-                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
-                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
-                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
-                &lt;li&gt;Description: attachment Name:20250421_133719.JPG&lt;/li&gt;
-            &lt;/ul&gt;
-            </description>
-      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025041311</guid>
-      <pubDate>Sun, 18 May 2025 21:15:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
