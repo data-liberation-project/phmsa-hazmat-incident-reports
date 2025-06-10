@@ -7,6 +7,29 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Jun 2025 21:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 03:47:47 +0000</lastBuildDate>
+    <item>
+      <title>Report X-2025051324</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report X-2025051324&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-06-10T03:46:53+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-05-07&lt;/li&gt;
+                &lt;li&gt;City: ANCHORAGE&lt;/li&gt;
+                &lt;li&gt;State: AK&lt;/li&gt;
+                &lt;li&gt;Report Type: Undeclared Shipment with no Release&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: FEDERAL EXPRESS CORPORATION&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: No&lt;/li&gt;
+                &lt;li&gt;Description: On 5/7/2025 at approximately 1145, Dangerous Goods Administration received a call from Employee 294822 at the ramp facility in Anchorage, reporting undeclared dangerous goods.  The shipment consisted of 6 fiberboard boxes, each containing several mobile phones.  Each box yielded an estimated gross weight of 56.5 kg, which leads to the presumption that the packages should have possibly been classified as fully regulated UN 3481 Section I.  None of the packages appear to be prepared in accordance with IATA Regulations as they do not display the required markings, labeling, packaging or paperwork.  The shipment will be set for disposal.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:X-2025051324</guid>
+      <pubDate>Tue, 10 Jun 2025 03:46:53 +0000</pubDate>
+    </item>
   </channel>
 </rss>
