@@ -7,6 +7,52 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jul 2025 01:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 01:00:10 +0000</lastBuildDate>
+    <item>
+      <title>Report I-2025060197</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2025060197&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-07-23T00:58:10+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2025-06-07&lt;/li&gt;
+                &lt;li&gt;City: LOS ANGELES&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Air&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: UNITED AIRLINES&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 0&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
+                &lt;li&gt;Description: Elf Vape pen ignited in passengers carry on bag under their seat. The crew immediately put the fire out with water and used a TCB.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2025060197</guid>
+      <pubDate>Wed, 23 Jul 2025 00:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Report I-2025060067</title>
+      <description>
+            &lt;h3&gt;&lt;a link="None"&gt;Report I-2025060067&lt;/a&gt;&lt;/h3&gt;
+            &lt;h4&gt;Identified by scraper @ 2025-07-23T00:58:10+00:00&lt;/h4&gt;
+            &lt;ul&gt;
+                &lt;li&gt;Incident Date: 2024-09-25&lt;/li&gt;
+                &lt;li&gt;City: Elk Grove&lt;/li&gt;
+                &lt;li&gt;State: CA&lt;/li&gt;
+                &lt;li&gt;Report Type: A hazardous material incident&lt;/li&gt;
+                &lt;li&gt;Mode Of Transportation: Highway&lt;/li&gt;
+                &lt;li&gt;Carrier/Reporter: Sacramento Area Sewer District (previously Sacramento County Regional Sanitation&lt;/li&gt;
+                &lt;li&gt;Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Hazmat Injuries: 0&lt;/li&gt;
+                &lt;li&gt;Non-Hazmat Fatalities: 0&lt;/li&gt;
+                &lt;li&gt;Total Amount Of Damages: 2900&lt;/li&gt;
+                &lt;li&gt;Serious Incident Ind: Yes&lt;/li&gt;
+                &lt;li&gt;Description: Thatcher arrived at the EchoWater Facility of the Sacremento Area Sewer District with the shipment of Sodium Bisulfite 40% and began offloading into the storage tank at approximately 07:30. The delivery was left unattended by the operator from EchoWater, during which time the tank overfilled and began spilling into secondary containment. Staff in the Process Control Center (PCC) observed unusual tank levels and called the operator who then returned to the offload station and discovered the spill. The operator manually shut down the offload pump, switched tanks, and then called the spill into the PCC at 08:23. The tank released for approximately 20 minutes before mitigation. Several factors were identified as contributing to the tank overfill system failing. Most critically, a programming error disabled the automatic shutdown feature of the offloading pumps from a high/high level alert while the pump was in local/manual operation mode. Another programming error resulted in the PCC receiving both the high and high/high level alarms as yellow when the high/high should elevate to red. Additionally, the priming water was left on and the cross connects between the tanks were closed, increasing the fill rate and leaving the solution nowhere to go but to spill into secondary containment. Once the release was stopped, the spilled material was returned to process as permitted by its waste characterization. Waste characterization for a spill from the tank itself is based on a 20% solution since product is received at 40% and diluted to 20% for use/storage at this location. There was no release from the packaging or offloading equipment, only from the overfilled tank.&lt;/li&gt;
+            &lt;/ul&gt;
+            </description>
+      <guid isPermaLink="false">data-liberation-project:phma-hazmat-incident-reports:I-2025060067</guid>
+      <pubDate>Wed, 23 Jul 2025 00:58:10 +0000</pubDate>
+    </item>
   </channel>
 </rss>
